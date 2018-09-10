@@ -1,4 +1,4 @@
 # [CS50 AP]({{ "/" | relative_url }})
 
-APA\\
+Parrott Academy\\
 2018–2019
