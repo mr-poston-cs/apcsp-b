@@ -8,10 +8,10 @@
 * [Status Page](https://cs50.statuspage.io/)
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
 
-***
+<!-- ***
 
 * [Period 1]({{ "/periods/1" | relative_url }})
-* [Period 5]({{ "/periods/5" | relative_url }})
+* [Period 5]({{ "/periods/5" | relative_url }})-->
 
 ***
 
