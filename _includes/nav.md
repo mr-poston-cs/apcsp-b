@@ -21,3 +21,7 @@
 
 * [Syllabus]({{ "/syllabus" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
+
+***
+
+* [CS50.me Join](https://cs50.me/courses/37e59687-be52-4521-82d7-dffe32d797cc/join)
