@@ -8,6 +8,6 @@ After you have visited this site once, please go to the link below to join the c
 
 ---
 
-* [CS50.me](https://cs50.me)
+[CS50.me](https://cs50.me)
 
-* [Join the class here](https://cs50.me/courses/37e59687-be52-4521-82d7-dffe32d797cc/join)
+[Join the class here](https://cs50.me/courses/37e59687-be52-4521-82d7-dffe32d797cc/join)
