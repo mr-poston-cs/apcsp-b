@@ -24,5 +24,4 @@
 
 ***
 
-* [CS50.me *click here first*](https://cs50.me)
-* [CS50.me Join the class](https://cs50.me/courses/37e59687-be52-4521-82d7-dffe32d797cc/join)
+* [CS50.me]({{ "/cs50me" | relative_url }})
