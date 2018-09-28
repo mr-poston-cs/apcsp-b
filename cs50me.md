@@ -14,4 +14,6 @@ After you have visited this site once, please go to the link below to join the c
 
 [CS50.me](https://cs50.me)
 
+<a href="https://cs50.me" target="_blank">CS50.me</a>
+
 [Join the class here](https://cs50.me/courses/37e59687-be52-4521-82d7-dffe32d797cc/join)
