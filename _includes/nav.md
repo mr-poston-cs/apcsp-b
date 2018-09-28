@@ -1,12 +1,12 @@
 ***
 
-* [CS50 IDE](https://cs50.io/)
-* [CS50 Reference](https://reference.cs50.net/)
+* <a href="https://cs50.io/" target="_blank">CS50 IDE</a>
+* <a href="https://reference.cs50.net/" target="_blank">CS50 Reference</a>
 
 ***
 
-* [Status Page](https://cs50.statuspage.io/)
-* [Style Guide](https://cs50.readthedocs.io/style/c/)
+* <a href="https://cs50.statuspage.io/" target="_blank">Status Page</a>
+* <a href="https://cs50.readthedocs.io/style/c/" target="_blank">Style Guide</a>
 
 <!-- ***
 
