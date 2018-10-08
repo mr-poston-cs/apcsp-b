@@ -23,3 +23,4 @@ In this section, we discuss some of the finer points of programming in C, the sy
 
 - ### Problem
   - <a href="http://docs.cs50.net/2018/ap/problems/hello/hello.html" target="_blank">Hello</a>
+  - <a href="https://lab.cs50.io/Candib80/cs50labs/c/hello/" target="_blank">Hello Lab</a>
