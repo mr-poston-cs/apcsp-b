@@ -27,3 +27,6 @@ In this section, you will learn about the primitive data types built-in to C, th
   - Why is C so inflexible with data types? (Hint: Consider its history relative to modern language)
   - Imagine we don't have data types. What's `10 + "10"`? Is it `"1010"` or `"20"` (strings) or `1010` or `20` (ints)?
   - In what situations would it be preferable to use a double versus a float, or a long long versus an int? (Or vice versa)
+
+- ### Lab
+  - <a href="https://lab.cs50.io/Candib80/cs50labs/c/helloagain/" target="_blank">Hello Again</a>
