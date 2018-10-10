@@ -24,4 +24,4 @@
 
 ***
 
-* [CS50.me]({{ "/cs50me" | relative_url }})
+* <a href="https://cs50.me/" target="_blank">CS50.me</a>
