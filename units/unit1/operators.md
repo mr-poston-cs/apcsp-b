@@ -25,5 +25,5 @@ In addition to having operators that perform basic mathematical operations like 
   - What are some problems where modulo might come in handy? What about integer division?
   - What are `x++`, `x--`, `+=`, and `*=` shorthand for?
 
-- ### Problem
-  - <a href="https://docs.cs50.net/2018/ap/problems/fahrenheit/fahrenheit.html" target="_blank">Fahrenheit</a>
+- ### Lab
+  - <a href="https://lab.cs50.io/Candib80/cs50labs/c/fahrenheit/" target="_blank">Fahrenheit</a> - Try to do as much on this as you can!  I put some hints in for you :blush:
