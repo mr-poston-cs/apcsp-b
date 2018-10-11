@@ -26,4 +26,4 @@ In addition to having operators that perform basic mathematical operations like 
   - What are `x++`, `x--`, `+=`, and `*=` shorthand for?
 
 - ### Lab
-  - <a href="https://lab.cs50.io/Candib80/cs50labs/c/fahrenheit/" target="_blank">Fahrenheit</a> - Try to do as much on this as you can!  I put some hints in for you :blush:
+  - <a href="https://lab.cs50.io/Candib80/cs50labs/c/fahrenheit/" target="_blank">Fahrenheit</a> - Try to do as much on this as you can!  I put some hints in for you :)
