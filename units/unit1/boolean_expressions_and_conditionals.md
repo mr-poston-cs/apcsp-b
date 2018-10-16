@@ -25,6 +25,9 @@ Conditional branching using Boolean expressions are how we as programmers make d
   - What is a good sample use case for if-else? How about switch? When would you want to use ?:?
   - What does translating simple conditionals to pseudocode look like?
   - Why is it important that we be able to make decisions in our code?
+  
+- ### Lab
+  - <a href="https://lab.cs50.io/Candib80/cs50labs/c/conditions/" target="_blank">Conditions</a>
 
 - ### Problem
   - <a href="https://docs.cs50.net/2018/ap/problems/hello/hello.html#getting-started" target="_blank">Set up your IDE with Hello</a>
