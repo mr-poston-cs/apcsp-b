@@ -27,4 +27,5 @@ Conditional branching using Boolean expressions are how we as programmers make d
   - Why is it important that we be able to make decisions in our code?
 
 - ### Problem
+  - <a href="https://docs.cs50.net/2018/ap/problems/hello/hello.html#getting-started" target="_blank">Set up your IDE with Hello</a>
   - <a href="https://docs.cs50.net/2018/ap/problems/cash/cash.html" target="_blank">Cash</a>
