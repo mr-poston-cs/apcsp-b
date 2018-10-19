@@ -24,9 +24,9 @@ Loops are how we as programmers do the same thing over and over. Instead of copy
   - Why is using loops in computer programs so impactful?
 
 - ### Problems
-  - <a href="url" target="_blank">Pennies</a>[](https://docs.cs50.net/2018/ap/problems/pennies/pennies.html)
-  - <a href="url" target="_blank">ISBN</a>[](https://docs.cs50.net/2018/ap/problems/isbn/isbn.html)
-  - <a href="url" target="_blank">Credit</a>[](https://docs.cs50.net/2018/ap/problems/credit/credit.html)
+  - <a href="https://docs.cs50.net/2018/ap/problems/pennies/pennies.html" target="_blank">Pennies</a>
+  - <a href="https://docs.cs50.net/2018/ap/problems/isbn/isbn.html" target="_blank">ISBN</a>
+  - <a href="https://docs.cs50.net/2018/ap/problems/credit/credit.html" target="_blank">Credit</a>
   - Mario
     - <a href="https://docs.cs50.net/2018/ap/problems/mario/less/mario.html" target="_blank">less</a>
     - <a href="https://docs.cs50.net/2018/ap/problems/mario/more/mario.html" target="_blank">more</a>
