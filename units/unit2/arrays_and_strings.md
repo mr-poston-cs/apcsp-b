@@ -6,15 +6,15 @@ Arrays are a fundamental data structure, and they are extremely useful. We use a
 Strings are a special case of arrays -- in C, a string is an array of characters (more modern programming languages have strings as their own data type related to but distinct from characters). Later in the course, we'll examine this special case a bit further, but for now, it suffices to group and discuss arrays and strings together. In this section, you will learn how to create and manipulate arrays.
 
 - ### Lecture 
-  - [Watch on Youtube](https://www.youtube.com/embed/IJNPHorTqQs?start=3597&end=5377)
-  - [Watch on the CS50 Video Player](https://video.cs50.net/2017/fall/lectures/2?t=59m57s)
-  - [Download Lecture](http://cdn.cs50.net/2017/fall/lectures/2/lecture2-720p.mp4?download)
-  - [Lecture Notes](https://docs.cs50.net/2017/fall/notes/2/lecture2.html#strings-arrays)
+  - <a href="https://www.youtube.com/embed/IJNPHorTqQs?start=3597&end=5377" target="_blank">Watch on Youtube</a>
+  - <a href="https://video.cs50.net/2017/fall/lectures/2?t=59m57s" target="_blank">Watch on the CS50 Video Player</a>
+  - <a href="http://cdn.cs50.net/2017/fall/lectures/2/lecture2-720p.mp4?download" target="_blank">Download Lecture</a>
+  - <a href="https://docs.cs50.net/2017/fall/notes/2/lecture2.html#strings-arrays" target="_blank">Lecture Notes</a>
 
 - ### Short
-  - [Arrays](https://www.youtube.com/embed/K1yC1xshF40)
-  - [Arrays (Rob)](https://www.youtube.com/embed/7mOJN1c1JEo)
-  - [Strings (Chris)](https://www.youtube.com/embed/z3j-gK1u6Kg)
+  - <a href="https://www.youtube.com/embed/K1yC1xshF40" target="_blank">Arrays</a>
+  - <a href="https://www.youtube.com/embed/7mOJN1c1JEo" target="_blank">Arrays (Rob)</a>
+  - <a href="https://www.youtube.com/embed/z3j-gK1u6Kg" target="_blank">Strings (Chris)</a>
 
 - ### Notes
   - [Arrays and Strings]({{"/assets/pdfs/unit2/arrays_and_strings.pdf" | relative_url }})
@@ -27,5 +27,5 @@ Strings are a special case of arrays -- in C, a string is an array of characters
 
 - ### Problem
   - Initials
-    - [less](http://docs.cs50.net/2018/ap/problems/initials/less/initials.html)
-    - [more](http://docs.cs50.net/2018/ap/problems/initials/more/initials.html)
+    - <a href="http://docs.cs50.net/2018/ap/problems/initials/less/initials.html" target="_blank">less</a>
+    - <a href="http://docs.cs50.net/2018/ap/problems/initials/more/initials.html" target="_blank">more</a>
