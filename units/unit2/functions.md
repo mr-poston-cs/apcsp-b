@@ -21,3 +21,6 @@ Functions are an amazing tool that we can use to organize, simplify, and reuse t
   - What are some of the conveniences of passing copies of variables as arguments to functions? Would it be better to pass the actual variable, or worse?
   - What are some problems with local and global variable scope, an implication of functions?
   - If functions were not something we were able to work with in our programs, how might that change your coding strategy? More importantly, how might it impact your debugging strategy?
+
+- ### Labs
+- <a href="https://lab.cs50.io/Candib80/cs50labs/c/functions/adder" target="_blank">adder</a>
