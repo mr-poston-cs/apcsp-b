@@ -24,3 +24,4 @@ Functions are an amazing tool that we can use to organize, simplify, and reuse t
 
 - ### Labs
   - <a href="https://lab.cs50.io/Candib80/cs50labs/c/adder" target="_blank">adder</a>
+  - <a href="https://lab.cs50.io/Candib80/cs50labs/c/mult" target="_blank">multiply</a>
