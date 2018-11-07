@@ -23,4 +23,4 @@ Functions are an amazing tool that we can use to organize, simplify, and reuse t
   - If functions were not something we were able to work with in our programs, how might that change your coding strategy? More importantly, how might it impact your debugging strategy?
 
 - ### Labs
-- <a href="https://lab.cs50.io/Candib80/cs50labs/c/functions/adder" target="_blank">adder</a>
+  - <a href="https://lab.cs50.io/Candib80/cs50labs/c/adder" target="_blank">adder</a>
