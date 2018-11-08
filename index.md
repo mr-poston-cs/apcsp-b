@@ -16,6 +16,8 @@ title: false
   
 ## We are currently working on:
 * [Unit 2]({{"/units/unit2" | relative_url }})
+  * Finishing up [Functions]({{"/units/unit2/functions" | relative_url }})
+  * Next will be [Arrays and Strings]({{"/units/unit2/arrays_and_strings" | relative_url }})
 
 
 <!--
