@@ -5,10 +5,10 @@ title: false
 # Hello, world!
 
 ## Announcements
-  <!--
+<!--
   - Home work that is due (all by 11:59 PM on the day listed):
   - Homework that is not submitted by 11:59 on the day listed will not be accepted
-  -->
+-->
   - Read over Initials (less/more) at the bottom of [Arrays and Strings]({{"/units/unit2/arrays_and_strings/#problem" | relative_url }})
 
 ## We are currently working on:
