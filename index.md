@@ -5,19 +5,13 @@ title: false
 # Hello, world!
 
 ## Announcements
-  - Home work that is due (all by 11:59 PM on the day listed):
-    - <a href="https://lab.cs50.io/Candib80/cs50labs/c/adder" target="_blank">adder</a> - due Thursday 11/8
-    - <a href="https://lab.cs50.io/Candib80/cs50labs/c/mult" target="_blank">multiply</a> - due Friday 11/9
-    - <a href="https://lab.cs50.io/Candib80/cs50labs/c/myFunction" target="_blank">myFunction</a> - due Sunday 11/11
-  - Homework that is not submitted by 11:59 on the day listed will not be accepted
-  - PSET Mario is due Thursday 11/8 by midnight
-  - **If you have not already turned in the PSET *<a href="https://docs.cs50.net/2018/ap/problems/ui/ui.html" target="_blank">Me, Myself, and UI</a>*, do so sooner rather than later. Points deducted every day until it is turned in!**
-  
-  
+  <!-- - Home work that is due (all by 11:59 PM on the day listed):
+  - Homework that is not submitted by 11:59 on the day listed will not be accepted -->
+  - Read over Initials (less/more) at the bottom of [Arrays and Strings]({{"/units/unit2/arrays_and_strings/#problem" | relative_url }})
+
 ## We are currently working on:
 * [Unit 2]({{"/units/unit2" | relative_url }})
-  * Finishing up [Functions]({{"/units/unit2/functions" | relative_url }})
-  * Next will be [Arrays and Strings]({{"/units/unit2/arrays_and_strings" | relative_url }})
+  * [Arrays and Strings]({{"/units/unit2/arrays_and_strings" | relative_url }})
 
 
 <!--
