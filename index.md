@@ -14,6 +14,7 @@ title: false
 ## We are currently working on:
 * [Unit 2]({{"/units/unit2" | relative_url }})
   * [Arrays and Strings]({{"/units/unit2/arrays_and_strings" | relative_url }})
+  * Up next: [Command-Line Interaction]({{"/units/unit2/command-line_interaction" | relative_url}})
 
 
 <!--
