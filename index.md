@@ -5,11 +5,11 @@ title: false
 # Hello, world!
 
 ## Announcements
-<!--
-  - Home work that is due (all by 11:59 PM on the day listed):
-  - Homework that is not submitted by 11:59 on the day listed will not be accepted
--->
-  - Read over [Initials (less/more)]({{"/units/unit2/arrays_and_strings/#problem" | relative_url }}) at the bottom of Arrays and Strings
+
+  - Home work that is due (by class next day):
+    - Tuesday night:  Array questions in Teams
+  - *Homework that is not submitted by 12:30 next day will be late and you will not get points for it.*
+  -  [Initials (less/more)]({{"/units/unit2/arrays_and_strings/#problem" | relative_url }}) due Friday at midnight
 
 ## We are currently working on:
 * [Unit 2]({{"/units/unit2" | relative_url }})
