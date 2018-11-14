@@ -7,7 +7,6 @@ title: false
 ## Announcements
 
   - Home work that is due (by class next day):
-    - Tuesday night:  Array questions in Teams
   - *Homework that is not submitted by 12:30 next day will be late and you will not get points for it.*
   -  [Initials (less/more)]({{"/units/unit2/arrays_and_strings/#problem" | relative_url }}) due Friday at midnight
 
