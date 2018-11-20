@@ -6,9 +6,10 @@ title: false
 
 ## Announcements
 
-  - Homework that is due (by class next day):
-    - Tuesday 11/20:
-      - Work on your [Mad Lib]({{"/psets/madlib" | relative_url }}) program - This will count as 1/2 a PSET and is due Tuesday by midnight. We should have enough time in class to finish it up, so you won't have to work on it much, if any, when you get home Tuesday.
+Homework that is due (by class next day):
+
+  - Tuesday 11/20:
+    - Work on your [Mad Lib]({{"/psets/madlib" | relative_url }}) program - This will count as 1/2 a PSET and is due Tuesday by midnight. We should have enough time in class to finish it up, so you won't have to work on it much, if any, when you get home Tuesday.
 
       *Homework that is not submitted by 12:30 next day will be late and you will not get points for it.*
 
