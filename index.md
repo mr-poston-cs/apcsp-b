@@ -7,16 +7,11 @@ title: false
 ## Announcements
 
   - Homework that is due (by class next day):
-    - Friday 11/16:
-      - [Initials (less/more)]({{"/units/unit2/arrays_and_strings/#problem" | relative_url }}) is due tonight at midnight!
-        - Include comments in your program so I know you know what you wrote
-
-      - Monday 11/19:
-        - Work on your [Mad Lib]({{"/psets/madlib" | relative_url }}) program - This will count as a PSET and is due Tuesday by midnight. We should have enough time in class to finish it up, so you won't have to work on it much, if any, when you get home Tuesday.
+    - Tuesday 11/20:
+      - Work on your [Mad Lib]({{"/psets/madlib" | relative_url }}) program - This will count as 1/2 a PSET and is due Tuesday by midnight. We should have enough time in class to finish it up, so you won't have to work on it much, if any, when you get home Tuesday.
 
       *Homework that is not submitted by 12:30 next day will be late and you will not get points for it.*
 
-  -  [Initials (less/more)]({{"/units/unit2/arrays_and_strings/#problem" | relative_url }}) due Friday at midnight
 
 ## We are currently working on:
 * [Unit 2]({{"/units/unit2" | relative_url }})
