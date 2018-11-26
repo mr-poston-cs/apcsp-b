@@ -1,6 +1,6 @@
 # Digital Portfolio
 
-- Go to <a href="https://digitalportfolio.collegeboard.org" target="_blank">digitalportfolio.collegeboard.org</a>, log in with your College Board account, and using the join code *REU1CR*, request access to Computer Science Principles 5th Period class
+- Go to <a href="https://digitalportfolio.collegeboard.org" target="_blank">digitalportfolio.collegeboard.org</a>, log in with your College Board account, and using the join code **REU1CR**, request access to Computer Science Principles 5th Period class
 - I will confirm your access to our class
 - Make sure that you indicate that you ARE taking the end-of-course exam and enter your AP numbers into the Digital Portfolio (April)
 - The College Board recommends that you use the Written Responses Templates that are inside the Create and Explore performance tasks pages to ensure accurate scoring and to respond to all the performance task requirements.
