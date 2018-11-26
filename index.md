@@ -16,19 +16,21 @@ Schedule:
   - Wednesday 11/28
     - I will be out with the college tour, so work on your Explore PT (either writing your answers or working on the artifact)
   - Thursday 11/29
-    -
+    - TBD
   - Friday 11/30
-    -
+    - TBD
 
 
       *Anything not completed in class becomes homework*
+
       *HW Assignments not submitted by 12:30 next day will be late and you will not get points*
 
 
 ## We are currently working on:
 * [Unit 2]({{"/units/unit2" | relative_url }})
-  * [Arrays and Strings]({{"/units/unit2/arrays_and_strings" | relative_url }})
-  * Up next: [Command-Line Interaction]({{"/units/unit2/command-line_interaction" | relative_url}})
+  * Reviewing [Arrays and Strings]({{"/units/unit2/arrays_and_strings" | relative_url }})
+  * Starting [Command-Line Interaction]({{"/units/unit2/command-line_interaction" | relative_url}})
+  * Getting Explore PT done from the [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }})
 
 
 <!--
