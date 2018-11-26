@@ -10,6 +10,6 @@
 ### Resources
 
 - [Student User Guide for AP CSP](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
-- [Assessment Overview and Performance Task Directions](http://assessment%20overview%20and%20performance%20task%20directions/)
+- [Assessment Overview and Performance Task Directions](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles)
 - [Explore PT Scoring Guidelines]({{"/assets/pdfs/digital_portfolio/explore-guidelines-2019.pdf" | relative_url }})
 - [Create PT Scoring Guidelines]({{"/assets/pdfs/digital_portfolio/create-guidelines-2019.pdf" | relative_url }})

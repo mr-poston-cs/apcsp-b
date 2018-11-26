@@ -21,9 +21,9 @@ Schedule:
     - TBD
 
 
-      *Anything not completed in class becomes homework*
+    *Anything not completed in class becomes homework*
 
-      *HW Assignments not submitted by 12:30 next day will be late and you will not get points*
+    *HW Assignments not submitted by 12:30 next day will be late and you will not get points*
 
 
 ## We are currently working on:
