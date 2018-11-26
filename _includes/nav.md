@@ -25,4 +25,4 @@
 
 ***
 
-* <a href="https://cs50.me/" target="_blank">CS50.me</a>
+* <a href="https://cs50.me/" target="_blank">CS50.me - check your submissions</a>
