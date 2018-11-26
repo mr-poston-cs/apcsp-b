@@ -7,6 +7,8 @@
 
 ### You may submit your PTs as final starting Dec. 3
 
+## Explore PT Due as FINAL in your portfolio on December 11!
+
 ### Resources
 
 - [Student User Guide for AP CSP](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
