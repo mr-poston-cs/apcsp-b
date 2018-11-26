@@ -31,7 +31,7 @@ Schedule:
   * Reviewing [Arrays and Strings]({{"/units/unit2/arrays_and_strings" | relative_url }})
   * Starting [Command-Line Interaction]({{"/units/unit2/command-line_interaction" | relative_url}})
   * Up next: [Exit Codes]({{"/units/unit2/exit_codes" | relative_url }})
-  * Getting Explore PT done from the [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }})
+* Getting Explore PT done from the [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }})
 
 
 <!--
