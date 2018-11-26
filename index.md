@@ -6,12 +6,23 @@ title: false
 
 ## Announcements
 
-Homework that is due (by class next day):
+Schedule:
 
-  - Tuesday 11/20:
-    - Work on your [Mad Lib]({{"/psets/madlib" | relative_url }}) program - This will count as 1/2 a PSET and is due Tuesday by midnight. We should have enough time in class to finish it up, so you won't have to work on it much, if any, when you get home Tuesday.
+  - Monday 11/26
+    - Make sure your Digital Portfolio is set up and review handout of Explore Task Grading Guidelines
+    - Read over Command-Line interaction handout
+  - Tuesday 11/27
+    - Review Arrays and start on Command-Line Interaction
+  - Wednesday 11/28
+    - I will be out with the college tour, so work on your Explore PT (either writing your answers or working on the artifact)
+  - Thursday 11/29
+    -
+  - Friday 11/30
+    -
 
-      *Homework that is not submitted by 12:30 next day will be late and you will not get points for it.*
+
+      *Anything not completed in class becomes homework*
+      *HW Assignments not submitted by 12:30 next day will be late and you will not get points*
 
 
 ## We are currently working on:

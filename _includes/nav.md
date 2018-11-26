@@ -16,6 +16,7 @@
 ***
 
 * [**Units**]({{ "/units" | relative_url }})
+* [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }})
 
 ***
 
