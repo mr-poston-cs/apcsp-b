@@ -23,7 +23,7 @@ Schedule:
 
     *Anything not completed in class becomes homework*
 
-    *HW Assignments not submitted by 12:30 next day will be late and you will not get points*
+    *HW Assignments not submitted by 12:30 next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late*
 
 
 ## We are currently working on:
