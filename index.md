@@ -14,11 +14,11 @@ Schedule:
   - Tuesday 11/27
     - Review Arrays and start on Command-Line Interaction
   - Wednesday 11/28
-    - I will be out with the college tour, so work on your Explore PT (either writing your answers or working on the artifact)
+    - I will be out with the college tour, so work on your Explore PT (either writing your answers or working on the artifact) - Make sure to go to Mrs. Basden's classroom
   - Thursday 11/29
-    - TBD
+    - Continue Command-Line Interaction and start on Exit Codes
   - Friday 11/30
-    - TBD
+    - Finish up Exit Codes
 
 
     *Anything not completed in class becomes homework*
@@ -28,9 +28,9 @@ Schedule:
 
 ## We are currently working on:
 * [Unit 2]({{"/units/unit2" | relative_url }})
-  * Reviewing [Arrays and Strings]({{"/units/unit2/arrays_and_strings" | relative_url }})
-  * Starting [Command-Line Interaction]({{"/units/unit2/command-line_interaction" | relative_url}})
-  * Up next: [Exit Codes]({{"/units/unit2/exit_codes" | relative_url }})
+  * [Command-Line Interaction]({{"/units/unit2/command-line_interaction" | relative_url}})
+  * Starting [Exit Codes]({{"/units/unit2/exit_codes" | relative_url }})
+  * Up next: [Libraries]({{"/units/unit2/libraries" | relative_url }})
 * Getting Explore PT done from the [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }}) - Remember this is your Midterm Exam grade, so do well!
 
 
