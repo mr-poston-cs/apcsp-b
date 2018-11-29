@@ -8,17 +8,14 @@ title: false
 
 Schedule:
 
-  - Monday 11/26
-    - Make sure your Digital Portfolio is set up and review handout of Explore Task Grading Guidelines
-    - Read over Command-Line interaction handout
-  - Tuesday 11/27
-    - Review Arrays and start on Command-Line Interaction
-  - Wednesday 11/28
-    - I will be out with the college tour, so work on your Explore PT (either writing your answers or working on the artifact) - Make sure to go to Mrs. Basden's classroom
   - Thursday 11/29
     - Continue Command-Line Interaction and start on Exit Codes
+    - If you have not already done so, get your Digital Portfolio set up
   - Friday 11/30
-    - Finish up Exit Codes
+    - Finish up Exit Codes and review Old Friends (see link below)
+  - Next Week:
+    - Start on PSET [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
+    - Start [Libraries]({{"/units/unit2/libraries" | relative_url }})
 
 
     *Anything not completed in class becomes homework*
