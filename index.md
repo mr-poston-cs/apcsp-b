@@ -12,7 +12,8 @@ Schedule:
     - Finish up Exit Codes and look over Old Friends (see link below)
   - Next Week:
     - Start on PSET [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
-    - Monday - Review for Quiz on Tuesday (all of Unit 2 through Exit Codes)
+    - Monday: Review for Quiz on Tuesday (all of Unit 2 through Exit Codes)
+    - Tuesday: I will be at a workshop, so Mrs. Lewis will be watching you guys and administering your quiz
     - Start [Libraries]({{"/units/unit2/libraries" | relative_url }})
 
 
