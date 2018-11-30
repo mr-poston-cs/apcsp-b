@@ -8,13 +8,11 @@ title: false
 
 Schedule:
 
-  - Thursday 11/29
-    - Continue Command-Line Interaction and start on Exit Codes
-    - If you have not already done so, get your Digital Portfolio set up
   - Friday 11/30
-    - Finish up Exit Codes and review Old Friends (see link below)
+    - Finish up Exit Codes and look over Old Friends (see link below)
   - Next Week:
     - Start on PSET [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
+    - Monday - Review for Quiz on Tuesday (all of Unit 2 through Exit Codes)
     - Start [Libraries]({{"/units/unit2/libraries" | relative_url }})
 
 
