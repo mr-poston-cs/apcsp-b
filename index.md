@@ -8,15 +8,13 @@ title: false
 
 Schedule:
 
-  - Friday 11/30
-    - Finish up Exit Codes and look over Old Friends (see link below)
-  - Next Week:
     - Start on PSET [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
     - Monday: Review for Quiz on Tuesday (all of Unit 2 through Exit Codes)
+      - Make sure to finish your Quiz review so I can add another HW grade!
+      - Start [Libraries]({{"/units/unit2/libraries" | relative_url }})
     - Tuesday: I will be at a workshop, so Mrs. Lewis will be watching you guys and administering your quiz
-    - Start [Libraries]({{"/units/unit2/libraries" | relative_url }})
-
-
+    - Wednesday: start on [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Review quiz
+    - Thursday: Continue with [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Old Friends is due by midnight
     *Anything not completed in class becomes homework*
 
     *HW Assignments not submitted by 12:30 next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late*
@@ -24,9 +22,8 @@ Schedule:
 
 ## We are currently working on:
 * [Unit 2]({{"/units/unit2" | relative_url }})
-  * [Command-Line Interaction]({{"/units/unit2/command-line_interaction" | relative_url}})
-  * Starting [Exit Codes]({{"/units/unit2/exit_codes" | relative_url }})
-  * Up next: [Libraries]({{"/units/unit2/libraries" | relative_url }})
+  * [Libraries]({{"/units/unit2/libraries" | relative_url }})
+  * Next: [Typecasting]({{"/units/unit2/typecasting" | relative_url }})
 * Getting Explore PT done from the [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }}) - Remember this is your Midterm Exam grade, so do well!
 
 
