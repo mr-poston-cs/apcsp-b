@@ -8,13 +8,13 @@ title: false
 
 Schedule:
 
-    - Due Thursday at midnight: [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
-    - Monday: Review for Quiz on Tuesday (all of Unit 2 through Exit Codes)
-      - Make sure to finish your Quiz review so I can add another HW grade!
-      - Start [Libraries]({{"/units/unit2/libraries" | relative_url }})
-    - Tuesday: I will be at a workshop, so Mrs. Lewis will be watching you guys and administering your quiz
-    - Wednesday: start on [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Review quiz
-    - Thursday: Continue with [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Old Friends is due by midnight
+  - Due Thursday at midnight: [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
+  - Monday: Review for Quiz on Tuesday (all of Unit 2 through Exit Codes)
+    - Make sure to finish your Quiz review so I can add another HW grade! (it's in OneNote under your name then Homework)
+    - Start [Libraries]({{"/units/unit2/libraries" | relative_url }})
+  - Tuesday: I will be at a workshop, so Mrs. Lewis will be watching you guys and administering your quiz
+  - Wednesday: start on [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Review quiz
+  - Thursday: Continue with [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Old Friends is due by midnight
 
     *Anything not completed in class becomes homework*
 
