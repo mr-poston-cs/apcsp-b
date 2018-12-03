@@ -6,7 +6,7 @@ title: false
 
 ## Announcements
 
-Schedule:
+### Schedule:
 
   - Due Thursday at midnight: [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
   - Monday: Review for Quiz on Tuesday (all of Unit 2 through Exit Codes)
