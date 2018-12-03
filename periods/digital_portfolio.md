@@ -17,3 +17,12 @@
 - [Create PT Scoring Guidelines]({{"/assets/pdfs/digital_portfolio/create-guidelines-2019.pdf" | relative_url }})
 - [Explore Sample Responses and Scoring](https://secure-media.collegeboard.org/ap/pdf/ap18-csp-explore.pdf) - Scroll past rubric to see scores and commentary
 - [Explore Sample Responses](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles) - Scroll down to the Sample Responses and Scoring Information section and make sure to look at the 2018: Sample ...
+
+Resources to make your artifact:
+
+- [Adobe Spark](https://spark.adobe.com/) to create a short video presentation
+- PowerPoint
+- [Audacity](https://www.audacityteam.org/) for making audio presentation
+- Google Docs, Slides, Drawings to create PDF or infographic
+- Screencasting - see me if you want to do this (it's fairly simple, but there are multiple ways to do it depending on what OS you have)
+-
