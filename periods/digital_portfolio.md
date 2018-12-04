@@ -25,4 +25,3 @@ Resources to make your artifact:
 - [Audacity](https://www.audacityteam.org/) for making audio presentation
 - Google Docs, Slides, Drawings to create PDF or infographic
 - Screencasting - see me if you want to do this (it's fairly simple, but there are multiple ways to do it depending on what OS you have)
--
