@@ -9,6 +9,7 @@ title: false
 ### Schedule:
 
   - Due Thursday at midnight: [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
+  - Monday: Make sure to finish your Quiz review so I can add another HW grade! (it’s in OneNote under your name then Homework)
   - Wednesday:
     - Finish [Libraries]({{"/units/unit2/libraries" | relative_url }})
     - Start on [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Review quiz
