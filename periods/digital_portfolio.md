@@ -1,6 +1,6 @@
 # Digital Portfolio
 
-## Explore PT Due as FINAL in your portfolio on December 11!
+### Explore PT Due as FINAL in your portfolio on December 11!
 
 You may submit your PTs as final now
 
