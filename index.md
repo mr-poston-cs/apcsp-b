@@ -4,8 +4,6 @@ title: false
 
 # Hello, world!
 
-## Announcements
-
 ### Schedule:
 
   - Due Thursday at midnight: [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
