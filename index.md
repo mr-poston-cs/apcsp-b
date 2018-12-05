@@ -19,9 +19,9 @@ title: false
       - **Bring Explore stuff with you tomorrow so I can see where you are**
   - Thursday: Continue with [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Old Friends is due by midnight
 
-    *Anything not completed in class becomes homework*
+  *Anything not completed in class becomes homework*
 
-    *HW Assignments not submitted by 12:30 next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late*
+  *HW Assignments not submitted by 12:30 next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late*
 
 
 ## We are currently working on:
