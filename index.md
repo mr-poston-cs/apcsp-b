@@ -13,7 +13,9 @@ title: false
   - Wednesday:
     - Finish [Libraries]({{"/units/unit2/libraries" | relative_url }})
     - Start on [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Review quiz
-    - **Homework: Libraries and Typecasting HW in OneNote**
+    - **Homework:
+      - Libraries and Typecasting HW in OneNote
+      - Indicate that you are taking the AP Exam in your Digital Portfolio**
   - Thursday: Continue with [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Old Friends is due by midnight
 
     *Anything not completed in class becomes homework*
@@ -25,7 +27,8 @@ title: false
 * [Unit 2]({{"/units/unit2" | relative_url }})
   * [Libraries]({{"/units/unit2/libraries" | relative_url }})
   * Next: [Typecasting]({{"/units/unit2/typecasting" | relative_url }})
-* Getting Explore PT done from the [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }}) - Remember this is your Midterm Exam grade, so do well!
+  * Finishing up the semester with [Bugs and Debugging]({{"/units/unit2/bugs_and_debugging" | relative_url }})
+* Explore PT in [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }}) - Remember this is your Midterm Exam grade, so do well!
 
 
 <!--
