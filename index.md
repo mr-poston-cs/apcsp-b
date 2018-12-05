@@ -15,7 +15,8 @@ title: false
     - Start on [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Review quiz
     - **Homework:
       - Libraries and Typecasting HW in OneNote
-      - Indicate that you are taking the AP Exam in your Digital Portfolio**
+      - Indicate that you are taking the AP Exam in your Digital Portfolio
+      - Bring Explore stuff with you tomorrow so I can see where you are**
   - Thursday: Continue with [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Old Friends is due by midnight
 
     *Anything not completed in class becomes homework*
