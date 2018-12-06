@@ -8,7 +8,7 @@ You may submit your PTs as final now
 - Make sure that you indicate that you ARE taking the end-of-course exam and enter your AP numbers into the Digital Portfolio (April)
 - The College Board recommends that you use the Written Responses Templates that are inside the Create and Explore performance tasks pages to ensure accurate scoring and to respond to all the performance task requirements.
 
-### Resources
+## Resources
 
 **CB Resources**
 
