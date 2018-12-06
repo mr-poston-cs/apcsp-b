@@ -10,6 +10,8 @@ You may submit your PTs as final now
 
 ### Resources
 
+**CB Resources**
+
 - [Student User Guide for AP CSP](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
 - [Assessment Overview and Performance Task Directions](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles)
 - [Explore PT Scoring Guidelines]({{"/assets/pdfs/digital_portfolio/explore-guidelines-2019.pdf" | relative_url }})
@@ -17,7 +19,10 @@ You may submit your PTs as final now
 - [Explore Sample Responses and Scoring](https://secure-media.collegeboard.org/ap/pdf/ap18-csp-explore.pdf) - Scroll past rubric to see scores and commentary
 - [Explore Sample Responses](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles) - Scroll down to the Sample Responses and Scoring Information section and make sure to look at the 2018: Sample ...
 
-Resources to make your artifact:
+**Research and Organization**
+ - [Rough Notes & Sources](https://docs.google.com/document/d/19n4gLaVmOgiqpCCezNZFtuR6LEhB9SNOg9pJWdXiE3k/edit?usp=sharing)
+
+**Resources to make your artifact:**
 
 - [Adobe Spark](https://spark.adobe.com/) to create a short video presentation
 - PowerPoint
