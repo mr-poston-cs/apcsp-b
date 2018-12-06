@@ -21,7 +21,7 @@ You may submit your PTs as final now
 
 **Research and Organization**
 
- - [Rough Notes & Sources](https://docs.google.com/document/d/19n4gLaVmOgiqpCCezNZFtuR6LEhB9SNOg9pJWdXiE3k/edit?usp=sharing)
+ - [Rough Notes & Sources Template](https://docs.google.com/document/d/19n4gLaVmOgiqpCCezNZFtuR6LEhB9SNOg9pJWdXiE3k/edit?usp=sharing)
 
 **Resources to make your artifact:**
 
