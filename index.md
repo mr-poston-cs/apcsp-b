@@ -4,6 +4,8 @@ title: false
 
 # Hello, world!
 
+**Explore PT in [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }}) - Due Dec 11th at midnight!!**
+
 ### Schedule:
 
   - Due Thursday at midnight: [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
@@ -27,7 +29,7 @@ title: false
   * [Libraries]({{"/units/unit2/libraries" | relative_url }})
   * Next: [Typecasting]({{"/units/unit2/typecasting" | relative_url }})
   * Finishing up the semester with [Bugs and Debugging]({{"/units/unit2/bugs_and_debugging" | relative_url }})
-* Explore PT in [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }}) - Remember this is your Midterm Exam grade, so do well!
+
 
 
 <!--
