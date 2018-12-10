@@ -10,6 +10,7 @@ title: false
 
 - Week of 12/10:
   - Explore PT due Tuesday at midnight
+  - If have missing grades, you need to see me to understand what you are missing - namely, **Old Friends**
 
 - Last week:
   - Due Thursday at midnight: [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
