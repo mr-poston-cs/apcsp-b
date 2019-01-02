@@ -9,7 +9,7 @@ title: false
 - Week of 1/2/18:
   - Wed: Review [Unit 2]({{"/units/unit2" | relative_url }}) info
   - Thurs: Start [Bugs and Debugging]({{"/units/unit2/bugs_and_debugging" | relative_url }})
-  - Starting [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due date TBD (but not this week!)
+  - Starting [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due date TBD (probably next week, but we will see)
 
   *Anything not completed in class becomes homework*
 
