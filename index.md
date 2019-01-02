@@ -4,24 +4,12 @@ title: false
 
 # Hello, world!
 
-**Explore PT in [Digital Portfolio]({{ "/periods/digital_portfolio" | relative_url }}) - Due Dec 11th at midnight!!**
-
 ### Schedule:
 
-- Week of 12/10:
-  - Explore PT due Tuesday at midnight
-  - If have missing grades, you need to see me to understand what you are missing - namely, **Old Friends**
-
-- Last week:
-  - Due Thursday at midnight: [Old Friends](https://docs.cs50.net/2018/ap/problems/friends/friends.html)
-  - Wednesday:
-    - Finish [Libraries]({{"/units/unit2/libraries" | relative_url }})
-    - Start on [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Review quiz
-    - **Homework:**
-      - **Libraries and Typecasting HW in OneNote**
-      - **Indicate that you are taking the AP Exam in your Digital Portfolio**
-      - **Bring Explore stuff with you tomorrow so I can see where you are**
-  - Thursday: Continue with [Typecasting]({{"/units/unit2/typecasting" | relative_url }}) & Old Friends is due by midnight  
+- Week of 1/2/18:
+  - Wed: Review [Unit 2]({{"/units/unit2" | relative_url }}) info
+  - Thurs: Start [Bugs and Debugging]({{"/units/unit2/bugs_and_debugging" | relative_url }})
+  - Starting [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due date TBD (but not this week!)
 
   *Anything not completed in class becomes homework*
 
@@ -30,7 +18,7 @@ title: false
 
 ## We are currently working on:
 * [Unit 2]({{"/units/unit2" | relative_url }})
-  * [Libraries]({{"/units/unit2/libraries" | relative_url }}) & [Typecasting]({{"/units/unit2/typecasting" | relative_url }})
+  * Reviewing everything we did at the end of last semester
   * Starting next semester with [Bugs and Debugging]({{"/units/unit2/bugs_and_debugging" | relative_url }})
 
 
