@@ -9,7 +9,11 @@ title: false
 - Week of 1/2/18:
   - Wed: Review [Unit 2]({{"/units/unit2" | relative_url }}) info
   - Thurs: Start [Bugs and Debugging]({{"/units/unit2/bugs_and_debugging" | relative_url }})
-  - Starting [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due date TBD (probably next week, but we will see)
+  - Starting [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due Jan 15th
+
+- Week of 1/7/18:
+  - [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due Jan 15th
+  - Monday: Start [Unit 3]({{ "/units/unit3" | relative_url }})
 
   *Anything not completed in class becomes homework*
 
@@ -17,9 +21,12 @@ title: false
 
 
 ## We are currently working on:
-* [Unit 2]({{"/units/unit2" | relative_url }})
-  * Reviewing everything we did at the end of last semester
-  * Starting next semester with [Bugs and Debugging]({{"/units/unit2/bugs_and_debugging" | relative_url }})
+*  Finishing [Unit 2]({{"/units/unit2" | relative_url }})
+  * [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) due Jan 15th
+
+## Upcoming:
+* Start [Unit 3]({{ "/units/unit3" | relative_url }}) on Monday
+  * [Linear Search]({{"/units/unit3/linear_search" | relative_url }})
 
 
 
