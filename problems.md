@@ -1,13 +1,11 @@
 # Labs and PSETs by Unit
 
 ## Unit 0
-
 - [Everyday Algorithms](https://docs.cs50.net/2018/ap/problems/algorithms/algorithms.html)
 - [Around the House](https://docs.cs50.net/2018/ap/problems/house/house.html)
 - [Tech Spotlight](http://docs.cs50.net/2018/ap/problems/tech/tech.html)
 
 ## Unit 1
-
 - ### Labs
   - [Conditions](https://lab.cs50.io/Candib80/cs50labs/c/conditions/)
   - [Hello Again](https://lab.cs50.io/Candib80/cs50labs/c/helloagain/)
@@ -40,3 +38,13 @@
   - [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html)
   - [Crack](https://docs.cs50.net/2018/ap/problems/crack/crack.html)
   - [Vigenére](https://docs.cs50.net/2018/ap/problems/vigenere/vigenere.html)
+
+## Unit 3
+- [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
+- Find
+  - [less](http://docs.cs50.net/2018/ap/problems/find/less/find.html)
+  - [more](http://docs.cs50.net/2018/ap/problems/find/more/find.html)
+- [Sort Race](https://docs.cs50.net/2018/ap/problems/race/race.html)
+- [Analyze This](https://docs.cs50.net/2018/ap/problems/analyze/analyze.html)
+- [Scramble (Part 1)](http://docs.cs50.net/2018/ap/problems/scramble/1/scramble1.html)
+- [Simulate!](http://docs.cs50.net/2018/ap/problems/simulate/simulate.html)
