@@ -6,14 +6,14 @@ title: false
 
 ### Schedule:
 
-- Week of 1/7/18:
-  - [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due Jan 15th
-  - Mon: Start [Unit 3]({{ "/units/unit3" | relative_url }})
-    - [Linear Search]({{"/units/unit3/linear_search" | relative_url }})
-    - [Bubble Sort]({{"/units/unit3/bubble_sort" | relative_url }})
-  - Tues: [Selection Sort]({{"/units/unit3/selection_sort" | relative_url }})
-  - Wed: [Insertion Sort]({{"/units/unit3/insertion_sort" | relative_url }})
-  - Thurs: [Binary Search]({{"/units/unit3/binary_search" | relative_url }}) & [Computational Complexity]({{"/units/unit3/computational_complexity" | relative_url }})
+- Week of 1/14/18:
+  - [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due TOMORROW at midnight
+  - Mon: Caesar
+  - Tue: [Unsolvable Problems]({{"/units/unit3/unsolvable_problems" | relative_url }})
+    - Take home quiz
+  - Wed: [Models and Simulations]({{"/units/unit3/models_and_simulations" | relative_url }})
+  - Thu: Units 2 & 3 Review
+  - Fri: Test on Units 2 & 3
 
   *Anything not completed in class becomes homework*
 
