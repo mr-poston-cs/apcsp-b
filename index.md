@@ -7,7 +7,7 @@ title: false
 ### Schedule:
 
 - Week of 1/14/18:
-  - [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due TOMORROW at midnight
+  - [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due Tuesday at midnight
   - Mon: Caesar
   - Tue: [Unsolvable Problems]({{"/units/unit3/unsolvable_problems" | relative_url }})
     - Take home quiz
