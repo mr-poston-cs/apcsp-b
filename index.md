@@ -9,9 +9,9 @@ title: false
 - Week of 1/21/18:
   - Mon: Reading Day
   - Tue: Finishing up Code.org lesson on Models and Simulations
-  - Wed: Test on Units 2 & 3
-  - Thu: Start [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
-  - Fri:
+  - Wed: Review for Test
+  - Thu: Test on Units 2 & 3
+  - Fri: Start [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
 
   *Anything not completed in class becomes homework*
 
