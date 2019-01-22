@@ -6,14 +6,12 @@ title: false
 
 ### Schedule:
 
-- Week of 1/14/18:
-  - [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) - Due Tuesday at midnight
-  - Mon: Caesar
-  - Tue: [Unsolvable Problems]({{"/units/unit3/unsolvable_problems" | relative_url }})
-    - Take home quiz
-  - Wed: [Models and Simulations]({{"/units/unit3/models_and_simulations" | relative_url }})
-  - Thu: Units 2 & 3 Review
-  - Fri: Test on Units 2 & 3
+- Week of 1/21/18:
+  - Mon: Reading Day
+  - Tue: Finishing up Code.org lesson on Models and Simulations
+  - Wed: Test on Units 2 & 3
+  - Thu: Start [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
+  - Fri:
 
   *Anything not completed in class becomes homework*
 
@@ -21,8 +19,9 @@ title: false
 
 
 ## We are currently working on:
-* [Caesar](http://docs.cs50.net/2018/ap/problems/caesar/caesar.html) due Jan 15th
+* [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
 * [Unit 3]({{ "/units/unit3" | relative_url }})
+* Starting [Unit 4]({{ "/units/unit4" | relative_url }})
 
 
 <!--
