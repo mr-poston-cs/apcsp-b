@@ -20,7 +20,6 @@ title: false
 
 ## We are currently working on:
 * [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
-* [Unit 3]({{ "/units/unit3" | relative_url }})
 * Starting [Unit 4]({{ "/units/unit4" | relative_url }})
 
 
