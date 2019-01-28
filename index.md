@@ -6,12 +6,14 @@ title: false
 
 ### Schedule:
 
-- Week of 1/21/18:
-  - Mon: Reading Day
-  - Tue: Finishing up Code.org lesson on Models and Simulations
-  - Wed: Review for Test
-  - Thu: Test on Units 2 & 3
-  - Fri: Start [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
+- Week of 1/28/18:
+  - Mon: Start on the `init` function of [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
+  - Tue:
+    * [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
+    * `init` function is due for homework grade by tomorrow in class
+  - Wed:
+  - Thu:
+  - Fri:
 
   *Anything not completed in class becomes homework*
 
