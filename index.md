@@ -12,6 +12,8 @@ title: false
     * [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
     * `init` function is due for homework grade by tomorrow in class
   - Wed:
+    * Continue with [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
+    * Start on `draw` function
   - Thu:
   - Fri:
 

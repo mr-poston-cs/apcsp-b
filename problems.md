@@ -48,3 +48,14 @@
 - [Analyze This](https://docs.cs50.net/2018/ap/problems/analyze/analyze.html)
 - [Scramble (Part 1)](http://docs.cs50.net/2018/ap/problems/scramble/1/scramble1.html)
 - [Simulate!](http://docs.cs50.net/2018/ap/problems/simulate/simulate.html)
+
+## Unit 4
+- [Sudoku](http://docs.cs50.net/2018/ap/problems/sudoku/sudoku.html)
+- [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html)
+- [Music](https://docs.cs50.net/2018/ap/problems/music/music.html)
+- [Whodunit](http://docs.cs50.net/2018/ap/problems/whodunit/whodunit.html)
+- [Recover](http://docs.cs50.net/2018/ap/problems/recover/recover.html)
+- Resize
+  - [less](http://docs.cs50.net/2018/ap/problems/resize/less/resize.html)
+  - [more](http://docs.cs50.net/2018/ap/problems/resize/more/resize.html)
+  
