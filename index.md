@@ -7,14 +7,10 @@ title: false
 ### Schedule:
 
 - Week of 1/28/18:
-  - Mon: Start on the `init` function of [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
-  - Tue:
-    * [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
-    * `init` function is due for homework grade by tomorrow in class
-  - Wed:
-    * Continue with [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
-    * Start on `draw` function
-  - Thu:
+  - Mon: Start on the `move` function of [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
+  - Tue: [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
+  - Wed: Continue with [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
+  - Thu: [ncurses]({{"/units/unit4/ncurses" | relative_url }})
   - Fri:
 
   *Anything not completed in class becomes homework*
