@@ -11,7 +11,7 @@ title: false
   - Tue: [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
   - Wed: Continue with [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
   - Thu: [ncurses]({{"/units/unit4/ncurses" | relative_url }})
-  - Fri:
+  - Fri: Start on the `won` function of [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html) - This will be due mid next week & all of Fifteen will be due a day or so later to give you time to look over and make any corrections after running `check50`
 
   *Anything not completed in class becomes homework*
 
