@@ -7,11 +7,11 @@ title: false
 ### Schedule:
 
 - Week of 1/28/18:
-  - Mon: Start on the `move` function of [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
-  - Tue: [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
-  - Wed: Continue with [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
-  - Thu: [ncurses]({{"/units/unit4/ncurses" | relative_url }})
-  - Fri: Start on the `won` function of [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html) - This will be due mid next week & all of Fifteen will be due a day or so later to give you time to look over and make any corrections after running `check50`
+  - Mon: Review `won` function and go over [ncurses]({{"/units/unit4/ncurses" | relative_url }})
+  - Tue: Review `won` in more detail and go over [Structures and Encapsulation]({{"/units/unit4/structures_and_encapsulation" | relative_url }})
+  - Wed: Last minute questions on `won` and practice with structures
+  - Thu: Start on [Recursion]({{"/units/unit4/recursion" | relative_url }})
+  - Fri: [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html) due on Monday so make sure to run `check50` and make any corrections needed before submitting as final
 
   *Anything not completed in class becomes homework*
 
@@ -19,8 +19,9 @@ title: false
 
 
 ## We are currently working on:
-* [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html)
+* [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html) Due Monday, 2-18 by 11:59 pm
 * Starting [Unit 4]({{ "/units/unit4" | relative_url }})
+* Next programming problem TBD, but will come from [Unit 4 Problems]({{"/problems/#unit-4" | relative_url}})
 
 
 <!--
