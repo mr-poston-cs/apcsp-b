@@ -11,8 +11,10 @@ title: false
   - **Tue:** Review `won` in more detail and go over [Structures and Encapsulation]({{"/units/unit4/structures_and_encapsulation" | relative_url }})
   - **Wed:** Last minute questions on `won` and practice with structures
       - `won` due tomorrow at start of class
-  - **Thu:** Start on [Recursion]({{"/units/unit4/recursion" | relative_url }})
-  - **Fri:** [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html) due on Monday so make sure to run `check50` and make any corrections needed before submitting as final
+  - **Thu:** Continue with structures practice; with all three being due for homework Friday
+  - **Fri:**
+      - Start on [Recursion]({{"/units/unit4/recursion" | relative_url }})
+      - [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html) due on Monday so make sure to run `check50` and make any corrections needed before submitting as final
 
   *Anything not completed in class becomes homework*
 
