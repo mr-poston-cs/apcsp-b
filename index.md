@@ -6,15 +6,12 @@ title: false
 
 ### Schedule:
 
-- Week of 1/28/18:
-  - **Mon:** Review `won` function and go over [ncurses]({{"/units/unit4/ncurses" | relative_url }})
-  - **Tue:** Review `won` in more detail and go over [Structures and Encapsulation]({{"/units/unit4/structures_and_encapsulation" | relative_url }})
-  - **Wed:** Last minute questions on `won` and practice with structures
-      - `won` due tomorrow at start of class
-  - **Thu:** Continue with structures practice; with all three being due for homework Friday
-  - **Fri:**
-      - Start on [Recursion]({{"/units/unit4/recursion" | relative_url }})
-      - [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html) due on Monday so make sure to run `check50` and make any corrections needed before submitting as final
+- Week of 2/18/19:
+  - **Mon:** Review struct homework; [Recursion]({{"/units/unit4/recursion" | relative_url }})
+  - **Tue:** Khan Academy lesson on Recursion; finish for homework
+  - **Wed:** Review homework; start [Merge Sort]({{"/units/unit4/merge_sort" | relative_url }})
+  - **Thu:**
+  - **Fri:** [Hexadecimal]({{"/units/unit4/hexadecimal" | relative_url }}); Quiz Monday on Unit 4 so far (thru Hexadecimal most likely)
 
   *Anything not completed in class becomes homework*
 
@@ -22,8 +19,7 @@ title: false
 
 
 ## We are currently working on:
-* [Fifteen](http://docs.cs50.net/2018/ap/problems/fifteen/fifteen.html) Due Monday, 2-18 by 11:59 pm
-* Starting [Unit 4]({{ "/units/unit4" | relative_url }})
+* [Unit 4]({{ "/units/unit4" | relative_url }})
 * Next programming problem TBD, but will come from [Unit 4 Problems]({{"/problems/#unit-4" | relative_url}})
 
 
