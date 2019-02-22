@@ -11,7 +11,7 @@ title: false
   - **Tue:** Khan Academy lesson on Recursion; finish for homework
   - **Wed:** Review homework; start [Merge Sort]({{"/units/unit4/merge_sort" | relative_url }})
   - **Thu:** [Hexadecimal]({{"/units/unit4/hexadecimal" | relative_url }}); Merge sort Khan Academy challenges due for EC by class tomorrow!
-  - **Fri:** [File I/O]({{"/units/unit4/file_io" | relative_url }}); Quiz Monday on Unit 4 so far (only thru Hexadecimal)
+  - **Fri:** [File I/O]({{"/units/unit4/file_io" | relative_url }}); Quiz Monday on Unit 4 so far (only thru Hexadecimal, excluding ncurses)
 
   *Anything not completed in class becomes homework*
 
