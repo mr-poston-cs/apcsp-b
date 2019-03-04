@@ -11,7 +11,7 @@ title: false
   - **Tue:** [Images]({{"/units/unit4/images" | relative_url }}); Read Version Control handout for homework
   - **Wed:** [Version Control and Collaboration]({{"/units/unit4/version_control_and_collaboration" | relative_url }})
   - **Thu:** Review for Test
-  - **Fri:** Test on Unit 4
+  - **Fri:** Test on Unit 4; We will start [Unit 5]({{ "/units/unit5" | relative_url }}) Monday
 
   *Anything not completed in class becomes homework*
 
@@ -20,7 +20,9 @@ title: false
 
 ## We are currently working on:
 * [Unit 4]({{ "/units/unit4" | relative_url }})
-* Next programming problem TBD, but will come from [Unit 4 Problems]({{"/problems/#unit-4" | relative_url}})
+* Next programming problem will be [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date TBD
+
+Up next: [Unit 5]({{ "/units/unit5" | relative_url }})
 
 
 <!--
