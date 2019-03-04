@@ -6,13 +6,12 @@ title: false
 
 ### Schedule:
 
-- Week of 2/18/19:
-  - **Mon:** Review struct homework; [Recursion]({{"/units/unit4/recursion" | relative_url }})
-  - **Tue:** Khan Academy lesson on Recursion; finish for homework
-  - **Wed:** Review homework; start [Merge Sort]({{"/units/unit4/merge_sort" | relative_url }})
-  - **Thu:** [Hexadecimal]({{"/units/unit4/hexadecimal" | relative_url }}); Merge sort Khan Academy challenges due for EC by class tomorrow!
-  - **Fri:** [File I/O]({{"/units/unit4/file_io" | relative_url }}); Quiz Monday on Unit 4 so far (only thru Hexadecimal, excluding ncurses)
-    - Read notes on File I/O over the weekend for Monday
+- Week of 3/4/19:
+  - **Mon:** [File I/O]({{"/units/unit4/file_io" | relative_url }}); Read Images handout for homework
+  - **Tue:** [Images]({{"/units/unit4/images" | relative_url }})
+  - **Wed:** [Version Control and Collaboration]({{"/units/unit4/version_control_and_collaboration" | relative_url }})
+  - **Thu:** Review for Test
+  - **Fri:** Test on Unit 4
 
   *Anything not completed in class becomes homework*
 
