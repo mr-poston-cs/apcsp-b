@@ -21,8 +21,7 @@ title: false
 ## We are currently working on:
 * [Unit 4]({{ "/units/unit4" | relative_url }})
 * Next programming problem will be [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date TBD
-
-Up next: [Unit 5]({{ "/units/unit5" | relative_url }})
+* Up next: [Unit 5]({{ "/units/unit5" | relative_url }})
 
 
 <!--
