@@ -8,7 +8,7 @@ title: false
 
 - Week of 3/4/19:
   - **Mon:** [File I/O]({{"/units/unit4/file_io" | relative_url }}); Read Images handout for homework
-  - **Tue:** [Images]({{"/units/unit4/images" | relative_url }})
+  - **Tue:** [Images]({{"/units/unit4/images" | relative_url }}); Read Version Control handout for homework
   - **Wed:** [Version Control and Collaboration]({{"/units/unit4/version_control_and_collaboration" | relative_url }})
   - **Thu:** Review for Test
   - **Fri:** Test on Unit 4
