@@ -10,9 +10,9 @@ Images are stored as a number of file types, including but not limited to bitmap
 
 - ### Notes
   - [Images]({{"/assets/pdfs/unit4/images.pdf" | relative_url }})
-  
+
 - ### Supplementary Resources
-  - Notes on [Multimedia](https://cs50.github.io/technology/notes/multimedia/multimedia.html) from Computer Science E-1a, Understanding Technology, offered at Harvard’s Extension School
+  <!-- - Notes on [Multimedia](https://cs50.github.io/technology/notes/multimedia/multimedia.html) from Computer Science E-1a, Understanding Technology, offered at Harvard’s Extension School -->
   - Sue Chastain on [Graphics File Format Types and When to Use Each One](https://www.lifewire.com/which-graphics-file-format-is-best-1701773)
   - Isomer Staff on [JPEG, PNG, GIF!? A quick guide to image file types for the web](https://medium.com/isovera/jpeg-png-gif-a-quick-guide-to-image-file-types-for-the-web-a53361dba7b5)
   - Cam Sackett on [Image File Type Choices](https://medium.com/@camsackett/image-file-type-choices-dad9780fe9a3)
