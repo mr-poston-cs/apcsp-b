@@ -6,7 +6,7 @@ title: false
 
 ### Schedule:
 
---> Extra Credit Opportunity (due Friday 3/8): Read over all resources on and watch videos on [Data Compression]({{"/units/unitB/data_compression" | relative_url }}), then answer the Thought Questions on that page, in a Word document, in **YOUR OWN WORDS**.
+--> Extra Credit Opportunity (due Friday 3/8): Read over all resources and watch videos on [Data Compression]({{"/units/unitB/data_compression" | relative_url }}), then answer the Thought Questions on that page, in a Word document, in **YOUR OWN WORDS**.
 
 - Week of 3/4/19:
   - **Mon:** [File I/O]({{"/units/unit4/file_io" | relative_url }}); Read Images handout for homework
