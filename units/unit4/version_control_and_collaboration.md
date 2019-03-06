@@ -7,14 +7,14 @@ Collaboration is so important in the field of computer science; as a programmer,
 
 - ### Notes
   - [Version Control and Collaboration]({{"/assets/pdfs/unit4/version_control_and_collaboration.pdf" | relative_url }})
-  
+
 - ### Supplementary Resources
-  - Git-scm on [Getting Started - About Version Control](https://git-scm.com/book/en/v1/Getting-Started-About-Version-Control) 
+  - Git-scm on [Getting Started - About Version Control](https://git-scm.com/book/en/v1/Getting-Started-About-Version-Control) - Read through the Git Basics to get all the understanding of Git and how it works
   - Weblab Technology on [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
   - Sam Harris on [The Benefits and Pitfalls of Pair Programming in the Workplace](https://medium.freecodecamp.org/the-benefits-and-pitfalls-of-pair-programming-in-the-workplace-e68c3ed3c81f)
 
 - ### Thought Questions
   - Why do you think the driver / navigator model is set up the way that it is, with the roles so clearly delineated?
   - When might pair programming be an effective work setup? What about pair programming is difficult?
-  - What additional advantages does Git have over some of the other models, particular as it might pertain to two people working on the same project at the same time? 
+  - What additional advantages does Git have over some of the other models, particular as it might pertain to two people working on the same project at the same time?
   - What are the benefits of having multiple saved versions of the same code? How can this make debugging more effective?
