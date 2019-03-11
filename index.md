@@ -12,7 +12,7 @@ title: false
     - watch the Lectures & Short Videos, and read the Notes - slides from class will be in Teams after class
     - **HW:** Read the 3 articles in Supplementary Resources and answer the questions in OneNote HW section
   - **Tue:** [IP Addresses]({{"/units/unit5/ip_addresses" | relative_url }}) & [DNS and DHCP]({{"/units/unit5/dns_and_dhcp" | relative_url }})
-    - *details to come*
+    - Watch Lectures & Shorts for both modules
   - **Wed:** [Routers]({{"/units/unit5/routers" | relative_url }})
     - *details to come*
   - **Thu:**
