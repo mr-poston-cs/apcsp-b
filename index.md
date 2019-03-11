@@ -16,7 +16,7 @@ Week of 3/11/19:
     - *more details to come*
   - **Wed:** [Routers]({{"/units/unit5/routers" | relative_url }})
     - *details to come*
-  - **Thu:** 
+  - **Thu:**
   - **Fri:**
 
   *Anything not completed in class becomes homework*
@@ -25,7 +25,7 @@ Week of 3/11/19:
 
 
 ## We are currently working on:
-* [Unit 5]({{ "/units/unit5" | relative_url })
+* [Unit 5]({{ "/units/unit5" | relative_url }})
 * [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date TBD
 
 
