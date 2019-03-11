@@ -16,12 +16,12 @@ Week of 3/11/19:
     - *more details to come*
   - **Wed:** [Routers]({{"/units/unit5/routers" | relative_url }})
     - *details to come*
-  - **Thu:**
+  - **Thu:** 
   - **Fri:**
 
   *Anything not completed in class becomes homework*
 
-  *HW Assignments not submitted by 12:30 next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late*
+  *HW Assignments not submitted by class time next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late*
 
 
 ## We are currently working on:
