@@ -6,14 +6,17 @@ title: false
 
 ### Schedule:
 
---> Extra Credit Opportunity (due Friday 3/8): Read over all resources and watch videos on [Data Compression]({{"/units/unitB/data_compression" | relative_url }}), then answer the Thought Questions on that page, in a Word document, in **YOUR OWN WORDS**.
-
-- Week of 3/4/19:
-  - **Mon:** [File I/O]({{"/units/unit4/file_io" | relative_url }}); Read Images handout for homework
-  - **Tue:** [Images]({{"/units/unit4/images" | relative_url }}); Read Version Control handout for homework
-  - **Wed:** [Version Control and Collaboration]({{"/units/unit4/version_control_and_collaboration" | relative_url }})
-  - **Thu:** Review for Test
-  - **Fri:** Test on Unit 4; We will start [Unit 5]({{ "/units/unit5" | relative_url }}) Monday
+- Week of 3/11/19:
+  - **Mon:** [Internet Basics]({{"/units/unit5/internet_basics" | relative_url }})
+    - take a few minutes to write how you think the internet works before watching the video  - there will be a section in OneNote for you to do so in your Class Notes; it is titled *How the Internet Works*
+    - watch the Lectures & Short Videos, and read the Notes - slides from class will be in Teams after class
+    - **HW:** Read the 3 articles in Supplementary Resources and answer the questions in OneNote HW section
+  - **Tue:** [IP Addresses]({{"/units/unit5/ip_addresses" | relative_url }}) & [DNS and DHCP]({{"/units/unit5/dns_and_dhcp" | relative_url }})
+    - *details to come*
+  - **Wed:** [Routers]({{"/units/unit5/routers" | relative_url }})
+    - *details to come*
+  - **Thu:**
+  - **Fri:**
 
   *Anything not completed in class becomes homework*
 
@@ -21,9 +24,9 @@ title: false
 
 
 ## We are currently working on:
-* [Unit 4]({{ "/units/unit4" | relative_url }})
-* Next programming problem will be [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date TBD
-* Up next: [Unit 5]({{ "/units/unit5" | relative_url }})
+* [Unit 5]({{ "/units/unit5" | relative_url })
+* [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date TBD
+
 
 
 <!--
