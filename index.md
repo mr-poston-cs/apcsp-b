@@ -6,7 +6,7 @@ title: false
 
 ### Schedule:
 
-- Week of 3/11/19:
+Week of 3/11/19:
   - **Mon:** [Internet Basics]({{"/units/unit5/internet_basics" | relative_url }})
     - take a few minutes to write how you think the internet works before watching the video  - there will be a section in OneNote for you to do so in your Class Notes; it is titled *How the Internet Works*
     - watch the Lectures & Short Videos, and read the Notes - slides from class will be in Teams after class
@@ -27,7 +27,6 @@ title: false
 ## We are currently working on:
 * [Unit 5]({{ "/units/unit5" | relative_url })
 * [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date TBD
-
 
 
 <!--
