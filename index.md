@@ -12,10 +12,12 @@ Week of 3/11/19:
     - watch the Lectures & Short Videos, and read the Notes - slides from class will be in Teams after class
     - **HW:** Read the 3 articles in Supplementary Resources and answer the questions in OneNote HW section
   - **Tue:** [IP Addresses]({{"/units/unit5/ip_addresses" | relative_url }}) & [DNS and DHCP]({{"/units/unit5/dns_and_dhcp" | relative_url }})
-    - Watch Lectures & Shorts for both modules
-    - *more details to come*
+    - Watch Lectures both modules as well as the short for IP; read Notes on both
+    - Watch the Khan Academy video in Supplementary Resources
+    - **HW:** Read the article by Tim Fisher in the Supp. Res. on DNS & DHCP; answer the IP, DNS, & DHCP questions in OneNote
   - **Wed:** [Routers]({{"/units/unit5/routers" | relative_url }})
-    - *details to come*
+    - Watch Lecture and video from Khan Academy in the Supp. Res.; read Notes
+    - **HW:** coming soon :)
   - **Thu:**
   - **Fri:**
 
