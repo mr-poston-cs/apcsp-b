@@ -3,7 +3,7 @@
 IP (Internet Protocol) addresses are assigned to each device connected to a network. A device or web page can be identified by its IP addresses, as all are unique - like a postal address. There are also private IP addresses, which can be used in an internal network but not on the Internet at large.
 
 - ### Lecture
-  - [Watch on Youtube](https://www.youtube.com/embed/PUPDGbnpSjw?start=1699&end=1968)
+  - [Watch on Youtube](https://www.youtube.com/embed/PUPDGbnpSjw?start=1700&end=1968)
   - [Watch on the CS50 Video Player](https://video.cs50.net/2017/fall/lectures/6?t=0h28m19s)
   - [Download Lecture](http://cdn.cs50.net/2017/fall/lectures/6/lecture6-720p.mp4?download)
   - [Lecture Notes](https://docs.cs50.net/2017/fall/notes/6/lecture6.html#http)
