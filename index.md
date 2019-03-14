@@ -21,7 +21,7 @@ Week of 3/11/19:
   - **Thu:** [TCP and IP]({{"/units/unit5/tcp_and_ip" | relative_url }})
     - Watch Lecture, both Shorts on IP & TCP, and Khan Academy video on Packet, Routers and Reliability; read Notes
     - **HW:** Read 7.3 in the book; Questions may be in OneNote later on Wed/Thurs
-  - **Fri:**
+  - **Fri:** Finish up TCP/IP and review everything so far
     - **HW:** Finish reading Chapter 7 in the book
 
   *Anything not completed in class becomes homework*
