@@ -19,10 +19,10 @@ Week of 3/11/19:
     - Watch Lecture and video from Khan Academy in the Supp. Res.; read Notes
     - **HW:** Start reading Chapter 7 in the book - through 7.2 tonight; Make sure to finish code.org stuff on Routers - Unit 1 Lesson 10 - Login code: RCVHLF; if you need your secret words, email me
   - **Thu:** [TCP and IP]({{"/units/unit5/tcp_and_ip" | relative_url }})
-    - Watch Lecture, both Shorts on IP & TCP, and Khan Academy video on Packet, Routers and Reliability; read Notes
-    - **HW:** Read 7.3 in the book; Questions may be in OneNote later on Wed/Thurs
+    - Watch Lecture, both Shorts on IP & TCP, and Khan Academy video on Packet, Routers and Reliability
+    - **HW:** Read CS50 Notes on TCP/IP
   - **Fri:** Finish up TCP/IP and review everything so far
-    - **HW:** Finish reading Chapter 7 in the book
+    - **HW:** Read 7.3 in the book
 
   *Anything not completed in class becomes homework*
 
