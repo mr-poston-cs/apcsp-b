@@ -6,23 +6,18 @@ title: false
 
 ### Schedule:
 
-Week of 3/11/19:
-  - **Mon:** [Internet Basics]({{"/units/unit5/internet_basics" | relative_url }})
-    - take a few minutes to write how you think the internet works before watching the video  - there will be a section in OneNote for you to do so in your Class Notes; it is titled *How the Internet Works*
-    - watch the Lectures & Short Videos, and read the Notes - slides from class will be in Teams after class
-    - **HW:** Read the 3 articles in Supplementary Resources and answer the questions in OneNote HW section
-  - **Tue:** [IP Addresses]({{"/units/unit5/ip_addresses" | relative_url }}) & [DNS and DHCP]({{"/units/unit5/dns_and_dhcp" | relative_url }})
-    - Watch Lectures both modules as well as the short for IP; read Notes on both
-    - Watch the Khan Academy video in Supplementary Resources
-    - **HW:** Read the article by Tim Fisher in the Supp. Res. on DNS & DHCP; answer the IP, DNS, & DHCP questions in OneNote
-  - **Wed:** [Routers]({{"/units/unit5/routers" | relative_url }})
-    - Watch Lecture and video from Khan Academy in the Supp. Res.; read Notes
-    - **HW:** Start reading Chapter 7 in the book - through 7.2 tonight; Make sure to finish code.org stuff on Routers - Unit 1 Lesson 10 - Login code: RCVHLF; if you need your secret words, email me
-  - **Thu:** [TCP and IP]({{"/units/unit5/tcp_and_ip" | relative_url }})
-    - Watch Lecture, both Shorts on IP & TCP, and Khan Academy video on Packet, Routers and Reliability
-    - **HW:** Read CS50 Notes on TCP/IP
-  - **Fri:** Finish up TCP/IP and review everything so far
-    - **HW:** Read 7.3 in the book
+Week of 3/18/19:
+  - **Mon:** NO SCHOOL!!
+  - **Tue:** Review TCP/IP and Protocols from book; Start on Finder in class
+    - **HW:** Work on [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html) - Due next Monday (3/25)
+      - Read over HTTP handout and make sure you have an understanding of how everything works together that we have gone over so far in this unit
+  - **Wed:** [HTTP]({{"/units/unit5/http" | relative_url }})
+    - **HW:** [Be the Teacher](http://docs.cs50.net/2018/ap/problems/teacher/teacher.html)
+      - Continue working on Finder
+  - **Thu:** Review Internet basics and protocols
+    - **HW:** Study for quiz on Unit 5 so far and work on Finder
+  - **Fri:** Quiz then [Trust Models]({{"/units/unit5/trust_models" | relative_url }})
+    - **HW:** Work on Finder - Due Monday at midnight
 
   *Anything not completed in class becomes homework*
 
@@ -31,7 +26,7 @@ Week of 3/11/19:
 
 ## We are currently working on:
 * [Unit 5]({{ "/units/unit5" | relative_url }})
-* [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date TBD
+* [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date: next Monday 3/25
 
 
 <!--

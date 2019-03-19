@@ -58,4 +58,16 @@
 - Resize
   - [less](http://docs.cs50.net/2018/ap/problems/resize/less/resize.html)
   - [more](http://docs.cs50.net/2018/ap/problems/resize/more/resize.html)
-  
+
+## Unit 5
+- [Be the Teacher](http://docs.cs50.net/2018/ap/problems/teacher/teacher.html)
+- [Defender of the Web](http://docs.cs50.net/2018/ap/problems/defender/defender.html)
+- [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html)
+
+## Unit 6
+- [Sentimental](https://docs.cs50.net/2018/ap/problems/sentimental/sentimental.html)
+- Similarities
+  - [less](http://docs.cs50.net/2018/ap/problems/similarities/less/similarities.html)
+  - [more](http://docs.cs50.net/2018/ap/problems/similarities/more/similarities.html)
+- [C$50 Finance](http://docs.cs50.net/2018/ap/problems/finance/finance.html)
+- [Mashup](http://docs.cs50.net/2018/ap/problems/mashup/mashup.html)
