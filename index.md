@@ -10,6 +10,7 @@ Week of 3/18/19:
   - **Mon:** NO SCHOOL!!
   - **Tue:** Review TCP/IP and Protocols from book; Start on Finder in class
     - **HW:** Work on [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html) - Due next Monday (3/25)
+        - make sure you have files downloaded by tonight!!
       - Read over HTTP handout and make sure you have an understanding of how everything works together that we have gone over so far in this unit
   - **Wed:** [HTTP]({{"/units/unit5/http" | relative_url }})
     - **HW:** [Be the Teacher](http://docs.cs50.net/2018/ap/problems/teacher/teacher.html)
