@@ -17,7 +17,9 @@ Week of 3/18/19:
     - **HW:** [Be the Teacher](http://docs.cs50.net/2018/ap/problems/teacher/teacher.html)
       - Continue working on Finder
   - **Thu:** Review Internet basics and protocols
-    - **HW:** Study for quiz on Unit 5 so far and work on Finder
+    - **HW:**
+      - Study for quiz on Unit 5 so far
+      - Complete the 3 objectives for the [main](https://docs.cs50.net/2018/ap/problems/finder/finder.html#main) function in Finder
   - **Fri:** Quiz then [Trust Models]({{"/units/unit5/trust_models" | relative_url }})
     - **HW:** Work on Finder - Due Monday at midnight
 
