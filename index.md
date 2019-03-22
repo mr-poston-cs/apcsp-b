@@ -20,7 +20,7 @@ Week of 3/18/19:
     - **HW:**
       - Study for quiz on Unit 5 so far
       - Complete the 3 objectives for the [main](https://docs.cs50.net/2018/ap/problems/finder/finder.html#main) function in Finder
-  - **Fri:** Quiz then [Trust Models]({{"/units/unit5/trust_models" | relative_url }})
+  - **Fri:** Quiz then work on Finder
     - **HW:** Finder [seek function](https://docs.cs50.net/2018/ap/problems/finder/finder.html#seek) - do as much as you can we will discuss on Monday
 
   *Anything not completed in class becomes homework*
