@@ -4,6 +4,10 @@ title: false
 
 # Hello, world!
 
+## We are currently working on:
+* [Unit 5]({{ "/units/unit5" | relative_url }})
+* [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date: Thurs 3/28
+
 ### Schedule:
 
 Week of 3/25/19:
@@ -28,11 +32,6 @@ Week of 3/25/19:
   *Anything not completed in class becomes homework*
 
   *HW Assignments not submitted by class time next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late*
-
-
-## We are currently working on:
-* [Unit 5]({{ "/units/unit5" | relative_url }})
-* [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date: Thurs 3/28
 
 
 <!--
