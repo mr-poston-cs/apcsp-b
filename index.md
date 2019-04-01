@@ -5,28 +5,23 @@ title: false
 # Hello, world!
 
 ## We are currently working on:
-* [Unit 5]({{ "/units/unit5" | relative_url }})
-* [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html); due date: Thurs 3/28
+* Finishing up [Unit 5]({{ "/units/unit5" | relative_url }})
+* Start on [Unit 6]({{ "/units/unit6" | relative_url }})
+* [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html)
+* [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html)
 
 ### Schedule:
 
-Week of 3/25/19:
-  - **Mon:** [Trust Models]({{"/units/unit5/trust_models" | relative_url }})
+Week of 4/1/19:
+  - **Mon:** [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html) review - finish in class :)
+    - **HW:** Watch the videos on [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html) and take notes on how to implement HTML, it's various tags, and some of the CSS covered; You may not need to watch all of them, but I would at least watch the ones on the topics you are not comfortable with, and maybe code along with him!
+  - **Tue:** [HTML]({{"/units/unit5/html" | relative_url }}) & [CSS]({{"/units/unit5/css" | relative_url }}) review; start on [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html) setup
+    - **HW:** Finish any setup for [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html) that you did not get done in class
+  - **Wed:**
     - **HW:**
-      - Read notes
-      - Read Chapter 8 through 8.2.1 in the book (pp 395-401)
-      - Trust Models HW in OneNote
-      - [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html)
-  - **Tue:** [Cybersecurity]({{"/units/unit5/cybersecurity" | relative_url }})
-    - **HW:**
-      - Read Ch 8.2.2 - 8.2.3 (including the orange sections)
-      - Questions in OneNote
-      - [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html)
-  - **Wed:** Work on Finder in class
-    - **HW:** Work on [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html)
-  - **Thu:** [HTML]({{"/units/unit5/html" | relative_url }})
+  - **Thu:**
     - **HW:** Finder due tonight by midnight
-  - **Fri:** [CSS]({{"/units/unit5/css" | relative_url }})
+  - **Fri:**
     - **HW:**
 
   *Anything not completed in class becomes homework*
