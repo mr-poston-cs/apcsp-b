@@ -21,9 +21,9 @@ Week of 4/1/19:
   - **Wed:**
     - **HW:** Work on </Unit 5> - start with HTML, and add CSS after that is done; you can always tweak it later
   - **Thu:** [Artificial Intelligence and Machine Learning]({{"/units/unit6/artificial_intelligence_and_machine_learning" | relative_url }})
-    - **HW:**
-  - **Fri:**
-    - **HW:**
+    - **HW:** Start on Chapter 15 in the book - 15.1 thru end of 15.2 (p.718) (including the orange/brown sections)
+  - **Fri:** Continue with AI & Machine Learning
+    - **HW:** Finish up your </Unit5> PSET *it's due Monday 4/8 at midnight*
 
   *Anything not completed in class becomes homework*
 
