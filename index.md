@@ -16,7 +16,10 @@ Week of 4/8/19:
   - **Mon:** Go over AP#s and Create Task info
     - **HW:** Put AP# in to your digital portfolio
   - **Tue:** [Virtual and Augmented Reality]({{"/units/unit6/virtual_and_augmented_reality" | relative_url }})
-    - **HW:** Come up with 2-5 ideas for your Create Task, and put them in OneNote & finish watching the VR lecture 
+    - **HW:**
+      - Come up with 2-5 ideas for your Create Task, and put them in OneNote
+      - Finish watching the VR lecture
+      - Read over VR/AR Notes
   - **Wed:** Review program ideas and go over Ecommerce in the book
     - **HW:** Read about Ecommerce in the book: Ch 14, pages 670-687 (14.0-14.2.6)
   - **Thu:**
