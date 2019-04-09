@@ -5,25 +5,24 @@ title: false
 # Hello, world!
 
 ## We are currently working on:
-* Finishing up [Unit 5]({{ "/units/unit5" | relative_url }})
-* Start on [Unit 6]({{ "/units/unit6" | relative_url }})
-* [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html)
+* [Unit 6]({{ "/units/unit6" | relative_url }})
+* [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html) **if you have not turned in, DO IT!!**
 * [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html) **follow the instructions on the handout on how to submit, not on the site!!!**
+* Create Task: see [**Digital Portfolio**]({{ "digital_portfolio" | relative_url }}) for more info
 
-### Schedule:
+## Schedule:
 
-Week of 4/1/19:
-  - **Mon:** [Finder](https://docs.cs50.net/2018/ap/problems/finder/finder.html) review - finish in class :)
-    - **HW:** Watch the videos on [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html) and take notes on how to implement HTML, it's various tags, and some of the CSS covered; You may not need to watch all of them, but I would at least watch the ones on the topics you are not comfortable with, and maybe code along with him!
-  - **Tue:** [HTML]({{"/units/unit5/html" | relative_url }}) & [CSS]({{"/units/unit5/css" | relative_url }}) review; start on [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html)
-    - Install [Sublime Text](http://www.sublimetext.com/) to write your HTML and CSS locally on your computers
-    - **HW:** Finish any setup for [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html) that you did not get done in class; **follow the instructions on the handout on how to submit, not on the site!!!**
-  - **Wed:**
-    - **HW:** Work on </Unit 5> - start with HTML, and add CSS after that is done; you can always tweak it later
-  - **Thu:** [Artificial Intelligence and Machine Learning]({{"/units/unit6/artificial_intelligence_and_machine_learning" | relative_url }})
-    - **HW:** Start on Chapter 15 in the book - 15.1 thru end of 15.2 (p.718) (including the orange/brown sections)
-  - **Fri:** Continue with AI & Machine Learning
-    - **HW:** Finish up your </Unit5> PSET *it's due Monday 4/8 at midnight*
+Week of 4/8/19:
+  - **Mon:** Go over AP#s and Create Task info
+    - **HW:** Put AP# in to your digital portfolio
+  - **Tue:** [Virtual and Augmented Reality]({{"/units/unit6/virtual_and_augmented_reality" | relative_url }})
+    - **HW:** Come up with 2-5 ideas for your Create Task, and put them in OneNote & finish watching the VR lecture 
+  - **Wed:** Review program ideas and go over Ecommerce in the book
+    - **HW:** Read about Ecommerce in the book: Ch 14, pages 670-687 (14.0-14.2.6)
+  - **Thu:**
+    - **HW:**
+  - **Fri:**
+    - **HW:**
 
   *Anything not completed in class becomes homework*
 
