@@ -14,7 +14,7 @@
 - [Assessment Overview and Performance Task Directions](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles)
 - [Explore PT Scoring Guidelines]({{"/assets/pdfs/digital_portfolio/explore-guidelines-2019.pdf" | relative_url }})
 - [Create PT Scoring Guidelines]({{"/assets/pdfs/digital_portfolio/create-guidelines-2019.pdf" | relative_url }})
-- [Sample Responses and Scoring](https://secure-media.collegeboard.org/ap/pdf/ap18-csp-explore.pdf) - Scroll past rubric to see scores and commentary
+<!-- - [Sample Responses and Scoring](https://secure-media.collegeboard.org/ap/pdf/ap18-csp-explore.pdf) - Scroll past rubric to see scores and commentary -->
 - [Sample Responses](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles) - Scroll down to the Sample Responses and Scoring Information section and make sure to look at the 2018: Sample ...
 
 <!-- **Research and Organization**
