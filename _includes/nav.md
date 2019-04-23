@@ -16,7 +16,7 @@
 ***
 
 * [**Units**]({{ "/units" | relative_url }})
-* [**Digital Portfolio**]({{ "digital_portfolio" | relative_url }})
+* [**Digital Portfolio**]({{ "/units/pt/digital_portfolio" | relative_url }})
 * [Problems by Unit]({{ "problems" | relative_url}})
 
 ***

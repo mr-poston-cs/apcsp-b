@@ -1,6 +1,6 @@
 # Digital Portfolio
 
-- [Create]({{"pt/create.md" | relative_url }})
+- [Create]({{"pt/create" | relative_url }})
 
 ### Create PT Due as FINAL in your portfolio by April 30!
 
