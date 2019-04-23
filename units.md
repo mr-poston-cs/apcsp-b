@@ -9,6 +9,7 @@
 * [Unit B]({{ "/units/unitB" | relative_url }})
 * [Unit 5]({{ "/units/unit5" | relative_url }})
 * [Unit 6]({{ "/units/unit6" | relative_url }})
+* [Performance Tasks]({{ "/units/digital_portfolio" | relative_url }})
 
 ---
 
