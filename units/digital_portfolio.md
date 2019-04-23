@@ -1,6 +1,8 @@
 # Digital Portfolio
 
-### Create PT Due as FINAL in your portfolio by April 29!
+- [Create]({{"pt/create.md" | relative_url }})
+
+### Create PT Due as FINAL in your portfolio by April 30!
 
 - Go to [digitalportfolio.collegeboard.org](https://digitalportfolio.collegeboard.org), log in with your College Board account
 - Make sure that you enter your AP numbers into the Digital Portfolio
