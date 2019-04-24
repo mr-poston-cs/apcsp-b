@@ -24,13 +24,13 @@
 
  - [Rough Notes & Sources Template](https://docs.google.com/document/d/19n4gLaVmOgiqpCCezNZFtuR6LEhB9SNOg9pJWdXiE3k/edit?usp=sharing) -->
 
-**Resources to make your video and PDF:**
+<!-- **Resources to make your video and PDF:** -->
 
 <!-- - [Adobe Spark](https://spark.adobe.com/) to create a short video presentation
 - PowerPoint
 - [Audacity](https://www.audacityteam.org/) for making audio presentation
 - Google Docs, Slides, Drawings to create PDF or infographic -->
-#### PDF of Code/Written Responses:
+<!-- #### PDF of Code/Written Responses:
 - [Code Print](https://bakerfranke.github.io/codePrint/) - useful for preparing PDF of code for Create PT
 
 #### Video of Program Running:
@@ -40,4 +40,4 @@
   - On Windows 10, you can use the built-in screen recording: [Quora Article](https://www.quora.com/How-can-I-Record-Screen-in-Windows-10)
     - This can record sound as well, so you may want to mute the mic if you don't want to have sound
   - [On a Mac](https://support.apple.com/en-us/HT208721)
-- Get someone to help you (if you need it) record you running your program with a phone/camera
+- Get someone to help you (if you need it) record you running your program with a phone/camera -->

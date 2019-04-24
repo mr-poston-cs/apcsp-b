@@ -8,7 +8,6 @@ title: false
 * [Unit 6]({{ "/units/unit6" | relative_url }}) - Feel free to read over any other material here that you want (SQL would probably be a good one to look over)
 * [</Unit5>](http://docs.cs50.net/2018/ap/problems/unit5/unit5.html) **TURN IN OR I WILL PUT A 0 IN FOR YOUR GRADE!**
 * Create Task: see [**Digital Portfolio**]({{ "units/digital_portfolio" | relative_url }}) for more info
-* Make sure your AP #s are in your Digital Portfolio
 
 ## Schedule:
 
