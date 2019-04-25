@@ -37,6 +37,7 @@ Your program must demonstrate:
 ## Resources
 #### PDF of Code/Written Responses:
 - [Code Print](https://bakerfranke.github.io/codePrint/) - useful for preparing PDF of code for Create PT
+- [Scratch Code Generator](http://scratchblocks.github.io/generator/)
 
 #### Video of Program Running:
 - Screencasting
