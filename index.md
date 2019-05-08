@@ -6,9 +6,10 @@ title: false
 
 ## We are currently working on:
 * Review for AP Exam
-* Create Task: see [**Digital Portfolio**]({{ "units/digital_portfolio" | relative_url }}) for more info
 
-## Schedule:
+## Exam is Friday at noon; location TBD (I will update as soon as I know)
+
+<!-- ## Schedule:
 
 Week of 4/29/19:
   - **Mon:** Work on Create Program/Written Responses
@@ -19,7 +20,7 @@ Week of 4/29/19:
 
   *Anything not completed in class becomes homework*
 
-  *HW Assignments not submitted by class time next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late*
+  *HW Assignments not submitted by class time next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late* -->
 
 
 <!--
