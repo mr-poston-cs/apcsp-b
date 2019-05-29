@@ -2,13 +2,13 @@
 title: false
 ---
 
+# Hello, world!
+
 ## Summer Assignment 2019
 
 Details are coming!
 
 Even when the details are up, I would prefer you to complete your assignment closer to when school starts back. - Mrs. Beaman
-
-# Hello, world!
 
 <!-- ## Schedule:
 
