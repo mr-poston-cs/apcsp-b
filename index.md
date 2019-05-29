@@ -21,9 +21,10 @@ Week of 4/29/19:
 
 This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's new AP CS Principles curriculum framework.
 
-<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA" height=200px></iframe>
+<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
 
 ## Summer Assignment 2019
 
 Details are coming!
+
 Even when the details are up, I would prefer you to complete your assignment closer to when school starts back. - Mrs. Beaman
