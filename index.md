@@ -6,7 +6,7 @@ title: false
 
 ## Summer Assignment 2019
 
-#### [Summer Assignment]({{ "/units/summer-assignment" | relative_url }}) Details will be up by mid-June!
+#### [Summer Assignment]({{ "/units/summer-assignment" | relative_url }}) details will be up by mid-June!
 
 Even when the details are up, I would prefer you to complete your assignment closer to when school starts back. - Mrs. Beaman
 
