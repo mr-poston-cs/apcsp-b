@@ -1,6 +1,6 @@
 # Summer Assignment 2019
 
-Hello! I am happy to have you in my AP Computer Science Principles class for the 2019-2020 school year! Below is this year's summer assignment. The online portion may change slightly, as Harvard is likely to change a little of the curriculum, but I will let you all know if that happens.\\
+Hello! I am happy to have you in my AP Computer Science Principles class for the 2019-2020 school year! Below is this year's summer assignment. **There will be a test the first week of school** on material covered in the assignment, however we will review some before.\\
 I look forward to having you all in the fall, and have a great summer break! If you ever need me, email me at <cbeaman@parrottacademy.org>.\\
 ~Mrs. Beaman
 
