@@ -4,7 +4,7 @@ Computers are everywhere, but it's not just desktops and laptops anymore. Now we
 
 - ### Videos (Part 0)
   - IGN on [Wii U](https://www.youtube.com/embed/Rs-Eub0-cRk)
-  - Apple on the [Apple Watch](https://www.youtube.com/embed/BNpiwOkKIJ8)
+  <!-- - Apple on the [Apple Watch](https://www.youtube.com/embed/BNpiwOkKIJ8) -->
 
 - ### Videos (Part 1)
   - Engineerguy on [How Smoke Detectors Work](https://www.youtube.com/embed/oFUUQcpGR3k)
