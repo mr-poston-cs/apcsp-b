@@ -6,9 +6,9 @@ title: false
 
 ## Summer Assignment 2019
 
-#### [Summer Assignment]({{ "/units/summer-assignment" | relative_url }}) details will be up by mid-June!
+#### [Summer Assignment]({{ "/units/summer-assignment" | relative_url }}) details now up!!
 
-Even when the details are up, I would prefer you to complete your assignment closer to when school starts back. - Mrs. Beaman
+Start by watching the playlist below to see what our version of AP CSP will be like.
 
 <!-- ## Schedule:
 
