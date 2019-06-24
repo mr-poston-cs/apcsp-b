@@ -14,8 +14,8 @@ One of the most common types of information that computers process is text. To t
   - [Binary]({{"/assets/pdfs/unit0/binary.pdf" | relative_url }})
   - [ASCII]({{"/assets/pdfs/unit0/ascii.pdf" | relative_url }})
   - Supplementary notes
-    - [ASCII Table 0]({{"/assets/pdf/unit0/ASCII_Table.pdf" | relative_url}})
-    - [ASCII Table 1]({{"/assets/pdf/unit0/ASCII_Conversion_Chart.pdf" | relative_url}})
+    - [ASCII Table 0]({{"/assets/pdfs/unit0/ASCII_Table.pdf" | relative_url}})
+    - [ASCII Table 1]({{"/assets/pdfs/unit0/ASCII_Conversion_Chart.pdf" | relative_url}})
 
 - ### Shorts
   - [Binary (Nate)](https://www.youtube.com/embed/hacBFrgtQjQ)
