@@ -13,7 +13,10 @@ One of the most common types of information that computers process is text. To t
 - ### Notes
   - [Binary]({{"/assets/pdfs/unit0/binary.pdf" | relative_url }})
   - [ASCII]({{"/assets/pdfs/unit0/ascii.pdf" | relative_url }})
-  
+  - Supplementary notes
+    - [ASCII Table 0]({{"/assets/pdf/unit0/ASCII_Table.pdf"}})
+    - [ASCII Table 1]({{"/assets/pdf/unit0/ASCII_Conversion_Chart.pdf"}})
+
 - ### Shorts
   - [Binary (Nate)](https://www.youtube.com/embed/hacBFrgtQjQ)
   - [ASCII (Nate)](https://www.youtube.com/embed/UPlR4eMMCmI)
@@ -26,7 +29,7 @@ One of the most common types of information that computers process is text. To t
 - ### ASCII table
   - Now we can do more, by using ASCII, a standard that maps numbers to letters. For example, A is mapped to 65, B is 66, etc. Though bits can only store numbers, programs can translate those bits to letters for humans to easily read.
   Here is an [ASCII table](http://www.asciitable.com/) for the printable characters; note that the ASCII standard also encompasses some characters that are important for computers, but are not visually renderable.
-  
+
 - ### Thought Questions
   - Are there things that cannot be represented using binary?
   - What are the impacts of ASCII and Unicode on the usage of technology internationally?
