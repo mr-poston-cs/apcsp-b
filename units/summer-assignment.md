@@ -6,7 +6,7 @@ I look forward to having you all in the fall, and have a great summer break! If 
 
 We will be using *Invitation to Computer Science 8th ed.* this year to supplement our CS50 AP curriculum. With that, your summer assignment will include reading chapter one of the book, along  with completing most of Unit 0 from the CS50 AP curriculum. Please do NOT stress out about most of the stuff in the book, as it is a college textbook for computer science, and as such, has a lot of material and terms that we will **not** be covering in this class. We will skip around in the book throughout the year, so don't try to read ahead too much, as it may not be the order in which we go (or we may not cover that at all).
 
-*Guided Notes Handout - Up by end of week*
+*Guided Notes Handout - Up by end of week* - feel free to take additional notes on notebook paper if you need to. This will count as a quiz grade (quizzes count for 10% of your grade).
 
 CS50 has done a great job of breaking up their long lectures in to bite sized pieces tailored to what the modules are in our curriculum, so don't panic when you click on a lecture video and it is 1-2 hours long (though some of the first ones may actually be). Usually they are 5-30 minute snippets of their lectures.
 
@@ -25,7 +25,7 @@ CS50 has done a great job of breaking up their long lectures in to bite sized pi
     - Complete guided notes for this module
 
   - [How Computers Work]({{"/units/unit0/how_computers_work" | relative_url }})
-    - Watch the lecture video, along with the supplementary resources videos
+    - Watch the lecture video (longest video of all, I promise, but it does cover most of the other modules as well), along with the supplementary resources videos
     - Read notes
     - Complete guided notes for this module
 
@@ -37,4 +37,9 @@ CS50 has done a great job of breaking up their long lectures in to bite sized pi
   - [Logic and Processors]({{"/units/unit0/logic_and_processors" | relative_url }})
     - Watch the videos and supplementary resources
     - Read the notes on both *Transistors and Logic* and *CPU and SoC*
+    - Complete guided notes for this module
+
+  - [Memory]({{"/units/unit0/memory" | relative_url }})
+    - Watch the videos
+    - Read the notes
     - Complete guided notes for this module

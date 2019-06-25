@@ -8,7 +8,7 @@ Computers are everywhere, but it's not just desktops and laptops anymore. Now we
 
 - ### Videos (Part 1)
   - Engineerguy on [How Smoke Detectors Work](https://www.youtube.com/embed/oFUUQcpGR3k)
-  - Rregister on [Curta Mechanical Calculator](https://www.youtube.com/embed/HYsOi6L_Pw4)
+  - Register on [Curta Mechanical Calculator](https://www.youtube.com/embed/HYsOi6L_Pw4)
   - Matthias Wandel on [Marble Adding Machine](https://www.youtube.com/embed/GcDshWmhF4A)
   - Canada Science and Technology Museum on [Sundials](https://www.youtube.com/embed/tI0GqYJha1Q)
 
