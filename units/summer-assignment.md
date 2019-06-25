@@ -1,6 +1,7 @@
 # Summer Assignment 2019
 
-Hello! I am happy to have you in my AP Computer Science Principles class for the 2019-2020 school year! Below is this year's summer assignment.\\ **There will be a test the first week of school** on material covered in the assignment, however, we will review some before.\\
+Hello! I am happy to have you in my AP Computer Science Principles class for the 2019-2020 school year! Below is this year's summer assignment.\\
+**There will be a test the first week of school** on material covered in the assignment, however, we will review some before.\\
 I look forward to having you all in the fall, and have a great summer break! If you ever need me, email me at <cbeaman@parrottacademy.org>.\\
 ~Mrs. Beaman
 
@@ -17,7 +18,8 @@ CS50 has done a great job of breaking up their long lectures in to bite sized pi
 
 ## Part II
 - First, make sure to watch the playlist on the [homepage on our CS50 AP Site]({{"/index" | relative_url}})
-- Complete the following for [Unit 0]({{ "/units/unit0" | relative_url }}):
+- Complete the following for [Unit 0]({{ "/units/unit0" | relative_url }}):\\
+*Most of the information for How Computers Work through Memory, can be found in the long lecture video in How Computers Work. I know this may seem like a lot, but it all goes together and I think you will find it more manageable than you think. Just make sure to give yourself enough time!*
 
   - [Computers and Computing]({{"/units/unit0/computers_and_computing" | relative_url }})
     - Watch videos Parts 0, 1, & 2
