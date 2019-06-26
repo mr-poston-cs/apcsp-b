@@ -5,11 +5,12 @@ Hello! I am happy to have you in my AP Computer Science Principles class for the
 I look forward to having you all in the fall, and have a great summer break! If you ever need me, email me at <cbeaman@parrottacademy.org>.\\
 ~Mrs. Beaman
 
-*Guided Notes Handout - Up by end of week* - feel free to take additional notes on notebook paper if you need to. This will count as a quiz grade (quizzes count for 10% of your grade).
+[Guided Notes Handout]({{"/assets/pdfs/summer/summer-2019.pdf" | relative_url}}) - feel free to take additional notes on notebook paper if you need to. This will count as a quiz grade (quizzes count for 10% of your grade).
+[Supplementary Notes]({{"/assets/pdfs/summer/unit0-study.pdf" | relative_url}}) - You do not HAVE to do this, but it was the study guide for Unit 0 last year.
 
 ## Part I
 - Read Chapter 1 in *Invitation to Computer Science 8th ed.*
-  - Either come by and pick up your book, or use the [PDF of Chapter 1]({{"/assets/pdfs/inv-to-cs-ch1.pdf" | relative_url}})
+  - Either come by and pick up your book, or use the [PDF of Chapter 1]({{"/assets/pdfs/summer/inv-to-cs-ch1.pdf" | relative_url}})
   - Complete the guided notes for the reading
 
 ## Part II
@@ -28,7 +29,7 @@ I look forward to having you all in the fall, and have a great summer break! If 
     - Complete guided notes for this module
 
   - [Binary and ASCII]({{"/units/unit0/binary_and_ascii" | relative_url }})
-    - Watch the videos, shorts, & supplementary resources (if you need a bit more)
+    - Watch the videos, shorts, & supplementary resources
     - Read notes on both Binary and ASCII - make sure to download the ASCII tables if you need to
     - Complete guided notes and practice problems for this module
 
