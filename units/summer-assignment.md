@@ -5,7 +5,8 @@ Hello! I am happy to have you in my AP Computer Science Principles class for the
 I look forward to having you all in the fall, and have a great summer break! If you ever need me, email me at <cbeaman@parrottacademy.org>.\\
 ~Mrs. Beaman
 
-[Guided Notes Handout]({{"/assets/pdfs/summer/summer-2019.pdf" | relative_url}}) - feel free to take additional notes on notebook paper if you need to. This will count as a quiz grade (quizzes count for 10% of your grade).
+#### [Guided Notes Handout]({{"/assets/pdfs/summer/summer-2019.pdf" | relative_url}}) - feel free to take additional notes on notebook paper if you need to. This will count as a quiz grade (quizzes count for 10% of your grade).
+
 [Supplementary Notes]({{"/assets/pdfs/summer/unit0-study.pdf" | relative_url}}) - You do not HAVE to do this, but it was the study guide for Unit 0 last year.
 
 ## Part I
@@ -15,6 +16,7 @@ I look forward to having you all in the fall, and have a great summer break! If 
 
 ## Part II
 - First, make sure to watch the playlist on the [homepage on our CS50 AP Site]({{"/index" | relative_url}})
+- Second, look over the guided notes for all modules in Unit 0, as some answers may appear as you are going through other videos
 - Complete the following for [Unit 0]({{ "/units/unit0" | relative_url }}):\\
 *Most of the information for How Computers Work through Memory, can be found in the long lecture video in How Computers Work. I know this may seem like a lot, but it all goes together and I think you will find it more manageable than you think. Just make sure to give yourself enough time to watch everything and complete the notes.*
 
