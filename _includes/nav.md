@@ -1,6 +1,6 @@
 ***
 
-* <a href="https://cs50.io/" target="_blank">CS50 IDE</a>
+* <a href="https://ide.cs50.io/" target="_blank">CS50 IDE</a>
 * <a href="https://reference.cs50.net/" target="_blank">CS50 Reference</a>
 
 ***
