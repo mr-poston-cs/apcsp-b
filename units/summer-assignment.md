@@ -5,7 +5,7 @@ Hello! I am happy to have you in my AP Computer Science Principles class for the
 I look forward to having you all in the fall, and have a great summer break! If you ever need me, email me at <cbeaman@parrottacademy.org>.\\
 ~Mrs. Beaman
 
-#### [Guided Notes Handout]({{"/assets/pdfs/summer/summer-2019.pdf" | relative_url}}) - feel free to take additional notes on notebook paper if you need to. This will count as a quiz grade (quizzes count for 10% of your grade).
+#### [Guided Notes Handout]({{"/assets/pdfs/summer/summer-2019.pdf" | relative_url}}) - feel free to take additional notes on notebook paper if you need to. This will count as a quiz grade (quizzes count for 15% of your grade).
 
 [Supplementary Notes]({{"/assets/pdfs/summer/unit0-study.pdf" | relative_url}}) - You do not HAVE to do this, but it was the study guide for Unit 0 last year.
 
