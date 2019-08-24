@@ -11,7 +11,7 @@
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [**Digital Portfolio**]({{ "units/digital_portfolio" | relative_url }})
-* [Problems by Unit]({{ "problems" | relative_url}})
+<!-- * [Problems by Unit]({{ "problems" | relative_url}}) -->
 
 ***
 
