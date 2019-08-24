@@ -1,6 +1,6 @@
 # Syllabus
 
-###### [Download the full syllabus as a PDF with mappings to the AP CSP Framework's Learning Objectives](https://dl.dropboxusercontent.com/s/f2srub4nxf2dx6c/Syllabus%202018-19.pdf?dl=0)
+###### [Download the full syllabus as a PDF with mappings to the AP CSP Framework's Learning Objectives](https://www.dropbox.com/s/dl/3osf5dq3et1b13i/Syllabus%202019-20.pdf?dl=0)
 
 ## Description
 
@@ -73,34 +73,78 @@ And the six computational thinking practices are:
 * P5. Communicating (both orally and in writing)
 * P6. Collaborating
 
+## Curriculum
 
-### Unit 0
+The core curriculum is identical to that of the college. The AP modules include topics that are not covered in CS50 here on campus, but are essential to the AP Computer Science Principles Course. The AP modules are less programming centric and can be used wherever you see fit.
 
-Computers and Computing. How Computers Work. Binary and ASCII. Logic and Processors. Memory. Algorithms.
+## CS50 Core Curriculum
 
-### Unit 1
+### Chapter 0
 
-Pseudocode. Scratch. Syntax. Variables. Data Types. Operators. Boolean Expressions and Conditionals. Loops.
+Binary. ASCII. Algorithms. Pseudocode. Scratch.  
 
-### Unit 2
+### Chapter 1
 
-Compiling. Functions. Arrays and Strings. Command-Line Interaction. Exit Codes. Libraries. Typecasting. Bugs and Debugging.
+Syntax. Variables. Data Types. Operators. Boolean Expressions and Conditionals. Loops.
 
-### Unit 3
+### Chapter 2
 
-Linear Search. Bubble Sort. Selection Sort. Insertion Sort. Binary Search. Computational Complexity. Unsolvable Problems. Models and Simulation.
+Compiling. Debugging. Arrays and Strings. Command-Line Interaction. Exit Codes. Searching. Computational Complexity. Computational Models.
 
-### Unit 4
+### Chapter 3
 
-Principles of Good Design. Ncurses. Structures and Encapsulation. Recursion. Merge Sort. Hexadecimal. File I/O. Images. Version Control and Collaboration.
+Functions. Tools for Debugging. More on Strings. Memory. Pointers. Structs.
 
-### Unit 5
+### Chapter 4
 
-Internet Basics. IP Addresses. DNS and DHCP. Routers. TCP and IP. HTTP. Trust Models. Cybersecurity. HTML. CSS.
+Valgrind. More on Structs. Linked Lists. Hash Tables. Trees. Tries.
 
-### Unit 6
+### Chapter 5
 
-Python. Python for Web Programming. SQL. MVC. JavaScript. Ajax. Artificial Intelligence and Machine Learning. Virtual and Augmented Reality.
+Internet Basics. HTTP. HTML. Forms. CSS. JavaScript.
+
+### Chapter 6
+
+Python. Conditionals. Booleans. Loops. Data Types. Functions.
+
+### Chapter 7
+
+Flask. MVC. Autocomplete. Events. Ajax. JSON.
+
+### Chapter 8
+
+Cookies. Sessions. Databases. SQL. Race Conditions.
+
+## AP Modules
+
+### Understanding Technology
+
+Hardware. The Internet. Multimedia. Security.
+
+### Data Science
+
+Collecting Data. Analyzing Data.
+
+### Impact of Computing
+
+The Development Process. Scaling. Models. Simulations. The Digital Divide. Ethics and Legalities of Computing.
+
+## Recommended Order
+
+1. Understanding Technology
+2. Chapter 0
+3. Performance Task 1: Explore
+4. Chapter 1
+5. Chapter 2
+6. Chapter 3
+7. Chapter 4
+8. Data Science
+9. Chapter 5
+10. Chapter 6
+11. Chapter 7
+12. Chapter 8
+13. Performance Task 2: Create
+12. Impact of Computing
 
 ## Academic Honesty
 
@@ -120,7 +164,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 * Sending or showing code that you've written to someone, possibly a classmate, so that he or she might help you identify and fix a bug.
 * Sharing snippets of your own code online so that others might help you identify and fix a bug.
 * Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to problems or your own through-course assessments.
-* Whiteboarding solutions to problems with others using diagrams or pseudocode but not actual code.
+* White-boarding solutions to problems with others using diagrams or pseudocode but not actual code.
 * Working with (and even paying) a tutor to help you with the course, provided the tutor does not do your work for you.
 
 ### Not Reasonable
@@ -135,7 +179,7 @@ Below are rules of thumb that (inexhaustively) characterize acts that the course
 * Providing or making available solutions to problems to individuals who might take this course in the future.
 * Searching for, soliciting, or viewing a test or quiz's questions or answers prior to taking a test or quiz.
 * Searching for or soliciting outright solutions to problems online or elsewhere.
-* Splitting a problem's workload with another individual and combining your work, when prohibitted.
+* Splitting a problem's workload with another individual and combining your work, when prohibited.
 * Submitting (after possibly modifying) the work of another individual beyond allowed snippets.
 * Submitting the same or similar work to this course that you have submitted or will submit to another.
 * Submitting work to this course that you intend to use outside of the course (e.g., for a job) without prior approval.
