@@ -16,4 +16,6 @@
 * [Data Science](data_science)
 * [Impact of Computing](impact_of_computing)
 
-* [Summer Assignment 2019]({{ "/units/summer-assignment" | relative_url }})
+# Summer Assignment
+
+* [Summer 2019]({{ "/units/summer-assignment" | relative_url }})
