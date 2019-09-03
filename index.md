@@ -6,18 +6,17 @@ title: false
 
 ## Schedule:
 
-Week of 8/26/19:
-  - **Mon:** Algorithms & Pseudocode
-  - **Tue:** Pseudocode & Scratch; Create [GitHub](https://github.com/join) Accounts, [join our class here](https://submit.cs50.io/invites/b17dae71d9284fc78fd9a8ed34b4ff42) & go over Submit50
+Week of 9/2/19:
+  - **Mon:** Labor Day!!!  [Scratch PSET](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html) due before midnight
+  - **Tue:** Start C programming; Go over IDE and syntax, varialbes, data types, & operators
     - [Fill out this form so I have a list of your usernames](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNURFhEWVNXQjI4VUxUNVZCTkcxNVBQVENMNy4u)
-    - Play in [Scratch](https://scratch.mit.edu) for homework and go over the [Scratch PSET](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html) requirements
-  - **Wed:** Continue working on Scratch
-  - **Thu:** Continue working on Scratch
-  - **Fri:** Work on Scratch PSET - this is due Monday at 11:59 pm
+  - **Wed:** Continue with C - Boolean expressions, loops, functions, libraries
+  - **Thu:** Principles of Good Design and putting it all together (Hopefully we will have school, otherwise I will post up what to go over at home)
+  - **Fri:** 
 
   *Anything not completed in class becomes homework*
 
-  *HW Assignments not submitted by class time next day will be late and you will not get points; PSETs not turned in will be counted off 5 points each day they are late*
+  *HW Assignments not submitted by class time next day will be late and you will not get points; PSETs not turned in will be counted off 5 points/percent each day they are late*
 
 <!-- This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's AP CS Principles curriculum framework.
 
