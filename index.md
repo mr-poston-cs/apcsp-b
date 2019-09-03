@@ -6,7 +6,7 @@ title: false
 
 ## Schedule:
 
-Week of 9/2/19:
+Week of 9/2/19: [Chapter 1](curriculum/1)
   - **Mon:** Labor Day!!!  [Scratch PSET](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html) due before midnight
   - **Tue:** Start C programming; Go over IDE and syntax, varialbes, data types, & operators
     - [Fill out this form so I have a list of your usernames](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNURFhEWVNXQjI4VUxUNVZCTkcxNVBQVENMNy4u)
