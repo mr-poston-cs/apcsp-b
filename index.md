@@ -10,7 +10,9 @@ Week of 9/2/19: [Chapter 1](curriculum/1)
   - **Mon:** Labor Day!!!  [Scratch PSET](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html) due before midnight
   - **Tue:** Start C programming; Go over IDE and syntax, varialbes, data types, & operators
     - [Fill out this form so I have a list of your usernames](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNURFhEWVNXQjI4VUxUNVZCTkcxNVBQVENMNy4u)
+    - [Hello](https://docs.cs50.net/2019/ap/problems/hello/hello.html) PSET due tonight
   - **Wed:** Continue with C - Boolean expressions, loops, functions, libraries
+    - Read over reference sheets through Loops & watch the [lecture video for chapter 1](https://video.cs50.net/2018/fall/lectures/1?t=15m58s) starting at this link and going through while loops at  minutes and 30 seconds
   - **Thu:** Principles of Good Design and putting it all together (Hopefully we will have school, otherwise I will post up what to go over at home)
   - **Fri:** 
 
