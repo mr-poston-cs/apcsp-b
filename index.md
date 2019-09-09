@@ -13,10 +13,10 @@ Week of 9/9/19: [Chapter 1](curriculum/1) continued
     - Look over the [source code PDF](https://cdn.cs50.net/2018/fall/lectures/1/src1.pdf) if you didn't get a chance to get all of it in class
   - **Tue:** Work on [Conditions Lab](https://lab.cs50.io/candib80/cs50labs/c/conditions/) in class
     - Complete the [Water Lab](https://lab.cs50.io/candib80/cs50labs/c/water/) for homework
-  - **Wed:** Continue with C - Functions, Libraries
-    - Watch any of the shorts needed for Chapter 1 to better understand concepts
+  - **Wed:** Senior Picture Day!
+    - Watch any of the shorts needed for [Chapter 1](curriculum/1) to better understand concepts
+  - **Thu:** Continue with C - Functions, Libraries
     - Complete the following labs for homework if not completed in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/), [Mult](https://lab.cs50.io/candib80/cs50labs/c/mult/), and [MyFunction](https://lab.cs50.io/candib80/cs50labs/c/myFunction/)
-  - **Thu:** 
   - **Fri:** 
 
   *Anything not completed in class becomes homework*
