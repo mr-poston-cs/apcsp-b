@@ -11,9 +11,11 @@ Week of 9/9/19: [Chapter 1](curriculum/1) continued
     - [Fahrenheit](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html) due tonight by 11:59
     - If you have not alread done so, read over reference sheets through Loops & watch the [lecture video for chapter 1 starting at this link](https://video.cs50.net/2018/fall/lectures/1?t=15m58s) and going through User Input at appx 50 minutes
     - Look over the [source code PDF](https://cdn.cs50.net/2018/fall/lectures/1/src1.pdf) if you didn't get a chance to get all of it in class
-  - **Tue:** Continue with C - Functions, Libraries
-    - Complete the [Conditions Lab](https://lab.cs50.io/candib80/cs50labs/c/conditions/) and [Water Lab](https://lab.cs50.io/candib80/cs50labs/c/water/) for homework
-  - **Wed:** 
+  - **Tue:** Work on [Conditions Lab](https://lab.cs50.io/candib80/cs50labs/c/conditions/) in class
+    - Complete the [Water Lab](https://lab.cs50.io/candib80/cs50labs/c/water/) for homework
+  - **Wed:** Continue with C - Functions, Libraries
+    - Watch any of the shorts needed for Chapter 1 to better understand concepts
+    - Complete the following labs for homework if not completed in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/), [Mult](https://lab.cs50.io/candib80/cs50labs/c/mult/), and [MyFunction](https://lab.cs50.io/candib80/cs50labs/c/myFunction/)
   - **Thu:** 
   - **Fri:** 
 
