@@ -6,14 +6,15 @@ title: false
 
 ## Schedule:
 
-Week of 9/2/19: [Chapter 1](curriculum/1)
-  - **Mon:** Labor Day!!!  [Scratch PSET](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html) due before midnight
-  - **Tue:** Start C programming; Go over IDE and syntax, varialbes, data types, & operators
-    - [Fill out this form so I have a list of your usernames](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNURFhEWVNXQjI4VUxUNVZCTkcxNVBQVENMNy4u)
-    - [Hello](https://docs.cs50.net/2019/ap/problems/hello/hello.html) PSET due tonight
-  - **Wed:** Continue with C - Boolean expressions, loops, functions, libraries
-    - Read over reference sheets through Loops & watch the [lecture video for chapter 1](https://video.cs50.net/2018/fall/lectures/1?t=15m58s) starting at this link and going through User Input at appx 50 minutes
-  - **Thu:** Make sure to watch the video above, and Get [Fahrenheit](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html) done for Monday
+Week of 9/9/19: [Chapter 1](curriculum/1) continued
+  - **Mon:** Continue with C - Operators, Boolean expressions, Loops
+    - [Fahrenheit](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html) due tonight by 11:59
+    - If you have not alread done so, read over reference sheets through Loops & watch the [lecture video for chapter 1 starting at this link](https://video.cs50.net/2018/fall/lectures/1?t=15m58s) and going through User Input at appx 50 minutes
+    - Look over the [source code PDF](https://cdn.cs50.net/2018/fall/lectures/1/src1.pdf) if you didn't get a chance to get all of it in class
+  - **Tue:** Continue with C - Functions, Libraries
+    - Complete the [Conditions Lab](https://lab.cs50.io/candib80/cs50labs/c/conditions/) and [Water Lab](https://lab.cs50.io/candib80/cs50labs/c/water/) for homework
+  - **Wed:** 
+  - **Thu:** 
   - **Fri:** 
 
   *Anything not completed in class becomes homework*
