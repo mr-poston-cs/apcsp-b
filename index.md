@@ -20,9 +20,9 @@ Week of 9/9/19: [Chapter 1](curriculum/1) continued
   - **Fri:** 
 
   *Anything not completed in class becomes homework*
-    * *HW Assignments not submitted by class time next day will be late and you will not get points*
-    * *PSETs not turned in will be counted off 5 points/percent each day they are late*
-    * *Labs will be included in the Quizzes Category and graded as such*
+    - HW Assignments not submitted by class time next day will be late and you will not get points
+    - PSETs not turned in will be counted off 5 points/percent each day they are late
+    - Labs will be included in the Quizzes Category and graded as such
 
 <!-- This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's AP CS Principles curriculum framework.
 
