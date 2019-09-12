@@ -15,9 +15,10 @@ Week of 9/9/19: [Chapter 1](curriculum/1) continued
     - Complete the [Water Lab](https://lab.cs50.io/candib80/cs50labs/c/water/) for homework
   - **Wed:** Senior Picture Day!
     - Watch any of the shorts needed for [Chapter 1](curriculum/1) to better understand concepts
-  - **Thu:** Continue with C - Functions, Libraries
-    - Complete the following labs for homework if not completed in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/), [Mult](https://lab.cs50.io/candib80/cs50labs/c/mult/), and [MyFunction](https://lab.cs50.io/candib80/cs50labs/c/myFunction/)
-  - **Fri:** 
+  - **Thu:** Continue with C - Loops
+    - Start on [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html) at the end of class and finish for PSET grade by Tuesday at ll:59 pm
+  - **Fri:** Continue with C - Functions, Libraries
+    - Complete the following labs for homework if not completed in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/) and [Mult](https://lab.cs50.io/candib80/cs50labs/c/mult/)
 
 **Anything not completed in class becomes homework**
   - HW Assignments not submitted by class time next day will be late and you will not get points
