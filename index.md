@@ -18,7 +18,7 @@ Week of 9/9/19: [Chapter 1](curriculum/1) continued
   - **Thu:** Continue with C - Loops
     - Start on [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html) at the end of class and finish for PSET grade by Tuesday at ll:59 pm
   - **Fri:** Continue with C - Functions, Libraries
-    - Complete the following labs for homework if not completed in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/) and [Mult](https://lab.cs50.io/candib80/cs50labs/c/mult/)
+    - Read over [chapter 1 reference sheets](assets/pdfs/ch1-ref-sheets.pdf) & watch shorts for Chapter 1
 
   - **Looking forward:** Next week we will finish up with Chapter 1, review and have a test on the material covered so far.
 
