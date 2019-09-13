@@ -20,6 +20,8 @@ Week of 9/9/19: [Chapter 1](curriculum/1) continued
   - **Fri:** Continue with C - Functions, Libraries
     - Complete the following labs for homework if not completed in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/) and [Mult](https://lab.cs50.io/candib80/cs50labs/c/mult/)
 
+  - Looking forward: Next week we will finish up with Chapter 1, review and have a test on the material covered so far.
+
 **Anything not completed in class becomes homework**
   - HW Assignments not submitted by class time next day will be late and you will not get points
   - PSETs not turned in will be counted off 5 points/percent each day they are late
