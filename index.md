@@ -8,9 +8,9 @@ title: false
 
 Week of 9/9/19: [Chapter 1](curriculum/1) continued
   - Read over [chapter 1 reference sheets](assets/pdfs/ch1-ref-sheets.pdf) & watch shorts for Chapter 1 if needed
-  - **Mon:** Answer Pennies questions
-   - Continue with [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html)
-  - **Tue:** Continue with Functions and Libraries
+  - **Mon:** Answer Pennies questions in class
+    - Continue with [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html)
+  - **Tue:** Continue with Functions and Libraries; Answer any other questions on Pennies in class
     - Work on functions labs in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/), [Multiply](https://lab.cs50.io/candib80/cs50labs/c/mult/), & [MyFunction](https://lab.cs50.io/candib80/cs50labs/c/myFunction/)
     - [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html) due at 11:59pm tonight
   - **Wed:** Principles of Good Design
