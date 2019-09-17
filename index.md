@@ -6,9 +6,9 @@ title: false
 
 <img src="https://www.creativefabrica.com/wp-content/uploads/2018/12/Mistakes-are-proof-that-youre-trying-580x386.jpg" alt="mistakes are proof that your're trying">
 
-## Schedule: Week of 9/9/19: [Chapter 1](curriculum/1) continued
+## Schedule for week of 9/9/19 - [Chapter 1](curriculum/1) continued
 
-  - Read over [chapter 1 reference sheets](assets/pdfs/ch1-ref-sheets.pdf) & watch shorts for Chapter 1 if needed
+Read over [chapter 1 reference sheets](assets/pdfs/ch1-ref-sheets.pdf) & watch shorts for Chapter 1 if needed
   - **Mon:** Answer Pennies questions in class
     - Continue with [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html)
   - **Tue:** Answer any other questions on Pennies in class
