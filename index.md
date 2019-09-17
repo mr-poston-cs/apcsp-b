@@ -4,6 +4,8 @@ title: false
 
 # Hello, world!
 
+<img src="https://www.creativefabrica.com/wp-content/uploads/2018/12/Mistakes-are-proof-that-youre-trying-580x386.jpg" alt="mistakes are proof that your're trying">
+
 ## Schedule:
 
 Week of 9/9/19: [Chapter 1](curriculum/1) continued
