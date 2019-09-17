@@ -18,7 +18,7 @@ Week of 9/9/19: [Chapter 1](curriculum/1) continued
     - Complete study guide for Ch 1 for homework so we can review tomorrow
   - **Fri:** Review for Test
 
-  - **Looking forward:** 
+  - **Looking forward:** Test on Monday; Start [Chapter 2](curriculum/2)
 
 **Anything not completed in class becomes homework**
   - HW Assignments not submitted by class time next day will be late and you will not get points
