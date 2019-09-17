@@ -15,6 +15,7 @@ Week of 9/9/19: [Chapter 1](curriculum/1) continued
   - **Wed:** Continue with Functions and Libraries
     - Work on functions labs in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/), [Multiply](https://lab.cs50.io/candib80/cs50labs/c/mult/), & [MyFunction](https://lab.cs50.io/candib80/cs50labs/c/myFunction/)
   - **Thu:** Principles of Good Design
+    - Complete study guide for Ch 1 for homework so we can review tomorrow
   - **Fri:** Review for Test
 
   - **Looking forward:** 
