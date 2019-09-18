@@ -15,6 +15,7 @@ Read over [chapter 1 reference sheets](assets/pdfs/ch1-ref-sheets.pdf) & watch s
     - [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html) due at 11:59pm tonight
   - **Wed:** Continue with Functions and Libraries
     - Work on functions labs in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/), [Multiply](https://lab.cs50.io/candib80/cs50labs/c/mult/), & [MyFunction](https://lab.cs50.io/candib80/cs50labs/c/myFunction/)
+      - Finish for homework if not completed in class - all 3 will count as one quiz grade
   - **Thu:** Principles of Good Design
     - Complete study guide for Ch 1 for homework so we can review tomorrow
   - **Fri:** Review for Test
