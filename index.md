@@ -17,10 +17,10 @@ Read over [chapter 1 reference sheets](assets/pdfs/ch1-ref-sheets.pdf) & watch s
     - Work on functions labs in class: [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/), [Multiply](https://lab.cs50.io/candib80/cs50labs/c/mult/), & [MyFunction](https://lab.cs50.io/candib80/cs50labs/c/myFunction/)
       - Finish for homework if not completed in class - all 3 will count as one quiz grade
   - **Thu:** Principles of Good Design
-    - Complete study guide for Ch 1 for homework so we can review tomorrow
-  - **Fri:** Review for Test
+    - Start study guide for Ch 1 for homework
+  - **Fri:** Finish anythig not covered and start review
 
-  - **Looking forward:** Test on Tusday; work on [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) as a class; start [Chapter 2](curriculum/2)
+  - **Looking forward:** Review on Monday; Test on Tusday; Work on [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) as a class; start [Chapter 2](curriculum/2)
 
 **Anything not completed in class becomes homework**
   - HW Assignments not submitted by class time next day will be late and you will not get points
