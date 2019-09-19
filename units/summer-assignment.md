@@ -37,6 +37,11 @@ I look forward to having you all in the fall, and have a great summer break! If 
 
   - [Logic and Processors]({{"/units/unit0/logic_and_processors" | relative_url }})
     - Watch the videos and supplementary resources
+      - [Boolean Logic & Logic Gates: Crash Course CS](https://youtu.be/gI-qXk7XojA)
+      - [Inside the CPU](https://youtu.be/IAkj32VPcUE)
+      - [CPU: Crash Course CS](https://www.youtube.com/watch?v=FZGugFqdr60)
+      - [Khan Academy and Code.org Ciruits & Logic](https://www.youtube.com/watch?v=Sc3lh3D4rCw)
+      - [How Transistors Work](https://www.youtube.com/watch?v=WhNyURBiJcU)
     - Read the notes on both *Transistors and Logic* and *CPU and SoC*
     - Complete guided notes for this module
 
