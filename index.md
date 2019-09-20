@@ -19,6 +19,7 @@ Read over [chapter 1 reference sheets](assets/pdfs/ch1-ref-sheets.pdf) & watch s
   - **Thu:** Principles of Good Design
     - Start study guide for Ch 1 for homework
   - **Fri:** Finish anythig not covered and start review
+    - Finish Study Guide for homework grade for Monday
 
   - **Looking forward:** Review on Monday; Test on Tusday; Work on [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) as a class; start [Chapter 2](curriculum/2)
 
