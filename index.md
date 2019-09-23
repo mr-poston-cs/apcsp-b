@@ -4,7 +4,7 @@ title: false
 
 # Hello, world!
 
-<img src="https://www.probytes.net/wp-content/uploads/2018/01/5-1.png" alt="code works, why?">
+<img src="https://img.memecdn.com/every-programmer-knows_o_1438249.jpg" alt="code works, why?">
 
 ## Schedule for week of 9/23/19 - [Chapter 1](curriculum/1) Test; Start [Chapter 2](curriculum/2)
 
