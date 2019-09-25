@@ -14,10 +14,11 @@ title: false
   - **Tue:** Test on Chapter 1
     - Read over problem spec for [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html); we will do this as a class for more practice
   - **Wed:** Work on [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html)
-  - **Thu:** 
-  - **Fri:** 
+  - **Thu:** Work on [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html)
+    - Make any tweaks you think need to be made for homework and submit it using the submit command; we will go over in class Friday, and you can make any changes needed and resubmit at the end of class.
+  - **Fri:** Finish up Cash; Start with overview of [Chapter 2](curriculum/2)
 
-  - **Looking forward:** 
+  - **Looking forward:** Get into [Chapter 2](curriculum/2)
 
 **Anything not completed in class becomes homework**
   - *HW Assignments not submitted by class time next day will be late and you will not get points*
