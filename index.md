@@ -4,7 +4,7 @@ title: false
 
 # Hello, world!
 
-<img src="https://img.memecdn.com/every-programmer-knows_o_1438249.jpg" alt="code works, why?" height="300">
+<img src="https://img.memecdn.com/every-programmer-knows_o_1438249.jpg" alt="code works, why?" height="350">
 
 ## Schedule for week of 9/23/19 - [Chapter 1](curriculum/1) Test; Start [Chapter 2](curriculum/2)
 
