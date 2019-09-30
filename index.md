@@ -4,20 +4,19 @@ title: false
 
 # Hello, world!
 
-<img src="https://pbs.twimg.com/media/DpkBAHyXUAAZgbi.jpg" alt="doer makes mistakes" height="400">
+<img src="https://pbs.twimg.com/media/DpkBAHyXUAAZgbi.jpg" alt="doer makes mistakes" height="350">
 
 ## Schedule for week of 9/30/19 - [Chapter 2](curriculum/2)
 
   - **Mon:** [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) due by class if not finished and turned in Friday
     - Go over compiling
-    - HW: 
-      - Read over the Compiling reference sheet and watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) on compiling for review (thru 12m 3s)
+    - HW: Read over the Compiling reference sheet and watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) on compiling for review (thru 12m 3s)
   - **Tue:** Arrays & Strings
   - **Wed:** 
   - **Thu:** 
   - **Fri:** 
 
-  - **Looking forward:** Get into [Chapter 2](curriculum/2)
+  - **Looking forward:** 
 
 **Anything not completed in class becomes homework**
   - *HW Assignments not submitted by class time next day will be late and you will not get points*
