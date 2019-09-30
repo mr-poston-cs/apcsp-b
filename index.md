@@ -12,7 +12,6 @@ title: false
     - Go over compiling
     - HW: 
       - Read over the Compiling reference sheet and watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) on compiling for review (thru 12m 3s)
-      - Watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) through 
   - **Tue:** Arrays & Strings
   - **Wed:** 
   - **Thu:** 
