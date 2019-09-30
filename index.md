@@ -4,19 +4,19 @@ title: false
 
 # Hello, world!
 
-<img src="https://img.memecdn.com/every-programmer-knows_o_1438249.jpg" alt="code works, why?" height="350">
+<img src="https://pbs.twimg.com/media/DpkBAHyXUAAZgbi.jpg" alt="doer makes mistakes" height="400">
 
-## Schedule for week of 9/23/19 - [Chapter 1](curriculum/1) Test; Start [Chapter 2](curriculum/2)
+## Schedule for week of 9/30/19 - [Chapter 2](curriculum/2)
 
-  - **Mon:** Go over study guide
-    - Study for test tomorrow 
-    - Read over [chapter 1 reference sheets](assets/pdfs/ch1-ref-sheets.pdf) & watch shorts/lecture for [Chapter 1](curriculum/1) if needed
-  - **Tue:** Test on Chapter 1
-    - Read over problem spec for [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html); we will do this as a class for more practice
-  - **Wed:** Work on [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html)
-  - **Thu:** Work on [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html)
-    - Make any tweaks you think need to be made for homework and submit it using the submit command; we will go over in class Friday, and you can make any changes needed and resubmit at the end of class or over the weekend; it will be counted late if turned in after the bell for our class on Monday.
-  - **Fri:** Finish up Cash; Start with overview of [Chapter 2](curriculum/2)
+  - **Mon:** [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) due by class if not finished and turned in Friday
+    - Go over compiling
+    - HW: 
+      - Read over the Compiling reference sheet and watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) on compiling for review (thru 12m 3s)
+      - Watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) through 
+  - **Tue:** Arrays & Strings
+  - **Wed:** 
+  - **Thu:** 
+  - **Fri:** 
 
   - **Looking forward:** Get into [Chapter 2](curriculum/2)
 
