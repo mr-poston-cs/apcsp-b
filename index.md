@@ -10,7 +10,7 @@ title: false
 
   - **Mon:** [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) due by class if not finished and turned in Friday
     - Go over compiling
-    - HW: Read over the Compiling reference sheet and watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) on compiling for review (thru 12m 3s)
+    - HW: Read over the Compiling and Arrays & Strings reference sheets and watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) on compiling for review (thru 12m 3s)
   - **Tue:** PUZZLES
   - **Wed:** Arrays & Strings
   - **Thu:** 
