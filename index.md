@@ -15,7 +15,7 @@ title: false
   - **Wed:** Arrays & Strings
     - HW: Watch the [video startig here](https://video.cs50.net/2018/fall/lectures/2?t=29m4s) on arrays through 52m app 15s
     - Review Arrays & Strings reference sheet & read over Typecsting and Command-Line Interaction
-  - **Thu:** 
+  - **Thu:** Cont with Arrays & Strings; start on Typecasting and Command-Line Interaction
   - **Fri:** 
 
   - **Looking forward:** 
