@@ -13,7 +13,7 @@ title: false
     - HW: Read over the Compiling and Arrays & Strings reference sheets and watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) on compiling for review (thru 12m 3s)
   - **Tue:** PUZZLES
   - **Wed:** Arrays & Strings
-    - HW: Watch the [video startig here](https://video.cs50.net/2018/fall/lectures/2?t=29m4s) on arrays through 52m app 15s
+    - HW: Watch the [video startig here](https://video.cs50.net/2018/fall/lectures/2?t=29m4s) on arrays through 52m 15s (appx)
     - Review Arrays & Strings reference sheet & read over Typecsting and Command-Line Interaction
   - **Thu:** Cont with Arrays & Strings; start on Typecasting and Command-Line Interaction
   - **Fri:** 
