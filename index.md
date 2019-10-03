@@ -23,7 +23,7 @@ title: false
       - Answer questions in OneNote Homework section - Arrays & Strings HW
   - **Fri:** 
 
-  - **Looking forward:** 
+  - **Looking forward:** Quiz next Tuesday on Ch 2 so far
 
 **Anything not completed in class becomes homework**
   - *HW Assignments not submitted by class time next day will be late and you will not get points*
