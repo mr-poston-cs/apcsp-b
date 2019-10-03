@@ -18,6 +18,9 @@ title: false
       - Review Arrays & Strings reference sheet & read over Typecsting and Command-Line Interaction
       - Review the [lecture video starting here](https://video.cs50.net/2018/fall/lectures/2?t=29m4s) on arrays through 52m 15s (appx) if you would like
   - **Thu:** Cont with Arrays & Strings; start on Typecasting and Command-Line Interaction
+    - HW:
+      - Review Arrays & Strings
+      - Answer questions in OneNote Homework section - Arrays & Strings HW
   - **Fri:** 
 
   - **Looking forward:** 
