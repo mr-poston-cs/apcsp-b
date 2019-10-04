@@ -21,7 +21,8 @@ title: false
     - HW:
       - Review Arrays & Strings
       - Answer questions in OneNote Homework section - Arrays & Strings HW
-  - **Fri:** 
+  - **Fri:** Go over Strings
+    - HW: Watch short on [Command line](https://www.youtube.com/watch?v=thL7ILwRNMM) so we can start on that Monday
 
   - **Looking forward:** Quiz next Tuesday on Ch 2 so far
 
