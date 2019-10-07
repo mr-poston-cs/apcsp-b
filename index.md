@@ -4,27 +4,18 @@ title: false
 
 # Hello, world!
 
-<img src="https://pbs.twimg.com/media/DpkBAHyXUAAZgbi.jpg" alt="doer makes mistakes" height="350">
+<img src="https://ih0.redbubble.net/image.453247676.2842/flat,800x800,070,f.u3.jpg" alt="hide and seek champ ;" height="350">
 
-## Schedule for week of 9/30/19 - [Chapter 2](curriculum/2)
+## Schedule for week of 10/7/19 - [Chapter 2](curriculum/2)
 
-  - **Mon:** [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) due by class if not finished and turned in Friday
-    - Go over compiling
-    - HW: Read over the Compiling and Arrays & Strings reference sheets and watch the [lecture video](https://video.cs50.net/2018/fall/lectures/2?t=0m53s) on compiling for review (thru 12m 3s)
-  - **Tue:** PUZZLES
-  - **Wed:** Arrays & Strings
-    - HW: 
-      - Watch the [Arrays Short](https://www.youtube.com/watch?v=mISkNAfWl8k)
-      - Review Arrays & Strings reference sheet & read over Typecsting and Command-Line Interaction
-      - Review the [lecture video starting here](https://video.cs50.net/2018/fall/lectures/2?t=29m4s) on arrays through 52m 15s (appx) if you would like
-  - **Thu:** Cont with Arrays & Strings; start on Typecasting and Command-Line Interaction
-    - HW:
-      - Review Arrays & Strings
-      - Answer questions in OneNote Homework section - Arrays & Strings HW
-  - **Fri:** Go over Strings
-    - HW: Watch short on [Command line](https://www.youtube.com/watch?v=thL7ILwRNMM) so we can start on that Monday
+  - **Mon:** Review Arrays & Strings and Typecasting; Overview of Command-line Interaction; Review for Quiz
+  - **Tue:** Quiz; Start on command-line interaction in depth if time after quiz & possibly Exit Codes
+    - HW: make sure to read over ref sheets on command-line interaction and exit codes if you haven't already
+  - **Wed:** Lab on arrays, command-line interaction, and exit codes; finish for HW if not done in class
+  - **Thu:** Go over lab; Start Linear Search and Sorting
+  - **Fri:** PUZZELS!!
 
-  - **Looking forward:** Quiz next Tuesday on Ch 2 so far
+  - **Looking forward:** Continue with chapter 2 - sorting & searching
 
 **Anything not completed in class becomes homework**
   - *HW Assignments not submitted by class time next day will be late and you will not get points*
