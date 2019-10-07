@@ -11,7 +11,8 @@ title: false
   - **Mon:** Review Arrays & Strings and Typecasting; Overview of Command-line Interaction; Review for Quiz
   - **Tue:** Quiz; Start on command-line interaction in depth if time after quiz & possibly Exit Codes
     - HW: make sure to read over ref sheets on command-line interaction and exit codes if you haven't already
-  - **Wed:** Lab on arrays, command-line interaction, and exit codes; finish for HW if not done in class
+  - **Wed:** Lab on arrays, command-line interaction, and exit codes; 
+    - HW: Finish lab if not done in class; Read over ref sheets: Linear search and Bubble Sort
   - **Thu:** Go over lab; Start Linear Search and Sorting
   - **Fri:** PUZZELS!!
 
