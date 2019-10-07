@@ -14,7 +14,7 @@ title: false
   - **Wed:** Lab on arrays, command-line interaction, and exit codes; 
     - HW: Finish lab if not done in class; Read over ref sheets: Linear search and Bubble Sort
   - **Thu:** Go over lab; Start Linear Search and Sorting
-  - **Fri:** PUZZELS!!
+  - **Fri:** Guest speaker 
 
   - **Looking forward:** Continue with chapter 2 - sorting & searching
 
