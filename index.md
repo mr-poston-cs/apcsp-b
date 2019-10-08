@@ -11,7 +11,7 @@ title: false
   - **Mon:** Review Arrays & Strings and Typecasting; Overview of Command-line Interaction; Review for Quiz
   - **Tue:** Quiz; Start on command-line interaction in depth if time after quiz & possibly Exit Codes
     - HW: make sure to read over ref sheets on command-line interaction and exit codes if you haven't already
-  - **Wed:** Lab on arrays, command-line interaction, and exit codes; 
+  - **Wed:** [Lab on arrays, command-line interaction, and exit codes](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/)
     - HW: Finish lab if not done in class; Read over ref sheets: Linear search and Bubble Sort
   - **Thu:** Go over lab; Start Linear Search and Sorting
   - **Fri:** Guest speaker 
