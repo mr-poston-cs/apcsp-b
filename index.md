@@ -14,7 +14,9 @@ title: false
   - **Wed:** [Lab on arrays, command-line interaction, and exit codes](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/)
     - HW: Finish lab if not done in class; Read over ref sheets: Linear search and Bubble Sort
   - **Thu:** Go over lab; Start Linear Search and Sorting
-  - **Fri:** Guest speaker 
+    - HW: Get a MadLib written for Monday
+  - **Fri:** Guest speaker/MadLibs/Puzzles
+    - WH: Make sure you have a MadLib written for Monday so we can code it to practice arrays some more.
 
   - **Looking forward:** Continue with chapter 2 - sorting & searching
 
