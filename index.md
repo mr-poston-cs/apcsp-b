@@ -18,7 +18,7 @@ title: false
   - **Fri:** Guest speaker/MadLibs/Puzzles
     - WH: Make sure you have a MadLib written for Monday so we can code it to practice arrays some more.
 
-  - **Looking forward:** Continue with chapter 2 - sorting & searching
+  - **Looking forward:** Continue with chapter 2 - MadLibs on Monday then sorting & searching
 
 **Anything not completed in class becomes homework**
   - *HW Assignments not submitted by class time next day will be late and you will not get points*
