@@ -13,7 +13,9 @@ title: false
   - **Tue:** Start on Searching and Sorting
     - HW: Review Linear Search and Bubble Sort ref sheets; Read Insertion and Selection Sort for class tomorrow
   - **Wed:** Go over Insertion and Selection Sorting; if enough time, go over Binary Search
-    - HW: Watch shorts on [Linear Search](https://www.youtube.com/watch?v=TwsgCHYmbbA), [Bubble Sort](https://www.youtube.com/watch?v=RT-hUXUWQ2I), [Insertion Sort](https://www.youtube.com/watch?v=O0VbBkUvriI), [Selection Sort](https://www.youtube.com/watch?v=3hH8kTHFw2A)
+    - HW: 
+      - Watch shorts on [Linear Search](https://www.youtube.com/watch?v=TwsgCHYmbbA), [Bubble Sort](https://www.youtube.com/watch?v=RT-hUXUWQ2I), [Insertion Sort](https://www.youtube.com/watch?v=O0VbBkUvriI), [Selection Sort](https://www.youtube.com/watch?v=3hH8kTHFw2A)
+      - Answer questions on Sorting and Searching (either OneNote or Teams - I will decide later which one)
   - **Thu:** 
     - HW: 
   - **Fri:** 
