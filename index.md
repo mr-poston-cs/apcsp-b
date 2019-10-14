@@ -10,6 +10,7 @@ title: false
 
   - **Mon:** Working on MadLibs
     - HW: Finish MadLib before class tomorrow - this will be a lab grade
+      - To submit your madlib, ensure you are the correct folder via `cd chapter2/madlib` at the terminal, then type `submit50 candib80/cs50labs/c/madlib` entering your GitHub username and password when prompted
   - **Tue:** Start on Searching and Sorting
     - HW: Review Linear Search and Bubble Sort ref sheets; Read Insertion and Selection Sort for class tomorrow
   - **Wed:** Go over Insertion and Selection Sorting; if enough time, go over Binary Search
