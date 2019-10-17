@@ -20,6 +20,7 @@
   * [Insertion sort](https://www.youtube.com/watch?v=O0VbBkUvriI)
   * [Selection sort](https://www.youtube.com/watch?v=3hH8kTHFw2A)
   * [Binary search](https://www.youtube.com/watch?v=T98PIp4omUA)
+  * [Recursion](https://www.youtube.com/watch?v=mz6tAJMVmfM)
   * [Merge sort](https://www.youtube.com/watch?v=Ns7tGNbtvV4)
 * [Slides](https://cdn.cs50.net/2018/fall/lectures/2/lecture2.pdf)
 * Source Code
