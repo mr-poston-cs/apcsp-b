@@ -18,7 +18,7 @@ title: false
       - Watch shorts on [Linear Search](https://www.youtube.com/watch?v=TwsgCHYmbbA), [Bubble Sort](https://www.youtube.com/watch?v=RT-hUXUWQ2I), [Insertion Sort](https://www.youtube.com/watch?v=O0VbBkUvriI), [Selection Sort](https://www.youtube.com/watch?v=3hH8kTHFw2A)
       - Answer questions on Sorting and Searching (either OneNote or Teams - I will decide later which one)
   - **Thu:** Recursion & Merge Sort
-    - HW: Make sure to read over ref sheets for Recursion & Merge Sort
+    - HW: Make sure to read over ref sheets for Recursion & Merge Sort and watch shorts on those if needed (they are found in Chapter 2 link above)
   - **Fri:** Practice Labs (TBD)
     - HW: Start on [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html)
 
