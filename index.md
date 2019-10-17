@@ -17,12 +17,12 @@ title: false
     - HW: 
       - Watch shorts on [Linear Search](https://www.youtube.com/watch?v=TwsgCHYmbbA), [Bubble Sort](https://www.youtube.com/watch?v=RT-hUXUWQ2I), [Insertion Sort](https://www.youtube.com/watch?v=O0VbBkUvriI), [Selection Sort](https://www.youtube.com/watch?v=3hH8kTHFw2A)
       - Answer questions on Sorting and Searching (either OneNote or Teams - I will decide later which one)
-  - **Thu:** 
-    - HW: 
-  - **Fri:** 
-    - WH: 
+  - **Thu:** Recursion & Merge Sort
+    - HW: Make sure to read over ref sheets for Recursion & Merge Sort
+  - **Fri:** Practice Labs (TBD)
+    - HW: Start on [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html)
 
-  - **Looking forward:** Continue with Ch 2 - Test on Ch 2 next week
+  - **Looking forward:** Continue with [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) - Test on Ch 2 next week (mid week-ish)
 
 **Anything not completed in class becomes homework**
   - *HW Assignments not submitted by class time next day will be late and you will not get points*
