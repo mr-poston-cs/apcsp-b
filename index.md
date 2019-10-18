@@ -20,7 +20,12 @@ title: false
   - **Thu:** Recursion & Merge Sort
     - HW: Make sure to read over ref sheets for Recursion & Merge Sort and watch shorts on those and Call Stack if needed (they are found in Chapter 2 link above)
   - **Fri:** Practice Labs (TBD)
-    - HW: Start on [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html)
+    - LABS:
+      - [Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/)
+      - [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/)
+      - [Trieste](https://lab.cs50.io/candib80/cs50labs/c/trieste/)
+      - [Decode](https://lab.cs50.io/candib80/cs50labs/c/decode/)
+    - HW: Finish any labs not done in class; Read over [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) and start on it if you wish
 
   - **Looking forward:** Continue with [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) - Test on Ch 2 next week (mid week-ish)
 
