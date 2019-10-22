@@ -2,11 +2,11 @@
 title: false
 ---
 
-# Hello, world!
+<!-- # Hello, world! -->
 
 <img src="https://i.chzbgr.com/full/9340633600/h4CFEC57B/" alt="CS is half remembering and half googling ;" height="350">
 
-*but no googling the answers!*
+*but no googling the answers to PSETs!*
 
 ## Schedule for week of 10/21/19 - Continue with [Chapter 2](curriculum/2)
 
