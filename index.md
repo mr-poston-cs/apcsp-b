@@ -22,7 +22,7 @@ title: false
          Calc due at midnight
   - **Fri:** Chapter 2 Test -->
 
-  ### I have added links to all the labs under the [Curriculum](/curriculum/index.md) page
+### I have added links to all the labs under the [Curriculum](/curriculum/index.md) page
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
