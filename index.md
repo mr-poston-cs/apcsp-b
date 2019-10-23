@@ -22,6 +22,14 @@ title: false
          Calc due at midnight
   - **Fri:** Chapter 2 Test
 
+  |       |Class                  |Homework   |
+  |-------|---------              |---------  |
+  |**Mon**|Fall Break - NO CLASS! |           |
+  |**Tue**|Labs due by class: [Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/); [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/); [Trieste](https://lab.cs50.io/candib80/cs50labs/c/trieste/); [Decode](https://lab.cs50.io/candib80/cs50labs/c/decode/); Go over the `switch` statement and start on [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) |Continue with Calc - get all calculations but modulo done|
+  |**Wed**|Answer any questions on Calc; tart Review for Ch 2 Test on Fri| Finish Calc - Due tomorrow night; Complete Ch 2 Review for HW grade|
+  |**Thu**|Go over Review         |Study for Test tomorrow! Calc due at midnight|
+  |**Fri**|Chapter 2 Test         |Have a good weekend! |
+
   - **Looking forward:** Start on [Chapter 3](curriculum/3)
 
 **Anything not completed in class becomes homework**
