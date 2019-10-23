@@ -15,9 +15,11 @@ title: false
     - Go over the `switch` statement and start on [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) 
     - HW: Continue with [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html) - get all calculations but modulo done 
   - **Wed:** Answer any questions on [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html); Start Review for Ch 2 Test on Fri
-    - HW: Finish [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html); Complete Ch 2 Review
+    - HW: Finish [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html) - Due tomorrow night; Complete Ch 2 Review for HW grade
   - **Thu:** Go over Review
-    - HW: Study for Test tomorrow!
+    - HW:
+      - Study for Test tomorrow!
+      - Calc due at midnight
   - **Fri:** Chapter 2 Test
 
   - **Looking forward:** Start on [Chapter 3](curriculum/3)
