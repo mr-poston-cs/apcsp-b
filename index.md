@@ -9,8 +9,8 @@ title: false
 *but no googling the answers to PSETs!*
 
 ## Schedule for week of 10/21/19 - Continue with [Chapter 2](curriculum/2)
-
-  <!-- - **Mon:** Fall Break - NO CLASS!
+<!--
+  - **Mon:** Fall Break - NO CLASS!
   - **Tue:** Labs due by class: [Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/); [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/); [Trieste](https://lab.cs50.io/candib80/cs50labs/c/trieste/); [Decode](https://lab.cs50.io/candib80/cs50labs/c/decode/)
     - Go over the `switch` statement and start on [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) 
     - HW: Continue with [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html) - get all calculations but modulo done 
@@ -21,6 +21,8 @@ title: false
     - HW: Study for Test tomorrow!  
          Calc due at midnight
   - **Fri:** Chapter 2 Test -->
+
+  ### I have added links to all the labs under the [Curriculum](/curriculum/index.md) page
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
