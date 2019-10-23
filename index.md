@@ -10,7 +10,7 @@ title: false
 
 ## Schedule for week of 10/21/19 - Continue with [Chapter 2](curriculum/2)
 
-  - **Mon:** Fall Break - NO CLASS!
+  <!-- - **Mon:** Fall Break - NO CLASS!
   - **Tue:** Labs due by class: [Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/); [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/); [Trieste](https://lab.cs50.io/candib80/cs50labs/c/trieste/); [Decode](https://lab.cs50.io/candib80/cs50labs/c/decode/)
     - Go over the `switch` statement and start on [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) 
     - HW: Continue with [Calc](https://docs.cs50.net/2019/ap/problems/calc/calc.html) - get all calculations but modulo done 
@@ -20,7 +20,7 @@ title: false
   - **Thu:** Go over Review
     - HW: Study for Test tomorrow!  
          Calc due at midnight
-  - **Fri:** Chapter 2 Test
+  - **Fri:** Chapter 2 Test -->
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
@@ -30,7 +30,7 @@ title: false
   |**Thu**|Go over Review         |Study for Test tomorrow! Calc due at midnight|
   |**Fri**|Chapter 2 Test         |Have a good weekend! |
 
-  - **Looking forward:** Start on [Chapter 3](curriculum/3)
+**Looking forward:** Start on [Chapter 3](curriculum/3)
 
 **Anything not completed in class becomes homework**
   - *HW Assignments not submitted by class time next day will be late and you will not get points*
