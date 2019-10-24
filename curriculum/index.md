@@ -26,7 +26,7 @@
 * [myFunction](https://lab.cs50.io/candib80/cs50labs/c/myFunction/)
 
 ## Chapter 2
-
+* [Old Friends](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/)
 * [Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/)
 * [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/)
 * [Trieste](https://lab.cs50.io/candib80/cs50labs/c/trieste/)
