@@ -47,6 +47,15 @@
 
 ### Edpuzzle Lessons
 
-Arrays
-
+**Arrays**  
 <iframe width="470" height="402" src="https://edpuzzle.com/embed/assignments/5db6042c526f95408f4250a4/watch" frameborder="0" allowfullscreen></iframe>
+
+**Command-Line Interaction**  
+<iframe width="470" height="402" src="https://edpuzzle.com/embed/assignments/5db6f00ad49a694087d95cb2/watch" frameborder="0" allowfullscreen></iframe>
+
+**Algorithm Summary**  
+<iframe width="470" height="402" src="https://edpuzzle.com/embed/assignments/5db6f58153fc45409b150cec/watch" frameborder="0" allowfullscreen></iframe>
+
+**Recursion**  
+<iframe width="470" height="402" src="https://edpuzzle.com/embed/assignments/5db70cfb2c973e40b433e902/watch" frameborder="0" allowfullscreen></iframe>
+
