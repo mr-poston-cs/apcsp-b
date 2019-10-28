@@ -10,7 +10,7 @@ title: false
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Test makeup; start on [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html)|[Edpuzzle lessons on Ch 2 for extra credit in test category](curriculum/2/#edpuzzle-lessons)|
+  |**Mon**|Test makeup; [Join my classroom on Edpuzzle](https://edpuzzle.com/join/rufizaw); start on [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html)|[Edpuzzle lessons on Ch 2 for extra credit in test category](curriculum/2/#edpuzzle-lessons)|
   |**Tue**|Cont with Caesar (due date tbd)|   |
   |**Wed**|Start on Ch 3          |           |
   |**Thu**|                       |           |
