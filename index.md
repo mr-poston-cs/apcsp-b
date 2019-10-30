@@ -12,7 +12,7 @@ title: false
   |-------|---------              |---------  |
   |**Mon**|Test makeup; [Join my classroom on Edpuzzle](https://edpuzzle.com/join/rufizaw); start on [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html)|[Edpuzzle lessons on Ch 2 for extra credit in test category](curriculum/2/#edpuzzle-lessons)|
   |**Tue**|Cont with Caesar (due date tbd)|   |
-  |**Wed**|Finish Caesar walkthrough|Work on Caesar; Ch 3 Edpuzzle (this is a HW grade; don't miss easy points + the material)|
+  |**Wed**|Finish Caesar walkthrough|Work on Caesar; [Ch 3, lesson 0 edpuzzle](https://edpuzzle.com/assignments/5db9b5b9aa67e440c30de94d/watch) (this is a HW grade; don't miss easy points + the material)|
   |**Thu**|Start Ch 3             |           |
   |**Fri**|                       |           |
 
