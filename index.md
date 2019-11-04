@@ -4,16 +4,16 @@ title: false
 
 <!-- # Hello, world! -->
 
-<img src="https://i0.wp.com/professionalizeit.com/wp-content/uploads/2017/02/8-techniques-increase-learning-behavior-neuroeducation-768x431.jpg?resize=768%2C431" alt="learning is training the mind to think ;" height="300">
+<img src=https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj5g7eU8tDlAhXD1VkKHRqeC7kQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F334814553543151072%2F&psig=AOvVaw1PXXehLL70i3HZoia0eVzP&ust=1572968331536745" alt="progamming is easy;" height="300">
 
-## Schedule for week of 10/28/19 - Work on [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html); Start on [Chapter 3](curriculum/3)
+## Schedule for week of 11/4/19 - Work on [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html); Start on [Chapter 3](curriculum/3)
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Test makeup; [Join my classroom on Edpuzzle](https://edpuzzle.com/join/rufizaw); start on [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html)|[Edpuzzle lessons on Ch 2 for extra credit in test category](curriculum/2/#edpuzzle-lessons)|
-  |**Tue**|Cont with Caesar (due date tbd)|   |
-  |**Wed**|Finish Caesar walkthrough|Work on Caesar; [Ch 3, lesson 0 edpuzzle](https://edpuzzle.com/assignments/5db9b5b9aa67e440c30de94d/watch) (this is a HW grade; don't miss easy points + the material)|
-  |**Thu**|Start Ch 3             |           |
+  |**Mon**|Strings and Pointers intro|[Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html) due at 11:59pm; [Ch 3 Lesson 1 edpuzzle](https://edpuzzle.com/assignments/5dc0586d59164740b29e0e3c/watch) due by start of class tomorrow|
+  |**Tue**||   |
+  |**Wed**|     |   |
+  |**Thu**|           |           |
   |**Fri**|                       |           |
 
 **Looking forward:** 
