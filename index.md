@@ -4,7 +4,7 @@ title: false
 
 <!-- # Hello, world! -->
 
-<img src=https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj5g7eU8tDlAhXD1VkKHRqeC7kQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F334814553543151072%2F&psig=AOvVaw1PXXehLL70i3HZoia0eVzP&ust=1572968331536745" alt="progamming is easy;" height="300">
+<img src="https://i.pinimg.com/originals/de/f5/2f/def52fe41d695d8feebd2cdc194da929.png" alt="progamming is easy;" height="300">
 
 ## Schedule for week of 11/4/19 - Work on [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html); Start on [Chapter 3](curriculum/3)
 
