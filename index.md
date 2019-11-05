@@ -6,7 +6,7 @@ title: false
 
 <img src="https://i.pinimg.com/originals/de/f5/2f/def52fe41d695d8feebd2cdc194da929.png" alt="progamming is easy;" height="300">
 
-## Schedule for week of 11/4/19 - Work on [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html); Start on [Chapter 3](curriculum/3)
+## Schedule for week of 11/4/19 - [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html) Due; Con't with [Chapter 3](curriculum/3)
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
