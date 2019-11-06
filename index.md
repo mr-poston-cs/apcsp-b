@@ -12,18 +12,17 @@ title: false
   |-------|---------              |---------  |
   |**Mon**|Strings and Pointers intro|[Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html) due at 11:59pm; [Ch 3 Lesson 1 edpuzzle](https://edpuzzle.com/assignments/5dc0586d59164740b29e0e3c/watch) due by start of class tomorrow|
   |**Tue**|Finish up pointers; Hexadecimal|Hex/Binary/Decimal Worksheet, watching the [Hexadecimal Short](https://www.youtube.com/watch?v=8okwMK6htKE) if needed|
-  |**Wed**|     |   |
+  |**Wed**|Review Hex; start on Structures and Encapsulation|Will be here by 4pm|
   |**Thu**|           |           |
   |**Fri**|                       |           |
 
-**Looking forward:** 
+**Looking forward:** Start on a PSET from Ch 3
 
-**Links to all the labs can be found under the [Curriculum](/curriculum/index.md) page**
-
-**Anything not completed in class becomes homework**
-  - *HW Assignments not submitted by class time next day will be late and you will not get points*
+  - *Anything not completed in class becomes homework*
+    - *HW Assignments not submitted by class time next day will be late and you will not get points*
   - *PSETs not turned in will be counted off 5 points/percent each day they are late*
   - *Labs will be included in the Quizzes Category and graded as such*
+    - *Links to all the labs can be found under the [Curriculum](/curriculum/index.md) page*
 
 <!-- This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's AP CS Principles curriculum framework.
 
