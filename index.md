@@ -2,7 +2,11 @@
 title: false
 ---
 
-# Hello, world!
+# Announcements
+
+Weekly schedule has been moved to it's own page so you can go back in time (so to speak). We are currently on Week 12 so you will see that one to the left. I will also try to get our past weeks up there over the next littl bit so you can reveiw if needed.
+
+<!-- # Hello, world! -->
 
 <!-- <img src="https://www.planbee.com/wp/wp-content/uploads/2019/08/Ed-Quote-Images.002-1-1024x550.jpeg" alt="learn more by looking for answer than finding it" height="300"> -->
 
@@ -24,6 +28,6 @@ title: false
   - *Labs will be included in the Quizzes Category and graded as such*
     - *Links to all the labs can be found under the [Curriculum](/curriculum/index.md) page* -->
 
-This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's AP CS Principles curriculum framework.
+<!-- This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's AP CS Principles curriculum framework.
 
-<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
+<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe> -->
