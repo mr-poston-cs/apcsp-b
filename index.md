@@ -10,6 +10,12 @@ Weekly schedules has been moved to their own pages so you can go back in time (s
 
 Other important dates or announcements will be here in the future!
 
+  - *Anything not completed in class becomes homework*
+    - *HW Assignments not submitted by class time next day will be late and you will not get points*
+  - *PSETs not turned in will be counted off 5 points/percent each day they are late*
+  - *Labs will be included in the Quizzes Category and graded as such*
+    - *Links to all the labs can be found under the [Curriculum](/ap/curriculum/index.md) page*
+
 <!-- # Hello, world! -->
 
 <!-- <img src="https://www.planbee.com/wp/wp-content/uploads/2019/08/Ed-Quote-Images.002-1-1024x550.jpeg" alt="learn more by looking for answer than finding it" height="300">

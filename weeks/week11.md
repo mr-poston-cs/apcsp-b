@@ -13,9 +13,3 @@
   |**Fri**|Quiz on Ch 3 through File Pointers|           |
 
 **Looking forward:** Start on a PSET from Ch 3
-
-  - *Anything not completed in class becomes homework*
-    - *HW Assignments not submitted by class time next day will be late and you will not get points*
-  - *PSETs not turned in will be counted off 5 points/percent each day they are late*
-  - *Labs will be included in the Quizzes Category and graded as such*
-    - *Links to all the labs can be found under the [Curriculum](/ap/curriculum/index.md) page*
