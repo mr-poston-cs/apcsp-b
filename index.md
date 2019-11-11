@@ -11,8 +11,8 @@ Weekly schedule has been moved to it's own page so you can go back in time (so t
 <!-- # Hello, world! -->
 
 <img src="https://www.planbee.com/wp/wp-content/uploads/2019/08/Ed-Quote-Images.002-1-1024x550.jpeg" alt="learn more by looking for answer than finding it" height="300"> -->
-<!-- 
-<!-- ## Schedule for week of 11/11/19 - Con't with [Chapter 3](curriculum/3)
+ 
+## Schedule for week of 11/11/19 - Con't with [Chapter 3](curriculum/3)
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
