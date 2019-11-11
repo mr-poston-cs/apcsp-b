@@ -16,7 +16,7 @@ Weekly schedule has been moved to it's own page so you can go back in time (so t
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|File manipulation; Images |            |
+  |**Mon**|File manipulation; Images |Edpuzzle on Images will be up for HW by end of school            |
   |**Tue**|Con't Images |            |
   |**Wed**|               |            |
   |**Thu**|               |            |
