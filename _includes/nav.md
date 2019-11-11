@@ -3,7 +3,7 @@
 
 ***
 
-* [Week 12](weeks/week12.md) Ch 3
+* [Week 12](/weeks/week12.md) Ch 3
 
 ***
 
