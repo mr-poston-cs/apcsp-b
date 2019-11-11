@@ -10,6 +10,7 @@
 ***
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
+* [Week 12](weeks/week12.md) Ch 3
 * [**Digital Portfolio**]({{ "units/digital_portfolio" | relative_url }})
 <!-- * [Problems by Unit]({{ "problems" | relative_url}}) -->
 
@@ -20,5 +21,5 @@
 
 ***
 
-* <a href="https://submit.cs50.io" target="_blank">Submit50 - check your submissions</a>
+* <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
 
