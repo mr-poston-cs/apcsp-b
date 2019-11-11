@@ -6,11 +6,12 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|File manipulation; Images |Edpuzzle on Images will be up for HW by end of school|
-  |**Tue**|Con't Images |            |
+  |**Mon**|File manipulation; Images |Work on struct file manipulation (see below)|
+  |**Tue**|Con't Images |Finish struct file manipulation            |
   |**Wed**|               |            |
   |**Thu**|               |            |
   |**Fri**|               |            |
 
-  * PSET: [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
+* PSET: [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
 
+* **Struct file manipulation:** take your struct file from last week, and tweak it like in the struct2.c program in the chapter's source files so that the data captured at runtime is printed to a .csv file
