@@ -4,11 +4,11 @@ title: false
 
 # Announcements
 
-<img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400"> 
-
 Weekly schedules has been moved to their own pages so you can go back in time (so to speak). We are currently on *Week 12* so you will see that one to the left. I will also try to get our past weeks up there over the next little bit so you can reveiw if needed.
 
 Other important dates or announcements will be here in the future!
+
+<img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400"> 
 
   - *Anything not completed in class becomes homework*
     - *HW Assignments not submitted by class time next day will be late and you will not get points*
