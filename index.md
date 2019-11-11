@@ -4,7 +4,9 @@ title: false
 
 # Announcements
 
-Weekly schedule has been moved to it's own page so you can go back in time (so to speak). We are currently on Week 12 so you will see that one to the left. I will also try to get our past weeks up there over the next littl bit so you can reveiw if needed.
+Weekly schedule has been moved to it's own page so you can go back in time (so to speak). We are currently on Week 12 so you will see that one to the left. I will also try to get our past weeks up there over the next little bit so you can reveiw if needed.
+
+<img src="https://miro.medium.com/max/803/1*R2a-1b_kZpfS89PCdmMZYw.png" alt="cs50 2019" height="400"> 
 
 <!-- # Hello, world! -->
 
