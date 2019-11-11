@@ -2,8 +2,8 @@
 * [CS50 IDE](https://ide.cs50.io/)
 
 ***
-* [Week 11]({{ "/weeks/week11" | relative_url }}) Ch 3
-* [Week 12](weeks/week12) Ch 3
+* [Week 11](/ap/weeks/week11) Ch 3
+* [Week 12](/ap/weeks/week12) Ch 3
 
 ***
 
