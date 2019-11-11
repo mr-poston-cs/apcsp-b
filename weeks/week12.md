@@ -7,7 +7,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|File manipulation; Images |Work on struct file manipulation (see below)|
-  |**Tue**|Con't Images |Finish struct file manipulation            |
+  |**Tue**|Con't Images |Finish struct file manipulation; Read the [Images](https://ap.cs50.school/assets/pdfs/images.pdf) ref sheet |
   |**Wed**|               |            |
   |**Thu**|               |            |
   |**Fri**|               |            |
@@ -15,3 +15,9 @@
 * PSET: [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
 
 * **Struct file manipulation:** take your struct file from last week, and tweak it like in the struct2.c program in the chapter's source files so that the data captured at runtime is printed to a .csv file
+
+  - *Anything not completed in class becomes homework*
+    - *HW Assignments not submitted by class time next day will be late and you will not get points*
+  - *PSETs not turned in will be counted off 5 points/percent each day they are late*
+  - *Labs will be included in the Quizzes Category and graded as such*
+    - *Links to all the labs can be found under the [Curriculum](/curriculum/index.md) page*
