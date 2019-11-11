@@ -2,6 +2,16 @@
 * [CS50 IDE](https://ide.cs50.io/)
 
 ***
+* [Week 0](/ap/weeks/week0)
+* [Week 1](/ap/weeks/week1)
+* [Week 2](/ap/weeks/week2)
+* [Week 3](/ap/weeks/week3)
+* [Week 4](/ap/weeks/week4)
+* [Week 5](/ap/weeks/week5)
+* [Week 6](/ap/weeks/week6)
+* [Week 7](/ap/weeks/week7)
+* [Week 8](/ap/weeks/week8)
+* [Week 9](/ap/weeks/week9)
 * [Week 10](/ap/weeks/week10)
 * [Week 11](/ap/weeks/week11) Ch 3
 * [Week 12](/ap/weeks/week12) Ch 3
