@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/de/f5/2f/def52fe41d695d8feebd2cdc194da929.png" alt="progamming is easy;" height="300">
 
-## Schedule for week of 11/4/19 - [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html) Due; Con't with [Chapter 3](curriculum/3)
+## Schedule for week of 11/4/19 - [Caesar](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html) Due; Con't with [Chapter 3](/ap/curriculum/3)
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
@@ -18,4 +18,4 @@
     - *HW Assignments not submitted by class time next day will be late and you will not get points*
   - *PSETs not turned in will be counted off 5 points/percent each day they are late*
   - *Labs will be included in the Quizzes Category and graded as such*
-    - *Links to all the labs can be found under the [Curriculum](/curriculum/index.md) page*
+    - *Links to all the labs can be found under the [Curriculum](/ap/curriculum/index.md) page*
