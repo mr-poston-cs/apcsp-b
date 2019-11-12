@@ -24,10 +24,11 @@
 
 ***
 
+* <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
 * [Tools]({{ "/tools" | relative_url }})
 * [Syllabus]({{"/syllabus" | relative_url }})
 * [CS50 Programmer's Manual](https://man.cs50.io/)
 * <a href="https://cs50.readthedocs.io/style/c/" target="_blank">Style Guide</a>
 * <a href="https://cs50.statuspage.io/" target="_blank">Status Page</a>
-* <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
+
 
