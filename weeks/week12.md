@@ -8,7 +8,7 @@
   |-------|---------              |---------  |
   |**Mon**|File manipulation; Images |Work on struct file manipulation (see below)|
   |**Tue**|Con't Images |Finish struct file manipulation; Read the [Images](/ap/assets/pdfs/images.pdf) ref sheet and review notes below on images|
-  |**Wed**|Start on Whodunit (link below)|Work on Whodunit|
+  |**Wed**|Start on Whodunit - download starter file in your chpater3 folder in the IDE|Read the [Background for Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html#background) and answer questions (link to come...)|
   |**Thu**|Whodunit               |            |
   |**Fri**|               |            |
 
