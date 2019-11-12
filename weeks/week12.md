@@ -8,8 +8,8 @@
   |-------|---------              |---------  |
   |**Mon**|File manipulation; Images |Work on struct file manipulation (see below)|
   |**Tue**|Con't Images |Finish struct file manipulation; Read the [Images](/ap/assets/pdfs/images.pdf) ref sheet and review notes below on images|
-  |**Wed**|               |            |
-  |**Thu**|               |            |
+  |**Wed**|Start on Whodunit (link below)|Work on Whodunit|
+  |**Thu**|Whodunit               |            |
   |**Fri**|               |            |
 
 * PSET: [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
