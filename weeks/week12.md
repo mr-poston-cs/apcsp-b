@@ -12,7 +12,8 @@
 
 * **PSET:** [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
   * When asked to fill out the `questions.md` file in the problem spec, please answer [this form instead](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNUQzFLTEg4VDJEM1ZMMEhZRzdVNzZSQlZJTi4u); this is your HW for Wed night. You **do not** need to answer questions in the file! Make sure to follow the URLs in order to answer the questions. You may need to sign in with your APA email to answer this form if you are not already signed in.
-  * When you have finished the PSET, [fill out this form](https://forms.gle/wLirNKRvQqfcnNvx6) to submit for grading (you must be signed in to a Google account to answer this form) - Due Monday, 11-18 at 11:59pm
+  * When you have finished the PSET, submit it via `submit50` as per the problem spec, but also [fill out this form](https://forms.gle/wLirNKRvQqfcnNvx6) (you must be signed in to a Google account to answer this form) - Due Monday, 11-18 at 11:59pm
+    * We will not spend any more class time on this PSET after Thursday, so I suggest you make good use of your time and have any questions ready before end of class on Thurs.
 
 * **Struct file manipulation:** take your struct file from last week, and tweak it like in the struct2.c program in the [chapter's source files](https://cdn.cs50.net/2018/fall/lectures/3/src3.pdf) so that the data captured at runtime is printed to a .csv file
 
