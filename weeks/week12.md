@@ -1,4 +1,4 @@
-# Week 12 - week of 11/11/19 - Con't with [Chapter 3](/ap/curriculum/3)
+## Week 12 - week of 11/11/19 - Con't with [Chapter 3](/ap/curriculum/3)
 
 <img src="https://www.planbee.com/wp/wp-content/uploads/2019/08/Ed-Quote-Images.002-1-1024x550.jpeg" alt="learn more by looking for answer than finding it" height="300">
 
