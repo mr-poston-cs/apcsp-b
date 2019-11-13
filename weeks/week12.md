@@ -16,4 +16,4 @@
 
 * **Struct file manipulation:** take your struct file from last week, and tweak it like in the struct2.c program in the [chapter's source files](https://cdn.cs50.net/2018/fall/lectures/3/src3.pdf) so that the data captured at runtime is printed to a .csv file
 
-* [Images notes from class](/ap/assets/pdfs/images-notes.pdf)
+* [Images notes from class Tuesday](/ap/assets/pdfs/images-notes.pdf)
