@@ -20,14 +20,3 @@
 <!-- - [Sample Responses and Scoring](https://secure-media.collegeboard.org/ap/pdf/ap18-csp-explore.pdf) - Scroll past rubric to see scores and commentary -->
 - [Sample Responses](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles) - Scroll down to the Sample Responses and Scoring Information section and make sure to look at the 2018: Sample ...
 
-<!-- **Research and Organization**
-
- - [Rough Notes & Sources Template](https://docs.google.com/document/d/19n4gLaVmOgiqpCCezNZFtuR6LEhB9SNOg9pJWdXiE3k/edit?usp=sharing) -->
-
-<!-- **Resources to make your video and PDF:** -->
-
-<!-- - [Adobe Spark](https://spark.adobe.com/) to create a short video presentation
-- PowerPoint
-- [Audacity](https://www.audacityteam.org/) for making audio presentation
-- Google Docs, Slides, Drawings to create PDF or infographic -->
-
