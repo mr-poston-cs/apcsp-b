@@ -1,12 +1,12 @@
 # Digital Portfolio
 
 ## Task Details
-- [Create]({{"units/pt/create" | relative_url }})
+- [Explore](/ap/units/pt/explore)
+- [Create](/ap/units/pt/create)
 
 ### Create PT Due as FINAL in your portfolio by April 30!
 
 - Go to [digitalportfolio.collegeboard.org](https://digitalportfolio.collegeboard.org), log in with your College Board account
-- Make sure that you enter your AP numbers into the Digital Portfolio
 - The College Board recommends that you use the Written Responses Templates that are inside the Create and Explore performance tasks pages to ensure accurate scoring and to respond to all the performance task requirements.
 
 ## Resources
@@ -30,14 +30,4 @@
 - PowerPoint
 - [Audacity](https://www.audacityteam.org/) for making audio presentation
 - Google Docs, Slides, Drawings to create PDF or infographic -->
-<!-- #### PDF of Code/Written Responses:
-- [Code Print](https://bakerfranke.github.io/codePrint/) - useful for preparing PDF of code for Create PT
 
-#### Video of Program Running:
-- Screencasting
-  - Online/Web: [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins
-  - Windows/Mac: [Jing from Techsmith](https://www.techsmith.com/jing.html) - requires download
-  - On Windows 10, you can use the built-in screen recording: [Quora Article](https://www.quora.com/How-can-I-Record-Screen-in-Windows-10)
-    - This can record sound as well, so you may want to mute the mic if you don't want to have sound
-  - [On a Mac](https://support.apple.com/en-us/HT208721)
-- Get someone to help you (if you need it) record you running your program with a phone/camera -->
