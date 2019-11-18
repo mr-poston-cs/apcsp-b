@@ -1,6 +1,6 @@
-## Week 13 - week of 11/18/19 
+<img src="https://www.digitaltechnologylabs.com/wp-content/uploads/2019/06/11.png" alt="afraid to compile" height="250">
 
-<img src="https://www.digitaltechnologylabs.com/wp-content/uploads/2019/06/11.png" alt="afraid to compile" height="300">
+### Week 13 - week of 11/18/19 
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
