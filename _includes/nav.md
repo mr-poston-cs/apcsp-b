@@ -15,6 +15,7 @@
 * [Week 10](/ap/weeks/week10)
 * [Week 11](/ap/weeks/week11) Ch 3
 * [Week 12](/ap/weeks/week12) Ch 3
+* [Week 13](/ap/weeks/week13)
 
 ***
 
