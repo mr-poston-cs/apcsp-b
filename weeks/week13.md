@@ -11,5 +11,5 @@
   |**Fri**|                       |           |
 
 * **PSET:** [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
-  * Make sure you h ave answered the questions in [this form](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNUQzFLTEg4VDJEM1ZMMEhZRzdVNzZSQlZJTi4u). Make sure to follow the URLs in order to answer the questions. You may need to sign in with your APA email to answer this form if you are not already signed in.
+  * Make sure you have answered the questions in [this form](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNUQzFLTEg4VDJEM1ZMMEhZRzdVNzZSQlZJTi4u). Make sure to follow the URLs in order to answer the questions. You may need to sign in with your APA email to answer this form if you are not already signed in.
   * When you have finished the PSET, submit it via `submit50` as per the problem spec, but also [fill out this form](https://forms.gle/wLirNKRvQqfcnNvx6) (you must be signed in to a Google account to answer this form) - Due Monday, 11-18 at 11:59pm
