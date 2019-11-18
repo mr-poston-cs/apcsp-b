@@ -13,9 +13,9 @@
 * [Week 8](/ap/weeks/week8)
 * [Week 9](/ap/weeks/week9)
 * [Week 10](/ap/weeks/week10)
-* [Week 11](/ap/weeks/week11) Ch 3
-* [Week 12](/ap/weeks/week12) Ch 3
-* [Week 13](/ap/weeks/week13)
+* [Week 11](/ap/weeks/week11) Nov 4
+* [Week 12](/ap/weeks/week12) Nov 11
+* [Week 13](/ap/weeks/week13) Nov 18
 
 ***
 

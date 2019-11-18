@@ -5,7 +5,6 @@ title: false
 # Announcements
 
 All weekly schedules have now been moved to their own pages on the left so you can go back in time (so to speak).  
-We are currently on *Week 12*!
 
 Other important dates or announcements will be here in the future!
 

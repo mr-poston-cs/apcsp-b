@@ -4,9 +4,7 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Work on new labs:  
-  [Multiples](https://lab.cs50.io/candib80/cs50labs/c/multiples/)  
-  [Square](https://lab.cs50.io/candib80/cs50labs/c/square/)|[Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html) due at 11:59pm tonight! See notes below|
+  |**Mon**|Work on new labs: [Multiples](https://lab.cs50.io/candib80/cs50labs/c/multiples/) & [Square](https://lab.cs50.io/candib80/cs50labs/c/square/)|[Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html) due at 11:59pm tonight! See notes below|
   |**Tue**|More labs to come      |           |
   |**Wed**|                       |           |
   |**Thu**|                       |           |
