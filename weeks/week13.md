@@ -5,8 +5,8 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Work on new labs below |[Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html) due at 11:59pm tonight! See notes below|
-  |**Tue**|More labs or tweaking Whodunit to print out the clue in black|Finish any labs not done for homework|
-  |**Wed**|Start back with [Understanding Technology](/ap/curriculum/understanding_technology) from the summer |           |
+  |**Tue**|More labs              |Finish any labs not done for homework|
+  |**Wed**|Start back with [Understanding Technology](/ap/curriculum/understanding_technology) from the summer |       |
   |**Thu**|[Understanding Technology](/ap/curriculum/understanding_technology)|           |
   |**Fri**|[Understanding Technology](/ap/curriculum/understanding_technology)|           |
 
@@ -18,5 +18,6 @@
   * [The Shining](https://lab.cs50.io/candib80/cs50labs/c/shining/)
   * [Multiples](https://lab.cs50.io/candib80/cs50labs/c/multiples/)
   * [Square](https://lab.cs50.io/candib80/cs50labs/c/square/)
+  * Take your code for Whodunit, and try to print the hidden clue in black so it's more readable
   
 * For [Understanding Technology](/ap/curriculum/understanding_technology), we have already covered some of this with the summer assignment, but we need to finish up some of the loose ends to start on your Explore Task 
