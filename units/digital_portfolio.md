@@ -4,7 +4,7 @@
 - [Explore](/ap/units/pt/explore)
 - [Create](/ap/units/pt/create)
 
-### Create PT Due as FINAL in your portfolio by April 30!
+----
 
 - Go to [digitalportfolio.collegeboard.org](https://digitalportfolio.collegeboard.org), log in with your College Board account
 - The College Board recommends that you use the Written Responses Templates that are inside the Create and Explore performance tasks pages to ensure accurate scoring and to respond to all the performance task requirements.
