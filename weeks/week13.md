@@ -6,8 +6,8 @@
   |-------|---------              |---------  |
   |**Mon**|Work on new labs below |[Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html) due at 11:59pm tonight! See notes below|
   |**Tue**|More labs              |Finish any labs not done for homework|
-  |**Wed**|Start back with [Understanding Technology](/ap/curriculum/understanding_technology) from the summer - [Multimedia](/ap/curriculum/understanding_technology/multimedia/)|You will have some questions to answer for Multimedia by Wed class/afternoon|
-  |**Thu**|Understanding Tech - [Internet](/ap/curriculum/understanding_technology/internet/)|You will have some questions for Internet by class on Thurs|
+  |**Wed**|Start back with [Understanding Technology](/ap/curriculum/understanding_technology) from the summer - [Multimedia](/ap/curriculum/understanding_technology/multimedia/); [Notes from class](/ap/assets/pdfs/multimedia-CS50AP.pdf) |You will have some questions to answer for Multimedia by Wed class/afternoon|
+  |**Thu**|Understanding Tech - [Internet](/ap/curriculum/understanding_technology/internet/); [Notes from class](/ap/assets/pdfs/internet-CS50AP.pdf) |You will have some questions for Internet by class on Thurs|
   |**Fri**|Understanding Tech - finish up anything not covered Wed/Thurs or start on [Security](/ap/curriculum/understanding_technology/security/) |If we get to Security, you will have some questions to complete over the weekend otherwise, have a good weekend!|
 
 * **PSET:** [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
