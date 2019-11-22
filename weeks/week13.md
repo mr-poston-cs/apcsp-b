@@ -8,7 +8,7 @@
   |**Tue**|More labs              |Finish any labs not done for homework|
   |**Wed**|Start back with [Understanding Technology](/ap/curriculum/understanding_technology) from the summer - [Multimedia](/ap/curriculum/understanding_technology/multimedia/); [Notes from class](/ap/assets/pdfs/multimedia-CS50AP.pdf) |You will have some questions to answer for Multimedia by Wed class/afternoon|
   |**Thu**|Understanding Tech - [Internet](/ap/curriculum/understanding_technology/internet/); [Notes from class](/ap/assets/pdfs/internet-CS50AP.pdf) |You will have some questions for Internet by class on Thurs|
-  |**Fri**|Understanding Tech - finish up anything not covered Wed/Thurs or start on [Security](/ap/curriculum/understanding_technology/security/) |If we get to Security, you will have some questions to complete over the weekend otherwise, have a good weekend!|
+  |**Fri**|Understanding Tech - finish up anything not covered Wed/Thurs |Find the public IP at your house via [whatismyip.com](https://www.whatismyip.com/), have a good weekend!|
 
 * **PSET:** [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
   * Make sure you have answered the questions in [this form](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNUQzFLTEg4VDJEM1ZMMEhZRzdVNzZSQlZJTi4u). Make sure to follow the URLs in order to answer the questions. You may need to sign in with your APA email to answer this form if you are not already signed in.

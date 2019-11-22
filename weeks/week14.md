@@ -2,8 +2,8 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Finish up any [Understanding Technology](/ap/curriculum/understanding_technology) topics ||
-  |**Tue**|             ||
+  |**Mon**|VR fun ||
+  |**Tue**|VR fun             ||
   |**Wed**|Thanksgiving Break starts!! |    |
   |**Thu**|Happy Turkey Day!!     |Enjoy your family and friends today!|
   |**Fri**|                       |Have a good weekend!|
