@@ -27,6 +27,11 @@ Computing innovations impact our lives in ways that require considerable study a
 **Research and Organization**
 
 - [Rough Notes & Sources Template](https://docs.google.com/document/d/19n4gLaVmOgiqpCCezNZFtuR6LEhB9SNOg9pJWdXiE3k/edit?usp=sharing)
+- [Planning Organizer](\ap\assets\pdfs\digital_portfolio\explore-planning-organizer.pdf)
+- Links for ideas on computing innovations:
+    - [University of RI](https://computing-concepts.cs.uri.edu/wiki/Computing_Innovations)
+    - [LaFayette](https://compsci.lafayette.edu/top-30-innovations/)
+- [Explore Survival Guide](\ap\assets\pdfs\digital_portfolio\explore-survival-guide.pdf)
 
 **Resources to make your video, audio and/or PDF:** 
 
