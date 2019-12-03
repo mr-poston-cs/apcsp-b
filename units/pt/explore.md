@@ -6,6 +6,7 @@ Computing innovations impact our lives in ways that require considerable study a
 
 * [AP CSP Performance Task Directions](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles)
 * [Explore Scoring Guidelines](/ap/assets/pdfs/digital_portfolio/explore-guidelines-2019.pdf)
+* [Digital Portfolio Student Guide](https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf)
 
 ## General Requirements
 
