@@ -41,6 +41,6 @@ Computing innovations impact our lives in ways that require considerable study a
 - Google Docs, Slides, Drawings to create PDF or infographic
 - [How to convert your file(s) to PDF](\ap\assets\pdfs\pdf-conversion.pdf)
 
-**[Explore Written Response Template](\ap\assets\pdfs\explore-pt-response-template.docx)**  
+**[Explore Written Response Template](http://bit.ly/explore-template)**  
 - Make sure to save this on your computer with a name other than '...template'
 - Make sure your name is not on the document anywhere, including the filename
