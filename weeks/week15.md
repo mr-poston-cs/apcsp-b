@@ -1,4 +1,4 @@
-### Week 15:  
+### Week 15  
 Week of 12/2/19 [Explore Task](/ap/units/pt/explore)
 
   |       |In Class               |Homework   |
