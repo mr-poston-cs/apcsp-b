@@ -9,7 +9,7 @@ All weekly schedules have now been moved to their own pages on the left so you c
 
 Other important dates or announcements will be here in the future!
 
-<img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400"> 
+<!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400">  -->
 
 ### Remember:
   - *Anything not completed in class becomes homework*
