@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="600"/>
+<meta http-equiv="refresh" content="300"/>
 # Performance Task: Explore - Impact of Compting Innovations
 
 ## Overview

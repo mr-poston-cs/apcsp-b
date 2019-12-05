@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="600"/>
+<meta http-equiv="refresh" content="300"/>
 ### Week 15  
 Week of 12/2/19 [Explore Task](/ap/units/pt/explore)  
 [Explore Unit on Code.org](https://studio.code.org/s/csp-explore-2019?section_id=2525239)

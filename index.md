@@ -1,6 +1,7 @@
 ---
 title: false
 ---
+<meta http-equiv="refresh" content="600"/>
 
 # Announcements
 
