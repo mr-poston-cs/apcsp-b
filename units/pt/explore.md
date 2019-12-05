@@ -38,9 +38,9 @@ Computing innovations impact our lives in ways that require considerable study a
 **Resources to make your video, audio and/or PDF:** 
 
 - [Adobe Spark](https://spark.adobe.com/) to create a short video presentation
-- PowerPoint
 - [Audacity](https://www.audacityteam.org/) for making audio presentation
-- Google Docs, Slides, Drawings to create PDF or infographic
+- [Picktochart](http://piktochart.com/) to create an infographic online
+- PowerPoint, Word, Google Docs/Slides/Drawings to create PDF or infographic
 - [How to convert your file(s) to PDF](\ap\assets\pdfs\pdf-conversion.pdf)
 
 **[Explore Written Response Template](http://bit.ly/explore-template)**  
