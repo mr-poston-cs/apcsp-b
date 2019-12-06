@@ -5,7 +5,7 @@ title: false
 
 # Announcements
 
-- **Explore will be due, as your midterm, Monday the 16th to allow me time to grade them**
+- <span style="font-size: 16px;">Explore will be due, as your midterm, Monday the 16th to allow me time to grade them</span>
 
 <img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400">
 
