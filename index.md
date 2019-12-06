@@ -5,9 +5,9 @@ title: false
 
 # Announcements
 
-All weekly schedules have now been moved to their own pages on the left so you can go back in time (so to speak).  
+- **Explore will be due, as your midterm, Monday the 16th to allow me time to grade them**
 
-Other important dates or announcements will be here in the future!
+<img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement">
 
 <!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400">  -->
 
