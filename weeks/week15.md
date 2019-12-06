@@ -10,6 +10,6 @@ Week of 12/2/19 [Explore Task](/ap/units/pt/explore)
   |**Tue**|Explore Task          |Come up with 3 different possible computing innovations; Also complete [AP Digital Porfoloio Setup](https://studio.code.org/s/csp-explore-2019/stage/1/puzzle/2#portfolio) in step 2 of Lesson 1 in the Code.org unit|
   |**Wed**|Explore Task          |Start working on your [Explore Organizer](\ap\assets\pdfs\digital_portfolio\explore-planning-organizer.pdf)|
   |**Thu**|Explore Task          ||
-  |**Fri**|Explore Task          ||
+  |**Fri**|Explore Task          |Work on finishing up research on your computing innovation and start on your written responses; [here is the template](http://bit.ly/explore-template) for you to use|
 
 <img src="https://slideplayer.com/slide/15522632/93/images/11/Innovation%2C+Impacts+%26+Introductions.jpg" alt="computing innovation" height="400">
