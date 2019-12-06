@@ -14,4 +14,4 @@ Week of 12/9/19 [Explore Task](/ap/units/pt/explore)
   |**Thu**|[Explore Task](/ap/units/pt/explore) ||
   |**Fri**|[Explore Task](/ap/units/pt/explore) ||
 
-<img src="https://slideplayer.com/slide/15522632/93/images/11/Innovation%2C+Impacts+%26+Introductions.jpg" alt="computing innovation" height="400">
+<img src="http://myimages.bravenet.com/512/233/51/WarningxDuexDatesxArexCloserxThanxTheyxAppear.jpg" alt="due date" height="400">
