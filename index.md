@@ -7,7 +7,7 @@ title: false
 
 - **Explore will be due, as your midterm, Monday the 16th to allow me time to grade them**
 
-<img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement">
+<img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400">
 
 <!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400">  -->
 
