@@ -41,7 +41,7 @@ Computing innovations impact our lives in ways that require considerable study a
 - [Audacity](https://www.audacityteam.org/) for making audio presentation
 - [Picktochart](http://piktochart.com/) to create an infographic online
 - PowerPoint, Word, Google Docs/Slides/Drawings to create PDF or infographic
-- [How to convert your file(s) to PDF](\ap\assets\pdfs\pdf-conversion.pdf)
+- [How to convert your file(s) to PDF](\ap\assets\pdfs\digital_portfolio\pdf-conversion.pdf)
 
 **[Explore Written Response Template](http://bit.ly/explore-template)**  
 Make sure to save this on your computer with a name other than '...template'  
