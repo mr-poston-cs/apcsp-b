@@ -5,9 +5,9 @@
 <details>
 <summary>Semester 1</summary>
 
-  * [Week 0](/ap/weeks/week0)
-  * [Week 1](/ap/weeks/week1)
-  * [Week 2](/ap/weeks/week2)
+   [Week 0](/ap/weeks/week0)
+* <a href="https://candib80.github.io/ap/weeks/week1/">Week 1</a>
+[Week 2](/ap/weeks/week2)
   * [Week 3](/ap/weeks/week3)
   * [Week 4](/ap/weeks/week4)
   * [Week 5](/ap/weeks/week5)
