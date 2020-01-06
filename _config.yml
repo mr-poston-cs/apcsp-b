@@ -1,7 +1,5 @@
 permalink: pretty
 
-markdown: CommonMarkGhPages
-
 plugins:
   - jekyll-remote-theme
 
