@@ -3,26 +3,28 @@
 
 ***
 <details>
-<summary>Semester 1</summary>
-
-   [Week 0](/ap/weeks/week0)
-* <a href="https://candib80.github.io/ap/weeks/week1/">Week 1</a>
-[Week 2](/ap/weeks/week2)
-  * [Week 3](/ap/weeks/week3)
-  * [Week 4](/ap/weeks/week4)
-  * [Week 5](/ap/weeks/week5)
-  * [Week 6](/ap/weeks/week6)
-  * [Week 7](/ap/weeks/week7)
-  * [Week 8](/ap/weeks/week8)
-  * [Week 9](/ap/weeks/week9)
-  * [Week 10](/ap/weeks/week10)
-  * [Week 11](/ap/weeks/week11) Nov 4
-  * [Week 12](/ap/weeks/week12) Nov 11
-  * [Week 13](/ap/weeks/week13) Nov 18
-  * [Week 14](/ap/weeks/week14) Nov 25
-  * [Week 15](/ap/weeks/week15) Dec 2
-  * [Week 16](/ap/weeks/week16) Dec 9
-  * [Week 17](/ap/weeks/week17) Dec 16
+<summary>Semester 1
+</summary>
+<ul>
+<li><a href="https://candib80.github.io/ap/weeks/week0/">Week 0</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week1/">Week 1</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week2/">Week 2</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week3/">Week 3</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week4/">Week 4</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week5/">Week 5</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week6/">Week 6</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week7/">Week 7</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week8/">Week 8</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week9/">Week 9</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week10/">Week 10</a></li>
+<li><a href="https://candib80.github.io/ap/weeks/week11/">Week 11</a> Nov 4</li>
+<li><a href="https://candib80.github.io/ap/weeks/week12/">Week 12</a> Nov 11</li>
+<li><a href="https://candib80.github.io/ap/weeks/week13/">Week 13</a> Nov 18</li>
+<li><a href="https://candib80.github.io/ap/weeks/week14/">Week 14</a> Nov 25</li>
+<li><a href="https://candib80.github.io/ap/weeks/week15/">Week 15</a> Dec 2</li>
+<li><a href="https://candib80.github.io/ap/weeks/week16/">Week 16</a> Dec 9</li>
+<li><a href="https://candib80.github.io/ap/weeks/week17/">Week 17</a> Dec 16</li>
+</ul>
 </details>
 
 * [Week 18](/ap/weeks/week18) Jan 6
