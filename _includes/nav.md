@@ -27,6 +27,7 @@
 </ul>
 </details>
 
+* Semester 2
 * [Week 18](/ap/weeks/week18) Jan 6
 <!-- * [Week 19](/ap/weeks/week16) Jan 13 -->
 

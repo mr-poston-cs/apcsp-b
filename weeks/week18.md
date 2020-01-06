@@ -5,9 +5,10 @@ Week of 1/6/2020
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|||
-  |**Tue**| ||
-  |**Wed**| ||
-  |**Thu**| ||
+  |**Mon**|Review some of Ch 3 info and talk a little about [Security](/ap/curriculum/understanding_technology/security/)|Watch 1st EdPuzzle on Security - *will be posted by 3pm*|
+  |**Tue**|Continue with [Security](/ap/curriculum/understanding_technology/security/); discuss HW from last night|Watch 2nd EdPuzzle on Security|
+  |**Wed**|Discuss HW on Security| Quiz tomorrow on Security|
+  |**Thu**|Quiz on Security; start on [Ch 4](/ap/curriculum/4/) ||
   |**Fri**| ||
 
+<img src="https://www.reddit.com/r/ProgrammerHumor/comments/eccf9l/honesty_is_the_best_policy/?utm_medium=android_app&utm_source=share" alt="not so secure" height="400">
