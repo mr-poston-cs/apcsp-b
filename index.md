@@ -5,9 +5,11 @@ title: false
 
 # Announcements
 
-- <span style="font-size: 24px;">Explore will be due, as your midterm, <strong>Monday the 16th</strong> to allow me time to grade them</span>
+- <span style="font-size: 24px;">Welcome Back!!</span>
+- <span style="font-size: 24px;">We are starting on Week 18 this week</span>
+- <span style="font-size: 24px;">Make sure with the new year of 2020, that you date anything important with the full year so no one can change the date on you!</span>
 
-<img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400">
+<!-- <img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400"> -->
 
 <!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400">  -->
 
