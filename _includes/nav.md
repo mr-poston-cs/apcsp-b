@@ -2,7 +2,8 @@
 * [CS50 IDE](https://ide.cs50.io/)
 
 ***
-<details><summary>* Semester 1</summary>
+<details>
+  <summary>Semester 1</summary>
 
     * [Week 0](/ap/weeks/week0)
     * [Week 1](/ap/weeks/week1)
