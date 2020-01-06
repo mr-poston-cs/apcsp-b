@@ -3,7 +3,7 @@
 
 ***
 <details><summary>* Semester 1</summary>
-<p>
+
     * [Week 0](/ap/weeks/week0)
     * [Week 1](/ap/weeks/week1)
     * [Week 2](/ap/weeks/week2)
@@ -22,8 +22,8 @@
     * [Week 15](/ap/weeks/week15) Dec 2
     * [Week 16](/ap/weeks/week16) Dec 9
     * [Week 17](/ap/weeks/week17) Dec 16
-</p>
 </details>
+
 * [Week 18](/ap/weeks/week18) Jan 6
 <!-- * [Week 19](/ap/weeks/week16) Jan 13 -->
 
