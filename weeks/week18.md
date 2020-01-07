@@ -6,7 +6,7 @@ Week of 1/6/2020
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Review some of [Ch 3](/ap/curriculum/3/) info and talk a little about [Security](/ap/curriculum/understanding_technology/security/)|[Watch 1st EdPuzzle on Security](https://edpuzzle.com/assignments/5e13baa2db633327c8b03779/watch)|
-  |**Tue**|Continue with [Security](/ap/curriculum/understanding_technology/security/): discuss HW from last night; See [Tuesday](/ap/weeks/week18/#Tuesday) below for in-class reading and discussion afterwards |Watch 2nd EdPuzzle on Security|
+  |**Tue**|Continue with [Security](/ap/curriculum/understanding_technology/security/): discuss HW from last night; See [Tuesday](/ap/weeks/week18/#tuesday) below for in-class reading and discussion afterwards |Watch 2nd EdPuzzle on Security|
   |**Wed**|Discuss HW on Security| Quiz tomorrow on Security|
   |**Thu**|Quiz on Security; start on [Ch 4](/ap/curriculum/4/) ||
   |**Fri**| ||
