@@ -1,6 +1,6 @@
 <meta http-equiv="refresh" content="300"/>
 
-### Week 18  
+## Week 18  
 Week of 1/6/2020 
 
   |       |In Class               |Homework   |
@@ -13,5 +13,5 @@ Week of 1/6/2020
 
 <img src="https://preview.redd.it/eafhy86n5e541.jpg?width=960&crop=smart&auto=webp&s=02a67930b4e5a835eb74f034f98a1e4ad2074607" alt="not so secure" height="400">
 
-## Tuesday
+### Tuesday
   * Learn about [packet sniffing](https://www.dnsstuff.com/packet-sniffers) and how they can be beneficial to network administrators and how hackers can use them.
