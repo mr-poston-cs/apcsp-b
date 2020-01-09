@@ -1,7 +1,7 @@
 # Chapter 4
 
 * Problem
-  * [Speller (hash table)](https://docs.cs50.net/2019/ap/problems/speller/hashtable/speller.html) of [Speller (trie)](https://docs.cs50.net/2019/ap/problems/speller/trie/speller.html)
+  * [Speller (hash table)](https://docs.cs50.net/2019/ap/problems/speller/hashtable/speller.html) or [Speller (trie)](https://docs.cs50.net/2019/ap/problems/speller/trie/speller.html)
 * [Notes](notes)
 * Shorts
   * [Custom data types](https://www.youtube.com/watch?v=crxfzK3Oc9M)
