@@ -31,4 +31,4 @@
   * [TCP and IP](https://ap.cs50.school/assets/pdfs/tcp_and_ip.pdf)
 
 * Other Resources:
-    * [HTTP Status](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+    * [HTTP Status Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
