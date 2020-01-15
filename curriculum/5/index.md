@@ -29,3 +29,6 @@
   * [IP Addresses](https://ap.cs50.school/assets/pdfs/ip_addresses.pdf)
   * [JavaScript](https://ap.cs50.school/assets/pdfs/javascript.pdf)
   * [TCP and IP](https://ap.cs50.school/assets/pdfs/tcp_and_ip.pdf)
+
+* Other Resources:
+    * [HTTP Status](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
