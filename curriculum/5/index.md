@@ -6,13 +6,13 @@
   * [Be the Teacher](https://docs.cs50.net/2019/ap/problems/teacher/teacher.html)
   * [Homepage](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html)
 * Shorts
-  * [CSS](https://www.youtube.com/watch?v=Ub3FKU21ubk)
-  * [HTML](https://www.youtube.com/watch?v=YK78KhMf7bs)
-  * [HTTP](https://www.youtube.com/watch?v=4axL8Gfw2nI)
   * [Internet primer](https://www.youtube.com/watch?v=04GztBlVo_s)
-  * [IP](https://www.youtube.com/watch?v=A1g9SokDJSU)
-  * [JavaScript](https://www.youtube.com/watch?v=Z93IaNfavZw)
   * [TCP](https://www.youtube.com/watch?v=GP7uvI_6uas)
+  * [IP](https://www.youtube.com/watch?v=A1g9SokDJSU)
+  * [HTTP](https://www.youtube.com/watch?v=4axL8Gfw2nI)
+  * [HTML](https://www.youtube.com/watch?v=YK78KhMf7bs)
+  * [CSS](https://www.youtube.com/watch?v=Ub3FKU21ubk)  
+  * [JavaScript](https://www.youtube.com/watch?v=Z93IaNfavZw)
 * [Slides](https://cdn.cs50.net/2018/fall/lectures/5/lecture5.pdf)
 * Source Code
   * [Index](https://cdn.cs50.net/2018/fall/lectures/5/src5/)
