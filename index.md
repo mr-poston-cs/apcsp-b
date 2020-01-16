@@ -5,7 +5,7 @@ title: false
 
 # Announcements
 
-- <span style="font-size: 24px;">Make sure with the new year of 2020, that you date anything important with the full year so no one can change the date on you!</span>
+- <span style="font-size: 24px;">Make sure you get your PSET in Teams done!!! It's due Monday at 11:59 pm </span>
 
 <!-- <img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400"> -->
 
