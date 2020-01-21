@@ -6,7 +6,7 @@ Week of 1/20/2020
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|MLK Reading Day |Make sure you have turned in your *Be the Teacher* PSET in Teams by 11:59 pm |
-  |**Tue**|[Ch 5](/ap/curriculum/5/) - CSS|Read over the CSS ref sheet & cheatsheet and add one other style to your webpage that we did not do in class |
+  |**Tue**|[Ch 5](/ap/curriculum/5/) - CSS|Read over the CSS ref sheet & cheatsheet <br> Add one other style to your webpage that we did not do in class |
   |**Wed**|[Ch 5](/ap/curriculum/5/)| |
   |**Thu**|[Ch 5 ](/ap/curriculum/5/) | |
   |**Fri**| | |
