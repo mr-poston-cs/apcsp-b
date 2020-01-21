@@ -21,14 +21,18 @@
   * [ZIP](https://cdn.cs50.net/2018/fall/lectures/5/src5.zip)
 * [Video](https://video.cs50.net/2018/fall/lectures/5)
 * Reference Sheets
-  * [CSS](https://ap.cs50.school/assets/pdfs/css.pdf)
-  * [DNS and DHCP](https://ap.cs50.school/assets/pdfs/dns_and_dhcp.pdf)
-  * [HTML](https://ap.cs50.school/assets/pdfs/html.pdf)
-  * [HTTP](https://ap.cs50.school/assets/pdfs/http.pdf)
   * [Internet Basics](https://ap.cs50.school/assets/pdfs/internet_basics.pdf)
   * [IP Addresses](https://ap.cs50.school/assets/pdfs/ip_addresses.pdf)
-  * [JavaScript](https://ap.cs50.school/assets/pdfs/javascript.pdf)
+  * [DNS and DHCP](https://ap.cs50.school/assets/pdfs/dns_and_dhcp.pdf)
   * [TCP and IP](https://ap.cs50.school/assets/pdfs/tcp_and_ip.pdf)
+  * [HTTP](https://ap.cs50.school/assets/pdfs/http.pdf)
+  * [HTML](https://ap.cs50.school/assets/pdfs/html.pdf)
+  * [CSS](https://ap.cs50.school/assets/pdfs/css.pdf)
+  * [JavaScript](https://ap.cs50.school/assets/pdfs/javascript.pdf)
+
 
 * Other Resources:
     * [HTTP Status Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+    * [W3Schools HTML](https://www.w3schools.com/html)
+    * [W3Schools CSS](https://www.w3schools.com/css)
+    * [W3Schools JavaScript](https://www.w3schools.com/js)
