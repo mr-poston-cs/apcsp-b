@@ -11,5 +11,5 @@ Week of 1/20/2020
   |**Thu**|[Ch 5 ](/ap/curriculum/5/) | |
   |**Fri**| | |
 
-<img src="https://cdn.lynda.com/course/170427/170427-637140057855786367-16x9.jpg" alt="html" width="40%"> <img src="https://cdn.lynda.com/course/5038219/5038219-637115058599403425-16x9.jpg" alt="css" width="50%">
+<img src="https://cdn.lynda.com/course/170427/170427-637140057855786367-16x9.jpg" alt="html" width="40%"> <img src="https://cdn.lynda.com/course/5038219/5038219-637115058599403425-16x9.jpg" alt="css" width="40%">
 
