@@ -36,3 +36,4 @@
     * [W3Schools HTML](https://www.w3schools.com/html)
     * [W3Schools CSS](https://www.w3schools.com/css)
     * [W3Schools JavaScript](https://www.w3schools.com/js)
+    * [HTML Validator](http://validator.w3.org/)
