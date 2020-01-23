@@ -31,6 +31,7 @@
 * [Week 18](/ap/weeks/week18) Jan 6
 * [Week 19](/ap/weeks/week19) Jan 13
 * [Week 20](/ap/weeks/week20) Jan 20
+* [Week 21](/ap/weeks/week21) Jan 27
 
 ***
 
