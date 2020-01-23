@@ -8,7 +8,7 @@ Week of 1/20/2020
   |**Mon**|MLK Reading Day |Make sure you have turned in your *Be the Teacher* PSET in Teams by 11:59 pm |
   |**Tue**|[Ch 5](/ap/curriculum/5/) - CSS|Read over the CSS ref sheet & cheatsheet <br> Add one other style to your webpage that we did not do in class; links in pictures below to help |
   |**Wed**|[Ch 5](/ap/curriculum/5/)| |
-  |**Thu**|[Ch 5 ](/ap/curriculum/5/) | |
+  |**Thu**|[Ch 5 ](/ap/curriculum/5/) |Make sure to add 2 more html tags to the css3.html file<br>and 2 more css properties to the style.css file for homework |
   |**Fri**| | |
 
   <!-- * [W3Schools HTML](https://www.w3schools.com/html) -->
