@@ -9,7 +9,7 @@ Week of 1/20/2020
   |**Tue**|[Ch 5](/ap/curriculum/5/) - CSS|Read over the CSS ref sheet & cheatsheet <br> Add one other style to your webpage that we did not do in class; links in pictures below to help |
   |**Wed**|[Ch 5](/ap/curriculum/5/)| |
   |**Thu**|[Ch 5 ](/ap/curriculum/5/) |Make sure to add 2 more html tags to the `css3.html` file<br>and 2 more css properties to the `style.css` file for homework |
-  |**Fri**| | |
+  |**Fri**|Review HW from last night<br>Start on JavaScript (JS) |Make sure to read over JS ref sheet and fill out any blanks in your notes sheet from class |
 
   <!-- * [W3Schools HTML](https://www.w3schools.com/html) -->
   <!-- * [W3Schools CSS](https://www.w3schools.com/css) -->
