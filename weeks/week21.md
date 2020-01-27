@@ -5,7 +5,7 @@ Week of 1/27/2020
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**| |
+  |**Mon**|[Ch 5](/ap/curriculum/5/)<br>Start on [Homepage PSET](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html)|Work on your PSET |
   |**Tue**|[Ch 5](/ap/curriculum/5/)| |
   |**Wed**|[Ch 5](/ap/curriculum/5/)| |
   |**Thu**|[Ch 5](/ap/curriculum/5/)| |
