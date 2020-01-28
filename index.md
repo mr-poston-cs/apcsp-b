@@ -5,7 +5,7 @@ title: false
 
 # Announcements
 
-- <span style="font-size: 24px;"> </span>
+- <span style="font-size: 24px;">[Homepage PSET](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html) is due Monday night at 11:59pm</span>
 
 <!-- <img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400"> -->
 
