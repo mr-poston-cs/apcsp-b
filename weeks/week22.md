@@ -5,7 +5,7 @@ Week of 2/3/2020
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|[Chapter 6](/ap/curriculum/6/) Intro to Python |Make corrections to your quiz and turn in first thing tomorrow in class.<br>Make sure to finish, and submit via Submit50, [Homepage PSET](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html) and turn in by 11:59 tonight<br>Also make sure your bring your PSET rubric with you in class tomorrow so I can grade it |
+  |**Mon**|[Chapter 6](/ap/curriculum/6/) Intro to Python |Make corrections to your quiz and turn in first thing tomorrow in class.<br>Make sure to finish [Homepage PSET](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html) and submit, via Submit50,by 11:59 tonight<br>Also make sure your bring your PSET rubric with you in class tomorrow so I can grade it |
   |**Tue**|Continue with Python | |
   |**Wed**| | |
   |**Thu**| | |
