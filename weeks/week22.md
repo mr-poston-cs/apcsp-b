@@ -12,5 +12,5 @@ Week of 2/3/2020
   |**Fri**| | |
 
 <div style="text-align:center">
-<img src="https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2019/06/What-is-Pyton.jpg.webp" alt="what is python?" width="40%">
+<img src="https://cdn.lynda.com/course/661773/661773-637122005058334771-16x9.jpg" alt="python" width="40%">
 </div>
