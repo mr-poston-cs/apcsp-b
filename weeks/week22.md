@@ -23,3 +23,13 @@ Week of 2/3/2020
     * For extra credit on your HW grade:
       1. If the number is a multiple of 4, print out a different message.
       2. Ask the user for two numbers: one number to check (call it `num`) and one number to divide by (`check`). If `check` divides evenly into `num`, tell that to the user. If not, print a different appropriate message.
+* Make sure to check your program by running it before you turn it in.
+  * To run your program execute the below in the terminal window
+```
+cd chapter6/homework
+python hw1.py
+```
+* To submit `hw1.py`, execute the below in the terminal window, logging in with your GitHub username and password when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
+```
+submit50 candib80/cs50labs/python/hw1
+```
