@@ -20,9 +20,9 @@ Week of 2/3/2020
 * Inside the `homework` folder, create a file called `hw1.py`
 * In `hw1.py` write a program that does the following:
   * Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user. *Hint: how does an even / odd number react differently when divided by 2?*
-    * For extra credit on your HW grade:
-      1. If the number is a multiple of 4, print out a different message.
-      2. Ask the user for two numbers: one number to check (call it `num`) and one number to divide by (`check`). If `check` divides evenly into `num`, tell that to the user. If not, print a different appropriate message.
+* For extra credit on your HW grade:
+  1. If the number is a multiple of 4, print out a different message.
+  2. Ask the user for two numbers: one number to check (call it `num`) and one number to divide by (`check`). If `check` divides evenly into `num`, tell that to the user. If not, print a different appropriate message.
 * Make sure to check your program by running it before you turn it in.
   * To run your program execute the below in the terminal window
 ```
