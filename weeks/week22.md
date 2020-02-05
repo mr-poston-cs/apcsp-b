@@ -36,12 +36,12 @@ submit50 candib80/cs50labs/python/hw1
 ### Wednesday Homework
 * Create a file in your `chapter6/homework` folder named `hw2.py`
 * In `hw2.py`, write a program that takes in a simple math problem (you need only worry about adding & subtracting)
-* Your problem should be able to differentiate between addition and subtraction and depending on the operation, call a function to print the answer to the screen
-* If you have no functions, then you will only receive 1/2 credit for this HW assignment
+* Your problem should be able to differentiate between addition and subtraction and depending on the operation, **call a function** to print the appropriate answer to the screen
+* **If you have no functions, then you will only receive 1/2 credit for this HW assignment**
 * For extra credit on your HW:
   * Add the ability to multiply and divide to your program (the user should type a lower case `x` for multiplication not `*`)
 * Make sure to check your program by running it before you turn it in.
-  * To run your program execute the below in the terminal window *where `x` & `y` are numbers and `+` can be any operation you programmed*
+  * To run your program execute the below in the terminal window, *where `x` & `y` are numbers and `+` can be any operation you programmed*
 ```
 cd chapter6/homework
 python hw2.py x + y
