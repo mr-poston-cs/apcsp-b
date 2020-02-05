@@ -7,7 +7,7 @@ Week of 2/3/2020
   |-------|---------              |---------  |
   |**Mon**|[Chapter 6](/ap/curriculum/6/) Intro to Python |Make corrections to your quiz and turn in first thing tomorrow in class.<br>Make sure to finish [Homepage PSET](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html) and submit, via Submit50, by 11:59 tonight<br>Also make sure your bring your PSET rubric with you in class tomorrow so I can grade it |
   |**Tue**|Continue with Python |See [tonight's homework](/ap/weeks/week22/#tuesday-homework) below|
-  |**Wed**| | |
+  |**Wed**|Functions in Python<br>`argv` in Python |See [homework](/ap/weeks/week22/#wednesday-homework) below |
   |**Thu**| | |
   |**Fri**| | |
 
@@ -32,4 +32,21 @@ python hw1.py
 * To submit `hw1.py`, execute the below in the terminal window, logging in with your GitHub username and password when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
 ```
 submit50 candib80/cs50labs/python/hw1
+```
+### Wednesday Homework
+* Create a file in your `chapter6/homework` folder named `hw2.py`
+* In `hw2.py`, write a program that takes in a simple math problem (you need only worry about adding & subtracting)
+* Your problem should be able to differentiate between addition and subtraction and depending on the operation, call a function to print the answer to the screen
+* If you have no functions, then you will only receive 1/2 credit for this HW assignment
+* For extra credit on your HW:
+  * Add the ability to multiply and divide to your program (the user should type a lower case `x` for multiplication not `*`)
+* Make sure to check your program by running it before you turn it in.
+  * To run your program execute the below in the terminal window *where `x` & `y` are numbers and `+` can be any operation you programmed*
+```
+cd chapter6/homework
+python hw2.py x + y
+```
+* To submit `hw2.py`, execute the below in the terminal window, logging in with your GitHub username and password when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
+```
+submit50 candib80/cs50labs/python/hw2
 ```
