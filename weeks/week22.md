@@ -8,7 +8,7 @@ Week of 2/3/2020
   |**Mon**|[Chapter 6](/ap/curriculum/6/) Intro to Python |Make corrections to your quiz and turn in first thing tomorrow in class.<br>Make sure to finish [Homepage PSET](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html) and submit, via Submit50, by 11:59 tonight<br>Also make sure your bring your PSET rubric with you in class tomorrow so I can grade it |
   |**Tue**|Continue with Python |See [tonight's homework](/ap/weeks/week22/#tuesday-homework) below|
   |**Wed**|Functions in Python<br>`argv` in Python |See [homework](/ap/weeks/week22/#wednesday-homework) below |
-  |**Thu**| | |
+  |**Thu**|Swapping variables<br>Lists, data structures, & objects in Python | |
   |**Fri**| | |
 
 <div style="text-align:center">
