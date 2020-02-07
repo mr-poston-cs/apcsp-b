@@ -33,7 +33,7 @@
 * [Week 20](/ap/weeks/week20) Jan 20
 * [Week 21](/ap/weeks/week21) Jan 27
 * [Week 22](/ap/weeks/week22) Feb 3
-* [Week 22](/ap/weeks/week23) Feb 10
+* [Week 23](/ap/weeks/week23) Feb 10
 
 ***
 
