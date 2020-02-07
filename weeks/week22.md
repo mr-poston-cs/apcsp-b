@@ -9,7 +9,7 @@ Week of 2/3/2020
   |**Tue**|Continue with Python |See [tonight's homework](/ap/weeks/week22/#tuesday-homework) below|
   |**Wed**|Functions in Python<br>`argv` in Python |See [homework](/ap/weeks/week22/#wednesday-homework) below |
   |**Thu**|Swapping variables & Lists in Python | |
-  |**Fri**|Data structures & objects | |
+  |**Fri**|Data structures & objects |Start working on your next PSET: Sentimental [Hello](https://docs.cs50.net/2019/ap/problems/sentimental/hello/hello.html) & [Cash](https://docs.cs50.net/2019/ap/problems/sentimental/cash/cash.html) |
 
 <div style="text-align:center">
 <img src="https://cdn.lynda.com/course/661773/661773-637122005058334771-16x9.jpg" alt="python" width="40%">
