@@ -7,7 +7,9 @@ title: false
 
 - <span style="font-size: 24px;">Sentimental PSET (Hello and Cash) is due Wednesday night (2-12) at 11:59pm</span>
 
-<a href="/ap/weeks/week23"><img src="/ap/assets/img/wk23.png" alt="week 23"></a>
+<div style="text-align:center">
+<a href="/ap/weeks/week23"><img src="/ap/assets/img/wk23.png" alt="week 23" width="25%" ></a>
+</div>
 
 <!-- <img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400"> -->
 
