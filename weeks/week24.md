@@ -5,7 +5,7 @@ Week of 2/17/2020
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Continue with Python - [Chapter 7](/ap/curriculum/7/) | |
+  |**Mon**|Continue with Python - [Chapter 7](/ap/curriculum/7/)<br>Final `froshims` web app example  | |
   |**Tue**|Continue with Python - [Chapter 7](/ap/curriculum/7/) ||
   |**Wed**| | |
   |**Thu**| | |
