@@ -12,6 +12,6 @@ Week of 2/24/2020
   |**Fri**|Winter Break | |
 
 <div style="text-align:center">
-<img src="https://cdn.lynda.com/course/661773/661773-637122005058334771-16x9.jpg" alt="python" width="40%">
+<img src="https://msa1.magnoliapublicschools.org/ourpages/auto/2019/12/18/51457184/winterbreak.jpg" alt="winter break" width="50%">
 
 </div>
