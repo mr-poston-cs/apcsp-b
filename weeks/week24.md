@@ -9,7 +9,7 @@ Week of 2/17/2020
   |**Tue**|[Chapter 7](/ap/curriculum/7/)<br>Finish up `froshims6` ||
   |**Wed**|Fix `froshims6`<br>Go over `words` examples | |
   |**Thu**|Get started on [Surevey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html) |Watch the [Introduction video](https://docs.cs50.net/2019/ap/problems/survey/survey.html#introduction), make sure you have downloaded the starter files as per the [getting started instructions](https://docs.cs50.net/2019/ap/problems/survey/survey.html#getting-started) and read over Understanding and Specification |
-  |**Fri**|Pray for snow &#10052 | |
+  |**Fri**|Pray for snow <pre><code>&#10052</code></pre> | |
 
 <div style="text-align:center">
 <img src="https://cdn.lynda.com/course/661773/661773-637122005058334771-16x9.jpg" alt="python" width="40%">
