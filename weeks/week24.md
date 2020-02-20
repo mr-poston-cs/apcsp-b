@@ -9,7 +9,7 @@ Week of 2/17/2020
   |**Tue**|[Chapter 7](/ap/curriculum/7/)<br>Finish up `froshims6` ||
   |**Wed**|Fix `froshims6` | |
   |**Thu**|Go over `words` examples<br>Get started on [Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html) |Watch the [Introduction video](https://docs.cs50.net/2019/ap/problems/survey/survey.html#introduction), make sure you have downloaded the starter files as per the [getting started instructions](https://docs.cs50.net/2019/ap/problems/survey/survey.html#getting-started)<br>and read over Understanding and Specification<br>*Come up with what you want your survey to be with specifics (what the fields are, and what type they should be)* |
-  |**Fri**|Pray for snow :snowflake: |Provided we don't have class today, make sure you come Monday with some quick notes (either written out or digitally) on what you want your survey to include. Remember to have specifics! |
+  |**Fri**|Pray for snow :snowflake: |Provided we don't have class today, make sure you come Monday with some quick notes (either written out or digitally)<br>on what you want your survey to include. Remember to have specifics! |
 
 <div style="text-align:center">
 <img src="https://cdn.lynda.com/course/661773/661773-637122005058334771-16x9.jpg" alt="python" width="40%">
