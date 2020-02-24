@@ -5,8 +5,8 @@ Week of 2/24/2020
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|[Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html) |Work on your PSET |
-  |**Tue**|[Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html) |Work on your PSET and have a good break! |
+  |**Mon**|[Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html)<br>Work on the form portion of `form.html`, adding your form elements to it|Continue working on your PSET<br>Look into Bootstrap features you would like to implement and add them|
+  |**Tue**|[Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html)<br>Work on the form portion of `form.html`, adding the required JS |Work on your PSET some and have a good break! |
   |**Wed**|Winter Break | |
   |**Thu**|Winter Break | |
   |**Fri**|Winter Break | |
