@@ -5,7 +5,7 @@ title: false
 
 # Announcements
 
-- <span style="font-size: 24px;">[Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html) will be due no earlier than the Wed we get back from Winter Break.</span>
+- <span style="font-size: 20px;">[Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html): we will work on this Monday and Tuesday, (& possibly Wednesday) after that we are going on with new material. This PSET will be due on Friday at 11:59 pm</span>
 
 
 <!-- <img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400"> -->
