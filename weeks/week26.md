@@ -9,7 +9,7 @@ Week of 3/2/2020
   |**Mon**|[Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html)|Continue working on your PSET|
   |**Tue**|[Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html) | |
   |**Wed**|Last day to work on Survey in class! |Keep working on your PSET; it is due Fri at 11:59pm |
-  |**Thu**| |Keep working on your PSET; it is due Fri at 11:59pm |
+  |**Thu**|Just kidding... you guys will get to work on Survey today too! |Keep working on your PSET; it is due Fri at 11:59pm |
   |**Fri**| |PSET is due tonight at 11:59 |
 
 <div style="text-align:center">
