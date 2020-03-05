@@ -20,4 +20,4 @@ Week of 3/2/2020
   * [Using `DictReader` to read `.csv` files](https://brodan.biz/blog/parsing-csv-files-with-python/)
   * [How to generate html tables with Flask and Jinja](https://www.reddit.com/r/learnpython/comments/3wtx8o/how_to_generate_html_tables_flask_and_jinja2/)
   * [How to structure data to easily build HTML tables in Flask](https://stackoverflow.com/questions/13315883/how-to-structure-data-to-easily-build-html-tables-in-flask)
-  
+  * [Link to CS50 Discord server](https://discord.gg/j7fccTE)
