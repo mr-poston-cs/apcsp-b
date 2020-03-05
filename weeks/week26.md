@@ -10,7 +10,7 @@ Week of 3/2/2020
   |**Tue**|[Survey PSET](https://docs.cs50.net/2019/ap/problems/survey/survey.html) | |
   |**Wed**|Last day to work on Survey in class! |Keep working on your PSET; it is due Fri at 11:59pm |
   |**Thu**|Just kidding... you guys will get to work on Survey today too! |Keep working on your PSET; it is due Fri at 11:59pm |
-  |**Fri**| |PSET is due tonight at 11:59 |
+  |**Fri**|Start on Databases in [Ch 8](/ap/curriculum/8/) |PSET is due tonight at 11:59 |
 
 <div style="text-align:center">
 <img src="https://hackernoon.com/hn-images/1*fD3qqMWNyfJ85XST9c1H2g.png" alt="flask framework" width="50%">
