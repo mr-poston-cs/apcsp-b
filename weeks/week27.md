@@ -5,7 +5,7 @@ Week of 3/9/2020
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|[Databases from Ch 8](/ap/curriculum/8/) & textbook then moving into [Data Science](/ap/curriculum/data_science/)| |
+  |**Mon**|[Databases from Ch 8](/ap/curriculum/8/) & textbook then moving into [Data Science](/ap/curriculum/data_science/)|Read section 14.4-14.4.1 in your book (p.699-704) and complete the practice problem on p.704<br>Read the [Collecting Data notes online](/ap/curriculum/data_science/collecting_data/notes/) |
   |**Tue**| | |
   |**Wed**| | |
   |**Thu**| |Quiz tomorrow on what we have covered this week |
