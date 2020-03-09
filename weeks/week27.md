@@ -5,7 +5,7 @@ Week of 3/9/2020
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Databases from [Ch 8](/ap/curriculum/8/) & textbook then moving into [Data Science](/ap/curriculum/data_science/)| |
+  |**Mon**|[Databases from Ch 8](/ap/curriculum/8/) & textbook then moving into [Data Science](/ap/curriculum/data_science/)| |
   |**Tue**| | |
   |**Wed**| | |
   |**Thu**| | |
