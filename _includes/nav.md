@@ -37,6 +37,7 @@
 * [Week 24](/ap/weeks/week24) Feb 17
 * [Week 25](/ap/weeks/week25) Feb 24
 * [Week 26](/ap/weeks/week26) Mar 2
+* [Week 27](/ap/weeks/week27) Mar 9
 
 ***
 
