@@ -29,6 +29,6 @@ Week of 3/16/2020
 
 ### Wednesday  
 * Start on Lesson 3 in [Unit 4 on Code.org](https://studio.code.org/s/csp4-2019?section_id=2525239)
-* Make sure that you are going through the Resources on the first page of the lesson. There is an activity guide that you will do along with reading documents and viewing a video. with those resources you will answer the questions in the activity guide. 
+* Make sure that you are going through the Resources on the first page of the lesson. There is an activity guide that you will do along with reading documents and viewing a video. With those resources you will answer the questions in the activity guide. 
 * I will create an assignment in Teams so you can upload your finished activity guide
 * **This is to be done independently and should be turned in by tomorrow morning at 10 so we can discuss and go over answers**
