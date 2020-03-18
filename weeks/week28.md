@@ -9,7 +9,7 @@ Week of 3/16/2020
   |-------|---------              |---------  |
   |**Mon**|[Click here to see what you need to cover for Monday](/ap/weeks/week28/#monday) | |
   |**Tue**|[Tuesday's classwork/homework](/ap/weeks/week28/#tuesday) | |
-  |**Wed**| | |
+  |**Wed**|[Wednesday's classwork/homework](/ap/weeks/week28/#wednesday) | |
   |**Thu**| | |
   |**Fri**| | |
 
