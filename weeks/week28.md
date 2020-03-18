@@ -1,6 +1,6 @@
 <meta http-equiv="refresh" content="300"/>
 
-# All work for this week will be due Friday at midnight, but I suggest you keep up with it as it is assigned so you don't get behind!
+## All work for this week will be due Friday at midnight unless otherwise stated, but I suggest you keep up with it as it is assigned so you don't get behind!
 
 ## Week 28  
 Week of 3/16/2020  
