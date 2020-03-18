@@ -10,8 +10,8 @@ Week of 3/16/2020
   |**Mon**|[Click here to see what you need to cover for Monday](/ap/weeks/week28/#monday) | |
   |**Tue**|[Tuesday's classwork/homework](/ap/weeks/week28/#tuesday) | |
   |**Wed**|[Wednesday's classwork/homework](/ap/weeks/week28/#wednesday) | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Thu**|[Thursday](/ap/weeks/week28/#thursday) | |
+  |**Fri**|[Friday](/ap/weeks/week28/#friday) | |
 
 <div style="text-align:center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRQ6tvPfhMTRjt6_-3GMc3P59wsZyahoEbMMuM3o0kkpQlk9jP" alt="data" width="50%">
@@ -36,3 +36,6 @@ Week of 3/16/2020
 ### Thursday  
 * Thank you for being ever so patient while I try and get things for you guys and get all the passwords ever reset for everyone else!
 * For today, I just want to have a little bit of a discussion on the impact of data. I hope to have a video up then we can discuss what I present in that either in the comments or somewhere...details to come after the video gets up.
+
+### Friday  
+* *Will be up hopefully by Thursday night*
