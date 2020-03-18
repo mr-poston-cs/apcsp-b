@@ -32,3 +32,7 @@ Week of 3/16/2020
 * Make sure that you are going through the Resources on the first page of the lesson. There is an activity guide that you will do along with reading documents and viewing a video. With those resources you will answer the questions in the activity guide. 
 * I will create an assignment in Teams so you can upload your finished activity guide
 * **This is to be done independently and should be turned in by tomorrow morning at 10 so we can discuss and go over answers**
+
+### Thursday  
+* Thank you for being ever so patient while I try and get things for you guys and get all the passwords ever reset for everyone else!
+* For today, I just want to have a little bit of a discussion on the impact of data. I hope to have a video up then we can discuss what I present in that either in the comments or somewhere...details to come after the video gets up.
