@@ -38,4 +38,4 @@ Week of 3/16/2020
 * For today, I just want to have a little bit of a discussion on the impact of data. I hope to have a video up then we can discuss what I present in that either in the comments or somewhere...details to come after the video gets up.
 
 ### Friday  
-* *Will be up hopefully by Thursday night*
+* We will be going over Thursday's agenda since I was swamped with more password resets and having to help others. Next week should be much smoother hopefully! You guys are the best, being patient as I help everyone get settled into online instruction.
