@@ -7,7 +7,7 @@ Complete and submit the following:
 - Individual written responses about your program and development process
 - Program
 
-[Survival Guide]({{"/assets/pdfs/digital_portfolio/create-survival-2019.pdf" | relative_url}})
+[Survival Guide]({{"/assets/pdfs/digital_portfolio/create-survival-2020.pdf" | relative_url}})
 
 ## General Requirements
 - independently develop an algorithm that integrates 2 or more algorithms and that is fundamental for your program to achieve its indented purpose

@@ -13,12 +13,18 @@ Week of 3/23/2020
 
 ### Tuesday  
 * 2pm Teams meeting to discuss updates to your AP Exam and get started on Create
+* Start working on the [Create Survival Guide](/assets/pdfs/digital_portfolio/create-survival-2020.pdf)
+  * Have the **Algorithms** portion of this done for today - I will create an assignment in Teams that I want you to upload a picture of your answers to, and I will make a video explaining the answers that will go up tomorrow
+  * Assignmet will be due by 11:59 PM
 
 ### Wednesday  
-* Coming soon!
+* Watch the video explaining the Algorithms portion of the Survival Guide
+* Complete the **Abstraction** portion of the Survival Guide; upload a picture to the assignment in Teams
+* Assignmet will be due by 11:59 PM
+* Video explaining this will be out tomorrow.
 
 ### Thursday  
-* Coming soon!
+* Watch the video explaining the Abstraction portion of the Survival Guide
 
 ### Friday  
 * Coming soon!
