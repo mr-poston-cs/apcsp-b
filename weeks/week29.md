@@ -1,12 +1,11 @@
 <meta http-equiv="refresh" content="300"/>
 
-## All work for this week will be due Friday at midnight unless otherwise stated, but I suggest you keep up with it as it is assigned so you don't get behind!
 
 ## Week 28  
 Week of 3/23/2020  
 
 <div style="text-align:center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTRQ6tvPfhMTRjt6_-3GMc3P59wsZyahoEbMMuM3o0kkpQlk9jP" alt="data" width="50%">
+<img src="https://images5.alphacoders.com/423/thumb-1920-423148.jpg" alt="dont be sad" width="50%">
 </div>
 
 ### Monday  
