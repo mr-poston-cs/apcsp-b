@@ -4,9 +4,7 @@
 ## Week 29  
 Week of 3/23/2020  
 
-<div style="text-align:center">
 ## [Create Task Page](/ap/units/pt/create)
-</div>
 
 <div style="text-align:center">
 <img src="https://images5.alphacoders.com/423/thumb-1920-423148.jpg" alt="dont be sad" width="50%">
