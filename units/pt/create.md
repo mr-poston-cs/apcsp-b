@@ -7,7 +7,7 @@ Complete and submit the following:
 - Individual written responses about your program and development process
 - Program
 
-[Survival Guide]({{"/assets/pdfs/digital_portfolio/create-survival-2020.pdf" | relative_url}})
+[Survival Guide]({{"/assets/pdfs/digital_portfolio/create-survival-2020.pdf" | relative_url}})<br>
 [Scoring Guidelines]({{"/assets/pdfs/digital_portfolio/create-guidelines-2019.pdf" | relative_url}})
 
 ## General Requirements
