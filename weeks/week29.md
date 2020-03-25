@@ -29,4 +29,5 @@ Week of 3/23/2020
 * Complete the **Narrow it Down** section of the Survival Guide (pages 8 & 9) and turn in via a Teams assignment that will be posted by 7 AM, and will be due by 11:59 PM
 
 ### Friday  
-* Coming soon!
+* *Coming soon!*
+* There is a one-on-one Zoom sign-up inside our Q4 channel in Teams for you to schedule time to meet with me on your Create Task. This is not mandatory at this time, but I know most of you will probably want a bit of help at some point. This way you can share your screen with me and I can help you almost like we were in class. There is only so much help I can give you on the Create Task, but I will help and support you as much as I can!
