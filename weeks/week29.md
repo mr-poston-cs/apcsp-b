@@ -26,6 +26,7 @@ Week of 3/23/2020
 
 ### Thursday  
 * Watch the video explaining the Algorithms & Abstraction portions of the Survival Guide; I will also explain the Create Task a bit more to clarify what we talked about on Tues in our Zoom
+* Complete the **Narrow it Down** section of the Survival Guide (pages 8 & 9) and turn in via a Teams assignment that will be posted by 7 AM, and will be due by 11:59 PM
 
 ### Friday  
 * Coming soon!
