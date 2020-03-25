@@ -8,6 +8,7 @@ Complete and submit the following:
 - Program
 
 [Survival Guide]({{"/assets/pdfs/digital_portfolio/create-survival-2020.pdf" | relative_url}})
+[Scoring Guidelines]({{"/assets/pdfs/digital_portfolio/create-guidelines-2019.pdf" | relative_url}})
 
 ## General Requirements
 - independently develop an algorithm that integrates 2 or more algorithms and that is fundamental for your program to achieve its indented purpose

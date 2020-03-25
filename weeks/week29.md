@@ -4,6 +4,8 @@
 ## Week 29  
 Week of 3/23/2020  
 
+#### [Create Task Page](/ap/units/pt/create)
+
 <div style="text-align:center">
 <img src="https://images5.alphacoders.com/423/thumb-1920-423148.jpg" alt="dont be sad" width="50%">
 </div>
@@ -18,13 +20,12 @@ Week of 3/23/2020
   * Assignmet will be due by 11:59 PM
 
 ### Wednesday  
-* Watch the video explaining the Algorithms portion of the Survival Guide
 * Complete the **Abstraction** portion of the Survival Guide; upload a picture to the assignment in Teams
 * Assignmet will be due by 11:59 PM
 * Video explaining this will be out tomorrow.
 
 ### Thursday  
-* Watch the video explaining the Abstraction portion of the Survival Guide
+* Watch the video explaining the Algorithms & Abstraction portions of the Survival Guide; I will also explain the Create Task a bit more to clarify what we talked about on Tues in our Zoom
 
 ### Friday  
 * Coming soon!
