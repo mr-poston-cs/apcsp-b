@@ -30,5 +30,5 @@ Week of 3/23/2020
 
 ### Friday  
 * I want you to come up with at least 3 different ideas for your Create task; even if you already have a "good idea" I want you to have a back-up or two!! I will have this put into OneNote so hopefully that will be easier for you to do since MS has disabled the ability to edit files within Teams. If you go to your Class Notebook for this class, you should see a new section *Create Task*, in this you should see a page for *Create Ideas*. Put your 3 ideas in there.
-* There will be a brief video tomorrow about the below :arrow_down:
+* Here is a [brief video about the below :arrow_down:](https://youtu.be/KlvfaOOZVvc)
 * There is a one-on-one Zoom sign-up inside our Q4 channel in Teams for you to schedule time to meet with me on your Create Task. This is not mandatory at this time, but I know most of you will probably want a bit of help at some point. This way you can share your screen with me and I can help you almost like we were in class. There is only so much help I can give you on the Create Task, but I will help and support you as much as I can!
