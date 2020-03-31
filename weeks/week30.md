@@ -16,7 +16,7 @@ Week of 3/30/2020
 
 ### Tuesday  
 * I have created and distributed a **Create Journal** page in your OneNote Class Notebooks to keep up with how your task is coming along
-* I also distributed an Organizer page in OneNote for you guys with directions at the top
+* I also distributed an **Organizer** page in OneNote for you guys with directions at the top
 * I will go over all this in the video which will be in the Q4 Channel of Teams as soon as I get it made (by 11 am, but probably sooner)
 * Continue working on Create and make sure to make a Journal entry or 2 before Friday at 11:59 pm
 
