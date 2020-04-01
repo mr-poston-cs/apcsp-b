@@ -6,6 +6,7 @@ title: false
 # Announcements  
 
 - <span style="font-size: 20px;">Start working on Create!</span>
+  - This will be due to me for a grade on May 18th at 11:59pm, which means you have to have it turned in to CB, and marked as complete by then.
 
 
 <!-- <img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400"> -->
