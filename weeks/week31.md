@@ -4,7 +4,7 @@
 ## Week 31  
 Week of 4/6/2020  
 
-* Continue working on Create and make sure to make at least one or 2 Journal entries before Friday at 11:59 pm
+* Continue working on Create and make sure to make at least one or 2 Journal entries in OneNote before Friday at 11:59 pm
 * [Sign up for any meetings with me that you need](https://calendly.com/candib-apa/create-task)
 * [Create Task Page](/ap/units/pt/create)
 
