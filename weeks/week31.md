@@ -10,7 +10,7 @@ Week of 4/6/2020
 * [Link to sample responses on College Board for Create](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles) - scroll down until you see **Scoring Guidelines and Notes for the 2019 Exam Administration**
 * Details on how to video everything and the template for the written responses will be out next week.
 
-### If you missed last week's journal entry, you need schedule a Zoom meeting with me (link is above), and we can talk about what you need to get going on your Create Task. I don't want to give you zero's for your work, but I have to have something to go off of for grades, and the journal entries were the best way I could think of. With them, I know where you stand, and can check off that you are continuing to work on it. The sooner you guys get Create done, the sooner we can be finished.
+### If you missed last week's journal entry, you need to schedule a Zoom meeting with me (link is above), and we can talk about what you need to get going on your Create Task. I don't want to give you zero's for your work, but I have to have something to go off of for grades, and the journal entries were the best way I could think of. With them, I know where you stand, and can check off that you are continuing to work on it. The sooner you guys get Create done, the sooner we can be finished.
 
 
 <div style="text-align:center">
