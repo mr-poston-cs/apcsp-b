@@ -7,7 +7,7 @@ Week of 4/13/2020
 * SPRING BREAK!!!!!
 
 <div style="text-align:center">
-<img src="https://lh3.googleusercontent.com/proxy/5qdp78YOmq0skLmPnbPfwpvwraHHUtJ5-ZnvQ_6wjnZQFSs0NBijcqeXRx41BG_9v_cizfdB0ba-EYftiDkeX-JUhRBSXCw_-yINAiWv0KDELK-MxBWJ" alt="spring break" width="40%">
+<img src="https://doloresschools.org/wp-content/uploads/2019/11/ev35354_tg9ms_Capture.png" alt="spring break" width="40%">
 </div>
 
 ### If you missed any journal entries, work on Create this week and make some entries and I will count them for you :smiley:
