@@ -42,7 +42,7 @@
 * [Week 29](/ap/weeks/week29) Mar 23
 * [Week 30](/ap/weeks/week30) Mar 30
 * [Week 31](/ap/weeks/week31) Apr 6
-* [Week 32](/ap/weeks/week32) Apr 13
+* [Week 32](/ap/weeks/week32) Apr 13 - Break
 * [Week 33](/ap/weeks/week33) Apr 20
 
 ***
