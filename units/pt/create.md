@@ -37,6 +37,7 @@ Your program must demonstrate:
 
 ## Resources  
 * [Create Written Responses Template](https://parrottacademy-my.sharepoint.com/:w:/g/personal/cbeaman_parrottacademy_org/EQsZ3rT8frNOhcot5T6lAyQB01AG3r35bbVN--OqVGy58g?e=EXXKOK)
+  * Download the document to your computer so you can fill it in.
   * Make sure to change the name of the file to no longer include 'template' and ensure your name is nowhere on the document.
 
 #### PDF of Code/Written Responses:
