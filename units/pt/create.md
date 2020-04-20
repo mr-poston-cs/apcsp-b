@@ -35,7 +35,10 @@ Your program must demonstrate:
   - Mark with a **rectangle** the segment of program code that represents and abstraction you developed.
   - Include comments or acknowledgements for program code that has been written by someone else.
 
-## Resources
+## Resources  
+* [Create Written Responses Template](https://parrottacademy-my.sharepoint.com/:w:/g/personal/cbeaman_parrottacademy_org/EQsZ3rT8frNOhcot5T6lAyQB01AG3r35bbVN--OqVGy58g?e=EXXKOK)
+  * Make sure to change the name of the file to no longer include 'template' and ensure your name is nowhere on the document.
+
 #### PDF of Code/Written Responses:
 - [Code Print](https://bakerfranke.github.io/codePrint/) - useful for preparing PDF of code for Create PT
 - [Scratch Code Generator](http://scratchblocks.github.io/generator/)
