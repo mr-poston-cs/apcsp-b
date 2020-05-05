@@ -27,17 +27,22 @@
 </ul>
 </details>
 
-* Semester 2
-* [Week 18](/ap/weeks/week18) Jan 6
-* [Week 19](/ap/weeks/week19) Jan 13
-* [Week 20](/ap/weeks/week20) Jan 20
-* [Week 21](/ap/weeks/week21) Jan 27
-* [Week 22](/ap/weeks/week22) Feb 3
-* [Week 23](/ap/weeks/week23) Feb 10
-* [Week 24](/ap/weeks/week24) Feb 17
-* [Week 25](/ap/weeks/week25) Feb 24
-* [Week 26](/ap/weeks/week26) Mar 2
-* [Week 27](/ap/weeks/week27) Mar 9
+<details>
+    <summary>Q3</summary>
+    <ul>
+        <li><a href="https://candib80.github.io/ap/weeks/week18/">Week 18</a> Jan 6</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week19/">Week 19</a> Jan 13</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week20/">Week 22</a> Jan 20</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week21/">Week 21</a> Jan 27</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week22/">Week 22</a> Feb 3</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week23/">Week 23</a> Feb 10</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week24/">Week 24</a> Feb 17</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week25/">Week 25</a> Feb 24</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week26/">Week 26</a> Mar 2</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week27/">Week 27</a> Mar 9</li>
+    </ul>
+</details>
+
 * [Week 28](/ap/weeks/week28) Mar 16
 * [Week 29](/ap/weeks/week29) Mar 23
 * [Week 30](/ap/weeks/week30) Mar 30
