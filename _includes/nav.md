@@ -52,6 +52,7 @@ Q4
 * [Week 33](/ap/weeks/week33) Apr 20
 * [Week 34](/ap/weeks/week34) Apr 27
 * [Week 35](/ap/weeks/week35) May 4
+* [Week 36](/ap/weeks/week36) May 11
 
 ***
 
