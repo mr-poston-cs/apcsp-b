@@ -12,7 +12,10 @@ Week of 5/11/2020
 
 * Make sure to complete at least one journal entry by Friday at 11:59pm to get credit for this week if you aren't done with your program
 * A link to the written response template can now be found on the *Create Task Page* in the [Resources](/ap/units/pt/create/#resources) section on the bottom
-* A video on how to record your program is coming soon since most of you said yes or maybe (Tuesday afternoon) 
+* Videos:
+    * [How to record your program](https://youtu.be/m0B9E9Pk3uk)
+    * [How to make a PDF of your code](https://youtu.be/jM0iKYC7SVI)
+    * [Algorithms and Abstractions in your code](https://youtu.be/F3JXqAhCRuo)
 * [Sign up for any meetings with me that you need](https://calendly.com/candib-apa/create-task)
 * [Create Task Page](/ap/units/pt/create)
 * [Link to sample responses on College Board for Create](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles) - scroll down until you see **Scoring Guidelines and Notes for the 2019 Exam Administration**
