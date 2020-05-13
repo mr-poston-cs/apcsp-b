@@ -36,9 +36,9 @@ Your program must demonstrate:
   - Include comments or acknowledgements for program code that has been written by someone else.
 
 ## Resources  
-* [Create Written Responses Template](https://parrottacademy-my.sharepoint.com/:w:/g/personal/cbeaman_parrottacademy_org/EQsZ3rT8frNOhcot5T6lAyQB01AG3r35bbVN--OqVGy58g?e=EXXKOK)
-  * Download the document to your computer so you can fill it in.
-  * Make sure to change the name of the file to no longer include 'template' and ensure your name is nowhere on the document.
+#### [Create Written Responses Template](https://parrottacademy-my.sharepoint.com/:w:/g/personal/cbeaman_parrottacademy_org/EQsZ3rT8frNOhcot5T6lAyQB01AG3r35bbVN--OqVGy58g?e=EXXKOK)
+- Download the document to your computer so you can fill it in.
+- Make sure to change the name of the file to no longer include 'template' and ensure your name is nowhere on the document.
 
 #### PDF of Code/Written Responses:
 - [Code Print](https://bakerfranke.github.io/codePrint/) - useful for preparing PDF of code for Create PT
@@ -46,7 +46,9 @@ Your program must demonstrate:
 
 #### Video of Program Running:
 - Screencasting
-  - Online/Web: [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins
+  - Online/Web: 
+    - [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins; Use at your own risk... I have not been successful with downloading the file after recording.
+    - [Screencastify](https://www.screencastify.com/) - Chrome extension with 5 minute limit for free use  
   - Windows/Mac: [Jing from Techsmith](https://www.techsmith.com/jing.html) - requires download
   - On Windows 10, you can use the built-in screen recording: [Quora Article](https://www.quora.com/How-can-I-Record-Screen-in-Windows-10)
     - This can record sound as well, so you may want to mute the mic if you don't want to have sound
