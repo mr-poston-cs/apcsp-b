@@ -41,6 +41,7 @@ Your program must demonstrate:
 - Make sure to change the name of the file to no longer include 'template' and ensure your name is nowhere on the document.
 
 #### PDF of Code/Written Responses:
+- [My video of how to make a PDF of your code](https://youtu.be/jM0iKYC7SVI)
 - [Code Print](https://bakerfranke.github.io/codePrint/) - useful for preparing PDF of code for Create PT
 - [Scratch Code Generator](http://scratchblocks.github.io/generator/)
 
