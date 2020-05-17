@@ -16,6 +16,7 @@ Week of 5/11/2020
     * [How to record your program](https://youtu.be/m0B9E9Pk3uk)
     * [How to make a PDF of your code](https://youtu.be/jM0iKYC7SVI)
     * [Algorithms and Abstractions in your code](https://youtu.be/F3JXqAhCRuo)
+    * [Where to upload files](https://youtu.be/p1XTh9lTIXU)
 * [Sign up for any meetings with me that you need](https://calendly.com/candib-apa/create-task)
 * [Create Task Page](/ap/units/pt/create)
 * [Link to sample responses on College Board for Create](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam?course=ap-computer-science-principles) - scroll down until you see **Scoring Guidelines and Notes for the 2019 Exam Administration**

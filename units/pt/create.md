@@ -56,3 +56,6 @@ Your program must demonstrate:
     - This can record sound as well, so you may want to mute the mic if you don't want to have sound
   - [On a Mac](https://support.apple.com/en-us/HT208721)
 - Get someone to help you (if you need it) record you running your program with a phone/camera
+
+#### What to do after your done with your program, written responses, & video
+- [Here is a video of exactly what to do with your 3 files](https://youtu.be/p1XTh9lTIXU)
