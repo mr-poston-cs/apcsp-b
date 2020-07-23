@@ -34,4 +34,4 @@
 
 # Summer Assignment
 
-* [Summer 2020](summer-assignment) - Not updated as of 7/23
+* [Summer 2020](summer-assignment)
