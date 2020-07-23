@@ -1,51 +1,36 @@
-# Summer Assignment 2019
+# Summer Assignment 2020
 
-Hello! I am happy to have you in my AP Computer Science Principles class for the 2019-2020 school year! Below is this year's summer assignment.\\
-**There will be a test the first week of school** on material covered in the assignment, however, we will review some before.\\
+Hello! I am happy to have you in my AP Computer Science Principles class for the 2020-2021 school year! Below is this year's summer assignment.  
 I look forward to having you all in the fall, and have a great summer break! If you ever need me, email me at <cbeaman@parrottacademy.org>.\\
 ~Mrs. Beaman
 
-#### [Guided Notes Handout]({{"/assets/pdfs/summer/summer-2019.pdf" | relative_url}}) - feel free to take additional notes on notebook paper if you need to. This will count as a quiz grade (quizzes count for 15% of your grade).
+- The assignment below is due the first day we meet and will count as **2** quiz grades
+- **There will be a test the first Monday we meet** on material covered in the assignment; however, we will review that Thursday and Friday before (most of you all will be in the Senior Retreat on Wednesday).
 
-[Supplementary Notes]({{"/assets/pdfs/summer/unit0-study.pdf" | relative_url}}) - You do not HAVE to do this, but it was the study guide for Unit 0 last year.
+## Part 0
+- First, make sure to watch the playlist on the [homepage on our CS50 AP Site]({{"/index" | relative_url}})
+  - These 2 short videos explain CS50, and CS50 AP, which is what we use for our AP CSP here at APA
+- Download the document(s) below and use them for Parts 1 & 2
+  - *Guided Notes document(s) coming soon*
 
 ## Part I
 - Read Chapter 1 in *Invitation to Computer Science 8th ed.*
-  - Either come by and pick up your book, or use the [PDF of Chapter 1]({{"/assets/pdfs/summer/inv-to-cs-ch1.pdf" | relative_url}})
+  - Either come by and pick up your book, or use the [PDF of Chapter 1](/ap/assets/pdfs/summer/inv-to-cs-ch1.pdf)
   - Complete the guided notes for the reading
 
 ## Part II
-- First, make sure to watch the playlist on the [homepage on our CS50 AP Site]({{"/index" | relative_url}})
-- Second, look over the guided notes for all modules in Unit 0, as some answers may appear as you are going through other videos
-- Complete the following for [Unit 0]({{ "/units/unit0" | relative_url }}):\\
-*Most of the information for How Computers Work through Memory, can be found in the long lecture video in How Computers Work. I know this may seem like a lot, but it all goes together and I think you will find it more manageable than you think. Just make sure to give yourself enough time to watch everything and complete the notes.*
+- Second, look over the guided notes for all sections in Understanding Technology, as some answers may appear as you are going through other videos
+- Complete the following for [Understanding Technology](/ap/curriculum/understanding_technology):
+  - Hardware
+  - Internet
+  - Multimedia
+- There are Notes, Reference Sheets, Videos, and Slides for all the above. Make sure to utilize all the materials to answer the guided notes for each of the sections
+- **DO NOT** do any of the Problems for the Hardware section, but do look over them as you may see something similar on the test
+- **DO NOT** do the Security section of Understanding Technology; we will do this after school starts
 
-  - [Computers and Computing]({{"/units/unit0/computers_and_computing" | relative_url }})
-    - Watch videos Parts 0, 1, & 2
-    - Read notes
-    - Complete guided notes for this module
-
-  - [How Computers Work]({{"/units/unit0/how_computers_work" | relative_url }})
-    - Watch the lecture video (longest video of all, I promise, but it does cover most of the other modules as well), along with the supplementary resources videos
-    - Read notes
-    - Complete guided notes for this module
-
-  - [Binary and ASCII]({{"/units/unit0/binary_and_ascii" | relative_url }})
-    - Watch the videos, shorts, & supplementary resources
-    - Read notes on both Binary and ASCII - make sure to download the ASCII tables if you need to
-    - Complete guided notes and practice problems for this module
-
-  - [Logic and Processors]({{"/units/unit0/logic_and_processors" | relative_url }})
-    - Watch the videos and supplementary resources
-      - [Boolean Logic & Logic Gates: Crash Course CS](https://youtu.be/gI-qXk7XojA)
-      - [Inside the CPU](https://youtu.be/IAkj32VPcUE)
-      - [CPU: Crash Course CS](https://www.youtube.com/watch?v=FZGugFqdr60)
-      - [Khan Academy and Code.org Ciruits & Logic](https://www.youtube.com/watch?v=Sc3lh3D4rCw)
-      - [How Transistors Work](https://www.youtube.com/watch?v=WhNyURBiJcU)
-    - Read the notes on both *Transistors and Logic* and *CPU and SoC*
-    - Complete guided notes for this module
-
-  - [Memory]({{"/units/unit0/memory" | relative_url }})
-    - Watch the videos
-    - Read the notes
-    - Complete guided notes for this module
+- Transistors & Logic supplementary resources - if you need more understanding of how transistors and logic work
+  - [Boolean Logic & Logic Gates: Crash Course CS](https://youtu.be/gI-qXk7XojA)
+  - [Inside the CPU](https://youtu.be/IAkj32VPcUE)
+  - [CPU: Crash Course CS](https://www.youtube.com/watch?v=FZGugFqdr60)
+  - [Khan Academy and Code.org Circuits & Logic](https://www.youtube.com/watch?v=Sc3lh3D4rCw)
+  - [How Transistors Work](https://www.youtube.com/watch?v=WhNyURBiJcU)
