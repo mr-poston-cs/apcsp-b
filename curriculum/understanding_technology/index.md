@@ -1,12 +1,7 @@
 # Understanding Technology
 
 * [Hardware](hardware)
-    * Reference Sheets
-    * [Computers and Computing](https://ap.cs50.school/assets/pdfs/computers_and_computing.pdf)
-    * [How Computers Work](https://ap.cs50.school/assets/pdfs/how_computers_work.pdf)
-    * [CPU and SoC](https://ap.cs50.school/assets/pdfs/cpu_and_soc.pdf)
-    * [Memory](https://ap.cs50.school/assets/pdfs/memory.pdf)
-    * [Transistors and Logic](https://ap.cs50.school/assets/pdfs/transistors_and_logic.pdf)
+    
 * [Internet](internet)
     * Reference Sheets
     * [Routers](https://ap.cs50.school/assets/pdfs/routers.pdf)
