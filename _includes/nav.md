@@ -1,7 +1,7 @@
 ***
 * [CS50 IDE](https://ide.cs50.io/)
 
-***
+<!-- ***
 <details>
     <summary>Semester 1
     </summary>
@@ -52,20 +52,20 @@ Q4
 * [Week 33](/ap/weeks/week33) Apr 20
 * [Week 34](/ap/weeks/week34) Apr 27
 * [Week 35](/ap/weeks/week35) May 4
-* [Week 36](/ap/weeks/week36) May 11
+* [Week 36](/ap/weeks/week36) May 11 -->
 
 ***
 
 * [**Online Book**](https://k12.cengage.com/portal/Account/LogOn?DistrictLoginCode=BMT7)
-* [**Curriculum**]({{ "/curriculum" | relative_url }})
-* [**Digital Portfolio**]({{ "units/digital_portfolio" | relative_url }})
+* [**Curriculum**](curriculum)
+* [**Digital Portfolio**](curriculum/digital_portfolio)
 <!-- * [Problems by Unit]({{ "problems" | relative_url}}) -->
 
 ***
 
 * <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
-* [Tools]({{ "/tools" | relative_url }})
-* [Syllabus]({{"/syllabus" | relative_url }})
+* [Tools](tools)
+* [Syllabus](syllabus)
 * [CS50 Programmer's Manual](https://man.cs50.io/)
 * <a href="https://cs50.readthedocs.io/style/c/" target="_blank">Style Guide</a>
 * <a href="https://cs50.statuspage.io/" target="_blank">Status Page</a>
