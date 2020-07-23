@@ -56,6 +56,10 @@ Q4
 
 ***
 
+[**Summer 2020**](/ap/curriculum/summer-assignment)
+
+***
+
 * [**Online Book**](https://k12.cengage.com/portal/Account/LogOn?DistrictLoginCode=BMT7)
 * [**Curriculum**](/ap/curriculum)
 * [**Digital Portfolio**](/ap/curriculum/digital_portfolio)
