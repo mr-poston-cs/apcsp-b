@@ -119,7 +119,7 @@
     - ASCII also has mapping for punctuation symbols
   - Programs like notepad, textedit, and Microsoft Word decide weather to display patterns of bits as letters or words
     - Computers only store 0s and 1s, but the programs interpret those bits in a certain way
-      - For example, if Microsoft word sees a pattern of buts representing the number 65, it will interpret that as "A"
+      - For example, if Microsoft Word sees a pattern of buts representing the number 65, it will interpret that as "A"
   - ASCII is limited
     - Original ASCII is 7 bits, thus giving 128 characters
       - Extended ASCII is 8 bits, yielding 256 characters
