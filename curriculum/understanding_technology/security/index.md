@@ -1,6 +1,8 @@
 # Security
 
 * [Notes](notes)
-* [Slides](http://cdn.cs50.net/cscie1a/2017/fall/lectures/security/security.pdf)
+* Reference Sheets
+    * [Cybersecurity](https://cs50.harvard.edu/ap/2020/assets/pdfs/cybersecurity.pdf)
+    * [Trust Models](https://cs50.harvard.edu/ap/2020/assets/pdfs/trust_models.pdf)
 * [Video](https://video.cs50.net/cscie1a/2017/fall/lectures/security)
-* [Combined Ref Sheets](\ap\assets\pdfs\cybersecurity_trust-models.pdf)
+* [Slides](http://cdn.cs50.net/cscie1a/2017/fall/lectures/security/security.pdf)
