@@ -34,4 +34,4 @@
 
 # Summer Assignment
 
-* [Summer 2019]({{ "/units/summer-assignment" | relative_url }})
+* [Summer 2020](summer-assignment)
