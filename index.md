@@ -3,14 +3,6 @@ title: false
 ---
 <meta http-equiv="refresh" content="600"/>
 
-<!-- # Announcements  
-
-- <span style="font-size: 20px;">Finish [Create](/ap/units/pt/create/)</span>
-  - This will be due to me for a grade on Monday, May 18th at 11:59pm, which means you have to have it turned in to CB, and marked as complete by then.
-
-
-<img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400"> -->
-
 <!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400">  -->
 
 <!-- ### Remember:
@@ -26,3 +18,11 @@ title: false
 This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's AP CS Principles curriculum framework.
 
 <iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
+
+
+# Announcements  
+
+- <span style="font-size: 20px;">Announcements will go here in the future! </span>
+
+
+<img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400">
