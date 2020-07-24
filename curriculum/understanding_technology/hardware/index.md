@@ -4,8 +4,8 @@
 * Reference Sheets
     * [Computers and Computing](https://cs50.harvard.edu/ap/2020/assets/pdfs/computers_and_computing.pdf)
     * [How Computers Work](https://cs50.harvard.edu/ap/2020/assets/pdfs/how_computers_work.pdf)
-    * [CPU and SoC](https://cs50.harvard.edu/ap/2020/assets/pdfs/cpu_and_soc.pdf)
     * [Memory](https://cs50.harvard.edu/ap/2020/assets/pdfs/memory.pdf)
+    * [CPU and SoC](https://cs50.harvard.edu/ap/2020/assets/pdfs/cpu_and_soc.pdf)
     * [Transistors and Logic](https://cs50.harvard.edu/ap/2020/assets/pdfs/transistors_and_logic.pdf)
 * [Video](https://video.cs50.net/cscie1a/2017/fall/lectures/hardware)
 * [Slides](http://cdn.cs50.net/cscie1a/2017/fall/lectures/hardware/hardware.pdf)

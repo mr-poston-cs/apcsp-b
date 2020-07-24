@@ -14,14 +14,12 @@ I look forward to having you all in the fall, and have a great summer break! If 
   - *Guided Notes document(s) coming soon*
 
 ## Part 1
-- Read selected pages from Chapter 1 in *Invitation to Computer Science 8th ed.*
-  - *PDF of selection coming soon*
-  - Complete the guided notes for the reading
+- Read selected pages from Chapter 1 in *Invitation to Computer Science 8th ed.*; [PDF here](\ap\assets\pdfs\summer\inv-to-cs-ch1-edited.pdf)
+- Complete the guided notes for the reading
 
 ## Part 2
-- Second, look over the guided notes for all sections in Understanding Technology, as some answers may appear as you are going through other videos
 - Complete the following for [Understanding Technology](/ap/curriculum/understanding_technology):
-  - Hardware
+  - Hardware - look over all the sections of Hardware in the Guided Notes before you start since answers can appear in different places as you read the notes or ref sheets or watch the video.
   - Internet
   - Multimedia
 - There are Notes, Reference Sheets, Videos, and Slides for all the above. Make sure to utilize all the materials to answer the guided notes for each of the sections
