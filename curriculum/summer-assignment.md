@@ -5,14 +5,15 @@ I look forward to having you all in the fall, and have a great summer break! If 
 ~Mrs. Beaman
 
 - The assignment below is due the first day we meet and will count as **2** quiz grades
-- It may seem like a lot, but I tried to organize it so it was easier to follow for the Guided Notes
+- The two handouts may seem like a lot, but I tried to organize it so it was easier to follow for the Guided Notes
 - **There will be a test the first Monday we meet** on material covered in the assignment; however, we will review that Thursday and Friday before (most of you all will be in the Senior Retreat on Wednesday).
 
 ## Part 0
 - First, make sure to watch the playlist on the [homepage on our CS50 AP Site]({{"/index" | relative_url}})
   - These 2 short videos explain CS50, and CS50 AP, which is what we use for our AP CSP here at APA
 - Download the documents below and use them for Parts 1 & 2:
-  - *Guided Notes and other Hardware doc will be up by Monday 7/27*
+  - [Guided Notes for Parts 1 & 2](\ap\assets\pdfs\summer\summer-20.pdf)
+  - [Additional Hardware Worksheet](\ap\assets\pdfs\summer\hardware.pdf)
 
 ## Part 1
 - Read selected pages from Chapter 1 in *Invitation to Computer Science 8th ed.*; [PDF here](\ap\assets\pdfs\summer\inv-to-cs-ch1-edited.pdf)
