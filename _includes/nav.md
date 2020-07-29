@@ -60,7 +60,7 @@ Q4
 
 ***
 
-* [**Online Book**](https://k12.cengage.com/portal/Account/LogOn?DistrictLoginCode=BMT7)
+<!-- * [**Online Book**](https://k12.cengage.com/portal/Account/LogOn?DistrictLoginCode=BMT7) -->
 * [**Curriculum**](/ap/curriculum)
 * [**Digital Portfolio**](/ap/curriculum/digital_portfolio)
 <!-- * [Problems by Unit]({{ "problems" | relative_url}}) -->
