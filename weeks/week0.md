@@ -1,3 +1,17 @@
 # Week 0
+  
+Week of 8/31/20  
+**Summer Assignment Test on Tues
+  
 
-<img src="https://static.vecteezy.com/system/resources/previews/000/621/733/non_2x/coming-soon-typography-vector-design.jpg" alt="coming soon">
+  |       |In Class               |Homework   |
+  |-------|---------              |---------  |
+  |**Mon**|Go over summer notes |Study for Test|
+  |**Tue**|Test on summer assignment |Read over Reference Sheets for [Security](\ap\curriculum\understanding_technology\security) |
+  |**Wed**|Start on [Security](\ap\curriculum\understanding_technology\security) | |
+  |**Thu**| | |
+  |**Fri**| | |
+
+<div style="text-align:center">
+<img src="" alt="" width="50%">
+</div>

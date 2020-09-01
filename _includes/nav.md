@@ -1,8 +1,9 @@
 ***
 * [CS50 IDE](https://ide.cs50.io/)
 
-<!-- ***
-<details>
+***
+<a href="https://candib80.github.io/ap/weeks/week0/">Week 0</a>
+<!-- <details>
     <summary>Semester 1
     </summary>
     <ul>
