@@ -28,7 +28,7 @@
     </ul>
 </details>
 
-<details>
+<!-- <details>
     <summary>Q3</summary>
     <ul>
         <li><a href="https://candib80.github.io/ap/weeks/week18/">Week 18</a> Jan 6</li>
@@ -53,7 +53,7 @@ Q4
 * [Week 33](/ap/weeks/week33) Apr 20
 * [Week 34](/ap/weeks/week34) Apr 27
 * [Week 35](/ap/weeks/week35) May 4
-* [Week 36](/ap/weeks/week36) May 11 -->
+* [Week 36](/ap/weeks/week36) May 11  -->
 
 ***
 
