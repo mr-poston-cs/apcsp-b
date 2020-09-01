@@ -12,12 +12,12 @@ title: false
   - *Labs will be included in the Quizzes Category and graded as such*
     - *Links to all the labs can be found under the [Curriculum](/ap/curriculum/index.md) page* -->
 
-# Hello, world!
+<!-- # Hello, world!
 
 
 This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's AP CS Principles curriculum framework.
 
-<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
+<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe> -->
 
 
 # Announcements  
