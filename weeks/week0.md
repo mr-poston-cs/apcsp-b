@@ -10,7 +10,7 @@ Week of 8/31/20
   |**Tue**|Test on summer assignment |Read over Reference Sheets for [Security](\ap\curriculum\understanding_technology\security) |
   |**Wed**|Start on [Security](\ap\curriculum\understanding_technology\security) | |
   |**Thu**|Continue with Security |Study for short quiz on Security |
-  |**Fri**|Security quiz; start on [Chapter 0](\ap\curriculum\0) | |
+  |**Fri**|Security quiz; start on [Chapter 0](\ap\curriculum\0) |Make sure to join the AP class on CB site. Join codes and links are in a post in Teams. |
 
   Go to [Scratch](https://scratch.mit.edu) and sign up for an account. Make sure you remember your login information. 
 
