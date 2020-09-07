@@ -3,6 +3,7 @@
 
 ***
 <a href="https://candib80.github.io/ap/weeks/week0/">Week 0</a>
+<a href="https://candib80.github.io/ap/weeks/week1/">Week 1</a>
 
 <!-- <details>
     <summary>Semester 1
