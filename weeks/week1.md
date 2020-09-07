@@ -4,6 +4,7 @@
 
 Week of 9/7/2020  
 [Chapter 0](\ap\curriculum\0)  
+
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|HOLIDAY | |
