@@ -1,8 +1,6 @@
 # Week 1
 
-## Schedule:
-
-Week of 9/7/2020  
+## Week of 9/7/2020  
 [Chapter 0](\ap\curriculum\0)  
 
   |       |In Class               |Homework   |
