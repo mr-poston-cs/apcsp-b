@@ -32,7 +32,7 @@
   </ul>
 </details>
 
-</details>
+<details>
   <summary>Problems</summary>
   <ul>
     <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/0/scratch/">Scratch</a></li>
