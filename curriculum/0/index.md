@@ -1,6 +1,6 @@
 # Chapter 0
 
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://video.cs50.io/jjqgP9dpD1k?screen=w3XNssqYBSU"></iframe>
+<iframe src="https://video.cs50.io/jjqgP9dpD1k?screen=w3XNssqYBSU"></iframe>
 
 <details>
   <summary>Lecture</summary>
