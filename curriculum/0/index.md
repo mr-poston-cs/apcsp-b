@@ -1,6 +1,6 @@
 # Chapter 0
 
-<iframe width=75% src="https://www.youtube.com/embed/jjqgP9dpD1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="75%" src="https://www.youtube.com/embed/jjqgP9dpD1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [CS50 Video Player](https://video.cs50.io/jjqgP9dpD1k?screen=w3XNssqYBSU)
 
