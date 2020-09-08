@@ -8,7 +8,7 @@
   <li data-marker="-">Lecture
     <ul>
       <li data-marker="*"><a href="https://cdn.cs50.net/2019/fall/lectures/0/lecture0.mp3.download">Audio</a></li>
-      <li data-marker="*"><a href="../../notes/0/">Notes</a></li>
+      <li data-marker="*"><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/notes/0/">Notes</a></li>
       <li data-marker="+">Slides
         <ul>
           <li data-marker="*"><a href="https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing">Google Slides</a></li>
