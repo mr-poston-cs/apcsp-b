@@ -37,7 +37,7 @@
 <details>
   <summary>Problems</summary>
   <ul>
-    <li><a href="\curriculum\0\scratch">Scratch</a></li>
+    <li><a href="\ap\curriculum\0\scratch">Scratch</a></li>
   </ul>
 </details>
 
