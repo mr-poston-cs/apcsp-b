@@ -7,7 +7,7 @@
   |-------|---------              |---------  |
   |**Mon**|HOLIDAY | |
   |**Tue**|Algorithms & Pseudocode review and practice |Algorithm assignment in Teams - will be viewable Tuesday at noon |
-  |**Wed**|Pseudocode & Scratch<br>Create [GitHub](https://github.com/join) Accounts<br>[Join our class here](https://submit.cs50.io/invites/58a97a3c65e84665a08f96ad2079f55c)<br>Go over Submit50 |Play in [Scratch](https://scratch.mit.edu)<br>Go over the [Scratch PSET](\ap\curriculum\0\scratch.md) requirements<br>[Fill out this form so I have a list of your usernames](https://forms.office.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNUQTIxT1ZEVUpOTTZaVTlRRUYwTFU5SURJUi4u) |
+  |**Wed**|Pseudocode & Scratch<br>Create [GitHub](https://github.com/join) Accounts<br>[Join our class here](https://submit.cs50.io/invites/58a97a3c65e84665a08f96ad2079f55c)<br>Go over Submit50 |Play in [Scratch](https://scratch.mit.edu)<br>Go over the [Scratch PSET](\ap\curriculum\0\scratch) requirements<br>[Fill out this form so I have a list of your usernames](https://forms.office.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNUQTIxT1ZEVUpOTTZaVTlRRUYwTFU5SURJUi4u) |
   |**Thu**| |Work on your Scratch PSET |
   |**Fri**| |Work on Scratch PSET - this is due Monday at 11:59 pm |
 
