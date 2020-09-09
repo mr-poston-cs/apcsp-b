@@ -23,7 +23,7 @@ If, along the way, you find it too difficult to implement some feature, try not 
 
 Alright, off you go. Make us proud!
 
-To submit:  
+### To submit:  
 - Make sure to save the file
 - Make sure to give your project a name other than Untitled
 - Click the Share button beside the project name
