@@ -179,12 +179,11 @@ style50 hello.c
    If hello.c is not in `~/chapter1/hello`, move it into that directory, as via `mv` (or via CS50 IDE’s lefthand file browser).
 
 2. Then, submit `hello`, as with:  
-   +  
    ```
    cd ~/chapter1/hello
    submit50 cs50/problems/2019/ap/hello
    ```  
-   + inputting your GitHub username and GitHub password as prompted.
+   inputting your GitHub username and GitHub password as prompted.
 
    If you run into any trouble, email sysadmins@cs50.harvard.edu!  
    You may resubmit any problem as many times as you’d like before the deadline.  
