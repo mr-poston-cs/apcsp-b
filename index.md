@@ -22,7 +22,9 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 # Announcements  
 
-- <span style="font-size: 20px;">Announcements will go here in the future! </span>
+- <span style="font-size: 20px;">We are currently on [Week 1](\ap\weeks\week1) </span>
+- [Scratch PSET](\ap\psets\scratch) is due Monday night at 11:59 
+- [Hello PSET](\ap\psets\hello) is tentatively due Monday at 11:59, but may be moved to Tuesday night
 
 
-<img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400">
+<!-- <img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400"> -->
