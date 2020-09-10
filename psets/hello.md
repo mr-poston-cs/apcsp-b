@@ -171,4 +171,21 @@ style50 hello.c
 
 ## How to Submit
 
-1. 
+1. Head to the CS50 IDE and ensure that `hello.c` is in `~/chapter1/hello`, as with:  
+   ```
+   cd ~/chapter1/hello
+   ls
+   ```  
+   If hello.c is not in `~/chapter1/hello`, move it into that directory, as via `mv` (or via CS50 IDE’s lefthand file browser).
+
+2. Then, submit `hello`, as with:  
+   +  
+   ```
+   cd ~/chapter1/hello
+   submit50 cs50/problems/2019/ap/hello
+   ```  
+   + inputting your GitHub username and GitHub password as prompted.
+
+   If you run into any trouble, email sysadmins@cs50.harvard.edu!  
+   You may resubmit any problem as many times as you’d like before the deadline.  
+   Your submission should be graded for correctness within 2 minutes, at which point your score will appear at submit.cs50.io!
