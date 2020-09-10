@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="300"/>
+
 # Week 1
 
 ## Week of 9/7/2020  

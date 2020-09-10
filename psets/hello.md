@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="300"/>
+
 # Hello
 
 ## Getting Started
