@@ -36,15 +36,15 @@
 <details>  
   <summary>Reference Sheets</summary>
   <ul>
-    <li><a href="\ap\assets\pdfs\syntax.pdf"></a>Syntax</li>
-    <li><a href="\ap\assets\pdfs\variables.pdf"></a>Variables</li>
-    <li><a href="\ap\assets\pdfs\data_types.pdf"></a>Data Types</li>
-    <li><a href="\ap\assets\pdfs\operators.pdf"></a>Operators</li>
-    <li><a href="\ap\assets\pdfs\boolean_expressions.pdf"></a>Boolean Expressions</li>
-    <li><a href="\ap\assets\pdfs\loops.pdf"></a>Loops</li>
-    <li><a href="\ap\assets\pdfs\functions.pdf"></a>Functions</li>
-    <li><a href="\ap\assets\pdfs\libraries.pdf"></a>Libraries</li>
-    <li><a href="\ap\assets\pdfs\principles_of_good_design.pdf"></a>Principles of Good Design</li>
+    <li><a href="\ap\assets\pdfs\syntax.pdf">Syntax</a></li>
+    <li><a href="\ap\assets\pdfs\variables.pdf">Variables</a></li>
+    <li><a href="\ap\assets\pdfs\data_types.pdf">Data Types</a></li>
+    <li><a href="\ap\assets\pdfs\operators.pdf">Operators</a></li>
+    <li><a href="\ap\assets\pdfs\boolean_expressions.pdf">Boolean Expressions</a></li>
+    <li><a href="\ap\assets\pdfs\loops.pdf">Loops</a></li>
+    <li><a href="\ap\assets\pdfs\functions.pdf">Functions</a></li>
+    <li><a href="\ap\assets\pdfs\libraries.pdf">Libraries</a></li>
+    <li><a href="\ap\assets\pdfs\principles_of_good_design.pdf">Principles of Good Design</a></li>
   </ul>
 </details>
 
