@@ -8,8 +8,8 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Start C programming; Go over IDE and syntax, variables, data types, & operators |Scratch is due in Teams by tonight at 11:59<br>[Hello PSET](\ap\psets\hello) due tonight also |
-  |**Tue**|Continue with C - Boolean expressions, loops, functions, libraries |Read over reference sheets through Loops |
+  |**Mon**|Start C programming; Go over IDE and syntax, variables, data types, & operators |Scratch is due in Teams by tonight by 11:59 |
+  |**Tue**|Continue with C - Boolean expressions, loops, functions, libraries |[Hello PSET](\ap\psets\hello) due tonight by 11:59<br>Read over reference sheets through Loops |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
