@@ -8,10 +8,10 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Start C programming<br>Go over IDE and syntax, variables, data types, & operators |Scratch is due in Teams by tonight by 11:59 |
-  |**Tue**|Continue with C<br>Boolean expressions, loops, functions, libraries |[Hello PSET](\ap\psets\hello) due tonight by 11:59<br>Read over reference sheets through Loops |
-  |**Wed**|Work on labs |Finish Labs if not done in class |
-  |**Thu**| | |
+  |**Mon**|Work on Scratch |Scratch is due in Teams by tonight by 11:59 |
+  |**Tue**|Start C programming<br>Go over IDE and syntax, variables, data types, & operators |[Hello PSET](\ap\psets\hello) due tonight by 11:59<br>Read over Reference Sheets through Operators |
+  |**Wed**|Continue with C<br>Boolean expressions, loops, functions, libraries |Finish reading Reference Sheets through Libraries |
+  |**Thu**|Work on labs |Finish Labs if not done in class |
   |**Fri**| | |
 
 
