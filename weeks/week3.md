@@ -1,8 +1,22 @@
+<meta http-equiv="refresh" content="300"/>
+
 # Week 3
 
-## Schedule:
+## Week of 9/21/19 
 
-Week of 9/9/19: [Chapter 1](/ap/curriculum/1) continued
+### [Chapter 1](/ap/curriculum/1)
+
+  |       |In Class               |Homework   |
+  |-------|---------              |---------  |
+  |**Mon**| | |
+  |**Tue**| | |
+  |**Wed**| | |
+  |**Thu**| | |
+  |**Fri**| | |
+
+
+
+<!-- Week of 9/9/19: [Chapter 1](/ap/curriculum/1) continued
   - **Mon:** Continue with C - Operators, Boolean expressions, Loops
     - [Fahrenheit](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html) due tonight by 11:59
     - If you have not already done so, read over [chapter 1 reference sheets](/ap/assets/pdfs/ch1-ref-sheets.pdf) through Loops & watch the [lecture video for chapter 1 starting at this link](https://video.cs50.net/2018/fall/lectures/1?t=15m58s) and going through User Input at appx 50 minutes
@@ -17,4 +31,4 @@ Week of 9/9/19: [Chapter 1](/ap/curriculum/1) continued
     - Read over [chapter 1 reference sheets](assets/pdfs/ch1-ref-sheets.pdf) & watch shorts for Chapter 1 if needed
     - Continue with [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html)
 
-  - **Looking forward:** Next week we will finish up with Chapter 1, review and have a test on the material covered so far.
+  - **Looking forward:** Next week we will finish up with Chapter 1, review and have a test on the material covered so far. -->
