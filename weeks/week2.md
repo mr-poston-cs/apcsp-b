@@ -10,7 +10,7 @@
   |-------|---------              |---------  |
   |**Mon**|Start C programming; Go over IDE and syntax, variables, data types, & operators |Scratch is due in Teams by tonight by 11:59 |
   |**Tue**|Continue with C - Boolean expressions, loops, functions, libraries |[Hello PSET](\ap\psets\hello) due tonight by 11:59<br>Read over reference sheets through Loops |
-  |**Wed**| | |
+  |**Wed**|Work on labs |Finish Labs if not done in class |
   |**Thu**| | |
   |**Fri**| | |
 
