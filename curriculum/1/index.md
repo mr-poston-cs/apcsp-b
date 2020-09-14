@@ -49,6 +49,17 @@
 </details>
 
 <details>  
+  <summary>Labs</summary>
+  <ul>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/fahrenheit/"></a>Fahrenheit</li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/water/"></a>Water</li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/conditions/"></a>Conditions</li>
+    <li><a href=""></a>TBD</li>
+    <li><a href=""></a>TBD</li>
+  </ul>
+</details>
+
+<details>  
   <summary>Problems</summary>
   <ul>
     <li><a href="/ap/psets/hello">Hello</a></li>
