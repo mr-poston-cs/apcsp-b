@@ -67,13 +67,12 @@ Q4
 <!-- * [**Online Book**](https://k12.cengage.com/portal/Account/LogOn?DistrictLoginCode=BMT7) -->
 * [**Curriculum**](/ap/curriculum)
 * [**Digital Portfolio**](/ap/curriculum/digital_portfolio)
-<!-- * [Problems by Unit]({{ "problems" | relative_url}}) -->
 
 ***
 
 * <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
 * [Tools](/ap/tools)
-* [Syllabus](/ap/syllabus)
+<!-- * [Syllabus](/ap/syllabus) -->
 * [CS50 Programmer's Manual](https://man.cs50.io/)
 * <a href="https://cs50.readthedocs.io/style/c/" target="_blank">Style Guide</a>
 * <a href="https://cs50.statuspage.io/" target="_blank">Status Page</a>
