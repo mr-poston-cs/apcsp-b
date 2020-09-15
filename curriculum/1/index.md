@@ -1,6 +1,8 @@
 # Chapter 1
 
-<iframe width="1033" height="520" src="https://www.youtube.com/embed/e9Eds2Rc_x8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="1033" height="520" src="https://www.youtube.com/embed/e9Eds2Rc_x8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://video.cs50.io/e9Eds2Rc_x8?screen=ClQXfUurzgU"></iframe>
 
 <details>
   <summary>Lecture</summary>
