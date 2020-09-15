@@ -160,7 +160,7 @@ Recall that, to use `get_string`, you need to include `cs50.h` (in which `get_st
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
 ```
-check50 cs50/problems/2020/fall/hello
+check50 cs50/problems/2019/ap/hello
 ```
 
 Execute the below to evaluate the style of your code using `style50`.
