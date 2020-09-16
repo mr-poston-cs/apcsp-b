@@ -14,9 +14,3 @@
   |**Thu**|Continue with C<br>Boolean expressions, loops, functions, libraries| |
   |**Fri**|Work on labs |Finish Labs if not done in class |
 
-
-<!-- 
-**Wed:** Continue with C - Boolean expressions, loops, functions, libraries
-    - Read over reference sheets through Loops & watch the [lecture video for chapter 1](https://video.cs50.net/2018/fall/lectures/1?t=15m58s) starting at this link and going through User Input at appx 50 minutes
-**Thu:** Make sure to watch the video above, and Get [Fahrenheit](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html) done for Monday
-**Fri:**  -->

@@ -171,16 +171,16 @@ style50 hello.c
 
 ## How to Submit
 
-1. Head to the CS50 IDE and ensure that `hello.c` is in `~/chapter1/hello`, as with:  
+1. Head to the CS50 IDE and ensure that `hello.c` is in `~/pset1/hello`, as with:  
    ```
-   cd ~/chapter1/hello
+   cd ~/pset1/hello
    ls
    ```  
-   If hello.c is not in `~/chapter1/hello`, move it into that directory, as via `mv` (or via CS50 IDE’s lefthand file browser).
+   If hello.c is not in `~/pset1/hello`, move it into that directory, as via `mv` (or via CS50 IDE’s lefthand file browser).
 
 2. Then, submit `hello`, as with:  
    ```
-   cd ~/chapter1/hello
+   cd ~/pset1/hello
    submit50 cs50/problems/2020/fall/hello
    ```  
    inputting your GitHub username and GitHub password as prompted.
