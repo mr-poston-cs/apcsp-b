@@ -103,9 +103,9 @@ Write in `pseudocode.txt` at right some pseudocode that implements this program,
   <li>Prompt user for height</li>
   <li>If height is less than 1 or greater than 8 (or not an integer at all), go back one step</li>
   <li>Iterate from 1 through height:
-    <ol>
+    <ul>
       <li>On iteration <em>i</em>, print <em>i</em> hashes and then a newline</li>
-    </ol>
+    </ul>
   </li>
 </ol>
 
@@ -131,11 +131,11 @@ Stored: 4
 <details>
     <summary>Hints</summary>
     <ul>
-  <li data-marker="*">Recall that you can compile your program with <code class="highlighter-rouge">make</code>.</li>
-  <li data-marker="*">Recall that you can print an <code class="highlighter-rouge">int</code> with <code class="highlighter-rouge">printf</code> using <code class="highlighter-rouge">%i</code>.</li>
-  <li data-marker="*">Recall that you can get an integer from the user with <code class="highlighter-rouge">get_int</code>.</li>
-  <li data-marker="*">Recall that <code class="highlighter-rouge">get_int</code> is declared in <code class="highlighter-rouge">cs50.h</code>.</li>
-  <li data-marker="*">Recall that we prompted the user for a positive integer in class via <code class="highlighter-rouge">positive.c</code>.</li>
+  <li>Recall that you can compile your program with <code class="highlighter-rouge">make</code>.</li>
+  <li>Recall that you can print an <code class="highlighter-rouge">int</code> with <code class="highlighter-rouge">printf</code> using <code class="highlighter-rouge">%i</code>.</li>
+  <li>Recall that you can get an integer from the user with <code class="highlighter-rouge">get_int</code>.</li>
+  <li>Recall that <code class="highlighter-rouge">get_int</code> is declared in <code class="highlighter-rouge">cs50.h</code>.</li>
+  <li>Recall that we prompted the user for a positive integer in class via <code class="highlighter-rouge">positive.c</code>.</li>
 </ul>
 </details>
 
@@ -163,19 +163,20 @@ Modify `mario.c` such that it no longer simply prints the user's input but inste
 <details>
     <summary>Hints</summary>
     <ul>
-  <li data-marker="*">Keep in mind that a hash is just a character like any other, so you can print it with <code class="highlighter-rouge">printf</code>.</li>
-  <li data-marker="*">Just as Scratch has a <a href="https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing">Repeat</a> block, so does C have a <a href="https://docs.google.com/presentation/d/191XW0DHWlW6WmAhYuFUYnZKUlDx0N4u4Fp81AeW-uNs/edit?usp=sharing"><code class="highlighter-rouge">for</code></a> loop, via which you can iterate some number times. Perhaps on each iteration, <em>i</em>, you could print that many hashes?</li>
-  <li data-marker="*">
+  <li>Keep in mind that a hash is just a character like any other, so you can print it with <code class="highlighter-rouge">printf</code>.</li>
+  <li>Just as Scratch has a Repeat block, so does C have a <code class="highlighter-rouge">for</code> loop, via which you can iterate some number times. Perhaps on each iteration, <em>i</em>, you could print that many hashes?</li>
+  <li>
     <p>You can actually “nest” loops, iterating with one variable (e.g., <code class="highlighter-rouge">i</code>) in the “outer” loop and another (e.g., <code class="highlighter-rouge">j</code>) in the “inner” loop. For instance, here’s how you might print a square of height and width <code class="highlighter-rouge">n</code>, below. Of course, it’s not a square that you want to print!</p>
 
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  for (int i = 0; i &lt; n; i++)
-  {
-      for (int j = 0; j &lt; n; j++)
-      {
-          printf("#");
-      }
-      printf("\n");
-  }
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  
+    for (int i = 0; i &lt; n; i++)
+    {
+        for (int j = 0; j &lt; n; j++)
+        {
+             printf("#");
+        }
+        printf("\n");
+    }
 </code></pre></div>    </div>
   </li>
 </ul>
