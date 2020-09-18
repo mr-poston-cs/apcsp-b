@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="300"/>
+
 # Chapter 1
 
 <iframe width="1033" height="520" src="https://www.youtube.com/embed/e9Eds2Rc_x8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

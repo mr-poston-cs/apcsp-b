@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="300"/>
+
 # Mario
 
 ## World 1-1
