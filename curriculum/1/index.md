@@ -56,8 +56,11 @@
     <li><a href="https://lab.cs50.io/candib80/cs50labs/c/fahrenheit/">Fahrenheit</a></li>
     <li><a href="https://lab.cs50.io/candib80/cs50labs/c/water/">Water</a></li>
     <li><a href="https://lab.cs50.io/candib80/cs50labs/c/conditions/">Conditions</a></li>
-    <li><a href=""></a>TBD</li>
-    <li><a href=""></a>TBD</li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/square/">Square</a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/multiples/">Multiples</a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/adder/">Adder</a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/mult/">Mult</a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/myFunction/">myFunction</a></li>
   </ul>
 </details>
 

@@ -22,7 +22,7 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 # Announcements  
 
-- <span style="font-size: 20px;">We are currently on [Week 2](\ap\weeks\week2) </span>
+- <span style="font-size: 20px;">We are currently on [Week 3](\ap\weeks\week3) </span>
 - [Scratch PSET](\ap\psets\scratch) is due Tonight (Monday) at 11:59 
 - [Hello PSET](\ap\psets\hello) is due Tuesday at 11:59
 
