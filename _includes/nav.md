@@ -59,9 +59,9 @@ Q4
 * [Week 35](/ap/weeks/week35) May 4
 * [Week 36](/ap/weeks/week36) May 11  -->
 
-***
+<!-- ***
 
-[**Summer 2020**](/ap/curriculum/summer-assignment)
+[**Summer 2020**](/ap/curriculum/summer-assignment) -->
 
 ***
 
