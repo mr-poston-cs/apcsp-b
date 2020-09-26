@@ -5,13 +5,6 @@ title: false
 
 <!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400">  -->
 
-<!-- ### Remember:
-  - *Anything not completed in class becomes homework*
-    - *HW Assignments not submitted by class time next day will be late and you will not get points*
-  - *PSETs not turned in will be counted off 5 points/percent each day they are late*
-  - *Labs will be included in the Quizzes Category and graded as such*
-    - *Links to all the labs can be found under the [Curriculum](/ap/curriculum/index.md) page* -->
-
 <!-- # Hello, world!
 
 
@@ -22,7 +15,12 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 # Announcements  
 
-- <span style="font-size: 20px;">We are currently on [Week 3](\ap\weeks\week3) </span>
+- <span style="font-size: 20px;">We are currently on [Week 4](\ap\weeks\week4) </span>
+- Finishing up [Chapter 1](/ap/curriculum/1)
+  - Mario due Monday night by 11:59pm
+  - Test on Ch 1 Wednesday
+  - Cash/Credit PSET started after Test
+- Starting on [Chapter 2](/ap/curriculum/2)
 
 
 
