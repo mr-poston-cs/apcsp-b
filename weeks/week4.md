@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="300"/>
+
 # Week 4
 
 ## Week of 9/28/19 
