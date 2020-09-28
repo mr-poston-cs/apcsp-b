@@ -4,7 +4,7 @@
 
 ### [Chapter 1](/ap/curriculum/1)  
 
-Since everyone basically finished Mario on Friday, I have moved up our test to WEDNESDAY
+Since everyone basically finished Mario on Friday, I have moved up our test to Thursday
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
