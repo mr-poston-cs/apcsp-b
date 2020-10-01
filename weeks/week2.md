@@ -2,7 +2,7 @@
 
 # Week 2
 
-## Week of 9/14/19 
+## Week of 9/14/20 
 
 ### [Chapter 1](/ap/curriculum/1)
 

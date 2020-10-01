@@ -2,7 +2,7 @@
 
 # Week 3
 
-## Week of 9/21/19 
+## Week of 9/21/20 
 
 ### [Chapter 1](/ap/curriculum/1)
 
