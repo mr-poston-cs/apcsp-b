@@ -6,7 +6,7 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**| | |
+  |**Mon**| |Cash/Credit due by 11:59pm |
   |**Tue**| | |
   |**Wed**| | |
   |**Thu**| | |
