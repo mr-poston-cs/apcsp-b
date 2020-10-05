@@ -10,7 +10,7 @@
   |**Tue**|ACT |Read over [Ch 2 Reference Sheets](\ap\assets\pdfs\ch2_ref_sheets.pdf) |
   |**Wed**|Start on Chapter 2<br>Compiling | |
   |**Thu**|Debugging |Labs TBD |
-  |**Fri**| | |
+  |**Fri**|Continue with the above or start Arrays | |
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Array-In-C.png" alt="arrays in C" height="350">
 
