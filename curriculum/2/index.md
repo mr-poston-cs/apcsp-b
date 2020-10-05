@@ -33,7 +33,7 @@
 </details>
 
 <details>  
-  <summary>Reference Sheets</summary>
+  <summary><a href="\ap\assets\pdfs\ch2_ref_sheets.pdf">Reference Sheets</a></summary>
   <ul>
     <li><a href="\ap\assets\pdfs\compiling.pdf">Compiling</a></li>
     <li><a href="\ap\assets\pdfs\bugs_and_debugging.pdf">Bugs and Debugging</a></li>
