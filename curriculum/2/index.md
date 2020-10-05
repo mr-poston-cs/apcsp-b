@@ -3,7 +3,7 @@
 <iframe width="1214" height="622" src="https://www.youtube.com/embed/8PrOp9t0PyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Lecture
+Lecture  
 <ul>
   <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/notes/2/">Notes</a></li>
   <details><summary>Slides</summary>
@@ -27,7 +27,7 @@ Lecture
   <ul>
     <li><a href="https://www.youtube.com/embed/b7-0sb-DV84">Functions</a></li>
     <li><a href="https://www.youtube.com/embed/mISkNAfWl8k">Arrays</a></li>
-    <li><a href="https://www.youtube.com/embed/AI6Ccfno6Pk">Command Line Argumnets</a></li>
+    <li><a href="https://www.youtube.com/embed/AI6Ccfno6Pk">Command Line Arguments</a></li>
     <li><a href="https://www.youtube.com/embed/GiFbdVGjF9I">Variables and Scope</a></li>
    </ul>
 </details>
