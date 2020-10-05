@@ -12,5 +12,5 @@
   |**Thu**| | |
   |**Fri**| | |
 
-<img src="https://img.memecdn.com/every-programmer-knows_o_1438249.jpg" alt="code works, why?" height="350">
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Array-In-C.png" alt="arrays in C" height="350">
 
