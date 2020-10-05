@@ -41,23 +41,17 @@ Lecture
     <li><a href="\ap\assets\pdfs\command-line_interaction.pdf">Command-Line Interaction</a></li>
     <li><a href="\ap\assets\pdfs\typecasting.pdf">Typecasting</a></li>
     <li><a href="\ap\assets\pdfs\exit_codes.pdf">Exit Codes</a></li>
-
   </ul>
 </details>
 
-<!-- <details>  
+<details>  
   <summary>Labs</summary>
   <ul>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/fahrenheit/">Fahrenheit</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/water/">Water</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/conditions/">Conditions</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/square/">Square</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/multiples/">Multiples</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/adder/">Adder</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/mult/">Mult</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/myFunction/">myFunction</a></li>
+    <li><a href="">Coming Soon</a></li>
+    <li><a href="">Coming Soon</a></li>
+    <li><a href="">Coming Soon</a></li>
   </ul>
-</details> -->
+</details>
 
 <details>  
   <summary>Problems</summary>

@@ -7,9 +7,9 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Answer questions to [Cash](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/cash/)/[Credit](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/credit/ ) |Cash/Credit due by 11:59pm |
-  |**Tue**|Start on Chapter 2 |Read over [Ch 2 Reference Sheets](\ap\assets\pdfs\ch2_ref_sheets.pdf) |
-  |**Wed**| | |
-  |**Thu**| | |
+  |**Tue**|ACT |Read over [Ch 2 Reference Sheets](\ap\assets\pdfs\ch2_ref_sheets.pdf) |
+  |**Wed**|Start on Chapter 2<br>Compiling | |
+  |**Thu**|Debugging |Labs TBD |
   |**Fri**| | |
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Array-In-C.png" alt="arrays in C" height="350">
