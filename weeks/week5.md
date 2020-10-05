@@ -7,7 +7,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Answer questions to [Cash](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/cash/)/[Credit](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/credit/ ) |Cash/Credit due by 11:59pm |
-  |**Tue**| | |
+  |**Tue**|Start on Chapter 2 | |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
