@@ -15,12 +15,9 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 # Announcements  
 
-- <span style="font-size: 20px;">We are currently on [Week 4](\ap\weeks\week4) </span>
-- Finishing up [Chapter 1](/ap/curriculum/1)
-  - Mario due Monday night by 11:59pm
-  - Test on Ch 1 Wednesday
-  - Cash/Credit PSET started after Test --> tentatively due Monday at 11:59pm
-- Starting on [Chapter 2](/ap/curriculum/2)
+- <span style="font-size: 20px;">We are currently on [Week 5](\ap\weeks\week5) </span>
+- Starting [Chapter 2](/ap/curriculum/2)
+
 
 
 
