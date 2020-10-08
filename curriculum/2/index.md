@@ -47,8 +47,8 @@ Lecture
 <details>  
   <summary>Labs</summary>
   <ul>
-    <li><a href="">Coming Soon</a></li>
-    <li><a href="">Coming Soon</a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/shining/">Shining</a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/garbage/">Garbage Values</a></li>
     <li><a href="">Coming Soon</a></li>
   </ul>
 </details>
