@@ -9,8 +9,8 @@
   |**Mon**|Continue with Arrays & Strings<br>Decide on Quiz day |Arrays & Strings questions in Teams |
   |**Tue**|Command-Line Interaction |Command-Line Teams homework |
   |**Wed**| | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Thu**| |Study for Quiz |
+  |**Fri**|Quiz on Ch 2 so far | |
 
 <img src="https://pbs.twimg.com/media/DpkBAHyXUAAZgbi.jpg" alt="doer makes mistakes" height="350">
 
