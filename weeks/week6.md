@@ -1,8 +1,22 @@
-# Week 6
+<meta http-equiv="refresh" content="300"/>
+
+## Week 6<br>Week of 10/12/20  
+
+### [Chapter 2](/ap/curriculum/2)  
+
+  |       |In Class               |Homework   |
+  |-------|---------              |---------  |
+  |**Mon**|Continue with Arrays & Strings<br>Decide on Quiz day |Arrays & Strings questions in Teams |
+  |**Tue**|Command-Line Interaction |Command-Line Teams homework |
+  |**Wed**| | |
+  |**Thu**| | |
+  |**Fri**| | |
 
 <img src="https://pbs.twimg.com/media/DpkBAHyXUAAZgbi.jpg" alt="doer makes mistakes" height="350">
 
-## Schedule for week of 9/30/19 - [Chapter 2](/ap/curriculum/2)
+
+
+<!-- ## Schedule for week of 9/30/19 - [Chapter 2](/ap/curriculum/2)
 
   - **Mon:** [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) due by class if not finished and turned in Friday
     - Go over compiling
@@ -20,4 +34,4 @@
   - **Fri:** Go over Strings
     - HW: Watch short on [Command line](https://www.youtube.com/watch?v=thL7ILwRNMM) so we can start on that Monday
 
-  - **Looking forward:** Quiz next Tuesday on Ch 2 so far
+  - **Looking forward:** Quiz next Tuesday on Ch 2 so far -->

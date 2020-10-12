@@ -8,6 +8,7 @@
 * <a href="https://candib80.github.io/ap/weeks/week3/">Week 3</a>
 * <a href="https://candib80.github.io/ap/weeks/week4/">Week 4</a>
 * <a href="https://candib80.github.io/ap/weeks/week5/">Week 5</a>
+* <a href="https://candib80.github.io/ap/weeks/week6/">Week 6</a>
 
 <!-- <details>
     <summary>Semester 1

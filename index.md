@@ -15,8 +15,8 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 # Announcements  
 
-- <span style="font-size: 20px;">We are currently on [Week 5](\ap\weeks\week5) </span>
-- Starting [Chapter 2](/ap/curriculum/2)
+- <span style="font-size: 20px;">We are currently on [Week 6](\ap\weeks\week6) </span>
+- Continue with [Chapter 2](/ap/curriculum/2)
 
 
 
