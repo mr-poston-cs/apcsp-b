@@ -48,8 +48,9 @@ Lecture
   <summary>Labs</summary>
   <ul>
     <li><a href="https://lab.cs50.io/candib80/cs50labs/c/shining/">Shining</a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/">Array Countdown</a></li>
     <li><a href="https://lab.cs50.io/candib80/cs50labs/c/garbage/">Garbage Values</a></li>
-    <li><a href="">Coming Soon</a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/oldFriends/">Old Friends</a></li>
   </ul>
 </details>
 
@@ -81,18 +82,3 @@ Lecture
   * [Call Stack](https://www.youtube.com/watch?v=aCPkszeKRa4)
   * [Merge sort](https://www.youtube.com/watch?v=Ns7tGNbtvV4)
 -->
-
-### Edpuzzle Lessons
-
-**Arrays**  
-<iframe width="470" height="402" src="https://edpuzzle.com/embed/assignments/5db6042c526f95408f4250a4/watch" frameborder="0" allowfullscreen></iframe>
-
-**Command-Line Interaction**  
-<iframe width="470" height="402" src="https://edpuzzle.com/embed/assignments/5db6f00ad49a694087d95cb2/watch" frameborder="0" allowfullscreen></iframe>
-
-<!-- **Algorithm Summary**  
-<iframe width="470" height="402" src="https://edpuzzle.com/embed/assignments/5db6f58153fc45409b150cec/watch" frameborder="0" allowfullscreen></iframe>
-
-**Recursion**  
-<iframe width="470" height="402" src="https://edpuzzle.com/embed/assignments/5db70cfb2c973e40b433e902/watch" frameborder="0" allowfullscreen></iframe> -->
-
