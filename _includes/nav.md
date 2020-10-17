@@ -14,12 +14,12 @@
         <li><a href="https://candib80.github.io/ap/weeks/week6/">Week 6</a></li>
     </ul>
 </details>
-
-* <a href="https://candib80.github.io/ap/weeks/week7/">Week 7</a>
+    <ul>
+        <li><a href="https://candib80.github.io/ap/weeks/week7/">Week 7</a></li>
+    </ul>
 
 <!-- <details>
-    <summary>Semester 1
-    </summary>
+    <summary>Semester 1</summary>
     <ul>
         <li><a href="https://candib80.github.io/ap/weeks/week0/">Week 0</a></li>
         <li><a href="https://candib80.github.io/ap/weeks/week1/">Week 1</a></li>
