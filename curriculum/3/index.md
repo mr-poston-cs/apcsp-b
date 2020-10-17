@@ -20,8 +20,8 @@ Lecture
     <li><a href="https://cdn.cs50.net/2019/fall/lectures/3/src3/">Index</a></li>
     <li><a href="https://cdn.cs50.net/2019/fall/lectures/3/src3.pdf">PDF</a></li>
     <li><a href="https://cdn.cs50.net/2019/fall/lectures/3/src3.zip">Zip</a></li>
-  </ul>
-</details>  
+  </details>  
+</ul>
 
 <details>  
   <summary>Shorts</summary>
