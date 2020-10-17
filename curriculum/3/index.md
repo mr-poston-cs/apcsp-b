@@ -1,10 +1,70 @@
 # Chapter 3
 
-* Clips
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://video.cs50.io/fykrlqbV9wM?screen=sPRcgqR8CJw"></iframe>
+
+Lecture  
+<ul>
+  <ul>Demos
+    <li><a href="https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html">Comparison Sorting Algorithms</li>
+    <li><a href="https://www.youtube.com/watch?v=ZZuD6iUe3Pc">Visualization and Comparison of Sorting Algorithms</li>
+  </ul>
+  <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/notes/3/">Notes</a></li>
+  <details><summary>Slides</summary>
+  <ul>
+    <li><a href="https://docs.google.com/presentation/d/17eT9MaZBUByTTlpkliT8kTg7AW1820xMIQg0HDd5NCk/edit?usp=sharing">Google Slides</a></li>
+    <li><a href="https://docs.google.com/presentation/d/17eT9MaZBUByTTlpkliT8kTg7AW1820xMIQg0HDd5NCk/edit?usp=sharing">PDF</a></li>
+  </ul>
+  </details>
+  <details><summary>Source Code</summary>
+  <ul>
+    <li><a href="https://cdn.cs50.net/2019/fall/lectures/3/src3/">Index</a></li>
+    <li><a href="https://cdn.cs50.net/2019/fall/lectures/3/src3.pdf">PDF</a></li>
+    <li><a href="https://cdn.cs50.net/2019/fall/lectures/3/src3.zip">Zip</a></li>
+  </ul>
+  </details>
+</ul>   
+
+<details>  
+  <summary>Shorts</summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=TwsgCHYmbbA">Linear Search</a></li>
+    <li><a href="https://www.youtube.com/watch?v=T98PIp4omUA">Binary Search</a></li>
+    <li><a href="https://www.youtube.com/watch?v=RT-hUXUWQ2I">Bubble Sort</a></li>
+    <li><a href="https://www.youtube.com/watch?v=3hH8kTHFw2A">Selection Sort</a></li>
+    <li><a href="https://www.youtube.com/watch?v=O0VbBkUvriI">Insertion Sort</a></li>
+    <li><a href="https://www.youtube.com/watch?v=mz6tAJMVmfM">Recursion</a></li>
+    <li><a href="https://www.youtube.com/watch?v=mz6tAJMVmfM">Merge Sort</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ktWL3nN38ZA">Algorithm Summary</a></li>
+   </ul>
+</details>
+
+<details>  
+  <summary><a href="\ap\assets\pdfs\ch2_ref_sheets.pdf">Reference Sheets</a></summary>
+  <ul>
+    <li><a href="\ap\assets\pdfs\.pdf">Linear Search</a></li>
+    <li><a href="\ap\assets\pdfs\.pdf">Binary Search</a></li>
+    <li><a href="\ap\assets\pdfs\.pdf">Bubble Sort</a></li>
+    <li><a href="\ap\assets\pdfs\.pdf">Selection Sort</a></li>
+    <li><a href="\ap\assets\pdfs\.pdf">Insertion Sort</a></li>
+    <li><a href="\ap\assets\pdfs\.pdf">Recursion</a></li>
+    <li><a href="\ap\assets\pdfs\.pdf">Merge Sort</a></li>
+    <li><a href="\ap\assets\pdfs\.pdf">Computational Complexity</a></li>
+  </ul>
+</details>
+
+<details>  
+  <summary>Problems</summary>
+  <ul>
+    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/plurality/">Plurality</a></li>
+    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/runoff/">Runoff</a>, for those less comfortable</li>
+    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/tideman/">Tideman</a>, for those more comfortable</li>
+  </ul>
+</details>
+
+<!-- * Clips
   * [CSI Zoom Enhance](https://www.youtube.com/watch?v=i3gv2zOmJiA)
   * [Let's Enhance](https://www.youtube.com/watch?v=17MctJPzR8w)
   * [Pointer Fun with Binky](https://www.youtube.com/watch?v=_d0jFalGxnQ)
-* [Notes](notes)
 * Problems
   * [Fifteen](https://docs.cs50.net/2019/ap/problems/fifteen/fifteen.html)
   * [Whodunit](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html)
@@ -17,17 +77,9 @@
   * [Hexadecimal](https://www.youtube.com/watch?v=8okwMK6htKE)
   * [Pointers](https://www.youtube.com/watch?v=8VAhORT0ZW8)
   * [Recursion](https://www.youtube.com/watch?v=nrXIMgInokU)
-* [Slides](https://cdn.cs50.net/2018/fall/lectures/3/lecture3.pdf)
-* Source Code
-  * [CS50 Library](https://github.com/cs50/libcs50/tree/develop/src)
-  * [Index](https://cdn.cs50.net/2018/fall/lectures/3/src3/)
-  * [PDF](https://cdn.cs50.net/2018/fall/lectures/3/src3.pdf)
-  * [Sandbox](https://sandbox.cs50.io/13f78b0a-70db-4dc3-90f5-87164e38d431)
-  * [ZIP](https://cdn.cs50.net/2018/fall/lectures/3/src3.zip)
-* [Video](https://video.cs50.net/2018/fall/lectures/3/)
 * Reference Sheets
   * [Bugs and Debugging](https://ap.cs50.school/assets/pdfs/bugs_and_debugging.pdf)
   * [File I/O](https://ap.cs50.school/assets/pdfs/file_io.pdf)
   * [Hexadecimal](https://ap.cs50.school/assets/pdfs/hexadecimal.pdf)
   * [Images](https://ap.cs50.school/assets/pdfs/images.pdf)
-  * [Structures and Encapsulation](https://ap.cs50.school/assets/pdfs/structures_and_encapsulation.pdf)
+  * [Structures and Encapsulation](https://ap.cs50.school/assets/pdfs/structures_and_encapsulation.pdf) -->

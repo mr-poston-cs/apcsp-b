@@ -21,7 +21,6 @@ Lecture
   </details>
 </ul>   
 
-
 <details>  
   <summary>Shorts</summary>
   <ul>
@@ -62,23 +61,3 @@ Lecture
     <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/2/substitution/">Substitution</a>, for those more comfortable</li>
   </ul>
 </details>
-
-<!-- * Demos
-  * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
-  * [What different sorting algorithms sound like](https://www.youtube.com/watch?v=t8g-iYGHpEA)
-
-* Shorts
-  * [Algorithms summary](https://www.youtube.com/watch?v=ktWL3nN38ZA)
-  * [Functions](https://www.youtube.com/watch?v=b7-0sb-DV84)
-  * [Debugging](https://www.youtube.com/watch?v=w4TAY2HPLEg)
-  * [Arrays](https://www.youtube.com/watch?v=mISkNAfWl8k)
-  * [Command line](https://www.youtube.com/watch?v=thL7ILwRNMM)
-  * [Linear search](https://www.youtube.com/watch?v=TwsgCHYmbbA)
-  * [Bubble sort](https://www.youtube.com/watch?v=RT-hUXUWQ2I)
-  * [Insertion sort](https://www.youtube.com/watch?v=O0VbBkUvriI)
-  * [Selection sort](https://www.youtube.com/watch?v=3hH8kTHFw2A)
-  * [Binary search](https://www.youtube.com/watch?v=T98PIp4omUA)
-  * [Recursion](https://www.youtube.com/watch?v=mz6tAJMVmfM)
-  * [Call Stack](https://www.youtube.com/watch?v=aCPkszeKRa4)
-  * [Merge sort](https://www.youtube.com/watch?v=Ns7tGNbtvV4)
--->
