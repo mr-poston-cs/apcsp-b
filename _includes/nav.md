@@ -15,11 +15,8 @@
     </ul>
 </details>
 
-<details>
-    <ul>
-        <li><a href="https://candib80.github.io/ap/weeks/week7/">Week 7</a></li>
-    </ul>
-</details>
+* <a href="https://candib80.github.io/ap/weeks/week7/">Week 7</a>
+
 
 <!-- <details>
     <summary>Semester 1</summary>

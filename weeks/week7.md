@@ -6,7 +6,7 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|FALL BREAK!!! |If you really want to, you can work on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/2/readability/), otherwise, be ready to work on it in class tomorrow |
+  |**Mon**|FALL BREAK!!! |If you really want to, you can work on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/2/readability/), otherwise,<br>be ready to work on it in class tomorrow |
   |**Tue**|[Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/2/readability/) | |
   |**Wed**| | |
   |**Thu**| | |
