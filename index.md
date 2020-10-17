@@ -15,10 +15,10 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 # Announcements  
 
-- <span style="font-size: 20px;">We are currently on [Week 6](\ap\weeks\week6) </span>
-- Continue with [Chapter 2](/ap/curriculum/2)
+- <span style="font-size: 20px;">We are currently on [Week 7](\ap\weeks\week7) </span>
+- Finishing up Problems in [Chapter 2](/ap/curriculum/2)
 
 
 
 
-<!-- <img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400"> -->
+<img src="https://image.freepik.com/free-vector/attention-please-concept-important-announcement_118124-879.jpg" alt="announcement" height="400">

@@ -2,13 +2,18 @@
 * [CS50 IDE](https://ide.cs50.io/)
 
 ***
-* <a href="https://candib80.github.io/ap/weeks/week0/">Week 0</a>
-* <a href="https://candib80.github.io/ap/weeks/week1/">Week 1</a>
-* <a href="https://candib80.github.io/ap/weeks/week2/">Week 2</a>
-* <a href="https://candib80.github.io/ap/weeks/week3/">Week 3</a>
-* <a href="https://candib80.github.io/ap/weeks/week4/">Week 4</a>
-* <a href="https://candib80.github.io/ap/weeks/week5/">Week 5</a>
-* <a href="https://candib80.github.io/ap/weeks/week6/">Week 6</a>
+<details>
+    <summary>Q1</summary>
+    <ul>
+        <li><a href="https://candib80.github.io/ap/weeks/week0/">Week 0</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week1/">Week 1</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week2/">Week 2</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week3/">Week 3</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week4/">Week 4</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week5/">Week 5</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week6/">Week 6</a></li>
+
+* <a href="https://candib80.github.io/ap/weeks/week7/">Week 7</a>
 
 <!-- <details>
     <summary>Semester 1
