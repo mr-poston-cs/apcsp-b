@@ -5,9 +5,11 @@
 Lecture  
 <ul>
   <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/notes/3/">Notes</a></li>
-  <ul>Demos
-    <li><a href="https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html">Comparison Sorting Algorithms</li>
-    <li><a href="https://www.youtube.com/watch?v=ZZuD6iUe3Pc">Visualization and Comparison of Sorting Algorithms</li>
+  <li>Demos
+    <ul>
+      <li><a href="https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html">Comparison Sorting Algorithms</li>
+      <li><a href="https://www.youtube.com/watch?v=ZZuD6iUe3Pc">Visualization and Comparison of Sorting Algorithms</li>
+    </ul>
   </ul>
   <details><summary>Slides</summary>
     <ul>
