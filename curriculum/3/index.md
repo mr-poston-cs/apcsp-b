@@ -5,7 +5,8 @@
 Lecture  
 <ul>
   <li>
-    <ul>Demos
+    Demos
+    <ul>
       <li><a href="https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html">Comparison Sorting Algorithms</li>
       <li><a href="https://www.youtube.com/watch?v=ZZuD6iUe3Pc">Visualization and Comparison of Sorting Algorithms</li>
     </ul>
