@@ -10,8 +10,8 @@ Lecture
       <li><a href="https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html">Comparison Sorting Algorithms</li>
       <li><a href="https://www.youtube.com/watch?v=ZZuD6iUe3Pc">Visualization and Comparison of Sorting Algorithms</li>
     </ul>
-  </ul>
-  <details><summary>Slides</summary>
+  <details>
+    <summary>Slides</summary>
     <ul>
       <li><a href="https://docs.google.com/presentation/d/17eT9MaZBUByTTlpkliT8kTg7AW1820xMIQg0HDd5NCk/edit?usp=sharing">Google Slides</a></li>
       <li><a href="https://docs.google.com/presentation/d/17eT9MaZBUByTTlpkliT8kTg7AW1820xMIQg0HDd5NCk/edit?usp=sharing">PDF</a></li>
