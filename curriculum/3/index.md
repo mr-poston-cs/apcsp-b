@@ -39,7 +39,7 @@ Lecture
    </ul>
 </details>
 
-<details><summary><a href="\ap\assets\pdfs\ch3_ref_sheets2020.pdf">Reference Sheets</a></summary>
+<details><summary><a href="\ap\assets\pdfs\ch3_ref_sheets_2020.pdf">Reference Sheets</a></summary>
   <ul>
     <li><a href="\ap\assets\pdfs\linear_search.pdf">Linear Search</a></li>
     <li><a href="\ap\assets\pdfs\binary_search.pdf">Binary Search</a></li>
