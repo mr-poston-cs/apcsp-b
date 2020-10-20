@@ -34,7 +34,7 @@ Lecture
     <li><a href="https://www.youtube.com/watch?v=3hH8kTHFw2A">Selection Sort</a></li>
     <li><a href="https://www.youtube.com/watch?v=O0VbBkUvriI">Insertion Sort</a></li>
     <li><a href="https://www.youtube.com/watch?v=mz6tAJMVmfM">Recursion</a></li>
-    <li><a href="https://www.youtube.com/watch?v=mz6tAJMVmfM">Merge Sort</a></li>
+    <li><a href="https://www.youtube.com/watch?v=Ns7tGNbtvV4">Merge Sort</a></li>
     <li><a href="https://www.youtube.com/watch?v=ktWL3nN38ZA">Algorithm Summary</a></li>
    </ul>
 </details>
