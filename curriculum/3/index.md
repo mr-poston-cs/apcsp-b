@@ -39,18 +39,18 @@ Lecture
    </ul>
 </details>
 
-<details><summary><a href="">Reference Sheets</a></summary>
+<details><summary><a href="\ap\assets\pdfs\ch3_ref_sheets2020.pdf">Reference Sheets</a></summary>
   <ul>
-    <li><a href="\ap\assets\pdfs\.pdf">Linear Search</a></li>
-    <li><a href="\ap\assets\pdfs\.pdf">Binary Search</a></li>
-    <li><a href="\ap\assets\pdfs\.pdf">Bubble Sort</a></li>
-    <li><a href="\ap\assets\pdfs\.pdf">Selection Sort</a></li>
-    <li><a href="\ap\assets\pdfs\.pdf">Insertion Sort</a></li>
-    <li><a href="\ap\assets\pdfs\.pdf">Recursion</a></li>
-    <li><a href="\ap\assets\pdfs\.pdf">Merge Sort</a></li>
-    <li><a href="\ap\assets\pdfs\.pdf">Computational Complexity</a></li>
+    <li><a href="\ap\assets\pdfs\linear_search.pdf">Linear Search</a></li>
+    <li><a href="\ap\assets\pdfs\binary_search.pdf">Binary Search</a></li>
+    <li><a href="\ap\assets\pdfs\bubble_sort.pdf">Bubble Sort</a></li>
+    <li><a href="\ap\assets\pdfs\selection_sort.pdf">Selection Sort</a></li>
+    <li><a href="\ap\assets\pdfs\insertion_sort.pdf">Insertion Sort</a></li>
+    <li><a href="\ap\assets\pdfs\recursion.pdf">Recursion</a></li>
+    <li><a href="\ap\assets\pdfs\merge_sort.pdf">Merge Sort</a></li>
+    <li><a href="\ap\assets\pdfs\computational_complexity.pdf">Computational Complexity</a></li>
   </ul>
-</details>
+</details>s
 
 <details><summary>Problems</summary>
   <ul>
