@@ -50,7 +50,7 @@ Lecture
     <li><a href="\ap\assets\pdfs\merge_sort.pdf">Merge Sort</a></li>
     <li><a href="\ap\assets\pdfs\computational_complexity.pdf">Computational Complexity</a></li>
   </ul>
-</details>s
+</details>
 
 <details><summary>Problems</summary>
   <ul>
