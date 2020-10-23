@@ -12,7 +12,7 @@
   |**Thu**|Work on PSET |Work on PSET |
   |**Fri**|Last day to work on PSET in class |Finish PSET; it will be due Monday night at 11:59pm |
 
-  ***  
-  #### We will start on [Chapter 3](/ap/curriculum/3)  Monday
+
+#### We will start on [Chapter 3](/ap/curriculum/3)  Monday
 
 <img src="https://ih0.redbubble.net/image.453247676.2842/flat,800x800,070,f.u3.jpg" alt="hide and seek champ ;" height="350">
