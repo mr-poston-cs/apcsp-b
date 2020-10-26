@@ -1,4 +1,26 @@
-# Week 8
+<meta http-equiv="refresh" content="300"/>
+
+## Week 8<br>Week of 10/26/20  
+
+### [Chapter 3](/ap/curriculum/3)  
+
+  |       |In Class               |Homework   |
+  |-------|---------              |---------  |
+  |**Mon**|Start on Chapter 3: Searching<br>If time left at end of class, I will answer questions on Caesar |Finish up [Caesar](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/2/caesar/); Due by 11:59pm |
+  |**Tue**|Continue with Ch 3 |Read over Ref sheets through Bubble Sort & complete Linear and Binary Search video questions |
+  |**Wed**| |Read Ref sheets: Selection Sort through Merge Sort (the end of them) |
+  |**Thu**| | |
+  |**Fri**| | |
+
+<img src="https://miro.medium.com/max/2544/1*yiyfZodqXNwMouC0-B0Wlg.png" alt="big o graph" height="350">
+
+
+
+
+
+
+
+<!-- # Week 8
 
 <img src="https://ih0.redbubble.net/image.453247676.2842/flat,800x800,070,f.u3.jpg" alt="hide and seek champ ;" height="350">
 
@@ -23,4 +45,4 @@
       - [Decode](https://lab.cs50.io/candib80/cs50labs/c/decode/)
     - HW: Finish any labs not done in class; Read over [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) and start on it if you wish
 
-  - **Looking forward:** Continue with [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) - Test on Ch 2 next week (mid week-ish)
+  - **Looking forward:** Continue with [Calc PSET](https://docs.cs50.net/2019/ap/problems/calc/calc.html) - Test on Ch 2 next week (mid week-ish) -->
