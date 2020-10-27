@@ -7,7 +7,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Start on Chapter 3: Searching<br>If time left at end of class, I will answer questions on Caesar |Finish up [Caesar](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/2/caesar/); Due by 11:59pm |
-  |**Tue**|Continue with Ch 3 |Read over Ref sheets through Bubble Sort & complete Linear and Binary Search video questions |
+  |**Tue**|Continue with Ch 3 |Read over Ref sheets through Bubble Sort & complete Linear and Binary Search video questions in OneNote (go to portal.office.com and sign in with your school account, then go to OneNote and find our class; then you go to your name on the side, and then Homework and you should see Linear & Binary Searching Homework) |
   |**Wed**| |Read Ref sheets: Selection Sort through Merge Sort (the end of them) |
   |**Thu**| | |
   |**Fri**| | |
