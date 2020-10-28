@@ -52,6 +52,16 @@ Lecture
   </ul>
 </details>
 
+<details>  
+  <summary>Labs</summary>
+  <ul>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/struct0/">Struct 0</a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/struct1/">Struct 1</a></li>
+    <!-- <li><a href="https://lab.cs50.io/candib80/cs50labs/c//"></a></li>
+    <li><a href="https://lab.cs50.io/candib80/cs50labs/c//"></a></li> -->
+  </ul>
+</details>
+
 <details><summary>Problems</summary>
   <ul>
     <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/plurality/">Plurality</a></li>
