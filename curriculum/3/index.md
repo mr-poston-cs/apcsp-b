@@ -5,6 +5,7 @@
 Lecture  
 <ul>
   <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/notes/3/">Notes</a></li>
+  <li><a href="https://video.cs50.io/fykrlqbV9wM?screen=sPRcgqR8CJw">CS50 Video Player</a></li>
   <details><summary>Demos</summary>
     <ul>
       <li><a href="https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html">Comparison Sorting Algorithms</a></li>
