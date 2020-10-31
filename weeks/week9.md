@@ -6,8 +6,8 @@
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
-  |**Mon**| | |
-  |**Tue**| | |
+  |**Mon**|Work on & answer questions to [Plurality](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/plurality/) |Plurality due tonight at 11:59pm (unless told differently in class Monday) |
+  |**Tue**|More examples of Recursion<br>Merge Sort | |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
