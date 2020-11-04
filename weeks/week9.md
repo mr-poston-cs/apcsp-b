@@ -8,9 +8,9 @@
   |-------|---------              |---------  |
   |**Mon**|Work on & answer questions to [Plurality](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/plurality/) |Plurality due tonight at 11:59pm (unless told differently in class Monday) |
   |**Tue**|More examples of Recursion<br>Merge Sort | |
-  |**Wed**| | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Wed**|Merge Sort<br>Test on Ch 3 Tuesday |Start on the `vote` function of [Runoff](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/runoff/) |
+  |**Thu**|Work on Runoff<br>Test on Ch 3 Tuesday |Work on Runoff |
+  |**Fri**|Work on Runoff<br>Review for test on Ch 3 Tuesday |Work on Runoff & study for test |
 
 <img src="https://i.chzbgr.com/full/9340633600/h4CFEC57B/" alt="CS is half remembering and half googling ;" height="350">
 
