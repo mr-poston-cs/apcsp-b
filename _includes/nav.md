@@ -18,6 +18,7 @@
 * <a href="https://candib80.github.io/ap/weeks/week7/">Week 7</a>
 * <a href="https://candib80.github.io/ap/weeks/week8/">Week 8</a>
 * <a href="https://candib80.github.io/ap/weeks/week9/">Week 9</a>
+* <a href="https://candib80.github.io/ap/weeks/week10/">Week 10</a>
 
 
 <!-- <details>

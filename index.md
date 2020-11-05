@@ -17,7 +17,7 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 - <span style="font-size: 20px;">We are currently on [Week 9](\ap\weeks\week9) </span>
 - Finishing [Chapter 3](/ap/curriculum/3)
-
+- Working on [Runoff](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/runoff/)
 
 
 
