@@ -16,22 +16,6 @@
 * [Data Science](data_science)
 * [Impact of Computing](impact_of_computing)
 
-# Labs
-
-## Chapter 1
-
-* [Adder](https://lab.cs50.io/candib80/cs50labs/c/adder/)
-* [Mult](https://lab.cs50.io/candib80/cs50labs/c/mult/)
-* [Conditions](https://lab.cs50.io/candib80/cs50labs/c/conditions/)
-* [myFunction](https://lab.cs50.io/candib80/cs50labs/c/myFunction/)
-
-## Chapter 2
-* [Old Friends](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/)
-* [Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/)
-* [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/)
-* [Trieste](https://lab.cs50.io/candib80/cs50labs/c/trieste/)
-* [Decode](https://lab.cs50.io/candib80/cs50labs/c/decode/)
-
 # Summer Assignment
 
 * [Summer 2020](summer-assignment)
