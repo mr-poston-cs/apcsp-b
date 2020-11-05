@@ -1,6 +1,6 @@
 # Chapter 4
 
-<iframe width="1214" height="622" src="https://www.youtube.com/embed/cF6YkH-8vFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000" src="https://www.youtube.com/embed/cF6YkH-8vFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Lecture  
 <ul>
