@@ -19,6 +19,7 @@
 * <a href="https://candib80.github.io/ap/weeks/week8/">Week 8</a>
 * <a href="https://candib80.github.io/ap/weeks/week9/">Week 9</a>
 * <a href="https://candib80.github.io/ap/weeks/week10/">Week 10</a>
+* <a href="https://candib80.github.io/ap/weeks/week11/">Week 11</a>
 
 
 <!-- <details>
@@ -35,13 +36,13 @@
         <li><a href="https://candib80.github.io/ap/weeks/week8/">Week 8</a></li>
         <li><a href="https://candib80.github.io/ap/weeks/week9/">Week 9</a></li>
         <li><a href="https://candib80.github.io/ap/weeks/week10/">Week 10</a></li>
-        <li><a href="https://candib80.github.io/ap/weeks/week11/">Week 11</a> Nov 4</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week12/">Week 12</a> Nov 11</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week13/">Week 13</a> Nov 18</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week14/">Week 14</a> Nov 25</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week15/">Week 15</a> Dec 2</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week16/">Week 16</a> Dec 9</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week17/">Week 17</a> Dec 16</li>
+        <li><a href="https://candib80.github.io/ap/weeks/week11/">Week 11</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week12/">Week 12</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week13/">Week 13</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week14/">Week 14</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week15/">Week 15</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week16/">Week 16</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week17/">Week 17</a></li>
     </ul>
 </details>
 
