@@ -6,7 +6,7 @@
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
-  |**Mon**| | |
+  |**Mon**|Number bases worksheet<br>Continue with Pointers and Strings |Watch the short on Pointers - MAKE SURE TO DO THIS!!!! |
   |**Tue**| | |
   |**Wed**| | |
   |**Thu**| | |
