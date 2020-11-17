@@ -7,7 +7,8 @@
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Number bases worksheet<br>Continue with Pointers and Strings |Watch the short on Pointers - MAKE SURE TO DO THIS!!!! |
-  |**Tue**| | |
+  |**Tue**|Continue with pointers<br>Memory allocation & `valgrind`<br>Swap |Watch short on Dynamic Memory Allocation  |
+  
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
