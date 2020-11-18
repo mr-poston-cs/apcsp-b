@@ -8,7 +8,7 @@
   |-------|---------              |---------  |
   |**Mon**|Number bases worksheet<br>Continue with Pointers and Strings |Watch the short on Pointers - MAKE SURE TO DO THIS!!!! |
   |**Tue**|Continue with pointers<br>Memory allocation & `valgrind` |Watch short on Dynamic Memory Allocation  |
-  |**Wed**|Swap<br>Heap/Stack/Overflows |Complete worksheet on Pointers, Strings, & Memory in Teams |
+  |**Wed**|Swap<br>Memory Layout |Complete worksheet on Pointers, Strings, & Memory in Teams<br>up by 3 this afternoon (hopefully sooner) |
   |**Thu**| | |
   |**Fri**| | |
 
