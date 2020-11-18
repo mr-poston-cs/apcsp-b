@@ -36,7 +36,7 @@ Lecture
 
 <details><summary><a href="\ap\assets\pdfs\ch4_ref_sheets_2020.pdf">Reference Sheets</a></summary>
   <ul>
-    <li><a href="\ap\assets\pdfs\file_io">File I/O</a></li>
+    <li><a href="\ap\assets\pdfs\file_io.pdf">File I/O</a></li>
     <li><a href="\ap\assets\pdfs\hexadecimal.pdf">Hexadecimal</a></li>
     <li><a href="\ap\assets\pdfs\images.pdf">Images</a></li>
     <li><a href="\ap\assets\pdfs\structures_and_encapsulation.pdf">Structures and Encapsulation</a></li>
