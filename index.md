@@ -5,6 +5,8 @@ title: false
 
 <!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400">  -->
 
+<img src = "https://cdn4.dogonews.com/images/66fa2ae3-2aea-466a-bff9-761edf1d1f10/art-blessed-blessing-1464826.jpg" alt="thanksgiving">
+
 <!-- # Hello, world!
 
 
