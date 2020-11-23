@@ -14,4 +14,4 @@
   |**Thu**|Thanksgiving Break | |
   |**Fri**|Thanksgiving Break | |
   
-<img src="https://i.pinimg.com/originals/a3/6a/2f/a36a2f2b027f1e8e4be9a645aee9058c.png" alt="learn more by looking for answer than finding it" height="300">
+<img src="https://pbs.twimg.com/media/Dqc1eRnXgAAAiR1.jpg" alt="learn more by looking for answer than finding it" height="300">
