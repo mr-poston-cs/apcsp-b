@@ -9,7 +9,7 @@
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Get started on Filter PSET | |
-  |**Tue**|Work on MS computer cart |Feel free to work on Filter over your break, but don't feel like you have to! |
+  |**Tue**|Work on MS computer cart |Feel free to work on Filter over your break, but don't feel like you have to!<br>Expect a test on Chapter 4 the week we get back. We will review before. |
   |**Wed**|Thanksgiving Break | |
   |**Thu**|Thanksgiving Break | |
   |**Fri**|Thanksgiving Break | |
