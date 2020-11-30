@@ -5,8 +5,6 @@ title: false
 
 <!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400">  -->
 
-<img src = "https://cdn4.dogonews.com/images/66fa2ae3-2aea-466a-bff9-761edf1d1f10/art-blessed-blessing-1464826.jpg" alt="thanksgiving" height="400">
-
 <!-- # Hello, world!
 
 
@@ -17,7 +15,7 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 # Announcements  
 
-- <span style="font-size: 20px;">We are currently on [Week 12](\ap\weeks\week12) </span>
+- <span style="font-size: 20px;">We are currently on [Week 13](\ap\weeks\week13) </span>
 - [Chapter 4](/ap/curriculum/4)
 
 
