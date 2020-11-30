@@ -8,7 +8,7 @@
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Work on Filter PSET |Get at least 1 filter done for the PSET |
+  |**Mon**|Work on Filter PSET |Get at least 1 filter done for the PSET<br>May need to look over [Typecasting](ap/assets/pdfs/typecasting.pdf) |
   |**Tue**|Continue with Filter | |
   |**Wed**| | |
   |**Thu**| | |
