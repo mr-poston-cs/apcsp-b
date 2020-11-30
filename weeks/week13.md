@@ -8,8 +8,8 @@
 
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Work on Filter PSET | |
-  |**Tue**| | |
+  |**Mon**|Work on Filter PSET |Get at least 1 filter done for the PSET |
+  |**Tue**|Continue with Filter | |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
