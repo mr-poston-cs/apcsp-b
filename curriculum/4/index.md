@@ -43,13 +43,13 @@ Lecture
   </ul>
 </details>
 
-<details>  
+<!-- <details>  
   <summary>Labs</summary>
   <ul>
     <li><a href="">TBD</a></li>
     <li><a href="">TBD</a></li>
   </ul>
-</details>
+</details> -->
 
 <details><summary>Problems</summary>
   <ul>
