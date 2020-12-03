@@ -1,11 +1,14 @@
-### Week 14 - week of 11/25/19 
+<meta http-equiv="refresh" content="300"/>
 
-  |       |In Class               |Homework   |
+## Week 14<br>Week of 12/7/20  
+### [Chapter 4](/ap/curriculum/4)  
+
+  |       |Class                  |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|VR fun ||
-  |**Tue**|VR fun             ||
-  |**Wed**|Thanksgiving Break starts!! |    |
-  |**Thu**|Happy Turkey Day!!     |Enjoy your family and friends today!|
-  |**Fri**|                       |Have a good weekend!|
-
-<img src="https://www.searcylaw.com/wp-content/uploads/2018/11/iStock-867926704.jpg" alt="happy thanksgiving" height="300">
+  |**Mon**|Exam Review | |
+  |**Tue**|Exam Review | |
+  |**Wed**|Exam Review | |
+  |**Thu**|Exam Review | |
+  |**Fri**|Reading Day<br>Make an appt. if you need to meet with me | |
+  
+<img src="\ap\assets\img\stackoverflow-god.jpg" alt="Stackoverflow sarcophagus" height="250">
