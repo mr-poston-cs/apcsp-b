@@ -10,7 +10,8 @@
   |**Thu**|Exam Review | |
   |**Fri**|Reading Day<br>Make an appt. if you need to meet with me | |
 
-  ### Content for Exam:    
+  ### Content for Exam:
+  
   * [Understanding Technology](/ap/curriculum/understanding_technology) - Summer and very start of year
   * [Chapter 0](/ap/curriculum/0)
   * [Chapter 1](/ap/curriculum/1)
