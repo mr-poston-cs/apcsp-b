@@ -5,7 +5,7 @@
   |       |Class                  |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Exam Review | |
-  |**Tue**|Exam Review | |
+  |**Tue**|Exam Review |Complete study guide for extra HW grade |
   |**Wed**|Exam Review | |
   |**Thu**|Exam Review | |
   |**Fri**|Reading Day<br>Make an appt. if you need to meet with me | |
