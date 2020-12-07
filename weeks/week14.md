@@ -7,7 +7,7 @@
   |**Mon**|Exam Review | |
   |**Tue**|Exam Review |Start on study guide for extra HW grade |
   |**Wed**|Exam Review |Finish up study guide |
-  |**Thu**|Exam Review |Study guide due |
+  |**Thu**|Study guide due<br>Exam Review | |
   |**Fri**|Reading Day<br>Make an appt. if you need to meet with me | |
 
 ### Content for Exam:
