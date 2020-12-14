@@ -7,7 +7,7 @@
   |**Mon**| | |
   |**Tue**|10:30 - 4th Period CSP Exam | |
   |**Wed**|8:10 - 5th Period CSP Exam | |
-  |**Thu**| | |
+  |**Thu**|HAVE A GREAT WINTER BREAK!! | |
   |**Fri**| | |
 
-<img src="https://www.lustrechristian.org/wp-content/uploads/2019/12/christmasbreak.png" alt="xmas break" height="400">
+<img src="https://lookingglass.montroseschool.org/wp-content/uploads/holiday_homework-900x639.jpg" alt="holiday homework" height="400">
