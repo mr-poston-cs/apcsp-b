@@ -1,6 +1,7 @@
 ---
 title: false
 ---
+
 <meta http-equiv="refresh" content="600"/>
 
 <!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400">  -->
@@ -12,12 +13,8 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 <iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe> -->
 
+# Announcements
 
-# Announcements  
-
-- <span style="font-size: 20px;">We are currently on [Week 15](\ap\weeks\week15) </span>
-- Exam Week
-- Christmas Vacation Starts Wednesday!!!
-
+- <span style="font-size: 20px;">We are currently on [Week 16](\ap\weeks\week16) </span>
 
 <img src="https://miro.medium.com/max/3840/1*8zFlMleCp5xo5lkYIGWKSQ.png" alt="winter break" height="400">

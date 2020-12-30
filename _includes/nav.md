@@ -1,7 +1,9 @@
-***
-* [CS50 IDE](https://ide.cs50.io/)
+---
 
-***
+- [CS50 IDE](https://ide.cs50.io/)
+
+---
+
 <details>
     <summary>Q1</summary>
     <ul>
@@ -15,16 +17,22 @@
     </ul>
 </details>
 
-* <a href="https://candib80.github.io/ap/weeks/week7/">Week 7</a>
-* <a href="https://candib80.github.io/ap/weeks/week8/">Week 8</a>
-* <a href="https://candib80.github.io/ap/weeks/week9/">Week 9</a>
-* <a href="https://candib80.github.io/ap/weeks/week10/">Week 10</a>
-* <a href="https://candib80.github.io/ap/weeks/week11/">Week 11</a>
-* <a href="https://candib80.github.io/ap/weeks/week12/">Week 12</a>
-* <a href="https://candib80.github.io/ap/weeks/week13/">Week 13</a>
-* <a href="https://candib80.github.io/ap/weeks/week14/">Week 14</a>
-* <a href="https://candib80.github.io/ap/weeks/week15/">Week 15</a>
+<details>
+    <summary>Q2</summary>
+    <ul>
+        <li><a href="https://candib80.github.io/ap/weeks/week7/">Week 7</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week8/">Week 8</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week9/">Week 9</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week10/">Week 10</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week11/">Week 11</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week12/">Week 12</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week13/">Week 13</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week14/">Week 14</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week15/">Week 15</a></li>
+    </ul>
+</details>
 
+- <a href="https://candib80.github.io/ap/weeks/week16/">Week 16</a>
 
 <!-- <details>
     <summary>Semester 1</summary>
@@ -66,7 +74,7 @@
     </ul>
 </details>
 
-Q4  
+Q4
 * [Week 28](/ap/weeks/week28) Mar 16
 * [Week 29](/ap/weeks/week29) Mar 23
 * [Week 30](/ap/weeks/week30) Mar 30
@@ -81,19 +89,18 @@ Q4
 
 [**Summer 2020**](/ap/curriculum/summer-assignment) -->
 
-***
+---
 
 <!-- * [**Online Book**](https://k12.cengage.com/portal/Account/LogOn?DistrictLoginCode=BMT7) -->
-* [**Curriculum**](/ap/curriculum)
-* [**Digital Portfolio**](/ap/curriculum/digital_portfolio)
 
-***
+- [**Curriculum**](/ap/curriculum)
+- [**Digital Portfolio**](/ap/curriculum/digital_portfolio)
 
-* <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
-<!-- * [Tools](/ap/tools) -->
-<!-- * [Syllabus](/ap/syllabus) -->
-* [CS50 Programmer's Manual](https://man.cs50.io/)
-* <a href="https://cs50.readthedocs.io/style/c/" target="_blank">Style Guide</a>
-* <a href="https://cs50.statuspage.io/" target="_blank">Status Page</a>
+---
 
-
+- <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
+  <!-- * [Tools](/ap/tools) -->
+  <!-- * [Syllabus](/ap/syllabus) -->
+- [CS50 Programmer's Manual](https://man.cs50.io/)
+- <a href="https://cs50.readthedocs.io/style/c/" target="_blank">Style Guide</a>
+- <a href="https://cs50.statuspage.io/" target="_blank">Status Page</a>

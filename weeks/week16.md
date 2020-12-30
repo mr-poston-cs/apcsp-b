@@ -1,17 +1,13 @@
 <meta http-equiv="refresh" content="300"/>
 
-### Week 16  
-Week of 12/9/19 [Explore Task](/ap/units/pt/explore)  
-[Explore Unit on Code.org](https://studio.code.org/s/csp-explore-2019?section_id=2525239)
+## Week 16<br>Week of 12/9/19
 
-**Explore will be due, as your midterm, Monday the 16th to allow me time to grade them**
+|         | Class | Homework |
+| ------- | ----- | -------- |
+| **Mon** |       |          |
+| **Tue** |       |          |
+| **Wed** |       |          |
+| **Thu** |       |          |
+| **Fri** |       |          |
 
-  |       |In Class               |Homework   |
-  |-------|---------              |---------  |
-  |**Mon**|[Explore Task](/ap/units/pt/explore) |Finish up research on your computing innovation and work on your written responses; [here is the template](http://bit.ly/explore-template) for you to use|
-  |**Tue**|[Explore Task](/ap/units/pt/explore) |Start working on your computational artifact - the infographic, video, audio, etc that you turn in with your written responses (resources are on the Explore Task page|
-  |**Wed**|[Explore Task](/ap/units/pt/explore) |Continue working on artifact|
-  |**Thu**|[Explore Task](/ap/units/pt/explore) ||
-  |**Fri**|[Explore Task](/ap/units/pt/explore) ||
-
-<img src="http://myimages.bravenet.com/512/233/51/WarningxDuexDatesxArexCloserxThanxTheyxAppear.jpg" alt="due date" height="400">
+<img src="" alt="" height="400">
