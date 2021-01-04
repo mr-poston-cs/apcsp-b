@@ -6,7 +6,7 @@
 
 |         | Class                                                  | Homework |
 | ------- | ------------------------------------------------------ | -------- |
-| **Mon** | Go over Midterm if wanted/needed<br>Start on Chapter 5 |          |
+| **Mon** | Go over Midterm if wanted/needed<br>Start on Chapter 5 |Watch the short on [Singly-Linked Lists](https://www.youtube.com/watch?v=zQI3FyWm144) and take notes<br>I will come around tomorrow in class to check your notes          |
 | **Tue** |                                                        |          |
 | **Wed** |                                                        |          |
 | **Thu** |                                                        |          |
