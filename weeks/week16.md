@@ -1,6 +1,6 @@
 <meta http-equiv="refresh" content="300"/>
 
-## Week 16<br>Week of 12/9/19
+## Week 16<br>Week of 1/4/21
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
