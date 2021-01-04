@@ -17,4 +17,4 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 - <span style="font-size: 20px;">We are currently on [Week 16](\ap\weeks\week16) </span>
 
-<img src="https://miro.medium.com/max/3840/1*8zFlMleCp5xo5lkYIGWKSQ.png" alt="winter break" height="400">
+<img src="" alt="" height="400">
