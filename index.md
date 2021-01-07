@@ -17,4 +17,14 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 - <span style="font-size: 20px;">We are currently on [Week 16](\ap\weeks\week16) </span>
 
+## Last half of the year agenda
+
+- Chapter 6 - Python
+- Web Track
+- Create Task
+- SQL
+- Data Science
+- Impact of Computing
+- Review for AP Exam
+
 <img src="" alt="" height="400">
