@@ -10,6 +10,6 @@
 | **Tue** | Continue with Ch5  |             |
 | **Wed** | Finish linked lists | NO HOMEWORK |
 | **Thu** | Trees, Hash Tables, Tries & Abstract Data Structures | Watch short on [Hash Tables](https://www.youtube.com/watch?v=nvzVHwrrub0) and/or [Tries](https://www.youtube.com/watch?v=MC-iQHFdEDI) if needed |
-| **Fri** |      |          |
+| **Fri** | Review for Test on Monday | Study for Test  |
 
 <img src="" alt="" height="400">
