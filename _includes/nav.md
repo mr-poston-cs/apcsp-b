@@ -33,6 +33,7 @@
 </details>
 
 - <a href="https://candib80.github.io/ap/weeks/week16/">Week 16</a>
+- <a href="https://candib80.github.io/ap/weeks/week17/">Week 17</a>
 
 <!-- <details>
     <summary>Semester 1</summary>
