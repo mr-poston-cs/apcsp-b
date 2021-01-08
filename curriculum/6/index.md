@@ -2,8 +2,7 @@
 
 <iframe width="1214" height="622" src="https://www.youtube.com/embed/fL308_-Kbt0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Lecture
-
+<summary>Lecture</summary>
 <ul>
   <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/notes/6/">Notes</a></li>
   <li><a href="https://video.cs50.io/fL308_-Kbt0?screen=ghsZqKLdKhw">CS50 Video Player</a></li>
