@@ -1,20 +1,60 @@
-# Chapter 6
+# Chapter 6 - Python
 
-* [Notes](notes)
-* Problems
-  * [Analyze This](https://docs.cs50.net/2019/ap/problems/analyze/analyze.html)
-  * Sentimental
-    * [Hello](https://docs.cs50.net/2019/ap/problems/sentimental/hello/hello.html)
-    * [Mario(less)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/less/mario.html) or [Mario(more)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/more/mario.html)
-    * [Cash](https://docs.cs50.net/2019/ap/problems/sentimental/cash/cash.html) or [Credit](https://docs.cs50.net/2019/ap/problems/sentimental/credit/credit.html)
-    * [Caesar](https://docs.cs50.net/2019/ap/problems/sentimental/caesar/caesar.html), [Vigenère](https://docs.cs50.net/2019/ap/problems/sentimental/vigenere/vigenere.html), or [Crack](https://docs.cs50.net/2019/ap/problems/sentimental/crack/crack.html)
-  * [Bleep](https://docs.cs50.net/2019/ap/problems/bleep/bleep.html)
-* [Slides](https://cdn.cs50.net/2018/fall/lectures/6/lecture6.pdf)
-* Source Code
-  * [Index](https://cdn.cs50.net/2018/fall/lectures/6/src6/)
-  * [PDF](https://cdn.cs50.net/2018/fall/lectures/6/src6.pdf)
-  * [Sandbox](https://sandbox.cs50.io/bf2e6473-45bc-4ac4-bee2-7cd9b89aa6a8)
-  * [ZIP](https://cdn.cs50.net/2018/fall/lectures/6/src6.zip)
-* [Video](https://video.cs50.net/2018/fall/lectures/6)
-* Reference Sheet
-  * [Python](https://ap.cs50.school/assets/pdfs/python.pdf)
+<iframe width="1214" height="622" src="https://www.youtube.com/embed/fL308_-Kbt0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Lecture
+
+<ul>
+  <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/notes/6/">Notes</a></li>
+  <li><a href="https://video.cs50.io/fL308_-Kbt0?screen=ghsZqKLdKhw">CS50 Video Player</a></li>
+ 
+  <details><summary>Slides</summary>
+    <ul>
+      <li><a href="https://docs.google.com/presentation/d/1XXKDd6XSXjuAmAZKGAX-_PtYUmoHaJ25j1zsJ17lK2E/edit?usp=sharing">Google Slides</a></li>
+      <li><a href="https://cdn.cs50.net/2019/fall/lectures/6/lecture6.pdf">PDF</a></li>
+    </ul> 
+  </details>
+
+  <details><summary>Source Code</summary>
+    <ul>
+      <li><a href="https://cdn.cs50.net/2019/fall/lectures/6/src6/">Index</a></li>
+      <li><a href="https://cdn.cs50.net/2019/fall/lectures/6/src6.pdf">PDF</a></li>
+      <li><a href="https://cdn.cs50.net/2019/fall/lectures/6/src6.zip">Zip</a></li>
+    </ul>
+  </details>  
+</ul>
+
+<details><summary>Shorts</summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=mgBpcQRDtl0">Python</a></li>
+   </ul>
+</details>
+
+<details><summary><a href="\ap\assets\pdfs\">References</a></summary>
+  <ul>
+    <li><a href="\ap\assets\pdfs\python.pdf">Python Ref Sheet</a></li>
+    <li><a href="\ap\assets\pdfs\python-notes.pdf">Mrs. Beaman's Python Notes</a></li>
+  </ul>
+</details>
+
+<!-- <details>
+  <summary>Labs</summary>
+  <ul>
+    <li><a href="">TBD</a></li>
+    <li><a href="">TBD</a></li>
+  </ul>
+</details> -->
+
+<details><summary>Problems</summary>
+  <ul>
+    <ul>
+      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/hello/">Hello</a></li>
+      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/less/">Mario, for those less comfortable</a></li>
+      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/more/">Mario, for those more comfortable</a></li>
+      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/cash/">Cash, for those less comfortable</a></li>
+      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/credit/">Credit, for those more comfortable</a></li>
+    </ul>
+    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/">Readability</a></li>
+    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/dna/">DNA</a></li>
+  </ul>
+</details>
