@@ -46,7 +46,7 @@ Lecture
 
 <details><summary>Problems</summary>
   <ul>
-    <li>Sentimental<li>
+    Sentimental
     <ul>
       <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/hello/">Hello</a></li>
       <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/less/">Mario</a>, for those less comfortable</li>
