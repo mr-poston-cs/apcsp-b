@@ -32,8 +32,12 @@
     </ul>
 </details>
 
-- <a href="https://candib80.github.io/ap/weeks/week16/">Week 16</a>
-- <a href="https://candib80.github.io/ap/weeks/week17/">Week 17</a>
+<summary>Q3</summary>
+<ul>
+    <li><a href="https://candib80.github.io/ap/weeks/week16/">Week 16</a></li>
+    <li><a href="https://candib80.github.io/ap/weeks/week17/">Week 17</a></li>
+</ul>
+
 
 <!-- <details>
     <summary>Semester 1</summary>
