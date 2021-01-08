@@ -6,8 +6,8 @@
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** | Test on Ch 5 |   |
-| **Tue** | Start Ch 6 |     |
+| **Mon** | Short test on Ch 5<br>Start Ch 6 |   |
+| **Tue** |  |     |
 | **Wed** |       |          |
 | **Thu** |       |          |
 | **Fri** |       |          |
