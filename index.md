@@ -17,7 +17,7 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 - <span style="font-size: 22px;">We are currently on [Week 16](\ap\weeks\week16) </span>
 
-## Last half of the year agenda &#1F4DD;
+## Last half of the year agenda :memo:
 
 - Chapter 6 - Python
 - Web Track
