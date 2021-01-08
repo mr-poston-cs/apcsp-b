@@ -30,7 +30,7 @@ Lecture
    </ul>
 </details>
 
-<details><summary><a href="\ap\assets\pdfs\">References</a></summary>
+<details><summary><a href="">References</a></summary>
   <ul>
     <li><a href="\ap\assets\pdfs\python.pdf">Python Ref Sheet</a></li>
     <li><a href="\ap\assets\pdfs\python-notes.pdf">Mrs. Beaman's Python Notes</a></li>
