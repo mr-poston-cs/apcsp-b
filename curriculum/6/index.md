@@ -50,10 +50,10 @@ Lecture
     <li>Sentimental<li>
     <ul>
       <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/hello/">Hello</a></li>
-      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/less/">Mario, for those less comfortable</a></li>
-      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/more/">Mario, for those more comfortable</a></li>
-      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/cash/">Cash, for those less comfortable</a></li>
-      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/credit/">Credit, for those more comfortable</a></li>
+      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/less/">Mario</a>, for those less comfortable</li>
+      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/more/">Mario</a>, for those more comfortable</li>
+      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/cash/">Cash</a>, for those less comfortable</li>
+      <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/credit/">Credit</a>, for those more comfortable</li>
     </ul>
     <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/">Readability</a></li>
     <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/dna/">DNA</a></li>
