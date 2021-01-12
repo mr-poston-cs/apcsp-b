@@ -7,7 +7,7 @@
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | Short test on Ch 5<br>Start Ch 6 |   |
-| **Tue** |  |     |
+| **Tue** | Cont with Ch 6  | Go to [docs.python.org](https://docs.python.org/) to complete the handout    |
 | **Wed** |       |          |
 | **Thu** |       |          |
 | **Fri** |       |          |
