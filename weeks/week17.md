@@ -9,7 +9,7 @@
 | **Mon** | Short test on Ch 5<br>Start Ch 6 |   |
 | **Tue** | Cont with Ch 6  | Go to [docs.python.org](https://docs.python.org/) to complete the handout (also in Teams)   |
 | **Wed** |       |          |
-| **Thu** |       |          |
-| **Fri** |       |          |
+| **Thu** | Finish Ch 6 |          |
+| **Fri** | Start on PSET - Sentimental | Work on PSET |
 
 <img src="" alt="" height="400">
