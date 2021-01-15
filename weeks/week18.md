@@ -9,7 +9,7 @@
 | **Mon** | Reading Day |          |
 | **Tue** | Continue with PSET Sentimental | Work on PSET |
 | **Wed** | Sentimental due tonight at 11:59 | Sentimental due tonight at 11:59 |
-| **Thu** | Start on Readability |          |
+| **Thu** | Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) |  |
 | **Fri** |       |          |
 
 * Sentimental PSET includes:  
