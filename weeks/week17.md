@@ -12,4 +12,9 @@
 | **Thu** | Finish Ch 6 |          |
 | **Fri** | Start on PSET - Sentimental | Work on PSET |
 
+* Sentimental PSET includes:   
+    - [Hello](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/hello/)
+    - [Mario Less](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/less/) or [Mario More](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/more/)
+    - [Cash](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/cash/) or [Credit](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/credit/)
+
 <img src="" alt="" height="400">
