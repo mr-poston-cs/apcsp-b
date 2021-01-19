@@ -7,9 +7,9 @@
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | Reading Day |          |
-| **Tue** | Continue with PSET Sentimental | Work on PSET |
-| **Wed** | Sentimental due tonight at 11:59 | Sentimental due tonight at 11:59 |
-| **Thu** | Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) |  |
+| **Tue** | Continue with PSET Sentimental<br>If finished with Sentimental, Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) | Work on PSET |
+| **Wed** | Sentimental due tonight at 11:59<br>Work/Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) | Sentimental due tonight at 11:59 |
+| **Thu** | Work/Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) |  |
 | **Fri** |       |          |
 
 * Sentimental PSET includes:  
