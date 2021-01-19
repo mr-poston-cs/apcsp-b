@@ -17,4 +17,9 @@
     - [Mario Less](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/less/) or [Mario More](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/more/)
     - [Cash](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/cash/) or [Credit](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/credit/)
 
+#### Lunch:
+
+- Dismiss at 1:10
+- Sr & Jr eat in classroom
+
 <img src="" alt="" height="400">
