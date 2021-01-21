@@ -10,7 +10,7 @@
 | **Tue** | Continue with PSET Sentimental<br>If finished with Sentimental, Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) | Work on PSET |
 | **Wed** | Sentimental due tonight at 11:59<br>Work/Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) | Sentimental due tonight at 11:59 |
 | **Thu** | Work/Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) |  |
-| **Fri** |       |          |
+| **Fri** | If done with Readability, start on [DNA](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/dna/)      |          |
 
 * Sentimental PSET includes:  
     - [Hello](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/hello/)
