@@ -10,7 +10,7 @@
 <details><summary>HTTP</summary><div class="border embed-responsive embed-responsive-16by9" data-video=""><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/iSFEjQRulf0?modestbranding=0&amp;rel=0&amp;showinfo=0"></iframe></div>
 
 <ul>
-  <li data-marker="*">Computers talk to each other across the network by sending and receiving messages. At the most basic level, there are standard protocols, or rules to follow, for sending and receiving messages. In the context of the internet, the standard protocol is TCP/IP, Transmission Control Protocol and Internet Protocol. We can think of this at a high-level as sending a letter in the mail, with an address for the recipient and the address of the sender. On the internet, computers have IP addresses, usually in the format `#.#.#.#`, so our digital envelope might include `1.2.3.4` for the address of the computer we want to message, and our own address `5.6.7.8`, so that we can get a response.</li>
+  <li data-marker="*">Computers talk to each other across the network by sending and receiving messages. At the most basic level, there are standard protocols, or rules to follow, for sending and receiving messages. In the context of the internet, the standard protocol is TCP/IP, Transmission Control Protocol and Internet Protocol. We can think of this at a high-level as sending a letter in the mail, with an address for the recipient and the address of the sender. On the internet, computers have IP addresses, usually in the format <code class="language-plaintext highlighter-rouge">#.#.#.#</code>, so our digital envelope might include <code class="language-plaintext highlighter-rouge">1.2.3.4</code> for the address of the computer we want to message, and our own address <code class="language-plaintext highlighter-rouge">5.6.7.8</code>, so that we can get a response.</li>
   <li data-marker="*">[2:16] With four numbers of one byte each, an IP address is 32 bits, which only allows us to count up to about 4 billion. It turns out that we now have more devices than 32 bits will support, and so in addition to IPv4, the protocol with 32-bit addresses, we also have IPv6, a protocol with 128-bit addresses.</li>
   <li data-marker="*">[4:10] In addition to the address of the recipient, we also specify a port number, or a number assigned to a particular service or type of message, like emails, webpages, or files. This way, the recipient computer can process incoming messages with the right program. So our envelope might say <code class="language-plaintext highlighter-rouge">1.2.3.4:80</code>.</li>
   <li data-marker="*">[5:50] But when we visit a website, we probably type in something like <code class="language-plaintext highlighter-rouge">example.com</code>, and it turns out that there’s something called DNS, Domain Name System, which maps domain names to IP addresses of the servers that can respond for that domain.</li>
@@ -98,9 +98,121 @@ Content-Type: text/html
 </ul></details>
 
 ## Shorts
-
+<ol>
+  <li><a href="https://www.youtube.com/watch?v=04GztBlVo_s">Internet Primer</a></li>
+  <li><a href="https://www.youtube.com/watch?v=A1g9SokDJSU">IP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=GP7uvI_6uas">TCP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=4axL8Gfw2nI">HTTP</a></li>
+  <li><a href="https://www.youtube.com/watch?v=YK78KhMf7bs">HTML</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Ub3FKU21ubk">CSS</a></li>
+  <li><a href="https://www.youtube.com/watch?v=Z93IaNfavZw">JavaScript</a></li>
+</ol>
 
 ## References
-
+<ul>
+  <li data-marker="*"><a href="\ap\assets\pdfs\css.pdf">CSS</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\dns_and_dhcp.pdf">DNS and DHCP</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\html.pdf">HTML</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\http.pdf">HTTP</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\internet_basics.pdf">Internet Basics</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\ip_addresses.pdf">IP Addresses</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\javascript.pdf">JavaScript</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\tcp_and_ip.pdf">TCP and IP</a></li>
+</ul>
 
 ## Problems
+* [Homepage](https://cs50.harvard.edu/ap/2021/curriculum/x/tracks/web/homepage/)
+
+---
+
+## Lectures
+<details><summary>Flask</summary><div class="border embed-responsive embed-responsive-16by9" data-video=""><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/GhB6Q7KC-SM?modestbranding=0&amp;rel=0&amp;showinfo=0"></iframe></div>
+
+<ul>
+  <li data-marker="*">So far, we’ve learned how to write webpages that are saved as a file and returned by an HTTP server. But we can also have web servers, or applications, that generate content dynamically before returning it as a response.</li>
+  <li data-marker="*">[1:00] We’ll use a framework in Python called Flask, which allows us to write a web server with many features. We’ll create a new folder in our IDE, called <code class="language-plaintext highlighter-rouge">hello/</code>, and create a new file called <code class="language-plaintext highlighter-rouge">application.py</code>. By reading the documentation and experimenting, we can write our first Flask application which returns something for the <code class="language-plaintext highlighter-rouge">/</code> route. And in our terminal, we can <code class="language-plaintext highlighter-rouge">cd</code> into our folder and run <code class="language-plaintext highlighter-rouge">flask run</code>, which will find our <code class="language-plaintext highlighter-rouge">application.py</code> file and run it. We’ll open the URL, and see our returned string.</li>
+  <li data-marker="*">[4:10] We’ll add another route, <code class="language-plaintext highlighter-rouge">/goodbye</code>, and a function that returns different content. We can return any content we want in our routes.</li>
+  <li data-marker="*">[6:00] It turns out that Flask allows us to use template files, or files with HTML that are like format strings, with some parts that are the same every time, and some parts that will contain variables that we can substitute in. The <code class="language-plaintext highlighter-rouge">render_template</code> function in the Flask library will allow us to use templates and plug in variables like ``.</li>
+  <li data-marker="*">[10:35] We can generate a random number, for example, and display it each time our page is loaded. We can use <code class="language-plaintext highlighter-rouge">control + c</code> to stop our server, and then restart it, to make sure any changes we make are reloaded. And once we load our page in the browser, we can view its source to make sure that Flask substituted our variable as we expected.</li>
+  <li data-marker="*">[13:25] We can add conditions to our templates, with <code class="language-plaintext highlighter-rouge">if ...</code>, so depending on the value of our variables, we can return different content entirely.</li>
+  <li data-marker="*">[16:25] We can even write a form that our server can accept, with another route that the form can submit to. Then, in that route, our server can receive and use the form data. We write a form that has a name input, and write a route function that gets the input with <code class="language-plaintext highlighter-rouge">request.args.get()</code>, and returns a template with the input substituted in.</li>
+  <li data-marker="*">[21:30] We see an Internal Server Error, and in our terminal we see the error that <code class="language-plaintext highlighter-rouge">request</code> is not defined, and it turns out that we need to import it from Flask. We try again, and see that the GET parameters in the URL changes based on what we submit in the form.</li>
+  <li data-marker="*">[24:00] We can add additional logic in our route to handle the case where <code class="language-plaintext highlighter-rouge">name</code> is empty, and return a different template.</li>
+  <li data-marker="*">[26:00] It turns out that we can have templates for our templates, since many of our pages might have similar HTML code around its content. We’ll create <code class="language-plaintext highlighter-rouge">layout.html</code>, and add a special block inside the <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> tag. Then, our other files like <code class="language-plaintext highlighter-rouge">index.html</code> can use the template with <code class="language-plaintext highlighter-rouge">extends "layout.html"</code>, and only have the content block for the <code class="language-plaintext highlighter-rouge">body</code>.</li>
+  <li data-marker="*">[30:35] And we can add additional blocks, like for content we would want to have inside a <code class="language-plaintext highlighter-rouge">&lt;style&gt;</code> tag in the page.</li>
+  <li data-marker="*">[32:20] We’ll start writing a new application by creating a new folder called <code class="language-plaintext highlighter-rouge">tasks</code>, and creating an <code class="language-plaintext highlighter-rouge">application.py</code> file. Inside, we’ll create routes for <code class="language-plaintext highlighter-rouge">/</code> to list tasks and <code class="language-plaintext highlighter-rouge">/add</code> to add a new task. We’ll create a <code class="language-plaintext highlighter-rouge">templates</code> folder with a <code class="language-plaintext highlighter-rouge">layout.html</code> before, a <code class="language-plaintext highlighter-rouge">tasks.html</code> showing a list of items, and a <code class="language-plaintext highlighter-rouge">add.html</code> that includes a simple form. We’ll have our routes render each of these templates, and set our form to use a new method, <code class="language-plaintext highlighter-rouge">POST</code>, to send the form’s data back to the <code class="language-plaintext highlighter-rouge">/add</code> route. Our <code class="language-plaintext highlighter-rouge">add()</code> function can then either display the form for a <code class="language-plaintext highlighter-rouge">GET</code> request, or create a new task for a <code class="language-plaintext highlighter-rouge">POST</code> request.</li>
+  <li data-marker="*">[42:30] We can create a global variable, <code class="language-plaintext highlighter-rouge">todos</code>, to store a list of task names that we can display later. In our <code class="language-plaintext highlighter-rouge">add()</code> function, if we get a <code class="language-plaintext highlighter-rouge">POST</code> request with some data, we’ll add the new task name to our list on the server, and redirect back to the default route, which will show a list.</li>
+  <li data-marker="*">[44:15] And in our <code class="language-plaintext highlighter-rouge">tasks.html</code> template, we can loop over our <code class="language-plaintext highlighter-rouge">todos</code> list variable with <code class="language-plaintext highlighter-rouge">for todo in todos</code>, and create a <code class="language-plaintext highlighter-rouge">&lt;li&gt;</code> element with the contents set to each item.</li>
+  <li data-marker="*">[48:00] We can also make sure that the task name is not empty, by adding some JavaScript code that only enables the submit button if the input field’s value is not empty. Otherwise, we disable the submit button. We do this by adding an event handler to listen to the <code class="language-plaintext highlighter-rouge">onkeyup</code> event for our <code class="language-plaintext highlighter-rouge">task</code> input, which is triggered by the browser every time the user presses a key and releases it.</li>
+  <li data-marker="*">[52:40] But our task list goes away when we stop and start our web server, since we initialize our <code class="language-plaintext highlighter-rouge">todos</code> variable to an empty list each time. Next, we’ll use a database with SQL to store and modify data.</li>
+</ul></details>
+
+<details><summary>Databases</summary><div class="border embed-responsive embed-responsive-16by9" data-video=""><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/zdH1PnWxSpA?modestbranding=0&amp;rel=0&amp;showinfo=0"></iframe></div>
+
+<ul>
+  <li data-marker="*">So far, we’ve learned how to write a server that can respond with webpages that are the same for every user. But there are websites where we can log in, and it will show us information specific to us.</li>
+  <li data-marker="*">Recall that cookies are small files that websites ask our browser to store on our computer, with some kind of identifier that our browser shows the website the next time we go there, so the website knows who we are. This allows our server to have sessions, or data for users’ interactions with a website, specific to each of them.</li>
+  <li data-marker="*">[1:20] We’ll look at the task list application we made last time. Since our task list was stored in a global variable in our server application, everyone who visits our page will see the same list.</li>
+  <li data-marker="*">[2:40] To solve this, we can use sessions from Flask, by importing and initializing their implementation. By doing so, our <code class="language-plaintext highlighter-rouge">tasks()</code> function can look in the global <code class="language-plaintext highlighter-rouge">session</code> variable, and read, set, or update a <code class="language-plaintext highlighter-rouge">todos</code> key within it. Flask will take care of making sure that the global <code class="language-plaintext highlighter-rouge">session</code> variable is actually specific to the user who made that request, by storing and checking some cookies.</li>
+  <li data-marker="*">[7:30] If we want to store more complex data, it would make more sense to use a database instead of session objects. So we’ll create a new application to store registration information, like names and emails.</li>
+  <li data-marker="*">[9:25] We’ll make a new empty file, <code class="language-plaintext highlighter-rouge">lecture.db</code>, and run <code class="language-plaintext highlighter-rouge">sqlite3 lecture.db</code> to create a table and set column names and types for the data we think we’ll need.</li>
+  <li data-marker="*">[11:00] In <code class="language-plaintext highlighter-rouge">sqlite3</code>, we can run queries to select or insert into the table to check that everything works. In our new Flask application, we’ll import the SQL library from CS50 so we can work with our database more easily, and establish a connection to our <code class="language-plaintext highlighter-rouge">lecture.db</code> file. In our <code class="language-plaintext highlighter-rouge">/</code> route, we can run a <code class="language-plaintext highlighter-rouge">SELECT</code> query to get the rows from our <code class="language-plaintext highlighter-rouge">registrants</code> table, and pass them into our template. Our template will in turn iterate over each row, and generate an <code class="language-plaintext highlighter-rouge">&lt;li&gt;</code> item with the values of each column in each row.</li>
+  <li data-marker="*">[17:35] Once we have our index route, we can add more rows to our table with the <code class="language-plaintext highlighter-rouge">sqlite3</code> prompt, and see our server return the new data.</li>
+  <li data-marker="*">[18:05] We can add a new route to our application that will insert new data, too. In our <code class="language-plaintext highlighter-rouge">register()</code> function, we can return a <code class="language-plaintext highlighter-rouge">register.html</code> file with a form that has the inputs we need, and ensure that the form submits to our <code class="language-plaintext highlighter-rouge">register</code> route with the <code class="language-plaintext highlighter-rouge">POST</code> method. Then, in our <code class="language-plaintext highlighter-rouge">register</code> route, we can check for a <code class="language-plaintext highlighter-rouge">POST</code> request, insert the data from the request into our table, and redirect to the main route. In our SQL query, we’ll be careful to substitute our variables safely with the <code class="language-plaintext highlighter-rouge">db.execute</code> function, instead of combining the strings ourselves, to avoid SQL injection attacks.</li>
+  <li data-marker="*">[23:05] We’ll try out our application, and everything seems to be working as we expect. To improve the design of our server’s code, we’ll factor out some common template code into <code class="language-plaintext highlighter-rouge">layout.html</code>, and create an <code class="language-plaintext highlighter-rouge">apology.html</code> page where we’ll tell the user an error message if something in their form is blank.</li>
+  <li data-marker="*">[28:40] Now we can write Flask applications to read and store data in a database, saving our data efficiently for the long term.</li>
+</ul></details>
+
+<details><summary>Finance</summary><div class="border embed-responsive embed-responsive-16by9" data-video=""><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/kAvCTffbH04?modestbranding=0&amp;rel=0&amp;showinfo=0"></iframe></div>
+
+<ul>
+  <li data-marker="*">We’ll take the concepts we’ve seen to create CS50 Finance, a virtual stock trading website with an account for users to register for, the ability to get quotes for shares of stocks and to virtually buy or sell them. We’ll also have a history page for each account to see what we’ve done in the past.</li>
+  <li data-marker="*">[2:45] We look at the distribution code for CS50 Finance, or the code that we’ll all start off with. We have an <code class="language-plaintext highlighter-rouge">application.py</code> file that our Flask app will run, with various configuration options, a connection to a database file <code class="language-plaintext highlighter-rouge">finance.db</code>, and routes for . This follows the MVC, Model-View-Controller, pattern, which generally separates the concerns of data and how that’s stored (our database), the views that display some amount of data (our templates), and controllers that control the logic of what is displayed when (our <code class="language-plaintext highlighter-rouge">application.py</code> routes).</li>
+  <li data-marker="*">[4:45] Since we’re using a third-party API, or Application Programming Interface, some code that someone else wrote designed for us to use, we’ll also need an API key to get stock information.</li>
+  <li data-marker="*">[5:30] Notice that our routes also have a <code class="language-plaintext highlighter-rouge">@login_required</code> decorator, or extra attribute in Python to indicate that the function should behave differently. Flask allows us to automatically redirect users to a login page, and we have the login functionality implemented in our distribution code too. The <code class="language-plaintext highlighter-rouge">/login</code> route checks whether a matching user and password exists in our database (for a <code class="language-plaintext highlighter-rouge">POST</code> method, as from the login form), or displays the login form for a <code class="language-plaintext highlighter-rouge">GET</code> method. And in our database, instead of storing the user’s raw password, which is more insecure since hackers might use them against other websites, we store the hash of their password which is sufficient for verification, but difficult from which to recover the original password.</li>
+  <li data-marker="*">[14:30] After the <code class="language-plaintext highlighter-rouge">login</code> route we have <code class="language-plaintext highlighter-rouge">logout</code>, which just clears the session, and we have <code class="language-plaintext highlighter-rouge">quote</code>, <code class="language-plaintext highlighter-rouge">register</code>, and <code class="language-plaintext highlighter-rouge">sell</code> routes left to implement.</li>
+  <li data-marker="*">[15:10] We’ll implement:
+    <ul>
+      <li data-marker="*"><code class="language-plaintext highlighter-rouge">register</code> so we can register for a new account</li>
+      <li data-marker="*"><code class="language-plaintext highlighter-rouge">quote</code> so we can get a price quote for a stock</li>
+      <li data-marker="*"><code class="language-plaintext highlighter-rouge">buy</code> to buy some shares of a stock</li>
+      <li data-marker="*"><code class="language-plaintext highlighter-rouge">index</code> to show the stocks in our account</li>
+      <li data-marker="*"><code class="language-plaintext highlighter-rouge">sell</code> to sell some shares of a stock</li>
+      <li data-marker="*"><code class="language-plaintext highlighter-rouge">history</code> to show transactions in the past</li>
+      <li data-marker="*">and a personal feature of our choice</li>
+    </ul>
+  </li>
+  <li data-marker="*">[15:55] We talk about the requirements for each of these routes, and how they might be implemented with conditions based on the request’s method, and either display forms or perform some action after validating the request.</li>
+  <li data-marker="*">[20:50] We have an existing <code class="language-plaintext highlighter-rouge">finance.db</code> database, and we can use <code class="language-plaintext highlighter-rouge">sqlite3 finance.db</code> to run queries that add columns or tables that we might want to use to store additional data to support our routes.</li>
+  <li data-marker="*">[23:00] <code class="language-plaintext highlighter-rouge">index</code> will query our database for a user’s stocks and their cash balance, along with using an API to get the current price of each and displaying all this data with a template. <code class="language-plaintext highlighter-rouge">sell</code>, too, should have validation and update our data in the database.</li>
+  <li data-marker="*">[25:25] Finally, we might need another table (in our database) to support our <code class="language-plaintext highlighter-rouge">history</code> page, and display the data for each user’s transactions in a table (in our template).</li>
+  <li data-marker="*">[26:25] And we’ll need to add a personal touch, whether that’s allowing users to change their password, add cash, or additional features.</li>
+</ul></details>
+
+<details><summary>Conclusion</summary><div class="border embed-responsive embed-responsive-16by9" data-video=""><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/I-e5Jzq0yA8?modestbranding=0&amp;rel=0&amp;showinfo=0"></iframe></div>
+
+<ul>
+  <li data-marker="*">In this track, we learned about how computers communicate over an internet, structured web pages with HTML and styled them with CSS, and added some interactivity with JavaScript. Then we learned how to write a web server application with Flask, that can dynamically generate web pages and use a database to read and write data.</li>
+</ul></details>
+
+## Shorts
+<ul>
+  <li data-marker="*"><a href="https://www.youtube.com/watch?v=dQcBs4S-wEQw">Ajax</a></li>
+  <li data-marker="*"><a href="https://www.youtube.com/watch?v=X0dwkDh8kwA">Flask</a></li>
+</ul>
+
+## References
+<ul>
+  <li data-marker="*"><a href="ap/assets/pdfs/ajax.pdf">Ajax</a></li>
+  <li data-marker="*"><a href="ap/assets/pdfs/mvc.pdf">MVC</a></li>
+  <li data-marker="*"><a href="ap/assets/pdfs/python_for_web_programming.pdf">Python for Web Programming</a></li>
+</ul>
+
+## Problems
+* [Finance](https://cs50.harvard.edu/ap/2021/curriculum/x/tracks/web/finance/)
+
+### Past problems
+<ul>
+  <li data-marker="*"><a href="https://docs.cs50.net/2019/ap/problems/similarities/similarities.html">Similarities</a></li>
+  <li data-marker="*"><a href="https://docs.cs50.net/2019/ap/problems/survey/survey.html">Survey</a></li>
+</ul>
