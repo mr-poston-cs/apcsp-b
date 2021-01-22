@@ -36,6 +36,29 @@ Create a simple homepage that introduces yourself, your favorite hobby or extrac
 
 ## Specification
 
+<p>Implement in your <code class="language-plaintext highlighter-rouge">homepage</code> directory a website that must:</p>
+
+<ul>
+  <li data-marker="*">Contain at least four different <code class="language-plaintext highlighter-rouge">.html</code> pages, at least one of which is <code class="language-plaintext highlighter-rouge">index.html</code> (the main page of your website), and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.</li>
+  <li data-marker="*">Use at least ten (10) distinct HTML tags besides <code class="language-plaintext highlighter-rouge">&lt;html&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;head&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code>, and <code class="language-plaintext highlighter-rouge">&lt;title&gt;</code>. Using some tag (e.g., <code class="language-plaintext highlighter-rouge">&lt;p&gt;</code>) multiple times still counts as just one (1) of those ten!</li>
+  <li data-marker="*">Integrate one or more features from Bootstrap into your site. Bootstrap is a popular library (that comes with lots of CSS classes and more) via which you can beautify your site. See <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">Bootstrap’s documentation</a> to get started. To add Bootstrap to your site, it suffices to include</li>
+</ul>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">href=</span><span class="s">"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"</span><span class="nt">&gt;</span>
+
+</code></pre></div></div>
+
+<p>in your pages’ <code class="language-plaintext highlighter-rouge">&lt;head&gt;</code>, below which you can also include</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">"styles.css"</span> <span class="na">rel=</span><span class="s">"stylesheet"</span><span class="nt">&gt;</span>
+</code></pre></div></div>
+
+<p>to link your own CSS.</p>
+<ul>
+  <li data-marker="*">Have at least one stylesheet file of your own creation, <code class="language-plaintext highlighter-rouge">styles.css</code>, which uses at least five (5) different CSS selectors (e.g. tag (<code class="language-plaintext highlighter-rouge">example</code>), class (<code class="language-plaintext highlighter-rouge">.example</code>), or ID (<code class="language-plaintext highlighter-rouge">#example</code>)), and within which you use a total of at least five (5) different CSS properties, such as <code class="language-plaintext highlighter-rouge">font-size</code>, or <code class="language-plaintext highlighter-rouge">margin</code>; and</li>
+  <li data-marker="*">Integrate one or more features of JavaScript into your site to make your site more interactive. For example, you can use JavaScript to add alerts, to have an effect at a recurring interval, or to add interactivity to buttons, dropdowns, or forms. Feel free to be creative!</li>
+  <li data-marker="*">Ensure that your site looks nice on browsers both on mobile devices as well as laptops and desktops.</li>
+</ul>
 
 ## Testing
 
