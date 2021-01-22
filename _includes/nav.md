@@ -37,12 +37,12 @@
     <li><a href="https://candib80.github.io/ap/weeks/week16/">Week 16</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week17/">Week 17</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week18/">Week 18</a></li>
+    <li><a href="https://candib80.github.io/ap/weeks/week19/">Week 19</a></li>
 </ul>
 
 <!-- <details>
     <summary>Q3</summary>
     <ul>
-        <li><a href="https://candib80.github.io/ap/weeks/week19/">Week 19</a> Jan 13</li>
         <li><a href="https://candib80.github.io/ap/weeks/week20/">Week 22</a> Jan 20</li>
         <li><a href="https://candib80.github.io/ap/weeks/week21/">Week 21</a> Jan 27</li>
         <li><a href="https://candib80.github.io/ap/weeks/week22/">Week 22</a> Feb 3</li>
