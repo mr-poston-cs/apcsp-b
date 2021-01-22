@@ -62,11 +62,57 @@ Create a simple homepage that introduces yourself, your favorite hobby or extrac
 
 ## Testing
 
+<p>If you want to view how your site looks while you work on it, there are two options:</p>
+
+<ol>
+  <li>Within CS50 IDE, navigate to your <code class="language-plaintext highlighter-rouge">homepage</code> directory (remember how?) and then execute</li>
+</ol>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ http-server
+</code></pre></div></div>
+
+<ol>
+  <li>Within CS50 IDE, right-click (or Ctrl+click, on a Mac) on the <code class="language-plaintext highlighter-rouge">homepage</code> directory in the file tree at left. From the options that appear, select <strong>Serve</strong>, which should open a new tab in your browser (it may take a second or two) with your site therein.</li>
+</ol>
+
+<p>Recall also that by opening Developer Tools in Google Chrome, you can <em>simulate</em> visiting your page on a mobile device by clicking the phone-shaped icon to the left of <strong>Elements</strong> in the developer tools window, or, once the Developer Tools tab has already been opened, by typing <code class="language-plaintext highlighter-rouge">Ctrl</code>+<code class="language-plaintext highlighter-rouge">Shift</code>+<code class="language-plaintext highlighter-rouge">M</code> on a PC or <code class="language-plaintext highlighter-rouge">Cmd</code>+<code class="language-plaintext highlighter-rouge">Shift</code>+<code class="language-plaintext highlighter-rouge">M</code> on a Mac, rather than needing to visit your site on a mobile device separately!</p>
 
 ## Assessment
 
+<p>No <code class="language-plaintext highlighter-rouge">check50</code> for this assignment! Instead, your site’s correctness will be assessed based on whether you meet the requirements of the specification as outlined above, and whether your HTML is well-formed and valid. To ensure that your pages are, you can use <a href="https://validator.w3.org/#validate_by_input">the W3Schools HTML Validator</a> service, copying and pasting your HTML directly into the provided text box. Take care to eliminate any warnings or errors suggested by the validator before submitting!</p>
+
+<p>Consider also:</p>
+
+<ul>
+  <li data-marker="*">whether the aesthetics of your site are such that it is intuitive and straightforward for a user to navigate;</li>
+  <li data-marker="*">whether your CSS has been factored out into a separate CSS file(s); and</li>
+  <li data-marker="*">whether you have avoided repetition and redundancy by “cascading” style properties from parent tags.</li>
+</ul>
+
+<p>Afraid <code class="language-plaintext highlighter-rouge">style50</code> does not support HTML files, and so it is incumbent upon you to indent and align your HTML tags cleanly. Know also that you can create an HTML comment with:</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">&lt;!-- Comment goes here --&gt;</span>
+</code></pre></div></div>
+
+<p>but commenting your HTML code is not as imperative as it is when commenting code in, say, C or Python. You can also comment your CSS, in CSS files, with:</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">/* Comment goes here */</span>
+</code></pre></div></div>
 
 ## Hints
 
+<p>For fairly comprehensive guides on the languages introduced in this problem, check out the documentation for each on W3Schools.</p>
+
+<ul>
+  <li data-marker="*"><a href="https://www.w3schools.com/html">HTML</a></li>
+  <li data-marker="*"><a href="https://www.w3schools.com/css">CSS</a></li>
+  <li data-marker="*"><a href="https://www.w3schools.com/js">JavaScript</a></li>
+</ul>
+
 
 ## How to Submit
+
+<p>Execute the below, logging in with your GitHub username and password when prompted. For security, you’ll see asterisks (<code class="language-plaintext highlighter-rouge">*</code>) instead of the actual characters in your password.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>submit50 cs50/problems/2020/x/tracks/web/homepage
+</code></pre></div></div>

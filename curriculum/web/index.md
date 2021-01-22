@@ -121,7 +121,7 @@ Content-Type: text/html
 </ul>
 
 ## Problems
-* [Homepage](https://cs50.harvard.edu/ap/2021/curriculum/x/tracks/web/homepage/)
+* [Homepage](homepage)
 
 ---
 ---
