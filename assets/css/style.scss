@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+code.highlighter-rouge{
+    border:1px solid #dee2e6 !important;
+    background-color:#f8f9fa;
+    padding:calc(.2rem - 1px) 0.2rem;
+}
+
