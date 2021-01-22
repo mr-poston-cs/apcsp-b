@@ -6,8 +6,8 @@
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** |       |          |
-| **Tue** |       |          |
+| **Mon** | [DNA](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/dna/) |          |
+| **Tue** | Python Quiz |          |
 | **Wed** |       |          |
 | **Thu** |       |          |
 | **Fri** |       |          |
