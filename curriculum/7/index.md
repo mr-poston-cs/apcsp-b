@@ -35,16 +35,9 @@
     <li><a href="\ap\assets\pdfs\sql.pdf">SQL</a></li>
   </ul>
 
-<!-- <details><summary>Problems</summary>
+<details><summary>Problems</summary>
   <ul>
     <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/7/movies/">Movies</a></li>
     <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psest/7/houses/">Houses</a></li>
   </ul>
-</details> -->
-
-<li data-marker="-">Problems
-    <ul>
-      <li data-marker="*"><a href="../../psets/7/movies/">Movies</a></li>
-      <li data-marker="*"><a href="../../psets/7/houses/">Houses</a></li>
-    </ul>
-  </li>
+</details>
