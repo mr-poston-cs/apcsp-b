@@ -21,9 +21,8 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 - ~~Chapter 5~~
 - Chapter 6 - Python
-- Web Track
+- SQL/Web Track
 - Create Task
-- SQL
 - Data Science
 - Impact of Computing
 - Review for AP Exam
