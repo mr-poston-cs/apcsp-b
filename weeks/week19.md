@@ -12,5 +12,9 @@
 | **Thu** |       |          |
 | **Fri** |       |          |
 
+Lunch time: 1:05
+Sr - eat outside/classroom
+Jr - eat classroom
+
 <img src="" alt="" height="400">
 
