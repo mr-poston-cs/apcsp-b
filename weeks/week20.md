@@ -13,7 +13,7 @@
 | **Fri** |       |          |
 
 Lunch time: 1:20  
-Sr - Cafeteria 
+Sr - Cafeteria  
 Jr - Outside/Classroom  
 
 
