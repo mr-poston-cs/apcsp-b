@@ -1,7 +1,21 @@
 <meta http-equiv="refresh" content="300"/>
 
-## Week 21  
-Week of 1/27/2020 
+## Week 21<br>Week of 2/8/21
+
+### [Web Track](/ap/curriculum/web)
+
+|         | Class | Homework |
+| ------- | ----- | -------- |
+| **Mon** |       |          |
+| **Tue** |       |          |
+| **Wed** |       |          |
+| **Thu** |       |          |
+| **Fri** |       |          |
+
+<img src="" alt="" height="400">
+
+
+<!-- Week of 1/27/2020 
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
@@ -17,4 +31,4 @@ Week of 1/27/2020
 <a href="https://www.w3schools.com/js" target="_blank"><img src="https://cdn.lynda.com/course/574716/574716-636897069669345439-16x9.jpg" alt="javascript" width="30%"></a>
 <br><br>
 <img src="https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2019/06/What-is-Pyton.jpg.webp" alt="what is python?" width="30%">
-</div>
+</div> -->

@@ -10,7 +10,7 @@
 | **Tue** | Python Quiz |  |
 | **Wed** | Work on DNA | Work on DNA |
 | **Thu** | Work on DNA | Work on DNA |
-| **Fri** |       |          |
+| **Fri** | DNA |          |
 
 Lunch time: 1:05  
 Sr - eat outside/classroom  
