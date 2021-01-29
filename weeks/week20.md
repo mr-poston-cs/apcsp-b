@@ -12,6 +12,11 @@
 | **Thu** |       |          |
 | **Fri** |       |          |
 
+Lunch time: 1:20  
+Sr - Cafeteria 
+Jr - Outside/Classroom  
+
+
 <img src="" alt="" height="400">
 
 

@@ -20,7 +20,7 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 ## Semester 2 Agenda
 
 - ~~Chapter 5~~
-- Chapter 6 - Python
+- ~~Chapter 6 - Python~~
 - SQL/Web Track
 - Create Task
 - Data Science
