@@ -38,6 +38,7 @@
     <li><a href="https://candib80.github.io/ap/weeks/week17/">Week 17</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week18/">Week 18</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week19/">Week 19</a></li>
+    <li><a href="https://candib80.github.io/ap/weeks/week20/">Week 20</a></li>
 </ul>
 
 <!-- <details>
