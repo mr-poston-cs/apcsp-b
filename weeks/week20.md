@@ -22,5 +22,5 @@ Jr - Outside/Classroom
 * [W3Schools JavaScript](https://www.w3schools.com/js) -->
 
 <div style="text-align:center">
-<a href="https://www.w3schools.com/html" target="_blank"><img src="\ap\assets\img\html-icon.jpg" alt="html"></a> <a href="https://www.w3schools.com/css" target="_blank"><img src="\ap\assets\img\css-icon.jpg" alt="css"></a><a href="https://www.w3schools.com/js" target="_blank"><img src="\ap\assets\img\js-icon.jpg" alt="javascript"></a>
+<a href="https://www.w3schools.com/html" target="_blank"><img src="\ap\assets\img\html-icon.jpg" alt="html" style="padding: 0px 25px"></a> <a href="https://www.w3schools.com/css" target="_blank"><img src="\ap\assets\img\css-icon.jpg" alt="css" style="padding: 0px 25px"></a><a href="https://www.w3schools.com/js" target="_blank"><img src="\ap\assets\img\js-icon.jpg" alt="javascript" style="padding: 0px 25px"></a>
 </div>
