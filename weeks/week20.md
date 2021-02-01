@@ -6,7 +6,7 @@
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** | Your prize for DNA | HW for WEB |
+| **Mon** | Your prize for DNA | Watch the video for HTTP in the Web track link and complete the handout |
 | **Tue** | Start on [Web Track](/ap/curriculum/web) |          |
 | **Wed** |       |          |
 | **Thu** |       |          |
