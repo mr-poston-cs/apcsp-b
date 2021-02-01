@@ -7,7 +7,7 @@
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | Your prize for DNA | Watch the video for HTTP in the Web track link and complete the handout |
-| **Tue** | Start on [Web Track](/ap/curriculum/web) |          |
+| **Tue** | Start on [Web Track](/ap/curriculum/web) | Make sure to have DNA submitted by tonight!!!! |
 | **Wed** |       |          |
 | **Thu** |       |          |
 | **Fri** |       |          |
