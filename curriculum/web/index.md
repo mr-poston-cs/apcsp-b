@@ -110,14 +110,14 @@ Content-Type: text/html
 
 ## References
 <ul>
-  <li data-marker="*"><a href="\ap\assets\pdfs\css.pdf">CSS</a></li>
-  <li data-marker="*"><a href="\ap\assets\pdfs\dns_and_dhcp.pdf">DNS and DHCP</a></li>
-  <li data-marker="*"><a href="\ap\assets\pdfs\html.pdf">HTML</a></li>
-  <li data-marker="*"><a href="\ap\assets\pdfs\http.pdf">HTTP</a></li>
   <li data-marker="*"><a href="\ap\assets\pdfs\internet_basics.pdf">Internet Basics</a></li>
   <li data-marker="*"><a href="\ap\assets\pdfs\ip_addresses.pdf">IP Addresses</a></li>
-  <li data-marker="*"><a href="\ap\assets\pdfs\javascript.pdf">JavaScript</a></li>
   <li data-marker="*"><a href="\ap\assets\pdfs\tcp_and_ip.pdf">TCP and IP</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\dns_and_dhcp.pdf">DNS and DHCP</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\http.pdf">HTTP</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\html.pdf">HTML</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\css.pdf">CSS</a></li>
+  <li data-marker="*"><a href="\ap\assets\pdfs\javascript.pdf">JavaScript</a></li>
 </ul>
 
 ## Problems
