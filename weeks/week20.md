@@ -8,8 +8,8 @@
 | ------- | ----- | -------- |
 | **Mon** | Your prize for DNA | Watch the video for HTTP in the Web track link and complete the handout |
 | **Tue** | Start on [Web Track](/ap/curriculum/web) | Make sure to have DNA submitted by tonight!!!! |
-| **Wed** |       |          |
-| **Thu** |       |          |
+| **Wed** | Continue with HTML | Add 2 HTML elements that we have not talked about in class to your example<br>Read over the CSS reference sheet |
+| **Thu** | Finish up HTML/Start on CSS |          |
 | **Fri** |       |          |
 
 Lunch time: 1:20  
