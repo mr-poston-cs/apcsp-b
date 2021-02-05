@@ -10,7 +10,7 @@
 | **Tue** | Start on [Web Track](/ap/curriculum/web) | Make sure to have DNA submitted by tonight!!!! |
 | **Wed** | Finish up with HTML | Add 2 HTML elements that we have not talked about in class to your example<br>Read over the CSS reference sheet and notes handouts |
 | **Thu** | Start on CSS |          |
-| **Fri** |       |          |
+| **Fri** | Continue with CSS | Add some fun styling to one of your `.html` pages we did in class<br>but make sure you add it in a linked `.css` file |
 
 Lunch time: 1:20  
 Sr - Cafeteria  
