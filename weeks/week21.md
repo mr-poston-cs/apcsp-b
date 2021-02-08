@@ -7,7 +7,7 @@
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | Start on JavaScript | Read over the JS reference sheet and the JS notes sheet<br>Start working on Homepage - Get ideas of what you want your site to be and start on `html` |
-| **Tue** |       |          |
+| **Tue** | Start on JavaScript | Read over the JS reference sheet and the JS notes sheet<br>Start working on Homepage - Get ideas of what you want your site to be and start on `html` |
 | **Wed** |       |          |
 | **Thu** |       |          |
 | **Fri** |       |          |
