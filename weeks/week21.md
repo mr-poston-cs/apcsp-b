@@ -8,7 +8,7 @@
 | ------- | ----- | -------- |
 | **Mon** | Start on JavaScript | Read over the JS reference sheet and the JS notes sheet<br>Start working on Homepage - Get ideas of what you want your site to be and start on `html` |
 | **Tue** | Start on JavaScript | Read over the JS reference sheet and the JS notes sheet; other JS resources below<br>Start working on Homepage - Get ideas of what you want your site to be and start on `html` |
-| **Wed** |       |          |
+| **Wed** | Continue with JS and DOM manipulation | Keep working on Homepage |
 | **Thu** |       |          |
 | **Fri** |       |          |
 
