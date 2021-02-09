@@ -7,7 +7,7 @@
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | Start on JavaScript | Read over the JS reference sheet and the JS notes sheet<br>Start working on Homepage - Get ideas of what you want your site to be and start on `html` |
-| **Tue** | Start on JavaScript | Read over the JS reference sheet and the JS notes sheet<br>Start working on Homepage - Get ideas of what you want your site to be and start on `html` |
+| **Tue** | Start on JavaScript | Read over the JS reference sheet and the JS notes sheet; other JS resources below<br>Start working on Homepage - Get ideas of what you want your site to be and start on `html` |
 | **Wed** |       |          |
 | **Thu** |       |          |
 | **Fri** |       |          |
@@ -18,4 +18,8 @@ Jr - Cafeteria
 
 <div style="text-align:center">
 <a href="https://www.w3schools.com/html" target="_blank"><img src="\ap\assets\img\html-icon.jpg" alt="html" style="padding: 0px 25px"></a> <a href="https://www.w3schools.com/css" target="_blank"><img src="\ap\assets\img\css-icon.jpg" alt="css" style="padding: 0px 25px"></a><a href="https://www.w3schools.com/js" target="_blank"><img src="\ap\assets\img\js-icon.jpg" alt="javascript" style="padding: 0px 25px"></a>
+</div>
+
+<div style="text-align:center">
+<a href="https://eloquentjavascript.net/" target="_blank"><img src="https://eloquentjavascript.net/img/cover.jpg" alt="eloquent JS book" style="padding: 0px 25px">
 </div>
