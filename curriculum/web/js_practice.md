@@ -1,4 +1,4 @@
-# JS practice problems
+# JS Practice Problems
 
 - Sign up for a <a href="https://codesandbox.io/signin" target="blank">CodeSandbox account</a> with your GitHub account.
 - Your starter code contains an HTML page, and stylesheet.
@@ -6,7 +6,7 @@
 
 ---
 
-### JS Practice 0  
+## JS Practice 0  
 In this practice problem, you will practice linking your JS file to your HTML file, then change the `style` and `innerText` properties with `querySelector()`
 
 
@@ -24,7 +24,7 @@ In this practice problem, you will practice linking your JS file to your HTML fi
 
 ---
 
-### JS Practice 1  
+## JS Practice 1  
 In this problem, you will get more practice manipulating the DOM. You'll also use `innerHTML` to add a `span` element to style a word in a heading. Then you will use the `src` attribute to change an image.
 
 #### Let's get started  
