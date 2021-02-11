@@ -8,7 +8,7 @@ In this practice problem, you will practice linking your JS file to your HTML fi
 
 
 ### Let's get started  
-1. Fork the [starter code](https://codesandbox.io/s/js-practice0-starter-cghl8)
+1. Fork the <a href="https://codesandbox.io/s/js-practice0-starter-cghl8" target="blank">starter code</a> and rename it to take off the word *starter*, then save it.
 2. Navigate to the index.html file. In the `<head>`, link the JavaScript doc. Make sure to include the `defer` attribute so the JavaScript will load after the browser has finished loading the HTML file.
 3. Save your sandbox, and then make sure your JavaScript file is correctly connected. You can check by writing a comment in your script.js file, like `console.log("Hi!");`. If the connection works, you should see the message in the console. If not, make sure you've added the correct file path: "js/script.js". (Note: You may need to refresh your browser to make sure that the link is working.)
 4. In your script.js file, declare a variable called `mainTitle`.
