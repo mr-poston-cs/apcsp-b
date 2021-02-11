@@ -1,6 +1,10 @@
 # JS practice problems
 
-- Sign up for a [CodeSandbox account](https://codesandbox.io/signin) with your GitHub account
+- Sign up for a [CodeSandbox account](https://codesandbox.io/signin) with your GitHub account.
+- Your starter code contains an HTML page, and stylesheet.
+- This has a new folder structure more like what you would see in real life. There is a *css* folder that has your main stylesheet, *styles.css* as well as a *normalize.css* to make sure the styles render consistently in all browsers. You'll also find an *img* folder with two images, and your JavaScript file, *script.js*, is in the *js* folder.
+
+In this practice problem, you will practice linking your JS file to your HTML file, then change the `style` and `innerText` properties with `querySelector()`
 
 
 ### Let's get started  
