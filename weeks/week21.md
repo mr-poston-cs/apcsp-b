@@ -9,7 +9,7 @@
 | **Mon** | Start on JavaScript | Read over the JS reference sheet and the JS notes sheet<br>Start working on Homepage - Get ideas of what you want your site to be and start on `html` |
 | **Tue** | Start on JavaScript | Read over the JS reference sheet and the JS notes sheet; other JS resources below<br>Start working on Homepage - Get ideas of what you want your site to be and start on `html` |
 | **Wed** | Continue with JS and DOM manipulation | Have all your HTML done for at least `index.html` in [Homepage PSET](/ap/curriculum/web/homepage)<br>If using Bootstrap for your navigation, add that to the first page, then you can copy that part into the other 3 pages |
-| **Thu** |       |          |
+| **Thu** | Finish up JS<br>Start on JS homework | [Practice JS problems](/ap/curriculum/web/js_practice)<br>Add another HTML page to your Homepage PSET if you haven't already |
 | **Fri** |       |          |
 
 Lunch time: 1:15  
