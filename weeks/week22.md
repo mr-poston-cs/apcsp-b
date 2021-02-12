@@ -6,7 +6,7 @@
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** | Work on [Homepage PSET](/ap/curriculum/web/homepage) | Finish up any CSS you need to add & start on the Bootstrap and JS features if you have not already added Bootstrap         |
+| **Mon** | Work on [Homepage PSET](/ap/curriculum/web/homepage) | Finish up any CSS you need to add & start on the Bootstrap and JS features if you have not already added Bootstrap |
 | **Tue** |       |          |
 | **Wed** |       |          |
 | **Thu** |       |          |
