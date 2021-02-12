@@ -6,15 +6,15 @@
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** | Work on [Homepage PSET](/ap/curriculum/web/homepage) | Finish up any CSS you need to add & start on the Bootstrap and JS features if you have not already added Bootstrap |
+| **Mon** | Work on [Homepage PSET](/ap/curriculum/web/homepage) | Finish up any CSS you need to add & start on the Bootstrap and JS features if you have not already added Bootstrap (documentation linked below) |
 | **Tue** |       |          |
 | **Wed** |       |          |
 | **Thu** |       |          |
 | **Fri** |       |          |
 
 Lunch time: 1:10  
-Sr - Cafeteria  
-Jr - Outside/Classroom  
+Sr - Classroom  
+Jr - Classroom  
 
 <div style="text-align:center">
 <a href="https://www.w3schools.com/html" target="_blank"><img src="\ap\assets\img\html-icon.jpg" alt="html" style="padding: 0px 25px"></a>
