@@ -7,7 +7,7 @@
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | Work on [Homepage PSET](/ap/curriculum/web/homepage) | Finish up any CSS you need to add & start on the Bootstrap and JS features if you have not already added Bootstrap (documentation linked below) |
-| **Tue** | Last day to work on Homepage in class | Read over the [Python for Web Programming ref sheet](/ap/assets/pdfs/python_for_web_programming.pdf)<br>Watch the first 25 minutes of the Flask [Lecture](/ap/curriculum/web/#lectures-1) (you must expand the Flask heading to see the video)<br>You do not need to code along with him, we will code in class, but I want you to know what we are doing<br>Finish up anything you need to on Homepage |
+| **Tue** | Last day to work on Homepage in class | Read over the [Python for Web Programming ref sheet](/ap/assets/pdfs/python_for_web_programming.pdf)<br>Watch the first 26:11 minutes of the Flask [Lecture](/ap/curriculum/web/#lectures-1) (you must expand the Flask heading to see the video); you do not need to code along with him, we will code in class, but I want you to know what we are doing<br>Finish up anything you need to on Homepage |
 | **Wed** | Start on Web Programming with Python | Homepage due tonight at 11:59 |
 | **Thu** |       |          |
 | **Fri** |       |          |
