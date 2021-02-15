@@ -204,9 +204,9 @@ Content-Type: text/html
 
 ## References
 <ul>
-  <li data-marker="*"><a href="ap/assets/pdfs/ajax.pdf">Ajax</a></li>
-  <li data-marker="*"><a href="ap/assets/pdfs/mvc.pdf">MVC</a></li>
-  <li data-marker="*"><a href="ap/assets/pdfs/python_for_web_programming.pdf">Python for Web Programming</a></li>
+  <li data-marker="*"><a href="/ap/assets/pdfs/ajax.pdf">Ajax</a></li>
+  <li data-marker="*"><a href="/ap/assets/pdfs/mvc.pdf">MVC</a></li>
+  <li data-marker="*"><a href="/ap/assets/pdfs/python_for_web_programming.pdf">Python for Web Programming</a></li>
 </ul>
 
 ## Problems
