@@ -8,8 +8,8 @@
 | ------- | ----- | -------- |
 | **Mon** | Work on [Homepage PSET](/ap/curriculum/web/homepage) | Finish up any CSS you need to add & start on the Bootstrap and JS features if you have not already added Bootstrap (documentation linked below) |
 | **Tue** | Last day to work on Homepage in class | Read over the [Python for Web Programming ref sheet](/ap/assets/pdfs/python_for_web_programming.pdf)<br>Complete the [Ted Ed Lesson](https://ed.ted.com/on/ITTKk0xw) on the first 26 minutes of the Flask Lecture; you do not need to code along with him, we will code in class, but I want you to know what we are doing<br>Finish up anything you need to on Homepage |
-| **Wed** | Start on Web Programming with Python | Homepage due tonight at 11:59 |
-| **Thu** |       |          |
+| **Wed** | Start on Web Programming with Python<br>Any time left in class, will be questions/work on Homepage | Homepage due tonight at 11:59 |
+| **Thu** | Continue with Flask/Python for web |          |
 | **Fri** |       |          |
 
 Lunch time: 1:10  
