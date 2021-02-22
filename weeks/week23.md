@@ -6,8 +6,8 @@
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** | Databases/SQL Review of HW |  |
-| **Tue** |       |          |
+| **Mon** | Databases/SQL Review of HW | 5th period knows... |
+| **Tue** | Fun | Have a good break :relaxed: |
 | **Wed** | Start of Break!! |  |
 | **Thu** | Winter Break |  |
 | **Fri** | Winter Break |  |
