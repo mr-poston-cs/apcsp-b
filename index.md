@@ -15,7 +15,7 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 # Announcements
 
-- <span style="font-size: 22px;">We are currently on [Week 22](\ap\weeks\week22) </span>
+- <span style="font-size: 22px;">We are currently on [Week 23](\ap\weeks\week23) </span>
 
 ## Semester 2 Agenda
 
