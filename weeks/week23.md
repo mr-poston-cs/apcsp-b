@@ -14,7 +14,7 @@
 
 Lunch time: 1:05  
 Sr - Outside/Classroom  
-Jr - Classroom
+Jr - Classroom  
 
 <div style="text-align:center">
 <a href="https://www.w3schools.com/html" target="_blank"><img src="\ap\assets\img\html-icon.jpg" alt="html" style="padding: 0px 25px"></a>
