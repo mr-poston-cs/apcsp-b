@@ -7,7 +7,7 @@
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | Databases/SQL Review of HW | 5th period knows... |
-| **Tue** | Fun<br>4th period lunch at 12:40 | Have a good break :relaxed: |
+| **Tue** | Fun<br>4th period lunch at 12:40 | Have a good break |
 | **Wed** | Start of Break!! |  |
 | **Thu** | Winter Break |  |
 | **Fri** | Winter Break |  |
