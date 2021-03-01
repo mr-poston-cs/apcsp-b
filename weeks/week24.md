@@ -8,8 +8,8 @@
 | ------- | ----- | -------- |
 | **Mon** | Intro to how we will work with Databases/SQL in class<br>Any interest in AP CSA (Java programming)? |  |
 | **Tue** |       |          |
-| **Wed** |       |          |
-| **Thu** |       |          |
+| **Wed** |       | Study for Test |
+| **Thu** | Test on Web Track |          |
 | **Fri** |       |          |
 
 Lunch time: 1:20  
