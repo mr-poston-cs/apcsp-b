@@ -6,7 +6,7 @@
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** | Intro to how we will work with Databases/SQL in class |  |
+| **Mon** | Intro to how we will work with Databases/SQL in class<br>Any interest in AP CSA (Java programming)? |  |
 | **Tue** |       |          |
 | **Wed** |       |          |
 | **Thu** |       |          |
