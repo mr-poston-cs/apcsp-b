@@ -7,10 +7,10 @@
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | Create database app --> Registrants<br>Any interest in AP CSA (Java programming)? |  |
-| **Tue** |       |          |
-| **Wed** |       | Study for Test |
-| **Thu** | Test on Web Track |          |
-| **Fri** |       |          |
+| **Tue** | Finish up Registrants app | Work on study guide  |
+| **Wed** | Review for Test | Study for Test |
+| **Thu** | Test on Web Track |  |
+| **Fri** |  |  |
 
 Lunch time: 1:20  
 Sr - Cafeteria  
