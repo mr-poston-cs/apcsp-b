@@ -17,5 +17,5 @@ Sr - Cafeteria
 Jr - Outside/Classroom  
 
 <div style="text-align:center">
-<img src="https://storage.googleapis.com/hackersandslackers-cdn/2019/02/SQLpt1-3.jpg" alt="SQL">
+<img src="https://storage.googleapis.com/hackersandslackers-cdn/2019/02/SQLpt1-3.jpg" alt="SQL" width="50%">
 </div>
