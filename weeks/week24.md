@@ -9,8 +9,8 @@
 | **Mon** | Create database app --> Registrants<br>Any interest in AP CSA (Java programming)? |  |
 | **Tue** | Finish up Registrants app | Work on study guide  |
 | **Wed** | Review for Test | Study for Test |
-| **Thu** | Test on Web Track |  |
-| **Fri** |  |  |
+| **Thu** | Test on Web Track<br>Select groups for Finance | Read over the problem spec for [Finance](https://cs50.harvard.edu/ap/2021/curriculum/x/tracks/web/finance/) |
+| **Fri** | Start on Finance |  |
 
 Lunch time: 1:20  
 Sr - Cafeteria  
