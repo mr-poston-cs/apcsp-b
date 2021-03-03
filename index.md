@@ -7,8 +7,8 @@ title: false
 <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="400"> 
 
 
-#### Digital Portfolio is due to CB, as final, by May, 20, 11:59 pm  
-#### AP Exam is scheduled for Monday, May 17th at 8:00 am
+- <span style="font-size: 24px;">Digital Portfolio is due to CB, as final, by May, 20, 11:59 pm</span>
+- <span style="font-size: 24px;">AP Exam is scheduled for Monday, May 17th at 8:00 am</span>
 
 
 <!-- # Hello, world!
