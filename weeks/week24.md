@@ -2,7 +2,7 @@
 
 # Week 24
 
-### Week of 2/29/2021<br>[Web Track](/ap/curriculum/web)
+### Week of 3/1/2021<br>[Web Track](/ap/curriculum/web)
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
@@ -10,7 +10,7 @@
 | **Tue** | Finish up Registrants app | Work on study guide  |
 | **Wed** | Review for Test | Study for Test |
 | **Thu** | Test on Web Track<br>Select groups for Finance | Read over the problem spec for [Finance](https://cs50.harvard.edu/ap/2021/curriculum/x/tracks/web/finance/) |
-| **Fri** | Start on Finance |  |
+| **Fri** | Download Distribution Code for [Finance](https://cs50.harvard.edu/ap/2021/curriculum/x/tracks/web/finance/)<br>[Watch intro to Finance](https://www.youtube.com/watch?v=kAvCTffbH04&ab_channel=CS50) |  |
 
 Lunch time: 1:20  
 Sr - Cafeteria  
