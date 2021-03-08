@@ -17,5 +17,5 @@ Sr - Classroom
 Jr - Cafeteria  
 
 <div style="text-align:center">
-<img src="https://storage.googleapis.com/hackersandslackers-cdn/2019/02/SQLpt1-3.jpg" alt="SQL" width="50%">
+<img src="https://s3-ap-south-1.amazonaws.com/trt-blog-ghost/2020/05/TRT-Blog-Banner.png" alt="web development" width="50%">
 </div>
