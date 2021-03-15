@@ -10,7 +10,9 @@
 | **Tue** | Work on Finance |  |
 | **Wed** |  |  |
 | **Thu** |  |  |
-| **Fri** |  |  |
+| **Fri** | End of Grading Period<br>ALL assignments are due |  |
+
+*This is the last week of the grading period. If you have outstanding assignments, get them in **ASAP** or they will be put in as a **0**!!*
 
 Lunch time: 1:10  
 Sr - Classroom  
