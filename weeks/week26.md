@@ -12,7 +12,7 @@
 | **Thu** |  |  |
 | **Fri** | End of Grading Period<br>ALL assignments are due |  |
 
-*This is the last week of the grading period. Missing assignments are now entered as a 0, get them in **ASAP** or they will stay a **0**!!*
+*This is the last week of the grading period. Missing assignments will be entered as a 0. Get them in **ASAP** or they will stay a **0**!!*
 
 Lunch time: 1:10  
 Sr - Classroom  
