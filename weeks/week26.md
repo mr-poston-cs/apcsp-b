@@ -6,8 +6,8 @@
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** |  |  |
-| **Tue** |  |  |
+| **Mon** | Work on Finance |  |
+| **Tue** | Work on Finance |  |
 | **Wed** |  |  |
 | **Thu** |  |  |
 | **Fri** |  |  |
@@ -17,5 +17,5 @@ Sr - Classroom
 Jr - Classroom  
 
 <div style="text-align:center">
-<img src="" alt="" width="50%">
+<img src="https://i.redd.it/yh1ys8fklni61.jpg" alt="game devs vs web devs" width="50%">
 </div>

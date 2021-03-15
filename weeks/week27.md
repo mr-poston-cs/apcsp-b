@@ -1,18 +1,21 @@
 <meta http-equiv="refresh" content="300"/>
 
-## Week 27  
-Week of 3/9/2020  
+# Week 27
 
-  |       |In Class               |Homework   |
-  |-------|---------              |---------  |
-  |**Mon**|[Databases from Ch 8](/ap/curriculum/8/) & textbook then moving into [Data Science](/ap/curriculum/data_science/)|Read section 14.4-14.4.1 in your book (p.699-704) and complete the practice problem on p.704<br>Read the [Collecting Data notes online](/ap/curriculum/data_science/collecting_data/notes/) |
-  |**Tue**|Go over hw and start on [Unit 4 - Lesson 1 on Code.org](https://studio.code.org/s/csp4-2019?section_id=2525239)<br>Watch Big Data video & discuss<br>Watch AI video & discuss<br>Moore's Law discussion |Answer the *Check Your Understanding* questions from Lesson 1 (no need to do the quick check in)<br>Read [handout on Big Data](https://parrottacademy-my.sharepoint.com/:w:/g/personal/cbeaman_parrottacademy_org/Eala-YTU0_VMp1HIFhxqC5wBLiUXHy7bEmEnU2NHR8vydA?e=tib7Kw) |
-  |**Wed**|Complete Big Data Sleuth Activity from Code.org lesson | |
-  |**Thu**| |Quiz tomorrow on what we have covered this week |
-  |**Fri**|Quiz on DB and Data Science<br>[Go here](https://kami.app/FWT3d8lz8gy4) to see what Kami.app looks like with different accounts | |
+### Week of 3/22/2021<br>
+
+|         | Class | Homework |
+| ------- | ----- | -------- |
+| **Mon** | No School |  |
+| **Tue** |  |  |
+| **Wed** |  |  |
+| **Thu** |  |  |
+| **Fri** |  |  |
+
+Lunch time: 1:05  
+Sr - Outside/Classroom  
+Jr - Classroom  
 
 <div style="text-align:center">
-<img src="https://www.researchgate.net/profile/Radoslava_Kraleva/publication/323466947/figure/fig1/AS:599227063353344@1519878273386/Structure-of-the-relational-database-Mvsemdm-Each-box-on-the-figure-above-contains-one.png" alt="database structure" width="50%">
+<img src="" alt="" width="50%">
 </div>
-
-
