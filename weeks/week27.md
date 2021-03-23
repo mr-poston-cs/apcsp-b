@@ -7,7 +7,7 @@
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | No School |  |
-| **Tue** |  |  |
+| **Tue** | Demonstrate working Finance app<br>Start going over Create requirements |  |
 | **Wed** |  |  |
 | **Thu** |  |  |
 | **Fri** |  |  |
