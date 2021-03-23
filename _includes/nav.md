@@ -45,35 +45,24 @@
         <li><a href="https://candib80.github.io/ap/weeks/week23/">Week 23</a></li>
         <li><a href="https://candib80.github.io/ap/weeks/week24/">Week 24</a></li>
         <li><a href="https://candib80.github.io/ap/weeks/week25/">Week 25</a></li>
+        <li><a href="https://candib80.github.io/ap/weeks/week26/">Week 26</a></li>
     </ul>
 </details>
         
-<a href="https://candib80.github.io/ap/weeks/week26/">Week 26</a>
 
-<!-- <details>
-    <summary>Q3</summary>
-    <ul>
-        <li><a href="https://candib80.github.io/ap/weeks/week20/">Week 22</a> Jan 20</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week21/">Week 21</a> Jan 27</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week22/">Week 22</a> Feb 3</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week23/">Week 23</a> Feb 10</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week24/">Week 24</a> Feb 17</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week25/">Week 25</a> Feb 24</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week26/">Week 26</a> Mar 2</li>
-        <li><a href="https://candib80.github.io/ap/weeks/week27/">Week 27</a> Mar 9</li>
-    </ul>
-</details>
+<summary>Q4</summary>
+<ul>
+    <li><a href="https://candib80.github.io/ap/weeks/week27/">Week 27</a></li>
+    <!-- <li><a href="https://candib80.github.io/ap/weeks/week28/">Week 28</a></li>
+    <li><a href="https://candib80.github.io/ap/weeks/week29/">Week 29</a></li>
+    <li><a href="https://candib80.github.io/ap/weeks/week30/">Week 30</a></li>
+    <li><a href="https://candib80.github.io/ap/weeks/week31/">Week 31</a></li>
+    <li><a href="https://candib80.github.io/ap/weeks/week32/">Week 32</a></li>
+    <li><a href="https://candib80.github.io/ap/weeks/week33/">Week 33</a></li>
+    <li><a href="https://candib80.github.io/ap/weeks/week34/">Week 34</a></li> -->
+</ul>
 
-Q4
-* [Week 28](/ap/weeks/week28) Mar 16
-* [Week 29](/ap/weeks/week29) Mar 23
-* [Week 30](/ap/weeks/week30) Mar 30
-* [Week 31](/ap/weeks/week31) Apr 6
-* [Week 32](/ap/weeks/week32) Apr 13 - Break
-* [Week 33](/ap/weeks/week33) Apr 20
-* [Week 34](/ap/weeks/week34) Apr 27
-* [Week 35](/ap/weeks/week35) May 4
-* [Week 36](/ap/weeks/week36) May 11  -->
+
 
 <!-- ***
 

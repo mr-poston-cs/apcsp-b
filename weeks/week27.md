@@ -17,5 +17,5 @@ Sr - Outside/Classroom
 Jr - Classroom  
 
 <div style="text-align:center">
-<img src="" alt="" width="50%">
+<img src="https://applikeysolutions.com//uploads_production/ckeditor/attachments/152/content_How_to_Create_an_Artificial_Intelligence_Software_1.png" alt="creative brain" width="50%">
 </div>
