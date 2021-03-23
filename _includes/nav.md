@@ -53,16 +53,15 @@
 <summary>Q4</summary>
 <ul>
     <li><a href="https://candib80.github.io/ap/weeks/week27/">Week 27</a></li>
-    <!-- <li><a href="https://candib80.github.io/ap/weeks/week28/">Week 28</a></li>
+</ul>
+
+<!-- <li><a href="https://candib80.github.io/ap/weeks/week28/">Week 28</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week29/">Week 29</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week30/">Week 30</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week31/">Week 31</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week32/">Week 32</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week33/">Week 33</a></li>
     <li><a href="https://candib80.github.io/ap/weeks/week34/">Week 34</a></li> -->
-</ul>
-
-
 
 <!-- ***
 
