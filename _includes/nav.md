@@ -49,9 +49,10 @@
     </ul>
 </details>
 
-Q4
-* <a href="https://candib80.github.io/ap/weeks/week27/">Week 27</a>
-
+<summary>Q4</summary>
+<ul>
+    <li><a href="https://candib80.github.io/ap/weeks/week27/">Week 27</a></li>
+</ul>
 
 <!-- <details>
     <summary>Q3</summary>
