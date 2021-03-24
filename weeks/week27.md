@@ -2,7 +2,7 @@
 
 # Week 27
 
-### Week of 3/22/2021<br>Start on Create
+### Week of 3/22/2021<br>
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
