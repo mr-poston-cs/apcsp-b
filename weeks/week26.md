@@ -8,8 +8,8 @@
 | ------- | ----- | -------- |
 | **Mon** | Work on Finance |  |
 | **Tue** | Work on Finance |  |
-| **Wed** | Work on Finance |  |
-| **Thu** | Work on Finance |  |
+| **Wed** |  |  |
+| **Thu** |  |  |
 | **Fri** | End of Grading Period<br>ALL assignments are due |  |
 
 *This is the last week of the grading period. Missing assignments will be entered as a 0. Get them in **ASAP** or they will stay a **0**!!*
