@@ -45,11 +45,10 @@
         <li><a href="https://candib80.github.io/ap/weeks/week23/">Week 23</a></li>
         <li><a href="https://candib80.github.io/ap/weeks/week24/">Week 24</a></li>
         <li><a href="https://candib80.github.io/ap/weeks/week25/">Week 25</a></li>
-        <li><a href="https://candib80.github.io/ap/weeks/week26/">Week 26</a></li>
     </ul>
 </details>
         
-<a href="https://candib80.github.io/ap/weeks/week27/">Week 27</a>
+<a href="https://candib80.github.io/ap/weeks/week26/">Week 26</a>
 
 <!-- <details>
     <summary>Q3</summary>

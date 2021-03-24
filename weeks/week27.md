@@ -2,13 +2,13 @@
 
 # Week 27
 
-### Week of 3/22/2021<br>Start on Create
+### Week of 3/22/2021<br>
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** | No School |  |
-| **Tue** | Demo Finance for grade<br>Start on Create |  |
-| **Wed** | Dive more into requirements for Create |  |
+| **Tue** |  |  |
+| **Wed** |  |  |
 | **Thu** |  |  |
 | **Fri** |  |  |
 
@@ -17,5 +17,5 @@ Sr - Outside/Classroom
 Jr - Classroom  
 
 <div style="text-align:center">
-<img src="https://www.birmingham.ac.uk/images/news/brain-720-min.jpg" alt="creative brain" width="50%">
+<img src="" alt="" width="50%">
 </div>
