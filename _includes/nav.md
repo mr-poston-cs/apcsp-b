@@ -50,11 +50,6 @@
         
 <a href="https://candib80.github.io/ap/weeks/week26/">Week 26</a>
 
-<<<<<<< HEAD
-<a href="https://candib80.github.io/ap/weeks/week27/">Week 27</a>
-
-<!-- [**Summer 2020**](/ap/curriculum/summer-assignment) -->
-=======
 <!-- <details>
     <summary>Q3</summary>
     <ul>
@@ -83,7 +78,6 @@ Q4
 <!-- ***
 
 [**Summer 2020**](/ap/curriculum/summer-assignment) -->
->>>>>>> parent of 2c79c22 (updated nav, index, and img on wk27)
 
 ---
 
