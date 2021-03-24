@@ -4,7 +4,7 @@ title: false
 
 <meta http-equiv="refresh" content="600"/>
 
-<img src="https://media.musclegrid.io/gokickit.com/uploads/2020/04/14213415/announcement.jpg" alt="announcement" height="300"> 
+<img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300"> 
 - <span style="font-size: 22px;">We are currently on [Week 27](\ap\weeks\week27) </span>
 - <span style="font-size: 22px;">Digital Portfolio is due to CB, as final, by May 20, 11:59 pm</span>
 - <span style="font-size: 22px;">AP Exam is scheduled for Monday, May 17th at 8:00 am</span>
