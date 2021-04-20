@@ -12,7 +12,11 @@
 | **Thu** |  |  |
 | **Fri** | End of Grading Period<br>ALL assignments are due |  |
 
+<<<<<<< HEAD
 *This is the last week of the grading period. If you have outstanding assignments, get them in **ASAP** or they will be put in as a **0**!!*
+=======
+*This is the last week of the grading period. Missing assignments are now entered as a 0, get them in **ASAP** or they will stay a **0**!!*
+>>>>>>> parent of 64851ee (update missing work again)
 
 Lunch time: 1:10  
 Sr - Classroom  
