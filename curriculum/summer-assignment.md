@@ -32,16 +32,10 @@ I look forward to having you all in the fall, and have a great rest of your summ
 <details>
   <summary>Transistors & Logic supplementary resources - if you need more understanding of how transistors and logic work</summary>
   <ul>
-    <li><a href="https://youtu.be/gI-qXk7XojA">Boolean Logic & Logic Gates: Crash Course CS</a><em>appx 10 minutes</em></li>
-    <li><a href="https://youtu.be/IAkj32VPcUE">Inside the CPU</a><em>appx 10 minutes</em></li>
-    <li><a href="https://www.youtube.com/watch?v=FZGugFqdr60">CPU: Crash Course CS</a><em>appx 10 minutes</em></li>
-    <li><a href="https://www.youtube.com/watch?v=Sc3lh3D4rCw">Khan Academy and Code.org Circuits & Logic</a><em>appx 5 minutes</em></li>
-    <li><a href="https://www.youtube.com/watch?v=WhNyURBiJcU">How Transistors Work</a><em>appx 5 minutes</em></li>
+    <li><a href="https://youtu.be/gI-qXk7XojA">Boolean Logic & Logic Gates: Crash Course CS</a><em> - appx 10 minutes</em></li>
+    <li><a href="https://youtu.be/IAkj32VPcUE">Inside the CPU</a><em> - appx 10 minutes</em></li>
+    <li><a href="https://www.youtube.com/watch?v=FZGugFqdr60">CPU: Crash Course CS</a><em> - appx 10 minutes</em></li>
+    <li><a href="https://www.youtube.com/watch?v=Sc3lh3D4rCw">Khan Academy and Code.org Circuits & Logic</a><em> - appx 5 minutes</em></li>
+    <li><a href="https://www.youtube.com/watch?v=WhNyURBiJcU">How Transistors Work</a><em> - appx 5 minutes</em></li>
   </ul>
 </details>
-
-  <!-- - [Boolean Logic & Logic Gates: Crash Course CS](https://youtu.be/gI-qXk7XojA) *appx 10 minutes*
-  - [Inside the CPU](https://youtu.be/IAkj32VPcUE) *appx 10 minutes*
-  - [CPU: Crash Course CS](https://www.youtube.com/watch?v=FZGugFqdr60) *appx 10 minutes*
-  - [Khan Academy and Code.org Circuits & Logic](https://www.youtube.com/watch?v=Sc3lh3D4rCw) *appx 5 minutes*
-  - [How Transistors Work](https://www.youtube.com/watch?v=WhNyURBiJcU) *appx 5 minutes* -->
