@@ -17,4 +17,6 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 <iframe width="612" height="344" src="https://www.youtube.com/embed/GAB6Gm7pTTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<img src="" alt="" height="400">
+<img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300"> 
+
+## Your [Summer Assignment](\ap\curriculum\summer-assignment.md) is live now!!
