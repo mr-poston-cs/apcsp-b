@@ -17,4 +17,4 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300"> 
 
-## Your [Summer Assignment](\apcsp\curriculum\summer-assignment) is live now!!
+### Your [Summer Assignment](\apcsp\curriculum\summer-assignment) is live now!!
