@@ -38,15 +38,15 @@
 <details>  
   <summary>Reference Sheets</summary>
   <ul>
-    <li><a href="\..\..\assets\pdfs\syntax.pdf">Syntax</a></li>
-    <li><a href="\ap\assets\pdfs\variables.pdf">Variables</a></li>
-    <li><a href="\ap\assets\pdfs\data_types.pdf">Data Types</a></li>
-    <li><a href="\ap\assets\pdfs\operators.pdf">Operators</a></li>
-    <li><a href="\ap\assets\pdfs\boolean_expressions.pdf">Boolean Expressions</a></li>
-    <li><a href="\ap\assets\pdfs\loops.pdf">Loops</a></li>
-    <li><a href="\ap\assets\pdfs\functions.pdf">Functions</a></li>
-    <li><a href="\ap\assets\pdfs\libraries.pdf">Libraries</a></li>
-    <li><a href="\ap\assets\pdfs\principles_of_good_design.pdf">Principles of Good Design</a></li>
+    <li><a href="\apcsp\assets\pdfs\syntax.pdf">Syntax</a></li>
+    <li><a href="\apcsp\assets\pdfs\variables.pdf">Variables</a></li>
+    <li><a href="\apcsp\assets\pdfs\data_types.pdf">Data Types</a></li>
+    <li><a href="\apcsp\assets\pdfs\operators.pdf">Operators</a></li>
+    <li><a href="\apcsp\assets\pdfs\boolean_expressions.pdf">Boolean Expressions</a></li>
+    <li><a href="\apcsp\assets\pdfs\loops.pdf">Loops</a></li>
+    <li><a href="\apcsp\assets\pdfs\functions.pdf">Functions</a></li>
+    <li><a href="\apcsp\assets\pdfs\libraries.pdf">Libraries</a></li>
+    <li><a href="\apcsp\assets\pdfs\principles_of_good_design.pdf">Principles of Good Design</a></li>
   </ul>
 </details>
 
@@ -67,9 +67,9 @@
 <details>  
   <summary>Problems</summary>
   <ul>
-    <li><a href="/ap/psets/hello">Hello</a></li>
-    <li><a href="/ap/psets/mario-less/">Mario</a>, for those less comfortable</li>
-    <li><a href="/ap/psets/mario-more/">Mario</a>, for those more comfortable</li>
+    <li><a href="/apcsp/psets/hello">Hello</a></li>
+    <li><a href="/apcsp/psets/mario-less/">Mario</a>, for those less comfortable</li>
+    <li><a href="/apcsp/psets/mario-more/">Mario</a>, for those more comfortable</li>
     <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/cash/">Cash</a>, for those less comfortable</li>
     <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/credit/">Credit</a>, for those more comfortable</li>
   </ul>
