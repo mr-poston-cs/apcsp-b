@@ -38,7 +38,7 @@
 <details>  
   <summary>Reference Sheets</summary>
   <ul>
-    <li><a href="\ap\assets\pdfs\syntax.pdf">Syntax</a></li>
+    <li><a href="\..\..\assets\pdfs\syntax.pdf">Syntax</a></li>
     <li><a href="\ap\assets\pdfs\variables.pdf">Variables</a></li>
     <li><a href="\ap\assets\pdfs\data_types.pdf">Data Types</a></li>
     <li><a href="\ap\assets\pdfs\operators.pdf">Operators</a></li>

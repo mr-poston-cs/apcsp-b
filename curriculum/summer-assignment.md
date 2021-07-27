@@ -12,18 +12,18 @@ I look forward to having you all in the fall, and have a great rest of your summ
 - First, make sure to watch the video on the [homepage on our CS50 AP Site]({{"/index" | relative_url}})
   - This explains CS50, and CS50 AP, which is what I use for our AP CSP here at APA
 - Download the documents below and use them for Parts 1 & 2:
-  - [Guided Notes for Parts 1 & 2](\ap\assets\pdfs\summer\summer-20.pdf)
-  - [Additional Hardware Worksheet](\ap\assets\pdfs\summer\hardware.pdf)
+  - [Guided Notes for Parts 1 & 2](\apcsp\assets\pdfs\summer\summer-20.pdf)
+  - [Additional Hardware Worksheet](\apcsp\assets\pdfs\summer\hardware.pdf)
 
 ## Part 1
-- Read selected pages from Chapter 1 in *Invitation to Computer Science 8th ed.*; [PDF here](\ap\assets\pdfs\summer\inv-to-cs-ch1-edited.pdf)
+- Read selected pages from Chapter 1 in *Invitation to Computer Science 8th ed.*; [PDF here](\apcsp\assets\pdfs\summer\inv-to-cs-ch1-edited.pdf)
 - Complete the guided notes for the reading - first page of first document
 
 ## Part 2
-- Complete the following for [Understanding Technology](/ap/curriculum/understanding_technology):
-  - [Hardware](/ap/curriculum/understanding_technology/hardware) - this will be the majority of what is in the Guided Notes, and only thing in the other doc
-  - [Internet](/ap/curriculum/understanding_technology/internet) - only one page in the Guided Notes doc
-  - [Multimedia](/ap/curriculum/understanding_technology/multimedia) - only one page in the Guided Notes doc
+- Complete the following for [Understanding Technology](/apcsp/curriculum/understanding_technology):
+  - [Hardware](/apcsp/curriculum/understanding_technology/hardware) - this will be the majority of what is in the Guided Notes, and only thing in the other doc
+  - [Internet](/apcsp/curriculum/understanding_technology/internet) - only one page in the Guided Notes doc
+  - [Multimedia](/apcsp/curriculum/understanding_technology/multimedia) - only one page in the Guided Notes doc
 - There are **Notes**, **Reference Sheets**, **Videos** (appx 1 hr each), and **Slides** for all the above. Make sure to utilize all the materials to answer the guided notes for each of the 3 sections
   - I promise you won't have to watch hour long videos every night. If you watch the videos, they will be broken up from here on out.
 - **DO NOT** do any of the Problems for the Hardware section, but do look over them as you may see something similar on the test

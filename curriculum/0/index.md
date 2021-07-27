@@ -28,34 +28,17 @@
 <details>  
   <summary>Reference Sheets</summary>
   <ul>
-    <li><a href="\ap\assets\pdfs\algorithms.pdf">Algorithms</a></li>
-    <li><a href="\ap\assets\pdfs\ascii.pdf">ASCII</a></li>
-    <li><a href="\ap\assets\pdfs\binary.pdf">Binary</a></li>
-    <li><a href="\ap\assets\pdfs\pseudocode.pdf">Pseudocode</a></li>
-    <li><a href="\ap\assets\pdfs\scratch.pdf">Scratch</a></li>
+    <li><a href="\apcsp\assets\pdfs\algorithms.pdf">Algorithms</a></li>
+    <li><a href="\apcsp\assets\pdfs\ascii.pdf">ASCII</a></li>
+    <li><a href="\apcsp\assets\pdfs\binary.pdf">Binary</a></li>
+    <li><a href="\apcsp\assets\pdfs\pseudocode.pdf">Pseudocode</a></li>
+    <li><a href="\apcsp\assets\pdfs\scratch.pdf">Scratch</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Problems</summary>
   <ul>
-    <li><a href="\ap\curriculum\0\scratch">Scratch</a></li>
+    <li><a href="\apcsp\curriculum\0\scratch">Scratch</a></li>
   </ul>
 </details>
-
-
-<!-- * [Notes](notes)
-* Problem
-  * [Scratch](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html)
-* [Slides](https://cdn.cs50.net/2018/fall/lectures/0/lecture0.pdf)
-* Source Code from Lecture
-  * [Index](https://cdn.cs50.net/2018/fall/lectures/0/src0/)
-  * [ZIP](https://cdn.cs50.net/2018/fall/lectures/0/src0.zip)
-* [Syllabus]({{ "/syllabus" | relative_url }})
-* [Video](https://video.cs50.net/2018/fall/lectures/0)
-* Reference Sheets
-  * [Algorithms](https://ap.cs50.school/assets/pdfs/algorithms.pdf)
-  * [ASCII](https://ap.cs50.school/assets/pdfs/ascii.pdf)
-  * [Binary](https://ap.cs50.school/assets/pdfs/binary.pdf)
-  * [Pseudocode](https://ap.cs50.school/assets/pdfs/pseudocode.pdf)
-  * [Scratch](https://ap.cs50.school/assets/pdfs/scratch.pdf) -->
