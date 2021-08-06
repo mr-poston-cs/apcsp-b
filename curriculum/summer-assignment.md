@@ -12,7 +12,7 @@ I look forward to having you all in the fall, and have a great rest of your summ
 - First, make sure to watch the video on the [homepage on our CS50 AP Site]({{"/index" | relative_url}})
   - This explains CS50, and CS50 AP, which is what I use for our AP CSP here at APA
 - Download the documents below and use them for Parts 1 & 2:
-  - [Guided Notes for Parts 1 & 2](\apcsp\assets\pdfs\summer\summer-20.pdf)
+  - [Guided Notes for Parts 1 & 2](\apcsp\assets\pdfs\summer\summer-21.pdf)
   - [Additional Hardware Worksheet](\apcsp\assets\pdfs\summer\hardware.pdf)
 
 ## Part 1
