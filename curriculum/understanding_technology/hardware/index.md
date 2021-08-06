@@ -7,7 +7,7 @@
     * [Memory](https://cs50.harvard.edu/ap/2020/assets/pdfs/memory.pdf)
     * [CPU and SoC](https://cs50.harvard.edu/ap/2020/assets/pdfs/cpu_and_soc.pdf)
     * [Transistors and Logic](https://cs50.harvard.edu/ap/2020/assets/pdfs/transistors_and_logic.pdf)
-* [Video](https://video.cs50.net/cscie1a/2017/fall/lectures/hardware)
+* [Video](https://youtu.be/6mbFO0ZLMW8)
 * [Slides](http://cdn.cs50.net/cscie1a/2017/fall/lectures/hardware/hardware.pdf)
 * Problems
   * [Around the House](https://docs.cs50.net/2019/ap/problems/house/house.html)
