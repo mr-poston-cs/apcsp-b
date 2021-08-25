@@ -1,16 +1,14 @@
-# Week 0
-  
-Week of 8/23/21  
-**Summer Assignment Test on Tues
-  
+<meta http-equiv="refresh" content="300"/>
 
-  |       |In Class               |Homework   |
-  |-------|---------              |---------  |
+## Week 0<br>Week of 8/23/21  
+  
+  |       | Class | Homework |
+  | ----- | ----- | -------- |
   |**Mon**|No school for you! | |
   |**Tue**|No school today either! | |
   |**Wed**|Sr. Retreat; answer questions from Juniors | |
-  |**Thu**|Go over syllabus & expectation<br>Review of Summer Assignment | |
-  |**Fri**|Continue review; get ready for test on material covered Monday/Tuesday | |
+  |**Thu**|Go over syllabus & expectations<br>Review of Summer Assignment | |
+  |**Fri**|Continue review<br>Get ready for test on material covered Monday/Tuesday | |
 
   <!-- Go to [Scratch](https://scratch.mit.edu) and sign up for an account. Make sure you remember your login information.  -->
 
