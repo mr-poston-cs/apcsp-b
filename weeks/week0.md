@@ -7,7 +7,7 @@
   |**Mon**|No school for you! | |
   |**Tue**|No school today either! | |
   |**Wed**|Sr. Retreat; answer questions from Juniors | |
-  |**Thu**|Go over syllabus & expectations<br>Review of Summer Assignment | |
+  |**Thu**|Go over syllabus & expectations<br>Review of Summer Assignment |Make sure to join AP Classroom! |
   |**Fri**|Continue review<br>Get ready for test on material covered Monday/Tuesday | |
 
   <!-- Go to [Scratch](https://scratch.mit.edu) and sign up for an account. Make sure you remember your login information.  -->
