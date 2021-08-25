@@ -4,6 +4,8 @@
 
 ---
 
+[Week 0](/apcsp/weeks/week0)
+
 <!-- <details>
     <summary>Q1</summary>
     <ul>
