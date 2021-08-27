@@ -1,21 +1,19 @@
 <meta http-equiv="refresh" content="300"/>
 
-# Week 1
+## Week 1<br>Week of 8/30/21  
 
-## Week of 9/7/2020  
-### [Chapter 0](\ap\curriculum\0)  
+### [Chapter 0](/apcsp/curriculum/0)
+  
+  |       | Class | Homework |
+  | ----- | ----- | -------- |
+  |**Mon**|Review for Test tomorrow  |Study |
+  |**Tue**|Test on Summer Assignment |Sign up for your Scratch Account (details below) |
+  |**Wed**|Start on Ch 0 | |
+  |**Thu**| | |
+  |**Fri**| | |
 
-  |       |In Class               |Homework   |
-  |-------|---------              |---------  |
-  |**Mon**|HOLIDAY | |
-  |**Tue**|Algorithms & Pseudocode review and practice |Algorithm assignment in Teams - will be viewable Tuesday at noon |
-  |**Wed**|Pseudocode & Scratch<br>Create [GitHub](https://github.com/join) Accounts<br>[Join our class here](https://submit.cs50.io/invites/58a97a3c65e84665a08f96ad2079f55c)<br>Go over Submit50 |Play in [Scratch](https://scratch.mit.edu)<br>Go over the [Scratch PSET](\ap\psets\scratch) requirements<br>[Fill out this form so I have a list of your usernames](https://forms.office.com/Pages/ResponsePage.aspx?id=pzkNu6tRKkuypSiSsDYamccaKXZ-XoNApSiIBzYo6sNUQTIxT1ZEVUpOTTZaVTlRRUYwTFU5SURJUi4u) |
-  |**Thu**|Variables in Scratch; and continue PSET |Work on your Scratch PSET |
-  |**Fri**|Continue PSET |Work on Scratch PSET - this is due Monday at 11:59 pm |
-
-  - Make sure to join the AP class on CB site. Join codes and links are in a post in Teams.
   - Go to [Scratch](https://scratch.mit.edu) and sign up for an account. Make sure you remember your login information. 
 
 <div style="text-align:center">
-<img src="" alt="" width="50%">
+<img src="https://www.logolynx.com/images/logolynx/0b/0bdbd10ab2fa7096299f7c78e1ac55f5.png" alt="scratch" width="50%">
 </div>
