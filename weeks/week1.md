@@ -6,10 +6,10 @@
   
   |       | Class | Homework |
   | ----- | ----- | -------- |
-  |**Mon**|Review for Test tomorrow  |Study |
-  |**Tue**|Test on Summer Assignment |Sign up for your Scratch Account (details below) |
-  |**Wed**|Start on Ch 0 | |
-  |**Thu**| | |
+  |**Mon**|Review for Test |Study |
+  |**Tue**|Review again |Study |
+  |**Wed**|Test on Summer Assignment |Sign up for your Scratch Account (details below) |
+  |**Thu**|Start on Ch 0 | |
   |**Fri**| | |
 
   - Go to [Scratch](https://scratch.mit.edu) and sign up for an account. Make sure you remember your login information. 
