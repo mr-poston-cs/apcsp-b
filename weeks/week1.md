@@ -8,7 +8,7 @@
   | ----- | ----- | -------- |
   |**Mon**|Review for Test |Study |
   |**Tue**|Review again |Study |
-  |**Wed**|Test on Summer Assignment |Sign up for your Scratch Account (details below) |
+  |**Wed**|Test on Summer Assignment |Sign up for your Scratch Account (details below)<br>Bring your computers! |
   |**Thu**|Start on Ch 0 | |
   |**Fri**| | |
 
