@@ -7,7 +7,6 @@
 <details>
   <summary>Lecture</summary>
   <ul>
-    <li><a href="https://cdn.cs50.net/2019/fall/lectures/0/lecture0.mp3.download">Audio</a></li>
     <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/notes/0/">Notes</a></li>
     <summary>Slides</summary>
     <ul>
