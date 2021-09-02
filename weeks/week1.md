@@ -9,7 +9,7 @@
   |**Mon**|Review for Test |Study |
   |**Tue**|Review again |Study |
   |**Wed**|Test on Summer Assignment |Sign up for your Scratch Account (details below)<br>Bring your computers! |
-  |**Thu**|Start on Ch 0 |Those who missed class:<br>we covered material in the video here til about 50 minute mark<br>it is a lot of review, so feel free to watch at 1.5/2 X speed, but do watch as some material is new |
+  |**Thu**|Start on Ch 0 |Those who missed class:<br>we covered material in the [video here](https://www.youtube.com/watch?v=YoXxevp1WRQ&t=2896s&ab_channel=CS50) til about 50 minute mark<br>it is a lot of review, so feel free to watch at 1.5/2 X speed, but do watch as some material is new |
   |**Fri**| | |
 
   - Go to [Scratch](https://scratch.mit.edu) and sign up for an account. Make sure you remember your login information. 
