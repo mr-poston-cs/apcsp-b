@@ -33,9 +33,7 @@
   </ul>
 </details>
 
-<details>
-  <summary>Problems</summary>
-  <ul>
-    <li><a href="\apcsp\curriculum\0\scratch">Scratch</a></li>
-  </ul>
-</details>
+
+- Problem:
+    - [Scratch](\apcsp\psets\scratch)
+

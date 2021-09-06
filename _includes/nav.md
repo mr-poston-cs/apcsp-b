@@ -6,6 +6,7 @@
 
 - [Week 0](/apcsp/weeks/week0)
 - [Week 1](/apcsp/weeks/week1)
+- [Week 2](/apcsp/weeks/week2)
 
 <!-- <details>
     <summary>Q1</summary>
