@@ -5,7 +5,7 @@ title: false
 <meta http-equiv="refresh" content="600"/>
 
 <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300">  
-- <span style="font-size: 22px;">We are currently on [Week 2](\apcsp\weeks\week2) </span>
+- <span style="font-size: 22px;">We are currently on [Week 3](\apcsp\weeks\week3) </span>
 
 <!-- # Hello, world!
 
