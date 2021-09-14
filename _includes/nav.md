@@ -55,10 +55,6 @@
         
 <a href="https://candib80.github.io/apcsp/weeks/week26/">Week 26</a> -->
 
-***
-
-[**Summer 2021**](/apcsp/curriculum/summer-assignment)
-
 ---
 
 <!-- * [**Online Book**](https://k12.cengage.com/portal/Account/LogOn?DistrictLoginCode=BMT7) -->
