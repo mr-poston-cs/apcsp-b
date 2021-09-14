@@ -68,7 +68,7 @@
 ### Advice
 
 - Try out any of the programs from class via the source code above
-- If you see any errors when compiling your code with `make`, focus first on fixing the **very first** error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if try to compile `hello`, and 
+- If you see any errors when compiling your code with `make`, focus first on fixing the **very first** error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if trying to compile `hello`, and 
 ```
 make hello
 ```
