@@ -8,7 +8,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Play around with Algorithms today | |
-  |**Tue**|Start on Chapter 1 |Read over Ref sheets through Data Types (first 3)|
+  |**Tue**|Start on Chapter 1 |Read over Ref sheets through Data Types (first 3)<br>Sign up for[] GitHub account](https://github.com/signup); if you already have an account, then make sure you can log in|
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
