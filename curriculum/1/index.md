@@ -1,24 +1,24 @@
 <meta http-equiv="refresh" content="1200"/>
 
-# Chapter 1
+# Chapter 1 - C
 
-<iframe width="1033" height="520" src="https://www.youtube.com/embed/e9Eds2Rc_x8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1033" height="520" src="https://youtu.be/zYierUhIFNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
   <summary>Lecture</summary>
   <ul>
-    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/notes/1/">Notes</a></li>
+    <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/notes/1/">Notes</a></li>
     <details><summary>Slides</summary>
     <ul>
-      <li><a href="https://docs.google.com/presentation/d/191XW0DHWlW6WmAhYuFUYnZKUlDx0N4u4Fp81AeW-uNs/edit?usp=sharing">Google Slides</a></li>
-      <li><a href="https://cdn.cs50.net/2019/fall/lectures/1/lecture1.pdf">PDF</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1_BSY-aHIw8Xa__FL0HyAFoevLW7GHcTnx8j52dn0LsI/edit?usp=sharing">Google Slides</a></li>
+      <li><a href="https://cdn.cs50.net/2020/fall/lectures/1/lecture1.pdf">PDF</a></li>
     </ul>
     </details>
     <details><summary>Source Code</summary>
     <ul>
-      <li><a href="https://cdn.cs50.net/2019/fall/lectures/1/src1/">Index</a></li>
-      <li><a href="https://cdn.cs50.net/2019/fall/lectures/1/src1.pdf">PDF</a></li>
-      <li><a href="https://cdn.cs50.net/2019/fall/lectures/1/src1.zip">Zip</a></li>
+      <li><a href="https://cdn.cs50.net/2020/fall/lectures/1/src1/">Index</a></li>
+      <li><a href="https://cdn.cs50.net/2020/fall/lectures/1/src1.pdf">PDF</a></li>
+      <li><a href="https://cdn.cs50.net/2020/fall/lectures/1/src1.zip">Zip</a></li>
     </ul>
     </details>
   </ul>   
@@ -36,7 +36,7 @@
 </details>
 
 <details>  
-  <summary>Reference Sheets</summary>
+  <summary><a href="\apcsp\assets\pdfs\ch1-ref-sheets.pdf">Reference Sheets</a></summary>
   <ul>
     <li><a href="\apcsp\assets\pdfs\syntax.pdf">Syntax</a></li>
     <li><a href="\apcsp\assets\pdfs\variables.pdf">Variables</a></li>
@@ -50,29 +50,30 @@
   </ul>
 </details>
 
-<details>  
-  <summary>Labs</summary>
-  <ul>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/fahrenheit/">Fahrenheit</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/water/">Water</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/conditions/">Conditions</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/square/">Square</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/multiples/">Multiples</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/adder/">Adder</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/mult/">Mult</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/myFunction/">myFunction</a></li>
-  </ul>
-</details>
+#### Labs
 
-<details>  
-  <summary>Problems</summary>
-  <ul>
-    <li><a href="/apcsp/psets/hello">Hello</a></li>
-    <li><a href="/apcsp/psets/mario-less/">Mario</a>, for those less comfortable</li>
-    <li><a href="/apcsp/psets/mario-more/">Mario</a>, for those more comfortable</li>
-    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/cash/">Cash</a>, for those less comfortable</li>
-    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/credit/">Credit</a>, for those more comfortable</li>
-  </ul>
-</details>
+  - Go to [ide.cs50.io](https://ide.cs50.io/) (also linked to the left) and click "Log in" to access your CS50 IDE
+  - [Hello]("https://cs50.harvard.edu/ap/2022/curriculum/x/labs/1/hello/)
+  - [Population]("https://cs50.harvard.edu/ap/2022/curriculum/x/labs/1/population/)
 
+#### Problems
 
+  1. Pick one of the following to submit:
+    - [Mario for those less comfortable](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/less/)
+    - [Mario for those more comfortable](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/more/)
+  2. Pick one of the following to submit:
+    - [Cash](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/cash/) for those less comfortable
+    - [Credit](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/credit/) for those more comfortable
+   
+#### Advice
+
+- Try out any of the programs from class via the source code above
+- If you see any errors when compiling your code with `make`, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if try to compile `hello`, and 
+```
+make hello
+```
+is yielding errors, try running
+```
+help50 make hello
+```
+instead!
