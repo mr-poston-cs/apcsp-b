@@ -2,7 +2,7 @@
 
 # Chapter 1 - C
 
-<iframe width="1033" height="520" src="https://youtu.be/zYierUhIFNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYierUhIFNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
   <summary>Lecture</summary>
@@ -50,22 +50,22 @@
   </ul>
 </details>
 
-#### Labs
+### Labs
 
   - Go to [ide.cs50.io](https://ide.cs50.io/) (also linked to the left) and click "Log in" to access your CS50 IDE
   - [Hello]("https://cs50.harvard.edu/ap/2022/curriculum/x/labs/1/hello/)
   - [Population]("https://cs50.harvard.edu/ap/2022/curriculum/x/labs/1/population/)
 
-#### Problems
+### Problems
 
-  1. Pick one of the following to submit:
+  - Pick one of the following to submit:
     - [Mario for those less comfortable](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/less/)
     - [Mario for those more comfortable](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/more/)
-  2. Pick one of the following to submit:
+  - Pick one of the following to submit:
     - [Cash](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/cash/) for those less comfortable
     - [Credit](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/credit/) for those more comfortable
    
-#### Advice
+### Advice
 
 - Try out any of the programs from class via the source code above
 - If you see any errors when compiling your code with `make`, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if try to compile `hello`, and 
