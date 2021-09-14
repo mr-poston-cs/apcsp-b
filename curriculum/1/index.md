@@ -59,16 +59,16 @@
 ### Problems
 
   - Pick one of the following to submit:
-    - [Mario for those less comfortable](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/less/)
-    - [Mario for those more comfortable](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/more/)
+    - [Mario](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/less/) for those **less** comfortable
+    - [Mario](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/more/) for those **more** comfortable
   - Pick one of the following to submit:
-    - [Cash](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/cash/) for those less comfortable
-    - [Credit](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/credit/) for those more comfortable
+    - [Cash](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/cash/) for those **less** comfortable
+    - [Credit](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/credit/) for those **more** comfortable
    
 ### Advice
 
 - Try out any of the programs from class via the source code above
-- If you see any errors when compiling your code with `make`, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if try to compile `hello`, and 
+- If you see any errors when compiling your code with `make`, focus first on fixing the **very first** error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if try to compile `hello`, and 
 ```
 make hello
 ```

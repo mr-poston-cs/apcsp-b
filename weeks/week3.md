@@ -8,7 +8,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Play around with Algorithms today | |
-  |**Tue**|Start on Chapter 1 |Read over Ref sheets through Data Types|
+  |**Tue**|Start on Chapter 1 |Read over Ref sheets through Data Types (first 3)|
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
