@@ -2,16 +2,14 @@
 
 # Week 4<br>Week of 9/28/20 
 
-### [Chapter 1](/ap/curriculum/1)  
-
-Since everyone basically finished Mario on Friday, I have moved up our test to Thursday
+### [Chapter 1](/apcsp/curriculum/1)  
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Continue Ch 1 Lecture | |
+  |**Mon**|Continue Ch 1 Lecture<br>Start with conditions.c example | |
   |**Tue**| | |
   |**Wed**| | |
   |**Thu**| | |
-  |**Fri**| | |
+  |**Fri**|Senior Picture Day | |
 
-<img src="https://i.redd.it/es9fpe3llr3z.jpg" alt="comma hide and seek">
+<img src="https://i.redd.it/es9fpe3llr3z.jpg" alt="hide and seek championship">
