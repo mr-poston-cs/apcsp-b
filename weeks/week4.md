@@ -6,8 +6,8 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Continue Ch 1 Lecture<br>Start with conditions.c example | |
-  |**Tue**| | |
+  |**Mon**|Continue Ch 1 Lecture<br>Start with conditions.c example |Go over `addition0.c`, `addition1.c`, `truncation.c`, & `conditions.c` from the [source code](https://cdn.cs50.net/2020/fall/lectures/1/src1.pdf) for chapter 1 |
+  |**Tue**|Start on Boolean expressions and Loops | |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**|Senior Picture Day | |
