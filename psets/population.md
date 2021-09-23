@@ -71,7 +71,7 @@ How might you adapt this code to ensure a start size of at least 9, and an end s
   - For example, you might want to create a variable to keep track of how many years have passed.
 - To calculate how many years it will take for the population to reach the end size, another loop might be helpful! Inside the loop, you’ll likely want to update the population size according to the formula in the Background, and update the number of years that have passed.
 - To print an integer `n` to the terminal, recall that you can use a line of code like
-```
+```c
   printf("The number is %i\n", n);
 ```
 to specify that the variable n should fill in for the placeholder `%i`.
@@ -117,8 +117,9 @@ Years: 115
   <summary>Not sure how to solve?</summary>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2CcqQnLbGOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
+<br>
 
-Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself FIRST!
+Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself **FIRST**!
 
 ```
 check50 cs50/labs/2021/x/population
