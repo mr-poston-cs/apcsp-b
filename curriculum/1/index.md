@@ -52,7 +52,7 @@
 
   - Go to [ide.cs50.io](https://ide.cs50.io/) (also linked to the left) and click "Log in" to access your CS50 IDE
   - [Hello](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/1/hello/)
-  - [Population](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/1/population/)
+  - [Population](\apcsp\psets\population)
 
 ### Problems
 
