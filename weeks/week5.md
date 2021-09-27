@@ -1,16 +1,16 @@
 <meta http-equiv="refresh" content="300"/>
 
-## Week 5<br>Week of 10/5/20  
+# Week 5<br>Week of 9/27/21 
 
-### [Chapter 2](/ap/curriculum/2)  
+### [Chapter 1](/ap/curriculum/1)  
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Answer questions to [Cash](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/cash/)/[Credit](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/1/credit/ ) |Cash/Credit due by 11:59pm |
-  |**Tue**|ACT |Read over [Ch 2 Reference Sheets](\ap\assets\pdfs\ch2_ref_sheets.pdf) |
-  |**Wed**|Start on Chapter 2<br>Compiling | |
-  |**Thu**|Debugging |Lab: Shining<br>Edpuzzle: Arrays |
-  |**Fri**|Continue with the above or start Arrays | |
+  |**Mon**|[Population Lab](\apcsp\psets\population) |Work on Population lab |
+  |**Tue**|Population lab due tonight at 11:59pm | |
+  |**Wed**| | |
+  |**Thu**| | |
+  |**Fri**| | |
 
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Array-In-C.png" alt="arrays in C" height="350">
+<img src="https://i.ytimg.com/vi/NxKVrEbVrCI/hqdefault.jpg" alt="mario pyramid" height="350">
 
