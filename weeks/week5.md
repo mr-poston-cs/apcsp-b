@@ -1,5 +1,3 @@
-<meta http-equiv="refresh" content="300"/>
-
 # Week 5
 
 ### Week of 9/27/21<br>[Chapter 1](/apcsp/curriculum/1)  
@@ -14,3 +12,4 @@
 
 <img src="https://i.ytimg.com/vi/NxKVrEbVrCI/hqdefault.jpg" alt="mario pyramid" height="350">
 
+<meta http-equiv="refresh" content="300"/>
