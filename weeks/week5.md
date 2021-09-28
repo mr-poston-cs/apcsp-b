@@ -1,8 +1,8 @@
 <meta http-equiv="refresh" content="300"/>
 
-# Week 5<br>Week of 9/27/21 
+# Week 5
 
-### [Chapter 1](/apcsp/curriculum/1)  
+### Week of 9/27/21<br>[Chapter 1](/apcsp/curriculum/1)  
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
