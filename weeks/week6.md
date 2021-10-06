@@ -6,9 +6,9 @@
   |-------|---------              |---------  |
   |**Mon**|Read over [Cash and/or Credit](https://candib80.github.io/apcsp/curriculum/1/#problems) and get started on one of them if you have finished Mario, otherwise finish up Mario! |Make sure you have turned in Mario by 11:59 tonight<br>Work on Cash/Credit |
   |**Tue**|Work on PSET | |
-  |**Wed**| | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Wed**|Finish up Cash |Try and get Cash turned in tonight by 11:59 |
+  |**Thu**|Review Chapter 1 | |
+  |**Fri**|Review for test Monday on Chapter 1 | |
 
 <img src="https://pbs.twimg.com/media/DpkBAHyXUAAZgbi.jpg" alt="doer makes mistakes" height="350">
 
