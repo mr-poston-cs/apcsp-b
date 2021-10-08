@@ -8,7 +8,7 @@
   |**Tue**|Work on PSET | |
   |**Wed**|Finish up Cash |Try and get Cash turned in tonight by 11:59 |
   |**Thu**|Review Chapter 1 | |
-  |**Fri**|Review for test Monday on Chapter 1 | |
+  |**Fri**|Review for test Tuesday on Chapter 1 | |
 
 <img src="https://pbs.twimg.com/media/DpkBAHyXUAAZgbi.jpg" alt="doer makes mistakes" height="350">
 

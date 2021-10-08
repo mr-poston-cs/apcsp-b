@@ -9,7 +9,7 @@ title: false
 - <span style="font-size: 22px;">We are currently on [Week 6](\apcsp\weeks\week6) </span>
 - [Chapter 1](/apcsp/curriculum/1)
 - [Ch 1 PSETS](https://candib80.github.io/apcsp/curriculum/1/#problems) - currently finishing up Mario and starting Cash/Credit
-- Test on Chapter 1 Monday, Oct. 11
+- Test on Chapter 1 Tuesday, Oct. 12
 
 <!-- # Hello, world!
 
