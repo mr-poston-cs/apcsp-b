@@ -11,6 +11,7 @@
 - [Week 4](/apcsp/weeks/week4)
 - [Week 5](/apcsp/weeks/week5)
 - [Week 6](/apcsp/weeks/week6)
+- [Week 7](/apcsp/weeks/week7)
 
 <!-- <details>
     <summary>Q1</summary>
