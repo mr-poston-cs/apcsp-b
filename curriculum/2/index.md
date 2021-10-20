@@ -62,6 +62,7 @@ Lecture
       <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/">Caesar</a>, for those less comfortable</li>
       <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/substitution/">Substitution</a>, for those more comfortable</li>
     </ul>
+  </li>
 </ol>
 
 #### Advice
