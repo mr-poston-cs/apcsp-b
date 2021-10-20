@@ -6,11 +6,14 @@
   |-------|---------              |---------  |
   |**Mon**|Fall Holiday - NO SCHOOL! |
   |**Tue**|Continue with Arrays | |
-  |**Wed**|Continue with Arrays; Start on Strings |Read the [Ref sheets](\apcsp\assets\pdfs\ch2_ref_sheets) for what we have covered so far |
+  |**Wed**|Continue with Arrays; Start on Strings |Read the [Ref sheets](\apcsp\assets\pdfs\ch2_ref_sheets.pdf) for what we have covered so far |
   |**Thu**|Command Line Arguments | |
   |**Fri**| | |
 
 
 <meta http-equiv="refresh" content="300"/>
 
-<img src="https://miro.medium.com/max/2544/1*yiyfZodqXNwMouC0-B0Wlg.png" alt="big o graph" height="350">
+<!-- <img src="https://miro.medium.com/max/2544/1*yiyfZodqXNwMouC0-B0Wlg.png" alt="big o graph" height="350"> -->
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Array-Declaration-In-C.png" alt="arrays in C" height="350">
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201209135923/String-in-C.png" alt="Strings in C" height="350">
+
