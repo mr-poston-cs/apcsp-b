@@ -43,16 +43,13 @@ Lecture
   </ul>
 </details>
 
-<details>  
-  <summary>Labs</summary>
-  <ul>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/shining/">Shining</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/">Array Countdown</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/garbage/">Garbage Values</a></li>
-    <li><a href="https://lab.cs50.io/candib80/cs50labs/c/oldFriends/">Old Friends</a></li>
-    <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/labs/2/">Lab 2</a></li>
-  </ul>
-</details>
+### Labs
+1. [Shining](https://lab.cs50.io/candib80/cs50labs/c/shining/)
+2. [Array Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/)
+3. [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/")
+4. [Old Friends](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/)
+5. [Lab 2](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/2/)
+
 
 ### Problems
 <ol>
