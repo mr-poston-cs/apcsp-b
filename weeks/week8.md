@@ -6,9 +6,9 @@
   |-------|---------              |---------  |
   |**Mon**|Fall Holiday - NO SCHOOL! |
   |**Tue**|Continue with Arrays | |
-  |**Wed**|Continue with Arrays; Start on Strings |Read the [Ref sheets](\apcsp\assets\pdfs\ch2_ref_sheets.pdf) for what we have covered so far |
-  |**Thu**|Command Line Arguments | |
-  |**Fri**| | |
+  |**Wed**|Continue with Arrays; Start on Strings<br>If time in class, do [Shining Lab](https://lab.cs50.io/candib80/cs50labs/c/shining/) |Read the [Ref sheets](\apcsp\assets\pdfs\ch2_ref_sheets.pdf) for what we have covered so far |
+  |**Thu**|[Array Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/) & [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/) Labs| |
+  |**Fri**|Command Line Arguments | |
 
 
 <meta http-equiv="refresh" content="300"/>
