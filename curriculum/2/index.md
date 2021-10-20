@@ -23,12 +23,12 @@ Lecture
 
 <details>  
   <summary>Shorts</summary>
-  <ul>
+  <ol>
     <li><a href="https://www.youtube.com/embed/b7-0sb-DV84">Functions</a></li>
+    <li><a href="https://www.youtube.com/embed/GiFbdVGjF9I">Variables and Scope</a></li>
     <li><a href="https://www.youtube.com/embed/mISkNAfWl8k">Arrays</a></li>
     <li><a href="https://www.youtube.com/embed/AI6Ccfno6Pk">Command Line Arguments</a></li>
-    <li><a href="https://www.youtube.com/embed/GiFbdVGjF9I">Variables and Scope</a></li>
-   </ul>
+       </ol>
 </details>
 
 <details>  
@@ -54,11 +54,24 @@ Lecture
   </ul>
 </details>
 
-<!-- <details>  
-  <summary>Problems</summary>
-  <ul>
-    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/2/readability/">Readability</a></li>
-    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/2/caesar/">Caesar</a>, for those less comfortable</li>
-    <li><a href="https://cs50.harvard.edu/ap/2021/curriculum/x/psets/2/substitution/">Substitution</a>, for those more comfortable</li>
-  </ul>
-</details> -->
+### Problems
+<ol>
+  <li>Submit <a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/readability/">Readability</a></li>
+  <li>Submit one of the following:
+    <ul>
+      <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/">Caesar</a>, for those less comfortable</li>
+      <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/substitution/">Substitution</a>, for those more comfortable</li>
+    </ul>
+</ol>
+
+#### Advice
+- Try out David's programs from class via [Chapter 2](https://cdn.cs50.net/2020/fall/lectures/2/src2.pdf)'s examples
+- If you see any errors when compiling your code with `make`, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if trying to compile hello, and
+
+```make readability```
+
+is yielding errors, try running
+
+```help50 make readability```
+
+instead!
