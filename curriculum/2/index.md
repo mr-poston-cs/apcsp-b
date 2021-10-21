@@ -3,7 +3,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tI_tIZFyKBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Lecture  
+### Lecture  
 <ul>
   <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/notes/2/">Notes</a></li>
   <details><summary>Slides</summary>
