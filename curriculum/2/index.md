@@ -48,7 +48,7 @@
 2. [Array Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/)
 3. [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/")
 4. [Old Friends](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/)
-5. [Lab 2](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/2/)
+5. [Lab 2](apcsp\curriculum\psets\scrabble)
 
 
 ### Problems
