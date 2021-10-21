@@ -66,10 +66,14 @@
 - Try out David's programs from class via [Chapter 2](https://cdn.cs50.net/2020/fall/lectures/2/src2.pdf)'s examples
 - If you see any errors when compiling your code with `make`, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if trying to compile `readability`, and
 
-```make readability```
+```
+make readability 
+```
 
 is yielding errors, try running
 
-```help50 make readability```
+```
+help50 make readability
+```
 
 instead!
