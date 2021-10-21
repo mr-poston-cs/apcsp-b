@@ -46,7 +46,7 @@
 ### Labs
 1. [Shining](https://lab.cs50.io/candib80/cs50labs/c/shining/)
 2. [Array Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/)
-3. [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/")
+3. [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/)
 4. [Old Friends](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/)
 5. [Lab 2](\apcsp\psets\scrabble)
 
