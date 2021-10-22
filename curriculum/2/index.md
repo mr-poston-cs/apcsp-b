@@ -48,7 +48,7 @@
 2. [Array Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/)
 3. [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/)
 3. [Decode](https://lab.cs50.io/candib80/cs50labs/c/decode/)
-3. [MadLib](https://lab.cs50.io/candib80/cs50labs/c/madlib/)
+<!-- 3. [MadLib](https://lab.cs50.io/candib80/cs50labs/c/madlib/) -->
 4. [Old Friends](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/)
 5. [Lab 2](\apcsp\psets\scrabble)
 
