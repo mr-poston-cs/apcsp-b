@@ -1,6 +1,6 @@
-## Week 8
+## Week 9
 
-### Week of 10/18/21<br>[Chapter 2](/apcsp/curriculum/2)
+### Week of 10/25/21<br>[Chapter 2](/apcsp/curriculum/2)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
