@@ -1,17 +1,17 @@
+## Week 8
+
+### Week of 10/18/21<br>[Chapter 2](/apcsp/curriculum/2)
+
+  |       |In Class               |Homework   |
+  |-------|---------              |---------  |
+  |**Mon**|Finish up Ch 2<br>Command-line Arguments & Exit Codes |Read over the last of the Ref sheets for this chapter |
+  |**Tue**|[Old Friends Lab](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/) |Finish lab for homework |
+  |**Wed**|[Lab 2 - Scrabble](https://candib80.github.io/apcsp/psets/scrabble) | |
+  |**Thu**| | |
+  |**Fri**| | |
+
+
 <meta http-equiv="refresh" content="300"/>
 
-## Week 9<br>Week of 11/2/20  
-
-### [Chapter 3](/ap/curriculum/3) 
-
-  |       |Class                  |Homework   |
-  |-------|---------              |---------  |
-  |**Mon**|Work on & answer questions to [Plurality](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/plurality/) |Plurality due tonight at 11:59pm (unless told differently in class Monday) |
-  |**Tue**|More examples of Recursion<br>Merge Sort | |
-  |**Wed**|Merge Sort<br>Test on Ch 3 Tuesday |Start on the `vote` function of [Runoff](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/3/runoff/) |
-  |**Thu**|Work on Runoff<br>Test on Ch 3 Tuesday |Finish `vote` function and start on `tabulate` |
-  |**Fri**|Work on Runoff<br>Review for test on Ch 3 Tuesday |Work on Runoff & study for test |
-
-<img src="https://i.chzbgr.com/full/9340633600/h4CFEC57B/" alt="CS is half remembering and half googling ;" height="350">
-
-*but no googling the answers to PSETs!*
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Array-Declaration-In-C.png" alt="arrays in C" height="350">
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201209135923/String-in-C.png" alt="Strings in C" height="350">

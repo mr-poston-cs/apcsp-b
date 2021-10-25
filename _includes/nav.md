@@ -5,6 +5,7 @@
 ---
 
 - [Week 8](/apcsp/weeks/week8)
+- [Week 9](/apcsp/weeks/week9)
 
 <details>
     <summary>Q1</summary>

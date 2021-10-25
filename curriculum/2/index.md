@@ -28,7 +28,7 @@
     <li><a href="https://www.youtube.com/embed/GiFbdVGjF9I">Variables and Scope</a></li>
     <li><a href="https://www.youtube.com/embed/mISkNAfWl8k">Arrays</a></li>
     <li><a href="https://www.youtube.com/embed/AI6Ccfno6Pk">Command Line Arguments</a></li>
-       </ol>
+  </ol>
 </details>
 
 <details>  

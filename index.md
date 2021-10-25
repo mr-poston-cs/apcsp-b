@@ -6,7 +6,7 @@ title: false
 
 <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300">  
 
-- <span style="font-size: 22px;">We are currently on [Week 8](\apcsp\weeks\week8) </span>
+- <span style="font-size: 22px;">We are currently on [Week 9](\apcsp\weeks\week9) </span>
 - [Chapter 2](/apcsp/curriculum/2)
 
 
