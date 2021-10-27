@@ -6,7 +6,7 @@
   |-------|---------              |---------  |
   |**Mon**|Finish up Ch 2<br>Command-line Arguments & Exit Codes |Read over the last of the Ref sheets for this chapter |
   |**Tue**|[Old Friends Lab](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/) |Finish lab for homework |
-  |**Wed**|[Lab 2 - Scrabble](https://candib80.github.io/apcsp/psets/scrabble) | |
+  |**Wed**|[Adder lab](https://lab.cs50.io/candib80/cs50labs/c/adder/), [Multiply lab](https://lab.cs50.io/candib80/cs50labs/c/mult/) [Lab 2 - Scrabble](https://candib80.github.io/apcsp/psets/scrabble) | |
   |**Thu**| | |
   |**Fri**| | |
 
