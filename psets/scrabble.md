@@ -21,7 +21,7 @@ For example, if we wanted to score the word `Code`, we would note that in genera
 
 ## Getting Started
 
-- Copy the “distribution code” (i.e., starter code) from [cdn.cs50.net/2020/fall/labs/2/scrabble.c](https://cdn.cs50.net/2020/fall/labs/2/scrabble.c) into a new file in your IDE called `scrabble.c`.
+- Create a new folder inside your IDE called `pset2`. Copy the “distribution code” (i.e., starter code) from [cdn.cs50.net/2020/fall/labs/2/scrabble.c](https://cdn.cs50.net/2020/fall/labs/2/scrabble.c) into a new file called `scrabble.c` inside the folder `pset2`.
   - You can also download the distribution code by running the command `wget https://cdn.cs50.net/2020/fall/labs/2/scrabble.c` in CS50 IDE.
 
 
