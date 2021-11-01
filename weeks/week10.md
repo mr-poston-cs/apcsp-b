@@ -7,6 +7,7 @@
   |**Mon**|Finish up [Scrabble](/apcsp/psets/scrabble)<br>Start on [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/readability/) when you finish Scrabble | |
   |**Tue**| | |
   |**Wed**| | |
+  |**Thu**| | |
   |**Fri**| | |
 
 
