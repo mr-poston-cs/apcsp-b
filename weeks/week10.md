@@ -5,10 +5,10 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Finish up [Scrabble](/apcsp/psets/scrabble)<br>Start on [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/readability/) when you finish Scrabble | |
-  |**Tue**| | |
-  |**Wed**| | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Tue**|Work on [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/readability/) | |
+  |**Wed**|Readability | |
+  |**Thu**|Readability | |
+  |**Fri**|Start on [Caesar](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/) | |
 
 
 <meta http-equiv="refresh" content="300"/>
