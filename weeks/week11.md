@@ -4,11 +4,11 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|[Caesar](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/) | |
-  |**Tue**|[Caesar](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/) | |
-  |**Wed**| | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Mon**|[Caesar](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/) |Work on Caesar at home some!! |
+  |**Tue**|[Caesar](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/) |Work on Caesar at home some!! |
+  |**Wed**|Start review/answer questions for test Friday |Finish study guide for review tomorrow |
+  |**Thu**|Review for Ch 2 Test | |
+  |**Fri**|Test on Ch 2 | |
 
 
 <meta http-equiv="refresh" content="300"/>
