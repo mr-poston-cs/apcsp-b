@@ -7,7 +7,7 @@
   |**Mon**|[Caesar](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/) |Work on Caesar at home some!! |
   |**Tue**|[Caesar](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/) |Work on Caesar at home some!! |
   |**Wed**|Finish up Caesar | |
-  |**Thu**|Start review/answer questions for test Friday |Finish study guide for review tomorrow |
+  |**Thu**|Start review & answer questions for test Monday |Finish study guide for review tomorrow |
   |**Fri**|Review for Ch 2 Test<br>Test on Ch 2 - Monday |Study for test |
 
 
