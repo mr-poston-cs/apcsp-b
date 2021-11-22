@@ -6,9 +6,8 @@ title: false
 
 <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300">  
 
-- <span style="font-size: 22px;">We are currently on [Week 12](\apcsp\weeks\week12) </span>
-- [Chapter 2](/apcsp/curriculum/2)
-- Starting on [Chapter 3](/apcsp/curriculum/3)
+- <span style="font-size: 22px;">We are currently on [Week 13](\apcsp\weeks\week13) </span>
+- [Chapter 3](/apcsp/curriculum/3)
 
 
 <!-- # Hello, world!

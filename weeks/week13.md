@@ -1,17 +1,19 @@
-<meta http-equiv="refresh" content="300"/>
+## Week 13
 
-## Week 13<br>Week of 11/30/20
+### Week of 11/22/21<br>[Chapter 3](/apcsp/curriculum/3)
 
-### [Chapter 4](/ap/curriculum/4)  
-[Filter Less](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/4/filter/less/)  
-[Filter More](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/4/filter/more/)
+<img src="https://www.inspirahealthnetwork.org/sites/default/files/2021-03/Screenshot%202021-03-18%20114949.png" alt="happy thanksgiving" width=75%> <br>
 
-  |       |Class                  |Homework   |
+  |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Work on Filter PSET |Get at least 1 filter done for the PSET<br>May need to look over [Typecasting](/ap/assets/pdfs/typecasting.pdf) |
-  |**Tue**|Continue with Filter |Look over notes from class today if you need some help;<br>especially for Reflect, Blur, and rounding errors.<br>Notes will be in Teams in a tab in the General Channel |
-  |**Wed**|Filter/Review for test | |
-  |**Thu**|Review for test |Filter tentatively due |
-  |**Fri**|Test on Chapter 4 | |
+  |**Mon**|Recursion & Merge Sort | |
+  |**Tue**| | |
+  |**Wed**| | |
+  |**Thu**| | |
+  |**Fri**| | |
+
+
+<meta http-equiv="refresh" content="300"/>
   
 <img src="https://www.digitaltechnologylabs.com/wp-content/uploads/2019/06/11.png" alt="afraid to compile" height="250">
+
