@@ -5,10 +5,10 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Recursion & Merge Sort | |
-  |**Tue**| | |
-  |**Wed**| | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Tue**|MRs. White will be watching you :) |Have a wonderful break!! |
+  |**Wed**|Thanksgiving Break | |
+  |**Thu**|Happy Thanksgiving | |
+  |**Fri**|Thanksgiving Break | |
 
 
 <meta http-equiv="refresh" content="300"/>
