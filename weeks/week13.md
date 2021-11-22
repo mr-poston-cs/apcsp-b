@@ -2,7 +2,8 @@
 
 ### Week of 11/22/21<br>[Chapter 3](/apcsp/curriculum/3)
 
-<img src="https://www.inspirahealthnetwork.org/sites/default/files/2021-03/Screenshot%202021-03-18%20114949.png" alt="happy thanksgiving" width=75%> <br>
+<img src="https://www.inspirahealthnetwork.org/sites/default/files/2021-03/Screenshot%202021-03-18%20114949.png" alt="happy thanksgiving" width=75%>
+
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
