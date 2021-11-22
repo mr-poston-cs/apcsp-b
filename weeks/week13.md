@@ -5,7 +5,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Recursion & Merge Sort | |
-  |**Tue**|MRs. White will be watching you :) |Have a wonderful break!! |
+  |**Tue**|Mrs. White will be watching you :)<br>Start working on [Lab 3](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/3/) |Have a wonderful break!! |
   |**Wed**|Thanksgiving Break | |
   |**Thu**|Happy Thanksgiving | |
   |**Fri**|Thanksgiving Break | |
