@@ -5,7 +5,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Recursion & Merge Sort | |
-  |**Tue**|Mrs. White will be watching you :)<br>Start working on [Lab 3](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/3/) |Have a wonderful break!! |
+  |**Tue**|Ms. White will be watching you :)<br>Work on [Lab 3](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/3/)<br>Go to the Lecture notes online or the Reference sheets (namely the Computational Complexity one) to look at the run times of each sorting algorithm |Have a wonderful break!! |
   |**Wed**|Thanksgiving Break | |
   |**Thu**|Happy Thanksgiving | |
   |**Fri**|Thanksgiving Break | |
