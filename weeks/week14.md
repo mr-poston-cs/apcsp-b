@@ -18,10 +18,10 @@
 
 <!-- ### Content for Exam:
 
-* [Understanding Technology](/ap/curriculum/understanding_technology) - Summer and very start of year
-* [Chapter 0](/ap/curriculum/0)
-* [Chapter 1](/ap/curriculum/1)
-* [Chapter 2](/ap/curriculum/2) 
-* [Chapter 3](/ap/curriculum/3)
-* [Chapter 4](/ap/curriculum/4) 
+* [Understanding Technology](/apcsp/curriculum/understanding_technology)
+* [Chapter 0](/apcsp/curriculum/0)
+* [Chapter 1](/apcsp/curriculum/1)
+* [Chapter 2](/apcsp/curriculum/2) 
+* [Chapter 3](/apcsp/curriculum/3)
+* [Chapter 4](/apcsp/curriculum/4) 
    -->
