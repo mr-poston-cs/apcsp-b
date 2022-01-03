@@ -4,7 +4,7 @@ title: false
 
 <meta http-equiv="refresh" content="600"/>
 
-<img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300">  
+<img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcement" height="300">  
 
 - <span style="font-size: 22px;">We are currently on [Week 16](\apcsp\weeks\week16) </span>
 - [Chapter 4](/apcsp/curriculum/4)
