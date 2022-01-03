@@ -4,8 +4,8 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Start on [Chapter 4](/apcsp/curriculum/4) | |
-  |**Tue**| | |
+  |**Mon**|College Freshmen come back to campus | |
+  |**Tue**|Start on [Chapter 4](/apcsp/curriculum/4) | |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
