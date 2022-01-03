@@ -4,14 +4,8 @@
 
 ---
 
-- [Week 8](/apcsp/weeks/week8)
-- [Week 9](/apcsp/weeks/week9)
-- [Week 10](/apcsp/weeks/week10)
-- [Week 11](/apcsp/weeks/week11)
-- [Week 12](/apcsp/weeks/week12)
-- [Week 13](/apcsp/weeks/week13)
-- [Week 14](/apcsp/weeks/week14)
-- [Week 15](/apcsp/weeks/week15)
+- [Week 16](/apcsp/weeks/week16)
+
 
 <details>
     <summary>Q1</summary>
@@ -27,10 +21,9 @@
     </ul>
 </details>
 
-<!-- <details>
+<details>
     <summary>Q2</summary>
     <ul>
-        <li><a href="https://candib80.github.io/apcsp/weeks/week7/">Week 7</a></li>
         <li><a href="https://candib80.github.io/apcsp/weeks/week8/">Week 8</a></li>
         <li><a href="https://candib80.github.io/apcsp/weeks/week9/">Week 9</a></li>
         <li><a href="https://candib80.github.io/apcsp/weeks/week10/">Week 10</a></li>
@@ -42,7 +35,7 @@
     </ul>
 </details>
 
-<details>
+<!-- <details>
     <summary>Q3</summary>
     <ul>
         <li><a href="https://candib80.github.io/apcsp/weeks/week16/">Week 16</a></li>
