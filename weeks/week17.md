@@ -12,6 +12,6 @@
   |**Thu**|Filter | |
   |**Fri**|Filter | |
 
-<img src="https://slideplayer.com/16079147/88/images/slide_1.jpg" alt="Pointer Fun with Binky" height="400">
+<img src="https://pbs.twimg.com/media/EatR2YNU4AIzJ8N.jpg" alt="filter pset blur" height="400">
 
 <meta http-equiv="refresh" content="300"/>
