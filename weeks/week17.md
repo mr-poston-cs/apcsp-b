@@ -10,7 +10,7 @@
   |**Tue**|Finish Lab 4; Start Review of PSET - we are only doing Filter, NOT Recover |Make sure to read the problem spec for Filter |
   |**Wed**|Filter | |
   |**Thu**|Filter | |
-  |**Fri**|Filter | |
+  |**Fri**|Filter |Filter will be due Tuesday night to allow those who were out some this week to ask questions in person |
 
 <img src="https://pbs.twimg.com/media/EatR2YNU4AIzJ8N.jpg" alt="filter pset blur" height="400">
 
