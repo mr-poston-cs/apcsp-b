@@ -1,25 +1,16 @@
+## Week 18
+
+### Week of 1/17/22<br>[Chapter 4](/apcsp/curriculum/4)  
+[Filter, for those less comfortable](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/4/filter/less/)
+
+  |       |In Class               |Homework   |
+  |-------|---------              |---------  |
+  |**Mon**|Reading Day | |
+  |**Tue**|Finish up Filter |Filter due tonight |
+  |**Wed**|Review for Test on Ch 4 | |
+  |**Thu**|Test on Ch 4 | |
+  |**Fri**|Start on Ch 5 | |
+
+<img src="https://pbs.twimg.com/media/EatR2YNU4AIzJ8N.jpg" alt="filter pset blur" height="400">
+
 <meta http-equiv="refresh" content="300"/>
-
-## Week 18<br>Week of 1/18/21
-
-### [Chapter 6](/ap/curriculum/6)
-
-|         | Class | Homework |
-| ------- | ----- | -------- |
-| **Mon** | Reading Day |          |
-| **Tue** | Continue with PSET Sentimental<br>If finished with Sentimental, Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) | Work on PSET |
-| **Wed** | Sentimental due tonight at 11:59<br>Work/Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) | Sentimental due tonight at 11:59 |
-| **Thu** | Work/Start on [Readability](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/readability/) |  |
-| **Fri** | If done with Readability, start on [DNA](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/dna/)      |          |
-
-* Sentimental PSET includes:  
-    - [Hello](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/hello/)
-    - [Mario Less](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/less/) or [Mario More](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/mario/more/)
-    - [Cash](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/cash/) or [Credit](https://cs50.harvard.edu/ap/2021/curriculum/x/psets/6/credit/)
-
-#### Lunch:
-
-- Dismiss at 1:10
-- Sr & Jr eat in classroom
-
-<img src="" alt="" height="400">
