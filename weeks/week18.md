@@ -6,10 +6,10 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Reading Day | |
-  |**Tue**|Finish up Filter |Filter due tonight |
-  |**Wed**|Review for Test on Ch 4 | |
-  |**Thu**|Test on Ch 4 | |
-  |**Fri**|Start on Ch 5 | |
+  |**Tue**|Finish up Filter | |
+  |**Wed**|Finish up Filter; Review |Filter due tonight |
+  |**Thu**|Review for Test on Ch 4 | |
+  |**Fri**|Test on Ch 4  | |
 
 <img src="https://pbs.twimg.com/media/EatR2YNU4AIzJ8N.jpg" alt="filter pset blur" height="400">
 
