@@ -16,13 +16,10 @@
   </details>  
 </ul>
 
-<details><summary>Shorts</summary>
-  <ul>
-    <li><a href="https://www.youtube.com/watch?v=mgBpcQRDtl0">Python</a></li>
-   </ul>
-</details>
+#### Shorts
+  - [Python](https://www.youtube.com/watch?v=mgBpcQRDtl0)
 
-<summary>References</summary>
+#### References
   <ul>
     <li><a href="\apcsp\assets\pdfs\python.pdf">Python Ref Sheet</a></li>
     <li><a href="\apcsp\assets\pdfs\python-notes.pdf">Mrs. Beaman's Python Notes</a></li>
