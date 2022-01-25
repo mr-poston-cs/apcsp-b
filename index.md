@@ -6,8 +6,9 @@ title: false
 
 <img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcement" height="300">  
 
-- <span style="font-size: 22px;">We are currently on [Week 17](\apcsp\weeks\week17) </span>
-- [Chapter 4](/apcsp/curriculum/4)
+- <span style="font-size: 22px;">We are currently on [Week 19](\apcsp\weeks\week19) </span>
+- Test on [Chapter 4](/apcsp/curriculum/4)
+- Start on [Chapter 6](/apcsp/curriculum/6)
 
 
 <!-- # Hello, world!
