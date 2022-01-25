@@ -1,6 +1,6 @@
 ## Week 19
 
-### Week of 1/24/22<br>[Chapter 4](/apcsp/curriculum/4)<br>[Chapter 6](/apcsp/curriculum/64)  
+### Week of 1/24/22<br>[Chapter 4](/apcsp/curriculum/4)<br>[Chapter 6](/apcsp/curriculum/6)  
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
