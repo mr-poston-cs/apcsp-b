@@ -34,7 +34,7 @@
 
 ### Problems
 <ol>
-  <li>Submit <a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/hello/">Hello</a> in Python
+  <li>Submit <a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/hello/">Hello</a> in Python</li>
   <li>Submit <a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/mario/less/">Mario</a></li>
   <li>Submit <a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/cash/">Cash</a></li>
   <li>Submit <a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/readability/">Readability</a></li>
