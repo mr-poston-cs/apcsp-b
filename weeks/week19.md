@@ -7,9 +7,9 @@
   |**Mon**|Snow Day! | |
   |**Tue**|Test on Ch 4| |
   |**Wed**|Start on Ch 6 | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Thu**|Continue with Ch 6 | |
+  |**Fri**|Work on [Hello](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/hello/) & [Mario](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/mario/less/) PSETs | |
 
-<img src="" alt="" height="400">
+<img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2019/12/Applications-of-python.jpg" alt="python applications" height="400">
 
 <meta http-equiv="refresh" content="300"/>
