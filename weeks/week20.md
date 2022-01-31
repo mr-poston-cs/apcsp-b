@@ -4,8 +4,8 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Continue with Python | |
-  |**Tue**| | |
+  |**Mon**|Continue with Python |Make sure to get your `hello.py` and `mario.py` turned in!! |
+  |**Tue**|Continue with `argv` and `exit` | |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
