@@ -5,8 +5,8 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Continue with Python |Make sure to get your `hello.py` and `mario.py` turned in!! |
-  |**Tue**|Continue with `argv` and `exit` | |
-  |**Wed**| | |
+  |**Tue**|Mrs. Beaman will not be in class. Work on [Cash](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/cash/)<br>If you have already turned in Cash, you can read over [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/readability/) or help others with questions on Cash | |
+  |**Wed**|Continue with `argv` and `exit` | |
   |**Thu**| | |
   |**Fri**| | |
 
