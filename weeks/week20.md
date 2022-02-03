@@ -12,4 +12,6 @@
 
 <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2019/12/Applications-of-python.jpg" alt="python applications" height="400">
 
+<img src="\apcsp\assets\img\hogwarts.png" alt="hogwarts form qr" height="400">
+
 <meta http-equiv="refresh" content="300"/>
