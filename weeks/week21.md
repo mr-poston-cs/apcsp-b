@@ -4,7 +4,7 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Finish up [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/readability/) |Finish up Readability and try to get it turned in |
+  |**Mon**|Finish up [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/readability/) |Finish up Readability and try to get it turned in<br>If you have not already turned in Cash, please get that in tonight! |
   |**Tue**|Start working on [Lab 6](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/6/) |Continue working on Lab 6 |
   |**Wed**| | |
   |**Thu**|Review for test | |
