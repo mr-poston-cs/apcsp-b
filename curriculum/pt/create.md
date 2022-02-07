@@ -53,11 +53,12 @@ Your program must demonstrate:
   - Online/Web: 
     - [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins; Use at your own risk... I have not been successful with downloading the file after recording.
     - [Screencastify](https://www.screencastify.com/) - Chrome extension with 5 minute limit for free use  
-  - Windows/Mac: [Jing from Techsmith](https://www.techsmith.com/jing.html) - requires download
+  - Windows/Mac:
+    - [Jing from Techsmith](https://www.techsmith.com/jing.html) - requires download
+    - [Loom](https://www.loom.com/signup) - requires free account and download/browser extension
   - On Windows 10, you can use the built-in screen recording: [Quora Article](https://www.quora.com/How-can-I-Record-Screen-in-Windows-10)
-    - This can record sound as well, so you may want to mute the mic if you don't want to have sound
   - [On a Mac](https://support.apple.com/en-us/HT208721)
-- Get someone to help you (if you need it) record you running your program with a phone/camera
+* **With all of these, make sure to mute your mic, as you are not supposed to have your voice in the video!**
 
 #### What to do after your done with your program, written responses, & video
 - [Here is a video of exactly what to do with your 3 files](https://youtu.be/p1XTh9lTIXU)
