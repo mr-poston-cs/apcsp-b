@@ -6,8 +6,9 @@ title: false
 
 <img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcement" height="300">  
 
-- <span style="font-size: 22px;">We are currently on [Week 20](\apcsp\weeks\week20) </span>
+- <span style="font-size: 22px;">We are currently on [Week 21](\apcsp\weeks\week21) </span>
 - [Chapter 6](/apcsp/curriculum/6)
+- Looking forward: we will start on your Create Performance Task for the AP Exam before continuing on with Web dev so that the programming languages are fresh in your mind
 
 
 <!-- # Hello, world!
