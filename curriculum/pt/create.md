@@ -7,7 +7,7 @@ Complete and submit the following:
 - Individual written responses about your program and development process
 - Program
 
-[Survival Guide](apcsp/assets/pdfs/digital_portfolio/create-survival-2021.pdf)<br>
+[Survival Guide](/apcsp/assets/pdfs/digital_portfolio/create-survival-2021.pdf)<br>
 [Scoring Guidelines](https://apcentral.collegeboard.org/pdf/ap21-sg-computer-science-principles.pdf)<br>
 [AP CSP College Board Create Task Instructions](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf)
 
@@ -37,7 +37,8 @@ Your program must demonstrate:
   - Include comments or acknowledgements for program code that has been written by someone else.
 
 ## Resources  
-#### [Create Written Responses Template](https://parrottacademy-my.sharepoint.com/:w:/g/personal/cbeaman_parrottacademy_org/EQsZ3rT8frNOhcot5T6lAyQB01AG3r35bbVN--OqVGy58g?e=EXXKOK)
+#### [Create Written Responses Template](https://parrottacademy-my.sharepoint.com/:w:/g/personal/cbeaman_parrottacademy_org/EQsZ3rT8frNOhcot5T6lAyQB01AG3r35bbVN--OqVGy58g?e=EXXKOK) 
+<!-- fix this link above -->
 - Download the document to your computer so you can fill it in.
 - Make sure to change the name of the file to no longer include 'template' and ensure your name is nowhere on the document.
 
