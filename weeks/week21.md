@@ -1,6 +1,6 @@
-## Week 20
+## Week 21
 
-### Week of 1/31/22<br>[Chapter 6](/apcsp/curriculum/6)  
+### Week of 2/7/22<br>[Chapter 6](/apcsp/curriculum/6)  
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
