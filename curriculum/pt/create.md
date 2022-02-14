@@ -84,8 +84,8 @@ To use this follow this example, provided you have `cd`'d into the correct folde
   - You can then right click on the PDF that was generated, and click download to save it to your computer.
   - To read all the documentation on `render50`, you can [read the docs here](https://cs50.readthedocs.io/render50/)
 
-#### Video of Program Running:
-- Screen Recording
+#### Video of Program Running:  
+Screen Recording  
   - [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins; Use at your own risk... I have not been successful with downloading the file after recording.
   - [Screencastify](https://www.screencastify.com/) - Chrome extension with 5 minute limit for free use  
   - [Loom](https://www.loom.com/signup) - requires free account and download/browser extension
