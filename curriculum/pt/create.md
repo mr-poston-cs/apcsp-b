@@ -7,10 +7,6 @@ Complete and submit the following via [Digital Portfolio](https://digitalportfol
 - A video that displays the running of your program and demonstrates functionality you developed (created independently)
 - Written responses to all the prompts in the performance task (created independently)
 
-[Survival Guide](https://candib80.github.io/apcsp/assets/pdfs/digital_portfolio/create-survival-2021.pdf)<br>
-[Scoring Guidelines](https://apcentral.collegeboard.org/pdf/ap21-sg-computer-science-principles.pdf)<br>
-[AP CSP College Board Student Create Task Instructions](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf)
-
 ## Program Requirements
 
 In your program, you must include student-developed program code that contains the following:
@@ -58,7 +54,7 @@ Before submitting your work as final, please:
 
 ## Written Responses
 
-Submit your responses to prompts 3a – 3d, which are described in the Student Handout linked above in the General Requirements section. Your response to all prompts combined must not exceed 750 words (program code is not included in the word count). Collaboration is not allowed on the written responses.
+Submit your responses to prompts 3a – 3d, which are described in the Student Handout linked below, under Resources. Your response to all prompts combined must not exceed 750 words (program code is not included in the word count). Collaboration is not allowed on the written responses.
 - Provide written responses to the prompts in the fields indicated.  You can format text using the options in the text box. 
 - The total word count for the written response is 750 words. To allow some flexibility, your typed responses to all prompts must not exceed 850 words. A word count is displayed for each text entry box, and an overall word count is displayed at the top and bottom of the page.
 - Prompts asking for code segments must be inserted as images. The easiest way to do this is to take a screen capture (screenshot) of the appropriate code and save it. Then either drag and drop the image, or click on the photo icon and select the file. You can also copy and paste the image of the program code.
@@ -71,12 +67,12 @@ Before submitting your work as final, please:
 - Refrain from publicly posting any portion of your performance task. Work that is shared online is subject to being plagiarized by another student. When this happens both students will be flagged for plagiarism.
 
 ## Resources  
-#### [Create Written Responses Template](https://parrottacademy-my.sharepoint.com/:w:/g/personal/cbeaman_parrottacademy_org/EQsZ3rT8frNOhcot5T6lAyQB01AG3r35bbVN--OqVGy58g?e=EXXKOK)  
-<!-- fix this link above -->
-- Download the document to your computer so you can fill it in.
-- Make sure to change the name of the file to no longer include 'template' and ensure your name is nowhere on the document.
 
-#### PDF of Code:
+[Survival Guide](https://candib80.github.io/apcsp/assets/pdfs/digital_portfolio/create-survival-2021.pdf)<br>
+[Scoring Guidelines](https://apcentral.collegeboard.org/pdf/ap21-sg-computer-science-principles.pdf)<br>
+[College Board Create Student Handouts](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf)
+
+### PDF of Code:
 I suggest you use the IDE's built-in code rendering, `render50`  
 To use this follow this example, provided you have `cd`'d into the correct folder:  
   `render50 -o output.pdf input.c`
@@ -84,13 +80,11 @@ To use this follow this example, provided you have `cd`'d into the correct folde
   - You can then right click on the PDF that was generated, and click download to save it to your computer.
   - To read all the documentation on `render50`, you can [read the docs here](https://cs50.readthedocs.io/render50/)
 
-#### Video of Program Running:  
-Screen Recording  
+### Screen Recording of Program Running:  
+
+**With all of these, make sure to mute your mic, as you are not supposed to have your voice in the video!**
   - [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins; Use at your own risk... I have not been successful with downloading the file after recording.
   - [Screencastify](https://www.screencastify.com/) - Chrome extension with 5 minute limit for free use  
   - [Loom](https://www.loom.com/signup) - requires free account and download/browser extension
   - On Windows 10/11, you can use the built-in screen recording: [Quora Article](https://www.quora.com/How-can-I-Record-Screen-in-Windows-10)
   - [On a Mac](https://support.apple.com/en-us/HT208721)
-
-**With all of these, make sure to mute your mic, as you are not supposed to have your voice in the video!**
-
