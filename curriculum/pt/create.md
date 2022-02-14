@@ -85,7 +85,6 @@ I suggest you use the IDE's built-in code rendering, `render50`
   - To read all the documentation on `render50`, you can [read the docs here](https://cs50.readthedocs.io/render50/)
 
 #### Video of Program Running:
-- [My Video for you guys](https://youtu.be/m0B9E9Pk3uk)
 - Screencasting
   - Online/Web: 
     - [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins; Use at your own risk... I have not been successful with downloading the file after recording.
