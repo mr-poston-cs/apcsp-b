@@ -1,40 +1,74 @@
 # Performance Task: Create - Applications from Ideas
 
-## Overview
+## General Requirements
 
-Complete and submit the following:
-- A video of your program Running
-- Individual written responses about your program and development process
-- Program
+Complete and submit the following via [Digital Portfolio](https://digitalportfolio.collegeboard.org/):
+- Final program code (created independently or collaboratively)
+- A video that displays the running of your program and demonstrates functionality you developed (created independently)
+- Written responses to all the prompts in the performance task (created independently)
 
-[Survival Guide](/apcsp/assets/pdfs/digital_portfolio/create-survival-2021.pdf)<br>
+[Survival Guide](https://candib80.github.io/apcsp/assets/pdfs/digital_portfolio/create-survival-2021.pdf)<br>
 [Scoring Guidelines](https://apcentral.collegeboard.org/pdf/ap21-sg-computer-science-principles.pdf)<br>
 [AP CSP College Board Create Task Instructions](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf)
 
-## General Requirements
-- independently develop an algorithm that integrates 2 or more algorithms and that is fundamental for your program to achieve its indented purpose
-- develop an abstraction that manages the complexity of your program
-- create a video that displays the running of your program and demonstrates its functionality
-- write responses to all the prompts in the performance tasks
-- submit your ENTIRE program code
-
 ## Program Requirements
 
-Your program must demonstrate a variety of capabilities and implement several different language features that produce a result that cannot be easily accomplished without computing tools. Your program should draw upon mathematical and logical concepts, such as use of numbers, variables, mathematical expressions with arithmetic operators, logical and Boolean operators and expressions, decision statements, iteration, and/or collections.
+In your program, you must include student-developed program code that contains the following:
+- Instructions for input from one of the following:
+  - the user (including user actions that trigger events)
+  - a device
+  - an online data stream
+  - a file
+- Use of at least one list (or other collection type) to represent a collection of data that is stored and used to manage program complexity and help fulfill the program’s purpose
+- At least one procedure that contributes to the program’s intended purpose, where you have defined:
+  - the procedure’s name
+  - the return type (if necessary)
+  - one or more parameters
+- An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure
+- Calls to your student-developed procedure 
+- Instructions for output (tactile, audible, visual, or textual) based on input and program functionality
 
-Your program must demonstrate:
-- use of several effectively integrated mathematical and logical concepts, from the language you are using
-- implementation of an algorithm that integrates 2 or more algorithms and integrates mathematical and/or logical concepts
-- development and use of abstractions to manage the complexity of your program (ex: procedures, abstractions provided by the programming language, APIs)
+**Submission Reminders**  
+Before you submit your work as final, please:
+- Remove your name.
+- Ensure that you have provided acknowledgement for any program code written by someone else.
+- Refrain from publicly posting any portion of your performance task. Work that is shared online is subject to being plagiarized by another student. When this happens both students will be flagged for plagiarism.
 
-## Submission Requirements
+## Video Requirements
 
-1. Video - One video in .mp4, .wmv, .avi, or .mov format that demonstrates the running of at least one significant feature of your program. **Your video must not exceed 1 minute in length and no more than 30MB in size.**
-2. Written Responses - One PDF file which you respond directly to each prompt. **Clearly label your responses 2a-2d, in order. Your responses to all prompts combined must not be more than 750 words, not including the Program Code.**
-3. Program Code - Capture and past your entire program code in this section.
-  - Mark with an **oval** the segment of program code that implements the algorithm you created for your program that integrates other algorithms and integrates mathematical and/or logical concepts.
-  - Mark with a **rectangle** the segment of program code that represents and abstraction you developed.
-  - Include comments or acknowledgements for program code that has been written by someone else.
+Submit one video file that demonstrates the running of your program as described below. Collaboration is not allowed during the development of your video.
+
+Your video must demonstrate your program running, including:
+- Input to your program
+- At least one aspect of the functionality of your program
+- Output produced by your program
+Your video may NOT contain:
+- Any distinguishing information about yourself
+- Voice narration (though text captions are encouraged)
+Your video must be:
+- Either .webm, .mp4, .wmv, .avi, or .mov format
+- No more than 1 minute in length
+- No more than 30MB in file size
+
+**Submission Reminders**  
+Before submitting your work as final, please:
+- Remove your name.
+- Ensure that you have not collaborated on the development of this video.
+- Refrain from publicly posting any portion of your performance task. Work that is shared online is subject to being plagiarized by another student. When this happens both students will be flagged for plagiarism.
+
+## Written Responses
+
+Submit your responses to prompts 3a – 3d, which are described below. Your response to all prompts combined must not exceed 750 words (program code is not included in the word count). Collaboration is not allowed on the written responses.
+- Provide written responses to the prompts in the fields indicated.  You can format text using the options in the text box. 
+- The total word count for the written response is 750 words. To allow some flexibility, your typed responses to all prompts must not exceed 850 words. A word count is displayed for each text entry box, and an overall word count is displayed at the top and bottom of the page.
+- Prompts asking for code segments must be inserted as images. The easiest way to do this is to take a screen capture (screenshot) of the appropriate code and save it. Then either drag and drop the image, or click on the photo icon and select the file. You can also copy and paste the image of the program code.
+- Save your work by clicking on one of the Save buttons that are at the top and bottom of the page. Your work will be auto-saved every two minutes.
+
+**Submission Reminder**  
+Before submitting your work as final, please:
+- Do not include your name.
+- Ensure that you have not collaborated on the written responses.
+- Refrain from publicly posting any portion of your performance task. Work that is shared online is subject to being plagiarized by another student. When this happens both students will be flagged for plagiarism.
 
 ## Resources  
 #### [Create Written Responses Template](https://parrottacademy-my.sharepoint.com/:w:/g/personal/cbeaman_parrottacademy_org/EQsZ3rT8frNOhcot5T6lAyQB01AG3r35bbVN--OqVGy58g?e=EXXKOK) 
