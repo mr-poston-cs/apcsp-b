@@ -77,22 +77,20 @@ Before submitting your work as final, please:
 - Make sure to change the name of the file to no longer include 'template' and ensure your name is nowhere on the document.
 
 #### PDF of Code:
-I suggest you use the IDE's built-in code rendering, `render50`
-- To use this follow this example, provided you have `cd`'d into the correct folder:  
+I suggest you use the IDE's built-in code rendering, `render50`  
+To use this follow this example, provided you have `cd`'d into the correct folder:  
   `render50 -o output.pdf input.c`
   - Where `output.pdf` is the name of the file you wish to output, and `input.c` is the name of the program's source file, either a C or Python file.
   - You can then right click on the PDF that was generated, and click download to save it to your computer.
   - To read all the documentation on `render50`, you can [read the docs here](https://cs50.readthedocs.io/render50/)
 
 #### Video of Program Running:
-- Screencasting
-  - Online/Web: 
-    - [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins; Use at your own risk... I have not been successful with downloading the file after recording.
-    - [Screencastify](https://www.screencastify.com/) - Chrome extension with 5 minute limit for free use  
-  - Windows/Mac:
-    - [Jing from Techsmith](https://www.techsmith.com/jing.html) - requires download
-    - [Loom](https://www.loom.com/signup) - requires free account and download/browser extension
-  - On Windows 10, you can use the built-in screen recording: [Quora Article](https://www.quora.com/How-can-I-Record-Screen-in-Windows-10)
+- Screen Recording
+  - [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins; Use at your own risk... I have not been successful with downloading the file after recording.
+  - [Screencastify](https://www.screencastify.com/) - Chrome extension with 5 minute limit for free use  
+  - [Loom](https://www.loom.com/signup) - requires free account and download/browser extension
+  - On Windows 10/11, you can use the built-in screen recording: [Quora Article](https://www.quora.com/How-can-I-Record-Screen-in-Windows-10)
   - [On a Mac](https://support.apple.com/en-us/HT208721)
-* **With all of these, make sure to mute your mic, as you are not supposed to have your voice in the video!**
+
+**With all of these, make sure to mute your mic, as you are not supposed to have your voice in the video!**
 
