@@ -10,6 +10,6 @@
   |**Thu**| | |
   |**Fri**| | |
 
-<img src=https://www.mindmeister.com/blog/wp-content/uploads/2019/09/Mind-Map-Example-796x417.png" alt="mind mapping" height="400">
+<img src="https://www.mindmeister.com/blog/wp-content/uploads/2019/09/Mind-Map-Example-796x417.png" alt="mind mapping" height="400">
 
 <meta http-equiv="refresh" content="300"/>
