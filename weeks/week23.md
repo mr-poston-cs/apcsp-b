@@ -10,6 +10,6 @@
   |**Thu**|Winter Break | |
   |**Fri**|Winter Break | |
 
-<img src="https://www.mindmeister.com/blog/wp-content/uploads/2019/09/Mind-Map-Example-796x417.png" alt="mind mapping" height="400">
+<img src="https://www.hvpto.com/wp-content/uploads/2018/10/winter.jpeg" alt="winter break" height="400">
 
 <meta http-equiv="refresh" content="300"/>
