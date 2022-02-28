@@ -5,7 +5,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Create day 5 | |
-  |**Tue**|Create day 6 | |
+  |**Tue**|Create day 6<br>Go over making video of code running | |
   |**Wed**|Create day 7 | |
   |**Thu**|Create day 8 | |
   |**Fri**|Create day 9 | |
