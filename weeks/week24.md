@@ -10,6 +10,6 @@
   |**Thu**|Create day 8 | |
   |**Fri**|Create day 9 | |
 
-<img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" alt="computer programming" height="400">
+<img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" alt="computer programming" height="300">
 
 <meta http-equiv="refresh" content="300"/>
