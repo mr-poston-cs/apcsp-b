@@ -6,7 +6,7 @@ title: false
 
 <img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcement" height="300">  
 
-- <span style="font-size: 22px;">We are currently on [Week 23](\apcsp\weeks\week23) </span>
+- <span style="font-size: 22px;">We are currently on [Week 24](\apcsp\weeks\week24) </span>
 - [Create Task](\apcsp\curriculum\pt\create)
 
 
