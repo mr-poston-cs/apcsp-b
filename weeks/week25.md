@@ -1,21 +1,15 @@
+## Week 22
+
+### Week of 3/7/22<br>[Create](\apcsp\curriculum\pt\create)<br>[Ch 8](\apcsp\curriculum\pt\8) - HTML, CSS, JavaScript
+
+  |       |In Class               |Homework   |
+  |-------|---------              |---------  |
+  |**Mon**|Create day 10 | |
+  |**Tue**|Create day 11 | |
+  |**Wed**|Create day 12 | |
+  |**Thu**|Start on [Ch 8](\apcsp\curriculum\pt\8) HTML, CSS, JavaScript  | |
+  |**Fri**|End of Grading Period | |
+
+<img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" alt="computer programming" height="300">
+
 <meta http-equiv="refresh" content="300"/>
-
-# Week 25
-
-### Week of 3/8/2021<br>[Finance](https://cs50.harvard.edu/ap/2021/curriculum/x/tracks/web/finance/) in [Web Track](/ap/curriculum/web)
-
-|         | Class | Homework |
-| ------- | ----- | -------- |
-| **Mon** | Work on Finance |  |
-| **Tue** | Work on Finance |  |
-| **Wed** | Work on Finance |  |
-| **Thu** | Work on Finance |  |
-| **Fri** |  |  |
-
-Lunch time: 1:15  
-Sr - Classroom  
-Jr - Cafeteria  
-
-<div style="text-align:center">
-<img src="https://s3-ap-south-1.amazonaws.com/trt-blog-ghost/2020/05/TRT-Blog-Banner.png" alt="web development" width="50%">
-</div>

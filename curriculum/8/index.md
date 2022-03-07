@@ -1,22 +1,46 @@
-# Chapter 8
+# Chapter 8 - HTML, CSS, JavaScript
 
-* [About Quiz](https://docs.cs50.net/2018/fall/quiz/about.html)
-* [Notes](notes)
-* Problem
-  * [Finance](https://docs.cs50.net/2019/ap/problems/finance/finance.html)
-* Shorts
-  * [Ajax](https://www.youtube.com/watch?v=dQcBs4S-wEQ)
-  * [Flask](https://www.youtube.com/watch?v=X0dwkDh8kwA)
-  * [SQL](https://www.youtube.com/watch?v=AywtnUjQ6X4)
-* [Slides](https://cdn.cs50.net/2018/fall/lectures/8/lecture8.pdf)
-* Source Code
-  * [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1lOcpedVe1TeT5cByAlkBnN0vU-TkU6XQJDeplWktY7k/edit?usp=sharing)
-  * [Index](https://cdn.cs50.net/2018/fall/lectures/8/src8/)
-  * [PDF](https://cdn.cs50.net/2018/fall/lectures/8/src8.pdf)
-  * [Sandbox](https://sandbox.cs50.io/5cb25506-2dda-44df-a5b1-c11e17e76915)
-  * [ZIP](https://cdn.cs50.net/2018/fall/lectures/8/src8.zip)
-* [Video](https://video.cs50.net/2018/fall/lectures/8)
-* Reference Sheets
-  * [Ajax](https://ap.cs50.school/assets/pdfs/ajax.pdf)
-  * [MVC](https://ap.cs50.school/assets/pdfs/mvc.pdf)
-  * [Python for Web Programming](https://ap.cs50.school/assets/pdfs/python_for_web_programming.pdf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5g0x2xv3aHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Lecture
+<ul>
+  <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/notes/8/">Notes</a></li>
+  <li><a href="https://docs.google.com/presentation/d/1I4J3nuca8unFlPT_6ilP9Xz1E1jyA-TkUZ2RIbiUbnk/edit?usp=sharing">Google Slides</a></li>
+
+  <details><summary>Source Code</summary>
+    <ul>
+      <li><a href="https://cdn.cs50.net/2020/fall/lectures/8/src8/">Index</a></li>
+      <li><a href="https://cdn.cs50.net/2020/fall/lectures/8/src8.pdf">PDF</a></li>
+      <li><a href="https://cdn.cs50.net/2020/fall/lectures/8/src8.zip">Zip</a></li>
+    </ul>
+  </details>  
+</ul>
+
+#### Shorts
+  1. [Internet Primer](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/internet_primer/)
+  2. [IP](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/ip/)
+  3. [TCP](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/tcp/)
+  1. [HTTP](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/http/)
+  1. [HTML](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/html/)
+  1. [CSS](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/css/)
+  1. [JavaScript](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/javascript/)
+  1. [DOM](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/dom/)
+
+#### References
+<ul>
+  <li data-marker="*"><a href="\apcsp\assets\pdfs\internet_basics.pdf">Internet Basics</a></li>
+  <li data-marker="*"><a href="\apcsp\assets\pdfs\ip_addresses.pdf">IP Addresses</a></li>
+  <li data-marker="*"><a href="\apcsp\assets\pdfs\tcp_and_ip.pdf">TCP and IP</a></li>
+  <li data-marker="*"><a href="\apcsp\assets\pdfs\dns_and_dhcp.pdf">DNS and DHCP</a></li>
+  <li data-marker="*"><a href="\apcsp\assets\pdfs\http.pdf">HTTP</a></li>
+  <li data-marker="*"><a href="\apcsp\assets\pdfs\html.pdf">HTML</a></li>
+  <li data-marker="*"><a href="\apcsp\assets\pdfs\css.pdf">CSS</a></li>
+  <li data-marker="*"><a href="\apcsp\assets\pdfs\javascript.pdf">JavaScript</a></li>
+</ul>
+
+### Labs
+- [Lab 8](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/8/)
+
+### Problems
+ - Homepage - Coming Soon
+
