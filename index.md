@@ -8,7 +8,7 @@ title: false
 
 - <span style="font-size: 22px;">We are currently on [Week 25](\apcsp\weeks\week25) </span>
 - [Create Task](\apcsp\curriculum\pt\create)
-- [Chapter 8](\apcsp\curriculum\pt\8)
+- [Chapter 8](\apcsp\curriculum\8)
 
 
 
