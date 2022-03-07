@@ -4,7 +4,7 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Create day 10 | |
+  |**Mon**|Create day 10 |[Sample Responses](https://apstudents.collegeboard.org/courses/ap-computer-science-principles/assessment/2021-create-performance-task-pilot-samples) - Sample A is always the best, and Sample I is worst |
   |**Tue**|Create day 11 | |
   |**Wed**|Create day 12 |Please back up your files before the date for the IDE Maintenance!!! See link below |
   |**Thu**|Start on [Ch 8](\apcsp\curriculum\8) HTML, CSS, JavaScript  | |
