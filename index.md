@@ -10,7 +10,7 @@ title: false
 - [Create Task](\apcsp\curriculum\pt\create)
 - [Chapter 8](\apcsp\curriculum\8)
 
-
+### [CS50 IDE Maintenance](https://cs50.statuspage.io/incidents/zkpbpvnm46s5)
 
 <!-- # Hello, world!
 

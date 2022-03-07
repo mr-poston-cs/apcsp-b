@@ -38,9 +38,7 @@
   <li data-marker="*"><a href="\apcsp\assets\pdfs\javascript.pdf">JavaScript</a></li>
 </ul>
 
-### Labs
-- [Lab 8](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/8/)
+### [Lab 8](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/8/)
 
-### Problems
- - Homepage - Coming Soon
+### Problem - Homepage - Coming Soon
 
