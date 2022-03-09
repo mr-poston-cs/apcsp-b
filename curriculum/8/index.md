@@ -40,5 +40,5 @@
 
 ### [Lab 8](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/8/)
 
-### Problem - Homepage - Coming Soon
+### Problem - [Homepage](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/8/homepage/)
 
