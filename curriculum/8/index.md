@@ -26,7 +26,7 @@
   1. [JavaScript](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/javascript/)
   1. [DOM](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/dom/)
 
-#### References
+#### [References](\apcsp\assets\pdfs\webRefSheeets.pdf)
 <ul>
   <li data-marker="*"><a href="\apcsp\assets\pdfs\internet_basics.pdf">Internet Basics</a></li>
   <li data-marker="*"><a href="\apcsp\assets\pdfs\ip_addresses.pdf">IP Addresses</a></li>
