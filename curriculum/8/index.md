@@ -26,17 +26,18 @@
   1. [JavaScript](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/javascript/)
   1. [DOM](https://cs50.harvard.edu/ap/2022/curriculum/x/shorts/dom/)
 
-#### [References](\apcsp\assets\pdfs\webRefSheeets.pdf)
-<ul>
-  <li data-marker="*"><a href="\apcsp\assets\pdfs\internet_basics.pdf">Internet Basics</a></li>
-  <li data-marker="*"><a href="\apcsp\assets\pdfs\ip_addresses.pdf">IP Addresses</a></li>
-  <li data-marker="*"><a href="\apcsp\assets\pdfs\tcp_and_ip.pdf">TCP and IP</a></li>
-  <li data-marker="*"><a href="\apcsp\assets\pdfs\dns_and_dhcp.pdf">DNS and DHCP</a></li>
-  <li data-marker="*"><a href="\apcsp\assets\pdfs\http.pdf">HTTP</a></li>
-  <li data-marker="*"><a href="\apcsp\assets\pdfs\html.pdf">HTML</a></li>
-  <li data-marker="*"><a href="\apcsp\assets\pdfs\css.pdf">CSS</a></li>
-  <li data-marker="*"><a href="\apcsp\assets\pdfs\javascript.pdf">JavaScript</a></li>
-</ul>
+#### <details><summary>[Reference Sheets](\apcsp\assets\pdfs\webRefSheeets.pdf)</summary>
+  <ul>
+    <li data-marker="*"><a href="\apcsp\assets\pdfs\internet_basics.pdf">Internet Basics</a></li>
+    <li data-marker="*"><a href="\apcsp\assets\pdfs\ip_addresses.pdf">IP Addresses</a></li>
+    <li data-marker="*"><a href="\apcsp\assets\pdfs\tcp_and_ip.pdf">TCP and IP</a></li>
+    <li data-marker="*"><a href="\apcsp\assets\pdfs\dns_and_dhcp.pdf">DNS and DHCP</a></li>
+    <li data-marker="*"><a href="\apcsp\assets\pdfs\http.pdf">HTTP</a></li>
+    <li data-marker="*"><a href="\apcsp\assets\pdfs\html.pdf">HTML</a></li>
+    <li data-marker="*"><a href="\apcsp\assets\pdfs\css.pdf">CSS</a></li>
+    <li data-marker="*"><a href="\apcsp\assets\pdfs\javascript.pdf">JavaScript</a></li>
+  </ul>
+  </details>
 
 ### [Lab 8](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/8/)
 
