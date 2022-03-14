@@ -23,6 +23,6 @@ td {
 }
 ```
 
-#### Example of finished product
+### Example of finished product
 
 <img src="\apcsp\assets\img\favs.png" alt="favs example">
