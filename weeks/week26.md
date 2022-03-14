@@ -1,27 +1,18 @@
+## Week 26
+
+### Week of 3/14/22<br>[Create](\apcsp\curriculum\pt\create)<br>[Ch 8](\apcsp\curriculum\8) - HTML, CSS, JavaScript
+
+  |       |In Class               |Homework   |
+  |-------|---------              |---------  |
+  |**Mon**|Go over HTML tables and work on [Favs exercise](\apcsp\curriculum\web\favs.md) in class and finish up for homework | |
+  |**Tue**|Finish up HTML - Forms and work on exercise |Finish Form exercise |
+  |**Wed**|CSS | |
+  |**Thu**| | |
+  |**Fri**| | |
+
+#### [CS50 IDE Maintenance](https://cs50.statuspage.io/incidents/zkpbpvnm46s5) 
+  - [How to copy files from CS50 IDE to new CS50 Codespace](https://cs50.harvard.edu/x/2022/new/#how-to-copy-files-from-cs50-ide-to-your-cs50-codespace) - Can also be used to simply back up your files
+
+<img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" alt="computer programming" height="300">
+
 <meta http-equiv="refresh" content="300"/>
-
-# Week 26
-
-### Week of 3/15/2021<br>[Finance](https://cs50.harvard.edu/ap/2021/curriculum/x/tracks/web/finance/) in [Web Track](/ap/curriculum/web)
-
-|         | Class | Homework |
-| ------- | ----- | -------- |
-| **Mon** | Work on Finance |  |
-| **Tue** | Work on Finance |  |
-| **Wed** |  |  |
-| **Thu** |  |  |
-| **Fri** | End of Grading Period<br>ALL assignments are due |  |
-
-<<<<<<< HEAD
-*This is the last week of the grading period. If you have outstanding assignments, get them in **ASAP** or they will be put in as a **0**!!*
-=======
-*This is the last week of the grading period. Missing assignments are now entered as a 0, get them in **ASAP** or they will stay a **0**!!*
->>>>>>> parent of 64851ee (update missing work again)
-
-Lunch time: 1:10  
-Sr - Classroom  
-Jr - Classroom  
-
-<div style="text-align:center">
-<img src="https://i.redd.it/yh1ys8fklni61.jpg" alt="game devs vs web devs" width="50%">
-</div>

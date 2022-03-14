@@ -4,16 +4,7 @@
 
 ---
 
-- [Week 16](/apcsp/weeks/week16)
-- [Week 17](/apcsp/weeks/week17)
-- [Week 18](/apcsp/weeks/week18)
-- [Week 19](/apcsp/weeks/week19)
-- [Week 20](/apcsp/weeks/week20)
-- [Week 21](/apcsp/weeks/week21)
-- [Week 22](/apcsp/weeks/week22)
-- [Week 23](/apcsp/weeks/week23)
-- [Week 24](/apcsp/weeks/week24)
-- [Week 25](/apcsp/weeks/week25)
+- [Week 26](/apcsp/weeks/week26)
 
 
 <details>
@@ -44,7 +35,7 @@
     </ul>
 </details>
 
-<!-- <details>
+<details>
     <summary>Q3</summary>
     <ul>
         <li><a href="https://candib80.github.io/apcsp/weeks/week16/">Week 16</a></li>
@@ -60,7 +51,7 @@
     </ul>
 </details>
         
-<a href="https://candib80.github.io/apcsp/weeks/week26/">Week 26</a> -->
+<!-- <a href="https://candib80.github.io/apcsp/weeks/week26/">Week 26</a> -->
 
 ---
 
