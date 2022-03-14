@@ -1,6 +1,6 @@
 # Exercise: Favs
 
-## tl;dr: Create a table listing your "favorite" and "not so favorite" things. The table MUST include the following:
+### tl;dr: Create a table listing your "favorite" and "not so favorite" things. The table MUST include the following:
 
 1. Page Header
 1. Table
@@ -23,6 +23,6 @@ td {
 }
 ```
 
-### Example of finished product
+#### Example of finished product
 
 <img src="\apcsp\assets\img\favs.png" alt="favs example">
