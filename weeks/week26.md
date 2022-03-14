@@ -4,7 +4,7 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Go over HTML tables and work on [Favs exercise](\apcsp\curriculum\web\favs.md) in class and finish up for homework | |
+  |**Mon**|Go over HTML tables and work on [Favs exercise](\apcsp\curriculum\web\favs) in class and finish up for homework | |
   |**Tue**|Finish up HTML - Forms and work on exercise |Finish Form exercise |
   |**Wed**|CSS | |
   |**Thu**| | |
