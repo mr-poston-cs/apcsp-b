@@ -5,7 +5,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Go over HTML tables and work on [Favs exercise](\apcsp\curriculum\web\favs) in class and finish up for homework | |
-  |**Tue**|Finish up HTML - Links & Forms and work on [Form exercise](\apcsp\curriculum\web\registrationForm) |Finish Form exercise, reading the [MDN docs on Forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) for help |
+  |**Tue**|Finish up HTML - Links & Forms and work on [Form exercise](\apcsp\curriculum\web\registrationForm) |Finish Form exercise, reading the [MDN docs on Forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) and/or [W3Schools](https://www.w3schools.com/html/html_forms.asp) for help |
   |**Wed**|CSS | |
   |**Thu**| | |
   |**Fri**| | |
