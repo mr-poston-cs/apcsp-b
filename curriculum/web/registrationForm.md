@@ -6,8 +6,7 @@ Create a simple registration form that resembles, but not exactly matches, the e
 1. The following input elements - all with the correct "type":
   - Name
   - Email
-  - Telephone
-      * This is made up of a total of 3 inputs. Change the input width using the correct input attribute and set a max character length on each input to that of a real phone number. (i.e. the first input is for the area code which has a max of 3 numbers: *512-xxxxxxx*). Set the max character length for the other two inputs.<br>
+  - Telephone - This is made up of a total of 3 inputs. Change the input width using the correct input attribute and set a max character length on each input to that of a real phone number. (i.e. the first input is for the area code which has a max of 3 numbers: *512-xxxxxxx*). Set the max character length for the other two inputs.<br>
   - DOB
   - a select input of your choice with 3 choices
   - a radio button input of your choice 
