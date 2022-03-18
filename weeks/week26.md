@@ -8,7 +8,7 @@
   |**Tue**|Finish up HTML - Links & Forms and work on [Form exercise](\apcsp\curriculum\web\registrationForm) |Finish Form exercise, reading the [MDN docs on Forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form) and/or [W3Schools](https://www.w3schools.com/html/html_forms.asp) for help |
   |**Wed**|CSS | |
   |**Thu**|[Styling the Favs exercise](\apcsp\curriculum\web\favsStyled) in class |Finish styling for hw |
-  |**Fri**|Start on JavaScript | |
+  |**Fri**|Go over how to do a `nav`, then start on JavaScript | |
 
 #### [CS50 IDE Maintenance](https://cs50.statuspage.io/incidents/zkpbpvnm46s5) 
   - [How to copy files from CS50 IDE to new CS50 Codespace](https://cs50.harvard.edu/x/2022/new/#how-to-copy-files-from-cs50-ide-to-your-cs50-codespace) - Can also be used to simply back up your files
