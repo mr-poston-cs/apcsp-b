@@ -5,6 +5,7 @@
 ---
 
 - [Week 26](/apcsp/weeks/week26)
+- [Week 27](/apcsp/weeks/week27)
 
 
 <details>

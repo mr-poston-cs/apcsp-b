@@ -1,21 +1,22 @@
-<meta http-equiv="refresh" content="300"/>
+## Week 27
 
-# Week 27
-
-### Week of 3/22/2021<br>
+### Week of 3/21/2022<br>[Create](\apcsp\curriculum\pt\create)<br>[Ch 8](\apcsp\curriculum\8) - HTML, CSS, JavaScript
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** | No School |  |
-| **Tue** |  |  |
-| **Wed** |  |  |
+| **Mon** |No School |  |
+| **Tue** |Start on JS |  |
+| **Wed** |Continue with JS |  |
 | **Thu** |  |  |
 | **Fri** |  |  |
 
-Lunch time: 1:05  
-Sr - Outside/Classroom  
-Jr - Classroom  
-
 <div style="text-align:center">
-<img src="" alt="" width="50%">
+<a href="https://www.w3schools.com/html" target="_blank"><img src="\apcsp\assets\img\html-icon.jpg" alt="html" style="padding: 0px 25px"></a> <a href="https://www.w3schools.com/css" target="_blank"><img src="\apcsp\assets\img\css-icon.jpg" alt="css" style="padding: 0px 25px"></a><a href="https://www.w3schools.com/js" target="_blank"><img src="\apcsp\assets\img\js-icon.jpg" alt="javascript" style="padding: 0px 25px"></a>
 </div>
+
+<br>
+<div style="text-align:center">
+<a href="https://eloquentjavascript.net/" target="_blank"><img src="https://eloquentjavascript.net/img/cover.jpg" alt="eloquent JS book" height="400px"></a>
+</div>
+
+<meta http-equiv="refresh" content="300"/>
