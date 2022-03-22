@@ -6,7 +6,7 @@
 | ------- | ----- | -------- |
 | **Mon** |No School |  |
 | **Tue** |Start on JS |  |
-| **Wed** |Continue with JS |  |
+| **Wed** |Continue with JS video in class unless Mrs. B is done with Battle of the Books|  |
 | **Thu** |  |  |
 | **Fri** |  |  |
 
