@@ -7,7 +7,7 @@
 | **Mon** |No School |  |
 | **Tue** |Start on JS |  |
 | **Wed** |Continue with JS video in class unless Mrs. B is done with Battle of the Books|  |
-| **Thu** |  |  |
+| **Thu** |Start on [Ch 8 Lab](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/8/)  |  |
 | **Fri** |  |  |
 
 <div style="text-align:center">
