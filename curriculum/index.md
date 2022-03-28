@@ -8,10 +8,12 @@
 * [Chapter 5](5)
 * [Chapter 6](6)
 * [Chapter 7](7)
-* [Web Track](web)
+* [Chapter 8](8)
+
 
 # AP Modules
 
+* [Ethics](https://cs50.harvard.edu/ap/2022/curriculum/x/weeks/10/)
 * [Understanding Technology](understanding_technology)
 * [Data Science](data_science)
 * [Impact of Computing](impact_of_computing)
