@@ -22,6 +22,6 @@
 
 ### What to do
 
-1. Open this lab in Teams.
-1. Answer each of the questions in the quiz document by filling in the blanks marked TODO.
-1. Click submit once done.
+1. Find the [assignment in Teams](https://assignments.onenote.com/classes/957d337d-581d-42df-b3bd-22f400809236/assignment-editor/37f67f45-ebaa-4ef4-bb29-a3c814a29464?returnPath=%2Fclasses%2Fall%2Flist) - scheduled to go live Monday, 4-4, at 2pm
+1. Answer each of the questions in the document by filling in the blanks marked **TODO**
+1. Submit by Wed, 4-6
