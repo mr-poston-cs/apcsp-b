@@ -1,4 +1,6 @@
-# CS50 Core Curriculum
+# CS50 AP Curriculum
+
+## CS50 Core Curriculum
 
 * [Chapter 0](0)
 * [Chapter 1](1)
@@ -11,13 +13,13 @@
 * [Chapter 8](8)
 
 
-# AP Modules
+## AP Modules
 
 * [Ethics](ethics)
 * [Understanding Technology](understanding_technology)
 * [Data Science](data_science)
 * [Impact of Computing](impact_of_computing)
 
-# Summer Assignment
+## Summer Assignment
 
 * [Summer 2021](summer-assignment)
