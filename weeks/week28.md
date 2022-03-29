@@ -6,8 +6,8 @@
 | ------- | ----- | -------- |
 | **Mon** |Finish up [Ch 8 Lab](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/8/) & get that turned in<br>Start on [Ch 8 PSET - Homepage](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/8/homepage/) |Lab 8 is due tonight, so make sure to get it submitted  |
 | **Tue** |Work on PSET 8 |  |
-| **Wed** | |  |
-| **Thu** | |  |
+| **Wed** |PSET/Review |  |
+| **Thu** |Review |  |
 | **Fri** |Test on Ch 8 |  |
 
 * [JS Cheatsheet](https://javascript.pythoncheatsheet.org/#) to help out with the PSET
