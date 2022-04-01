@@ -8,7 +8,7 @@
 | **Tue** |Work on PSET 8 |  |
 | **Wed** |PSET/Review |  |
 | **Thu** |Review |  |
-| **Fri** |Test on Ch 8 |  |
+| **Fri** |Test on Ch 8<br>[Puzzle Day](https://cs50.ly/puzzles) if you'd like to solve some puzzles for fun |  |
 
 * [JS Cheatsheet](https://javascript.pythoncheatsheet.org/#) to help out with the PSET
 
