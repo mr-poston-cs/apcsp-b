@@ -9,6 +9,7 @@ title: false
 - <span style="font-size: 22px;">We are currently on [Week 28](\apcsp\weeks\week28) </span>
 - [Create Task](\apcsp\curriculum\pt\create) - Due as final in Digital Portfolio April 8
 - [Chapter 8](\apcsp\curriculum\8) - Test Friday, April 1
+- [Ethics](\apcsp\curriculum\ethics)
 
 
 <!-- # Hello, world!
