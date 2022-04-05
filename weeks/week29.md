@@ -7,8 +7,8 @@
 | **Mon** |[Ch 8 PSET - Homepage](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/8/homepage/) due tomorrow |  |
 | **Tue** |Work on Ethics Lab |Homepage due tonight  |
 | **Wed** |Ethics Lab |  |
-| **Thu** | |  |
-| **Fri** | |  |
+| **Thu** |Catch up on everything to be turned in |  |
+| **Fri** |Catch up on everything to be turned in<br>We will have a practice test on **Monday** to see what we need to concentrate on for review |  |
 
 * [JS Cheatsheet](https://javascript.pythoncheatsheet.org/#) to help out with the PSET
 
