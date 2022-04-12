@@ -11,7 +11,7 @@
 | **Fri** |SPRING BREAK!!!! | |
 
 <div style="text-align:center">
-<img src="https://www.reynolds.k12.or.us/sites/default/files/imageattachments/morey/page/48130/spring_break_1.png" alt="spring break" width="300px">
+<img src="https://www.reynolds.k12.or.us/sites/default/files/imageattachments/morey/page/48130/spring_break_1.png" alt="spring break" width="400px">
 </div>
 
 
