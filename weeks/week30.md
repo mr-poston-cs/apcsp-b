@@ -10,10 +10,8 @@
 | **Thu** |PROM!!!!| |
 | **Fri** |SPRING BREAK!!!! | |
 
-* [JS Cheatsheet](https://javascript.pythoncheatsheet.org/#) to help out with the PSET
-
 <div style="text-align:center">
-<img src="https://www.reynolds.k12.or.us/sites/default/files/imageattachments/morey/page/48130/spring_break_1.png" alt="spring break" style="padding: 0px 25px">
+<img src="https://www.reynolds.k12.or.us/sites/default/files/imageattachments/morey/page/48130/spring_break_1.png" alt="spring break" width="300px">
 </div>
 
 
