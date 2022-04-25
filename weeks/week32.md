@@ -4,8 +4,8 @@
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
-| **Mon** |Review [AP Modules](https://candib80.github.io/apcsp/curriculum/#ap-modules) | |
-| **Tue** |Review | |
+| **Mon** |Review [AP Modules](https://candib80.github.io/apcsp/curriculum/#ap-modules) |Read over the [Impact of Computing Notes](/apcsp/curriculum/impact_of_computing/notes/) |
+| **Tue** |Continue review of AP Modules |Read over the notes for both [Collecting and Analyzing Data](/apcsp/curriculum/data_science/) |
 | **Wed** |Review | |
 | **Thu** |Review | |
 | **Fri** |Field Day | |
