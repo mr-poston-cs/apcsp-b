@@ -1,6 +1,6 @@
 ## Week 32
 
-### Week of 4/25/2022<br>
+### Week of 4/25/2022<br>AP Exam is May 9th
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
