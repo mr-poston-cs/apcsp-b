@@ -11,7 +11,7 @@
 | **Fri** |Field Day | |
 
 <div style="text-align:center">
-<img src=https://images.collegexpress.com/article/make-studying-more-fun.jpg" alt="study" width="400px">
+<img src="https://images.collegexpress.com/article/make-studying-more-fun.jpg" alt="study" width="400px">
 </div>
 
 
