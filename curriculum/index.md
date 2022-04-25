@@ -15,8 +15,8 @@
 
 ## AP Modules
 
-* [Ethics](ethics)
 * [Understanding Technology](understanding_technology)
+* [Ethics](ethics)
 * [Data Science](data_science)
 * [Impact of Computing](impact_of_computing)
 
