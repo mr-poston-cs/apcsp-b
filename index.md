@@ -6,7 +6,7 @@ title: false
 
 <img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcement" height="300">  
 
-- <span style="font-size: 22px;">We are currently on [Week 32](\apcsp\weeks\week32)<br>AP Exam is May 9th! </span>
+- <span style="font-size: 22px;">We are currently on [Week 33](\apcsp\weeks\week33)<br>AP Exam is May 9th! </span>
 
 
 
