@@ -1,6 +1,6 @@
-# Summer Assignment 2021
+# Summer Assignment 2022
 
-Hello! I am happy to have you in my AP Computer Science Principles class for the 2021-2022 school year! Below is this year's summer assignment.  
+Hello! I am happy to have you in my AP Computer Science Principles class for the 2023-2023 school year! Below is this year's summer assignment.  
 I look forward to having you all in the fall, and have a great rest of your summer break! If you ever need me, email me at <cbeaman@parrottacademy.org>.\\
 ~Mrs. Beaman
 
@@ -9,8 +9,6 @@ I look forward to having you all in the fall, and have a great rest of your summ
 - **There will be a test the first Monday we meet** on material covered in the assignment; however, we will review that Thursday and Friday before (most of you all will be in the Senior Retreat on Wednesday).
 
 ## Part 0
-- First, make sure to watch the video on the [homepage on our CS50 AP Site]({{"/index" | relative_url}})
-  - This explains CS50, and CS50 AP, which is what I use for our AP CSP here at APA
 - Download the documents below and use them for Parts 1 & 2:
   - [Guided Notes for Parts 1 & 2](\apcsp\assets\pdfs\summer\summer-21.pdf)
   - [Additional Hardware Worksheet](\apcsp\assets\pdfs\summer\hardware.pdf)
@@ -27,15 +25,5 @@ I look forward to having you all in the fall, and have a great rest of your summ
 - There are **Notes**, **Reference Sheets**, **Videos** (appx 1 hr each), and **Slides** for all the above. Make sure to utilize all the materials to answer the guided notes for each of the 3 sections
   - I promise you won't have to watch hour long videos every night. If you watch the videos, they will be broken up from here on out.
 - **DO NOT** do any of the Problems for the Hardware section, but do look over them as you may see something similar on the test
-- **DO NOT** do the Security section of Understanding Technology; we will do this after school starts
+- **DO NOT** do the Security section of Understanding Technology; we will do this later in the year
 
-<details>
-  <summary>Transistors & Logic supplementary resources - if you need more understanding of how transistors and logic work</summary>
-  <ul>
-    <li><a href="https://youtu.be/gI-qXk7XojA">Boolean Logic & Logic Gates: Crash Course CS</a><em> - appx 10 minutes</em></li>
-    <li><a href="https://youtu.be/IAkj32VPcUE">Inside the CPU</a><em> - appx 10 minutes</em></li>
-    <li><a href="https://www.youtube.com/watch?v=FZGugFqdr60">CPU: Crash Course CS</a><em> - appx 10 minutes</em></li>
-    <li><a href="https://www.youtube.com/watch?v=Sc3lh3D4rCw">Khan Academy and Code.org Circuits & Logic</a><em> - appx 5 minutes</em></li>
-    <li><a href="https://www.youtube.com/watch?v=WhNyURBiJcU">How Transistors Work</a><em> - appx 5 minutes</em></li>
-  </ul>
-</details>

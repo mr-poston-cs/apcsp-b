@@ -4,13 +4,13 @@ title: false
 
 <meta http-equiv="refresh" content="600"/>
 
-<img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcement" height="300">  
+<!-- <img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcements" height="300">  
 
-- <span style="font-size: 22px;">We are currently on [Week 33](\apcsp\weeks\week33)<br>AP Exam is May 9th! </span>
+- <span style="font-size: 22px;"></span> -->
 
 
 
-<!-- # Hello, world!
+# Hello, world!
 
 
 This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's AP CS Principles curriculum framework.
@@ -20,4 +20,4 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300"> 
 
-### Your [Summer Assignment](\apcsp\curriculum\summer-assignment) is live now!! -->
+<!-- ### Your [Summer Assignment](\apcsp\curriculum\summer-assignment) is live now!! -->

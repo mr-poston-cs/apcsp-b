@@ -1,20 +1,15 @@
 ---
 
 - [CS50 IDE](https://ide.cs50.io/)
+- <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
+
 
 ---
 
-- [Week 26](/apcsp/weeks/week26)
-- [Week 27](/apcsp/weeks/week27)
-- [Week 28](/apcsp/weeks/week28)
-- [Week 29](/apcsp/weeks/week29)
-- [Week 30](/apcsp/weeks/week30)
-- [Week 31](/apcsp/weeks/week31)
-- [Week 32](/apcsp/weeks/week32)
-- [Week 33](/apcsp/weeks/week33)
+- [Summer Assignment 2022](\apcsp\curriculum\summer-assignment)
+<!-- - [Week 1](/apcsp/weeks/week1) -->
 
-
-<details>
+<!-- <details>
     <summary>Q1</summary>
     <ul>
         <li><a href="https://candib80.github.io/apcsp/weeks/week0/">Week 0</a></li>
@@ -56,18 +51,15 @@
         <li><a href="https://candib80.github.io/apcsp/weeks/week24/">Week 24</a></li>
         <li><a href="https://candib80.github.io/apcsp/weeks/week25/">Week 25</a></li>
     </ul>
-</details>
+</details> -->
         
 
 ---
-
-<!-- * [**Online Book**](https://k12.cengage.com/portal/Account/LogOn?DistrictLoginCode=BMT7) -->
 
 - [**Curriculum**](/apcsp/curriculum)
 
 ---
 
-- <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
 - [CS50 Programmer's Manual](https://man.cs50.io/)
 - <a href="https://cs50.readthedocs.io/style/c/" target="_blank">Style Guide</a>
 - <a href="https://cs50.statuspage.io/" target="_blank">Status Page</a>
