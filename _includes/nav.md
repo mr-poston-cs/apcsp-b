@@ -1,12 +1,14 @@
 ---
 
-- [CS50 IDE](https://ide.cs50.io/)
+- [VSCode for CS50](https://code.cs50.io/)
 - <a href="https://submit.cs50.io" target="_blank">Submit50 - check your work</a>
-
 
 ---
 
 - [Summer Assignment 2022](\apcsp\curriculum\summer-assignment)
+
+---
+
 <!-- - [Week 1](/apcsp/weeks/week1) -->
 
 <!-- <details>
