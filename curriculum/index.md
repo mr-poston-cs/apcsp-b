@@ -22,4 +22,4 @@
 
 ## Summer Assignment
 
-* [Summer 2021](summer-assignment)
+* Summer 2022 - coming soon!
