@@ -22,16 +22,16 @@
 9. [Flask](9)
 
 <ol start="0">
-  <li>[Scratch](0)</li>
-  <li>[Intro to C](1)</li>
-  <li>[Arrays](2)</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href="/apcsp/curriculum/0/">Scratch</a></li>
+  <li><a href="/1">Intro to C</a></li>
+  <li><a href="">Arrays</a></li>
+  <li><a href="">Algorithms</a></li>
+  <li><a href="">Memory</a></li>
+  <li><a href="">Data Structures</a></li>
+  <li><a href="">Python</a></li>
+  <li><a href="">SQL</a></li>
+  <li><a href="">HTML, CSS, & JavaScript</a></li>
+  <li><a href="">Flask</a></li>
 </ol>
 
 * [Cybersecurity](https://cs50.harvard.edu/ap/2023/curriculum/x/weeks/cybersecurity/)
