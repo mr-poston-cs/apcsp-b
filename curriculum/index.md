@@ -12,14 +12,27 @@
 
 0. [Scratch](0)
 1. [Intro to C](1)
-0. [Arrays](2)
-0. [Algorithms](3)
-0. [Memory](4)
-0. [Data Structures](5)
-0. [Python](6)
-0. [SQL](7)
-0. [HTML, CSS, JavaScript](8)
-0. [Flask](9)
+2. [Arrays](2)
+3. [Algorithms](3)
+4. [Memory](4)
+5. [Data Structures](5)
+6. [Python](6)
+7. [SQL](7)
+8. [HTML, CSS, JavaScript](8)
+9. [Flask](9)
+
+<ol start="0">
+  <li>[Scratch](0)</li>
+  <li>[Intro to C](1)</li>
+  <li>[Arrays](2)</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
 
 * [Cybersecurity](https://cs50.harvard.edu/ap/2023/curriculum/x/weeks/cybersecurity/)
 
