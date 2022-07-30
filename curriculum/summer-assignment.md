@@ -28,6 +28,5 @@ I look forward to having you all in the fall, and have a great rest of your summ
 
 ### Part 2
 - Complete the [Hardware](/apcsp/curriculum/understanding_technology/hardware) section and answer the rest of the guided notes based on the **Notes**, **Reference Sheets**, **Video**, and **Slides**; make sure to utilize all the materials to answer the questions
-
 - I promise you won't have to watch hour long videos every night. If I assign videos to watch, they will be broken up from here on out.
 - **DO NOT** do any of the Problems for the Hardware section, but do look over them as you may see something similar on the test
