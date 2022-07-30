@@ -8,23 +8,26 @@ This course is about creativity, technology and innovation. In this class, you w
 
 Inventing things, and having insights about how things work, and how they might work better is what this class is about. The goal of the summer assignment is to get you started on this way of thinking as well as get you familiar with what a computer actually is.
 
+<br><br>
+
 Below is this year's summer assignment.  
-I look forward to having you all in the fall, and have a great rest of your summer break! If you ever need me, email me at <cbeaman@parrottacademy.org>.\\
+I look forward to having you all in the fall, and have a great rest of your summer break! If you ever need me, email me at <cbeaman@parrottacademy.org>.  
 ~Mrs. Beaman
 
 - The assignment below is due the first day we all meet and will count as **2** quiz grades
-- **There will be a test the first Monday we meet** on material covered in the assignment; however, we will review that Thursday and Friday before (most of you all will be in the Senior Retreat on Wednesday).
+- **There will be a test on Friday** on material covered in the assignment; however, we will review before.
 
 ## Part 0
-- Download the [Guided Notes](\apcsp\assets\pdfs\summer\summer-21.pdf) and use them to complete Parts 1 & 2
+- Download the [Guided Notes](\apcsp\assets\pdfs\summer\summer-22.pdf) and use them to complete Parts 1 & 2
 
 ## Part 1
-- Read Chapters 1 & 2 of *Blown to Bits* ([free pdf here](http://www.bitsbook.com/wp-content/uploads/2021/08/9780137441075-Blown-to-Bits-2e.pdf))
+- Read Chapters 1 & 2 of *Blown to Bits* - [free pdf here](http://www.bitsbook.com/wp-content/uploads/2021/08/9780137441075-Blown-to-Bits-2e.pdf)
+  - If you search for, or [purchase](https://www.bitsbook.com/buy-the-book/), this book, make sure it is the second edition (linked for you). There is a version about 10 years older than the one linked here with an orange-ish cover - DON'T READ THIS ONE!
 - Answer the first page of the handout
 
 ## Part 2
-- Complete the following for [Hardware](/apcsp/curriculum/understanding_technology/hardware)
-  - There are **Notes**, **Reference Sheets**, **Video**, and **Slides** for the above. Make sure to utilize all the materials to answer the guided notes.
-  - I promise you won't have to watch hour long videos every night. If I assign videos to watch, they will be broken up from here on out.
+- Complete the [Hardware](/apcsp/curriculum/understanding_technology/hardware) section and answer the rest of the guided notes based on the **Notes**, **Reference Sheets**, **Video**, and **Slides**; make sure to utilize all the materials to answer the questions
+
+- I promise you won't have to watch hour long videos every night. If I assign videos to watch, they will be broken up from here on out.
 - **DO NOT** do any of the Problems for the Hardware section, but do look over them as you may see something similar on the test
 

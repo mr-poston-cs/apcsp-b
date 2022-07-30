@@ -32,4 +32,4 @@
 
 ## Summer Assignment
 
-* Summer 2022 - coming soon!
+* [Summer 2022  - IS HERE!!!](\apcsp\curriculum\summer-assignment)
