@@ -24,7 +24,7 @@ I look forward to having you all in the fall, and have a great rest of your summ
 ### Part 1
 - Read Chapters 1 & 2 of *Blown to Bits* - [free pdf here](http://www.bitsbook.com/wp-content/uploads/2021/08/9780137441075-Blown-to-Bits-2e.pdf)
   - If you search for, or [purchase](https://www.bitsbook.com/buy-the-book/), this book, make sure it is the second edition (linked for you). There is a version about 10 years older than the one linked here with an orange-ish cover - DON'T READ THIS ONE!
-- Answer the first page of the handout
+- First 2 pages of handout are on the book
 
 ### Part 2
 - Complete the [Hardware](/apcsp/curriculum/understanding_technology/hardware) section and answer the rest of the guided notes based on the **Notes**, **Reference Sheets**, **Video**, and **Slides**; make sure to utilize all the materials to answer the questions
