@@ -4,18 +4,16 @@
 
 <iframe width="1134" height="638" src="https://www.youtube.com/embed/1tnj3UCkuxU" title="CS50 2021 in HDR - Lecture 0 - Scratch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<details>
-  <summary>Lecture</summary>
+
+<ul>
+  <li><a href="hhttps://cs50.harvard.edu/ap/2023/curriculum/x/notes/0/">Notes</a></li>
+  <li><a href="https://docs.google.com/presentation/d/1X3AMSenwZGSE6WxGpzoALAfMg2hmh1LYIJp3N2a1EYI/edit?usp=sharing">Google Slides</a></li>
+  <summary>Source Code</summary>
   <ul>
-    <li><a href="hhttps://cs50.harvard.edu/ap/2023/curriculum/x/notes/0/">Notes</a></li>
-    <li><a href="https://docs.google.com/presentation/d/1X3AMSenwZGSE6WxGpzoALAfMg2hmh1LYIJp3N2a1EYI/edit?usp=sharing">Google Slides</a></li>
-    <summary>Source Code</summary>
-    <ul>
-      <li><a href="https://cdn.cs50.net/2021/fall/lectures/0/src0/">Index</a></li>
-      <li><a href="https://scratch.mit.edu/studios/30233348/">Studio</a></li>
-    </ul>
-  </ul>   
-</details>
+    <li><a href="https://cdn.cs50.net/2021/fall/lectures/0/src0/">Index</a></li>
+    <li><a href="https://scratch.mit.edu/studios/30233348/">Studio</a></li>
+  </ul>
+</ul>   
 
 <!-- <details>  
   <summary>Reference Sheets</summary>
