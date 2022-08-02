@@ -8,10 +8,7 @@
   <summary>Lecture</summary>
   <ul>
     <li><a href="hhttps://cs50.harvard.edu/ap/2023/curriculum/x/notes/0/">Notes</a></li>
-    <summary>Slides</summary>
-    <ul>
-      <li><a href="https://docs.google.com/presentation/d/1X3AMSenwZGSE6WxGpzoALAfMg2hmh1LYIJp3N2a1EYI/edit?usp=sharing">Google Slides</a></li>
-    </ul>
+    <li><a href="https://docs.google.com/presentation/d/1X3AMSenwZGSE6WxGpzoALAfMg2hmh1LYIJp3N2a1EYI/edit?usp=sharing">Google Slides</a></li>
     <summary>Source Code</summary>
     <ul>
       <li><a href="https://cdn.cs50.net/2021/fall/lectures/0/src0/">Index</a></li>
@@ -20,7 +17,7 @@
   </ul>   
 </details>
 
-<details>  
+<!-- <details>  
   <summary>Reference Sheets</summary>
   <ul>
     <li><a href="\apcsp\assets\pdfs\algorithms.pdf">Algorithms</a></li>
@@ -29,7 +26,7 @@
     <li><a href="\apcsp\assets\pdfs\pseudocode.pdf">Pseudocode</a></li>
     <li><a href="\apcsp\assets\pdfs\scratch.pdf">Scratch</a></li>
   </ul>
-</details>
+</details> -->
 
 
 - Problem:
