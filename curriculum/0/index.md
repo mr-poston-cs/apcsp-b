@@ -1,23 +1,21 @@
 <meta http-equiv="refresh" content="300"/>
 
-# Chapter 0
+# Unit 0 - Scratch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YoXxevp1WRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1134" height="638" src="https://www.youtube.com/embed/1tnj3UCkuxU" title="CS50 2021 in HDR - Lecture 0 - Scratch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
   <summary>Lecture</summary>
   <ul>
-    <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/notes/0/">Notes</a></li>
+    <li><a href="hhttps://cs50.harvard.edu/ap/2023/curriculum/x/notes/0/">Notes</a></li>
     <summary>Slides</summary>
     <ul>
-      <li><a href="https://docs.google.com/presentation/d/11nbVogBHrI5XWZ5yqg6Lhn7WxvRPTntUDGDzLbPbzC4/edit?usp=sharing">Google Slides</a></li>
-      <li><a href="https://cdn.cs50.net/2020/fall/lectures/0/lecture0.pdf">PDF</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1X3AMSenwZGSE6WxGpzoALAfMg2hmh1LYIJp3N2a1EYI/edit?usp=sharing">Google Slides</a></li>
     </ul>
     <summary>Source Code</summary>
     <ul>
-      <li><a href="https://cdn.cs50.net/2020/fall/lectures/0/src0/">Index</a></li>
-      <li><a href="https://scratch.mit.edu/studios/27430410/">Studio</a></li>
-      <li><a href="https://cdn.cs50.net/2020/fall/lectures/0/src0.zip">Zip</a></li>
+      <li><a href="https://cdn.cs50.net/2021/fall/lectures/0/src0/">Index</a></li>
+      <li><a href="https://scratch.mit.edu/studios/30233348/">Studio</a></li>
     </ul>
   </ul>   
 </details>
