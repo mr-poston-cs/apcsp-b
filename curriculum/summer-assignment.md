@@ -16,7 +16,7 @@ I look forward to having you all in the fall, and have a great rest of your summ
 ## Summer Assignment 2022 
 
 - The assignment below is due the first day we all meet and will count as **2** quiz grades
-- **There will be a test on Friday** on material covered in the assignment; however, we will review before.
+- **There will be a test on Friday, August 26** on material covered in the assignment; however, we will review before.
 
 ### Part 0
 - Download the [Guided Notes](\apcsp\assets\pdfs\summer\summer-22.pdf) and use them to complete Parts 1 & 2
