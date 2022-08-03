@@ -7,7 +7,7 @@
 
 - [Summer Assignment 2022](\apcsp\curriculum\summer-assignment)
 
-<!-- - [Week 1](/apcsp/weeks/week1) -->
+- [Week 0](/apcsp/weeks/week0)
 
 <!-- <details>
     <summary>Q1</summary>
@@ -64,3 +64,4 @@
 - <a href="https://cs50.readthedocs.io/style/c/" target="_blank">Style Guide</a>
 - <a href="https://cs50.statuspage.io/" target="_blank">Status Page</a>
 - <a href="https://cs50.harvard.edu/ap/2023/" target="_blank">CS50AP 22-23 Harvard</a>
+- <a href="https://cs50.harvard.edu/ap/2023/syllabus/" target="_blank">CS50AP Syllabus 2022-23</a>
