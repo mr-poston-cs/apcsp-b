@@ -6,10 +6,10 @@
   
   |       | Class | Homework |
   | ----- | ----- | -------- |
-  |**Mon**| | |
-  |**Tue**| | |
-  |**Wed**| | |
-  |**Thu**| | |
+  |**Mon**|Start Scratch | |
+  |**Tue**|Continue Scratch | |
+  |**Wed**|Continue Scratch | |
+  |**Thu**|Continue Scratch | |
   |**Fri**| | |
 
    
