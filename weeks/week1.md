@@ -8,8 +8,8 @@
   | ----- | ----- | -------- |
   |**Mon**|Start Scratch | |
   |**Tue**|Continue Scratch | |
-  |**Wed**|Continue Scratch | |
-  |**Thu**|Continue Scratch | |
+  |**Wed**|Work on Scratch PSET | |
+  |**Thu**|Work on Scratch PSET | |
   |**Fri**| | |
 
    
