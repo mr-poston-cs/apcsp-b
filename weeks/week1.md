@@ -2,7 +2,7 @@
 
 ## Week 1<br>Week of 8/29  
 
-### [Chapter 0](/apcsp/curriculum/0)
+### [Unit 0](/apcsp/curriculum/0)
   
   |       | Class | Homework |
   | ----- | ----- | -------- |
