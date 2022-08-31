@@ -8,7 +8,7 @@
   | ----- | ----- | -------- |
   |**Mon**|Start Scratch | |
   |**Tue**|Continue Scratch | |
-  |**Wed**|Work on Scratch PSET | |
+  |**Wed**|Work on [Scratch PSET](\ap\psets\scratch) | |
   |**Thu**|Work on Scratch PSET | |
   |**Fri**| | |
 
