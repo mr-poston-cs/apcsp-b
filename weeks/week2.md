@@ -1,6 +1,7 @@
 <meta http-equiv="refresh" content="300"/>
 
-# Week 2<br>Week of 9/6 
+# Week 2<br>
+## Week of 9/6 
 
 ### [Unit 1](https://cs50.harvard.edu/ap/2023/curriculum/x/weeks/1/)
 
