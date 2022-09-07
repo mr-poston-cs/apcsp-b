@@ -2,7 +2,7 @@
 
 ## Week 2<br>Week of 9/6 
 
-### [Unit 1](https://cs50.harvard.edu/ap/2023/curriculum/x/weeks/1/)
+### [Unit 1](/apcsp/curriculum/1)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
