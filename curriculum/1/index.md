@@ -1,22 +1,22 @@
-# Chapter 1 - C
+# Unit 1 - C
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zYierUhIFNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/URrzmoIyqLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
   <summary>Lecture</summary>
   <ul>
-    <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/notes/1/">Notes</a></li>
+    <li><a href="https://cs50.harvard.edu/ap/2023/curriculum/x/notes/1/">Notes</a></li>
     <details><summary>Slides</summary>
     <ul>
-      <li><a href="https://docs.google.com/presentation/d/1_BSY-aHIw8Xa__FL0HyAFoevLW7GHcTnx8j52dn0LsI/edit?usp=sharing">Google Slides</a></li>
-      <li><a href="https://cdn.cs50.net/2020/fall/lectures/1/lecture1.pdf">PDF</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1mRIN6EDK92NJJlazpFfBNKhxrAQUUxJOJW0UH7knS0g/edit?usp=sharing">Google Slides</a></li>
+      <li><a href="https://cdn.cs50.net/2021/fall/lectures/1/lecture1.pdf">PDF</a></li>
     </ul>
     </details>
     <details><summary>Source Code</summary>
     <ul>
-      <li><a href="https://cdn.cs50.net/2020/fall/lectures/1/src1/">Index</a></li>
-      <li><a href="https://cdn.cs50.net/2020/fall/lectures/1/src1.pdf">PDF</a></li>
-      <li><a href="https://cdn.cs50.net/2020/fall/lectures/1/src1.zip">Zip</a></li>
+      <li><a href="https://cdn.cs50.net/2021/fall/lectures/1/src1/">Index</a></li>
+      <li><a href="https://cdn.cs50.net/2021/fall/lectures/1/src1.pdf">PDF</a></li>
+      <li><a href="https://cdn.cs50.net/2021/fall/lectures/1/src1.zip">Zip</a></li>
     </ul>
     </details>
   </ul>   
@@ -48,20 +48,11 @@
   </ul>
 </details>
 
-### Labs
+### Labs, Practice, and Problems
 
-  - Go to [ide.cs50.io](https://ide.cs50.io/) (also linked to the left) and click "Log in" to access your CS50 IDE
-  - [Hello](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/1/hello/)
-  - [Population](\apcsp\psets\population)
-
-### Problems
-
-  - Pick one of the following to submit:
-    - [Mario](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/less/) for those **less** comfortable
-    - [Mario](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/mario/more/) for those **more** comfortable
-  - Pick one of the following to submit:
-    - [Cash](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/cash/) for those **less** comfortable
-    - [Credit](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/1/credit/) for those **more** comfortable
+- [Lab 1](https://cs50.harvard.edu/ap/2023/curriculum/x/labs/1/)
+- [Practice Problems](https://cs50.harvard.edu/ap/2023/problems/1/)
+- Problem Sets - Coming Soon!
    
 ### Advice
 
