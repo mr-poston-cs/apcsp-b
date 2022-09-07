@@ -8,6 +8,6 @@
   |-------|---------              |---------  |
   |**Mon**|Labor Day Holiday!! | |
   |**Tue**|Start C |Try and log into [VSCode for CS50](https://code.cs50.io/) |
-  |**Wed**| | |
-  |**Thu**| | |
+  |**Wed**|Continue with C<br>Code `hello.c` in class | |
+  |**Thu**|Go over functions & arguments; return values & variables | |
   |**Fri**| | |
