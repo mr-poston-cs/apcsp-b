@@ -8,8 +8,8 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Start [lecture](https://www.youtube.com/watch?v=URrzmoIyqLw&t=3873s) with `calculator.c` | |
-  |**Tue**| | |
-  |**Wed**| | |
+  |**Tue**|Conditionals & Boolean expressions | |
+  |**Wed**|Loops | |
   |**Thu**| | |
   |**Fri**| | |
 
