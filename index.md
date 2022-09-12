@@ -4,13 +4,14 @@ title: false
 
 <meta http-equiv="refresh" content="600"/>
 
+# Hello, world!
+
 <img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcements" height="300">  
 
 - <span style="font-size: 22px;">We are on Week 3!</span>
 
 
 
-# Hello, world!
 
 <!-- ### Your [Summer Assignment](\apcsp\curriculum\summer-assignment) is live now!!
 
