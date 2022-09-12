@@ -4,9 +4,9 @@ title: false
 
 <meta http-equiv="refresh" content="600"/>
 
-<!-- <img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcements" height="300">  
+<img src="https://bordertherapy.com/wp-content/uploads/2018/05/announcements-border-therapy.jpg" alt="announcements" height="300">  
 
-- <span style="font-size: 22px;"></span> -->
+- <span style="font-size: 22px;">We are on Week 3!</span>
 
 
 
@@ -19,7 +19,7 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 <iframe width="75%" src="https://www.youtube.com/embed/tZxLMIk_SaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 
-<img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300"> 
+<!-- <img src="https://www.dominicavibes.dm/wp-content/uploads/2016/09/Announcement-Icon.jpg" alt="announcement" height="300">  -->
 
 
 
