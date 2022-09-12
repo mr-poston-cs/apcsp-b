@@ -7,7 +7,7 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Start with `calculator.c`, then go over Conditionals and Boolean expressions | |
+  |**Mon**|Start [lecture](https://www.youtube.com/watch?v=URrzmoIyqLw&t=3873s) with `calculator.c`, then go over Conditionals and Boolean expressions stopping before loops| |
   |**Tue**| | |
   |**Wed**| | |
   |**Thu**| | |
