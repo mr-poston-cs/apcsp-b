@@ -10,7 +10,7 @@
   |**Mon**|Start [lecture](https://www.youtube.com/watch?v=URrzmoIyqLw&t=3873s) with `calculator.c` | |
   |**Tue**|Conditionals & Boolean expressions | |
   |**Wed**|Loops | |
-  |**Thu**|Continue with Loops & Functions; Mario | |
+  |**Thu**|Continue with [Loops & Functions](https://www.youtube.com/watch?v=URrzmoIyqLw&t=5798s); Mario | |
   |**Fri**| | |
 
 <img src="https://pbs.twimg.com/media/DKAT7rLVoAAaqdV.jpg" alt="code works, why" height="300">
