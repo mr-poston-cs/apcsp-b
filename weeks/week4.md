@@ -6,7 +6,7 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|[Monday](apcsp\plans\9-19-22) | |
+  |**Mon**|[Monday](apcsp/plans/9-19-22) |See the end of class work at the bottom of the page from the notes for today <-- |
   |**Tue**| | |
   |**Wed**| | |
   |**Thu**| | |
