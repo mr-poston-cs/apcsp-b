@@ -12,5 +12,5 @@
   |**Thu**| | |
   |**Fri**| | |
 
-<img src="https://news.mit.edu/sites/default/files/download/201503/MIT-Integer-Over-01-press.jpg" alt="integer overflow" width="50%">
+<img src="https://news.mit.edu/sites/default/files/download/201503/MIT-Integer-Over-01-press.jpg" alt="integer overflow" height="300">
 
