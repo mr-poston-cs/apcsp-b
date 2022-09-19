@@ -6,8 +6,8 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|[Monday](/apcsp/plans/9-19-22) |See the end of class work at the bottom of the page from the notes for today <-- |
-  |**Tue**| | |
+  |**Mon**|[Monday](/apcsp/plans/9-19-22) |See the end of class work at the bottom of the page from the notes for today <--<br>See the link in Teams to join your class' Submit50 |
+  |**Tue**| |See the link in Teams to join your class' Submit50 |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
