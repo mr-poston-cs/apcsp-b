@@ -10,7 +10,7 @@
   |**Tue**|[Practice Problems](https://cs50.harvard.edu/ap/2023/problems/1/) |See the link in Teams to join your class' Submit50 |
   |**Wed**|[Practice Problems](https://cs50.harvard.edu/ap/2023/problems/1/) | |
   |**Thu**|[Practice Problems](https://cs50.harvard.edu/ap/2023/problems/1/) |Complete the steps under SSH at [cs50.readthedocs.io/github/#ssh](https://cs50.readthedocs.io/github/#ssh) to configure your codespace for some of CS50’s command-line tools |
-  |**Fri**| | |
+  |**Fri**|Practice Problem - [Prime](https://cs50.harvard.edu/ap/2023/problems/1/prime/) | |
 
 <img src="https://news.mit.edu/sites/default/files/download/201503/MIT-Integer-Over-01-press.jpg" alt="integer overflow" height="300">
 
