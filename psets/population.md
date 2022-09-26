@@ -114,16 +114,11 @@ End size: 1000000
 Years: 115
 ```
 
-<details>  
-  <summary>Not sure how to solve?</summary>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2CcqQnLbGOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
-<br>
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself **FIRST**!
 
 ```
-check50 cs50/labs/2021/x/population
+check50 cs50/labs/2022/x/population
 ```
 
 Execute the below to evaluate the style of your code using `style50`.
@@ -137,5 +132,5 @@ style50 population.c
 Execute the below. No need to enter usernames and passwords, unless you set up a password when creating your SSH key for the last lab.
 
 ```
-submit50 cs50/labs/2021/x/population
+submit50 cs50/labs/2022/x/population
 ```

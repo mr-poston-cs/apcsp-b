@@ -50,7 +50,7 @@
 
 ### Labs, Practice, and Problems
 
-- [Lab 1](https://cs50.harvard.edu/ap/2023/curriculum/x/labs/1/)
+- [Lab 1](\apcsp\psets\population)
 - [Practice Problems](https://cs50.harvard.edu/ap/2023/problems/1/)
 - Problem Sets - Coming Soon!
    
