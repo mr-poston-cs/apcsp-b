@@ -5,7 +5,7 @@
 
 ---
 
-- [Summer Assignment 2022](\apcsp\curriculum\summer-assignment)
+<!-- - [Summer Assignment 2022](\apcsp\curriculum\summer-assignment) -->
 
 - [Week 0](/apcsp/weeks/week0)
 - [Week 1](/apcsp/weeks/week1)
