@@ -19,7 +19,8 @@ To try another example, if we were to start with `n = 1000` llamas, at the end o
 
 ## Getting Started
 
-- Copy the below "distribution code" (i.e., starter code) into a new file in you IDE called `population.c` inside your `pset1` folder.
+- Create a new folder called `pset1` 
+- Copy the below "distribution code" (i.e., starter code) into a new file in your codespace called `population.c` inside your `pset1` folder
 
 ```c
 #include <cs50.h>
