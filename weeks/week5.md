@@ -7,8 +7,8 @@
   |**Mon**|[Population Lab](\apcsp\psets\population)<br>**2nd period:** If I get to class before it's over, we will go over `prime.c`, or you can ask one of your classmates that got it to work to explain it to you :) |Work on Population lab |
   |**Tue**|Work on Population lab<br>If done with Population, start on one of the Mario PSETs of your choice linked below 👇🏼 |Get population turned in |
   |**Wed**|Start on [Mario PSET](https://candib80.github.io/apcsp/curriculum/1/#labs-practice-and-problems) | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Thu**|Work on [Mario](https://candib80.github.io/apcsp/curriculum/1/#labs-practice-and-problems) | |
+  |**Fri**|Senior Pictures | |
   
 
   **If you need help, or have questions, please let me know and we can meet during break/club or lunch.** Don't wait until a PSET is due to start asking questions.
