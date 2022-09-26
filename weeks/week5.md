@@ -6,7 +6,7 @@
   |-------|---------              |---------  |
   |**Mon**|[Population Lab](\apcsp\psets\population) |Work on Population lab |
   |**Tue**|Work on Population lab<br>If done with Population, start on one of the Mario PSETs of your choice linked below 👇🏼 |Get population turned in |
-  |**Wed**|Start on [Mario PSET]() | |
+  |**Wed**|Start on [Mario PSET](https://candib80.github.io/apcsp/curriculum/1/#labs-practice-and-problems) | |
   |**Thu**| | |
   |**Fri**| | |
   
