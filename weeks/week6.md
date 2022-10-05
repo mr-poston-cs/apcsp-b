@@ -7,8 +7,8 @@
   |**Mon**|Work on [Mario](https://candib80.github.io/apcsp/curriculum/1/#labs-practice-and-problems) | |
   |**Tue**|Continue working on Mario<br>We will do the first function of [Cash](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/1/cash/) in class |Mario due tonight by 11:59; Work on Cash |
   |**Wed**|Work on Cash | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Thu**|Test Review - Test on Monday |Study for Test<br>Cash due tonight by 11:59 |
+  |**Fri**|Senior Pictures | |
 
   **If you need help, or have questions, please let me know and we can meet during break/club or lunch.** Don't wait until a PSET is due to start asking questions.
 
