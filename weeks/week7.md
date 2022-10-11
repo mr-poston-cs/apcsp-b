@@ -1,14 +1,14 @@
-## Week 7
+## Week 7 <br>Week of 10/10
 
-### Week of 10/11/21<br>[Chapter 1](/apcsp/curriculum/1)<br>[Chapter 2](/apcsp/curriculum/2)
+### [Unit 2](/apcsp/curriculum/2)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Review Study Guide |Study for test |
-  |**Tue**|Test | |
-  |**Wed**|Review Test<br>Start on [Chapter 2](/apcsp/curriculum/2)  | |
-  |**Thu**|Chapter 2 - Compiling and debugging | |
-  |**Fri**|Ch 2 - Memory & Arrays | |
+  |**Mon**|Test | |
+  |**Tue**|Start on [Unit 2](/apcsp/curriculum/2) | |
+  |**Wed**|Juniors - PSAT | |
+  |**Thu**| | |
+  |**Fri**| | |
 
 
 <img src="https://ih0.redbubble.net/image.453247676.2842/flat,800x800,070,f.u3.jpg" alt="hide and seek champ ;" height="350">
