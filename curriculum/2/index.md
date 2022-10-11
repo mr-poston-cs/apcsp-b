@@ -49,7 +49,10 @@
 - [Practice Problems](https://cs50.harvard.edu/ap/2023/problems/2/)
 - Lab 2: TBD
 - Problem Sets:
-  - TBD
+  - Submit [Readability](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/readability/)
+  - Submit **one** of the following:
+    - [Caesar](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/caesar/), if feeling less comfortable
+    - [Substitution](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/substitution/), if feeling more comfortable
 
 
 <!-- 1. [Shining](https://lab.cs50.io/candib80/cs50labs/c/shining/)
@@ -63,6 +66,7 @@
 ### Advice
 
 - Try out any of the programs from class via the source code above
+- To see the manual pages for C functions, visit [manual.cs50.io](https://manual.cs50.io/)
 - If you see any errors when compiling your code with `make`, focus first on fixing the **very first** error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if trying to compile `readability`, and 
 ```
 make readability
