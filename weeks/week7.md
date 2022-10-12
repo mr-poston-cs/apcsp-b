@@ -7,7 +7,7 @@
   |**Mon**|Test | |
   |**Tue**|Start on [Unit 2](/apcsp/curriculum/2) | |
   |**Wed**|Juniors - PSAT | |
-  |**Thu**| | |
+  |**Thu**|Debugging |Watch the debugging shorts on how to use debug50:<br>[Step Over](https://www.youtube.com/watch?v=---HbbANxDQ) & [Step Into](https://www.youtube.com/watch?v=tk3cl8hyfqM)<br>Complete the short assignment in Teams for the videos |
   |**Fri**| | |
 
 
