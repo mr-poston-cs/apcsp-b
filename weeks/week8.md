@@ -6,8 +6,8 @@
   |-------|---------              |---------  |
   |**Mon**|Fall Holiday - NO SCHOOL! | |
   |**Tue**|Fall Holiday - NO SCHOOL! | |
-  |**Wed**|Continue with Arrays; Start on Strings<br>In class exercises | |
-  |**Thu**| | |
+  |**Wed**|Continue with Arrays; Start on Strings | |
+  |**Thu**|Finish up strings<br>In class exercises | |
   |**Fri**| | |
 
 
