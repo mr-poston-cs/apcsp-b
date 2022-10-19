@@ -1,14 +1,14 @@
-## Week 8
+## Week 8 <br>Week of 10/17
 
-### Week of 10/18/21<br>[Chapter 2](/apcsp/curriculum/2)
+### [Unit 2](/apcsp/curriculum/2)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Fall Holiday - NO SCHOOL! |
-  |**Tue**|Continue with Arrays | |
-  |**Wed**|Continue with Arrays; Start on Strings<br>If time in class, do [Shining Lab](https://lab.cs50.io/candib80/cs50labs/c/shining/) |Read the [Ref sheets](\apcsp\assets\pdfs\ch2_ref_sheets.pdf) for what we have covered so far |
-  |**Thu**|[Array Countdown](https://lab.cs50.io/candib80/cs50labs/c/arrayCountdown/),  [Garbage Values](https://lab.cs50.io/candib80/cs50labs/c/garbage/) & [Decode](https://lab.cs50.io/candib80/cs50labs/c/decode/) Labs| |
-  |**Fri**|Command Line Arguments | |
+  |**Mon**|Fall Holiday - NO SCHOOL! | |
+  |**Tue**|Fall Holiday - NO SCHOOL! | |
+  |**Wed**|Continue with Arrays; Start on Strings<br>In class exercises | |
+  |**Thu**| | |
+  |**Fri**| | |
 
 
 <meta http-equiv="refresh" content="300"/>
