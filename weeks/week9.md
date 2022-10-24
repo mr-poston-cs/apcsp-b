@@ -1,14 +1,14 @@
-## Week 9
+## Week 9 <br>Week of 10/124
 
-### Week of 10/25/21<br>[Chapter 2](/apcsp/curriculum/2)
+### [Unit 2](/apcsp/curriculum/2)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Finish up Ch 2<br>Command-line Arguments & Exit Codes |Read over the last of the Ref sheets for this chapter |
-  |**Tue**|[Old Friends Lab](https://lab.cs50.io/candib80/cs50labs/c/oldFriends/) |Finish lab for homework |
-  |**Wed**|[Adder lab](https://lab.cs50.io/candib80/cs50labs/c/adder/)<br> [Multiply lab](https://lab.cs50.io/candib80/cs50labs/c/mult/) | |
-  |**Thu**|[Lab 2 - Scrabble](https://candib80.github.io/apcsp/psets/scrabble) | |
-  |**Fri**|Continue with Scrabble |Have a good weekend!! |
+  |**Mon**|Command-line Arguments<br> | |
+  |**Tue**|Exit Status and Exercises | |
+  |**Wed**| | |
+  |**Thu**| | |
+  |**Fri**| | |
 
 
 <meta http-equiv="refresh" content="300"/>
