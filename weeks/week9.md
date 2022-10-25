@@ -4,8 +4,8 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Command-line Arguments<br> | |
-  |**Tue**|Exit Status and Exercises | |
+  |**Mon**|Command-line Arguments | |
+  |**Tue**|Exit Status and Exercises |Finish the `addition.c` program for homework |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
