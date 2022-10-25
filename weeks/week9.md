@@ -5,7 +5,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Command-line Arguments | |
-  |**Tue**|Exit Status and Exercises |Finish the `addition.c` program for homework - details below |
+  |**Tue**|Exit Status and Exercises |Finish the `addition.c` program for homework - [details below](https://candib80.github.io/apcsp/weeks/week9/#additionc) |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
