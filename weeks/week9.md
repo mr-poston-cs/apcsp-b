@@ -5,8 +5,14 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Command-line Arguments | |
-  |**Tue**|Exit Status and Exercises |Finish the `addition.c` program for homework - [details below](https://candib80.github.io/apcsp/weeks/week9/#additionc) |
-  |**Wed**|Go over Addition<br>Start on Initials |Work on Initials - details below |
+  |**Tue**|Exit Status and Exercises |Finish the `addition.c` program for homework - [details below](https://candib80.github.io/apcsp/weeks/week9/#Initials) |
+  |**Wed**|Go over Addition<br>Start on Initials |Work on Initials - #include <cs50.h>
+#include <ctype.h>
+#include <stdio.h>
+#include <string.h>
+
+int main(void)
+{ |
   |**Thu**| | |
   |**Fri**| | |
 
