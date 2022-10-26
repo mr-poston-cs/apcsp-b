@@ -5,14 +5,8 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Command-line Arguments | |
-  |**Tue**|Exit Status and Exercises |Finish the `addition.c` program for homework - [details below](https://candib80.github.io/apcsp/weeks/week9/#Initials) |
-  |**Wed**|Go over Addition<br>Start on Initials |Work on Initials - #include <cs50.h>
-#include <ctype.h>
-#include <stdio.h>
-#include <string.h>
-
-int main(void)
-{ |
+  |**Tue**|Exit Status and Exercises |Finish the `addition.c` program for homework - [details below](https://candib80.github.io/apcsp/weeks/week9/#additionc) |
+  |**Wed**|Go over Addition<br>Start on Initials |Work on Initials - [details below](https://candib80.github.io/apcsp/weeks/week9/#initials) |
   |**Thu**| | |
   |**Fri**| | |
 
@@ -42,27 +36,27 @@ int main(void)
     Usage: ./addition x y
   ```
 
-  #### Initials
+#### Initials
 
-  - Write a program `initials.c` that takes a user’s full name as input, and outputs their initials.
-    - The program should accept a user’s name using `get_string`
-    - Initials should all be printed as uppercase letters, even if the name contains lowercase letters
-    - Students can assume that the user’s names will be separated by one space
-    - Sample usage:
-        ```
-        $ ./initials
-        Name: David J. Malan
-        DJM
-        ```
-
-    - Partial sample solution:
-      ```c
-        #include <cs50.h>
-        #include <ctype.h>
-        #include <stdio.h>
-        #include <string.h>
-
-        int main(void)
-        {
-          ...
+- Write a program `initials.c` that takes a user’s full name as input, and outputs their initials.
+  - The program should accept a user’s name using `get_string`
+  - Initials should all be printed as uppercase letters, even if the name contains lowercase letters
+  - Students can assume that the user’s names will be separated by one space
+  - Sample usage:
       ```
+      $ ./initials
+      Name: David J. Malan
+      DJM
+      ```
+
+  - Partial sample solution:
+    ```c
+      #include <cs50.h>
+      #include <ctype.h>
+      #include <stdio.h>
+      #include <string.h>
+
+      int main(void)
+      {
+        ...
+    ```
