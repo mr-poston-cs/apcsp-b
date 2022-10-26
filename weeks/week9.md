@@ -6,7 +6,7 @@
   |-------|---------              |---------  |
   |**Mon**|Command-line Arguments | |
   |**Tue**|Exit Status and Exercises |Finish the `addition.c` program for homework - [details below](https://candib80.github.io/apcsp/weeks/week9/#additionc) |
-  |**Wed**| | |
+  |**Wed**|Go over Addition<br>Start on Initials |Work on Initials - details below |
   |**Thu**| | |
   |**Fri**| | |
 
@@ -35,3 +35,28 @@
     $ ./addition 2
     Usage: ./addition x y
   ```
+
+  #### Initials
+
+  - Write a program `initials.c` that takes a user’s full name as input, and outputs their initials.
+    - The program should accept a user’s name using `get_string`
+    - Initials should all be printed as uppercase letters, even if the name contains lowercase letters
+    - Students can assume that the user’s names will be separated by one space
+    - Sample usage:
+        ```
+        $ ./initials
+        Name: David J. Malan
+        DJM
+        ```
+
+    - Partial sample solution:
+      ```c
+        #include <cs50.h>
+        #include <ctype.h>
+        #include <stdio.h>
+        #include <string.h>
+
+        int main(void)
+        {
+          ...
+      ```
