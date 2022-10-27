@@ -7,8 +7,8 @@
   |**Mon**|Command-line Arguments | |
   |**Tue**|Exit Status and Exercises |Finish the `addition.c` program for homework - [details below](https://candib80.github.io/apcsp/weeks/week9/#additionc) |
   |**Wed**|Go over Addition<br>Start on Initials |Work on Initials - [details below](https://candib80.github.io/apcsp/weeks/week9/#initials) |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Thu**|Go over Initials then start on [Lab2](https://cs50.harvard.edu/ap/2023/curriculum/x/labs/2/) |Work on Lab 2 |
+  |**Fri**|Continue working on Lab2 | |
 
 
 <meta http-equiv="refresh" content="300"/>

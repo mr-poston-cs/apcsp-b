@@ -49,7 +49,7 @@
 ### Practice, Labs & Problems
 
 - [Practice Problems](https://cs50.harvard.edu/ap/2023/problems/2/)
-- Lab 2: TBD
+- [Lab 2](https://cs50.harvard.edu/ap/2023/curriculum/x/labs/2/)
 - Problem Sets:
   - Submit [Readability](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/readability/)
   - Submit **one** of the following:
