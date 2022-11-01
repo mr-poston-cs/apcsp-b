@@ -1,4 +1,4 @@
-## Week 9 <br>Week of 10/124
+## Week 9 <br>Week of 10/24
 
 ### [Unit 2](/apcsp/curriculum/2)
 

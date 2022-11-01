@@ -1,14 +1,14 @@
-## Week 10
+## Week 10 <br>Week of 10/31
 
-### Week of 11/1/21<br>[Chapter 2](/apcsp/curriculum/2)
+### [Unit 2](/apcsp/curriculum/2)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Finish up [Scrabble](/apcsp/psets/scrabble)<br>Start on [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/readability/) when you finish Scrabble | |
-  |**Tue**|Work on [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/readability/) | |
+  |**Mon**|Finish up [Scrabble](https://cs50.harvard.edu/ap/2023/curriculum/x/labs/2/)<br>Start on [Readability](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/readability/) when you finish Scrabble | |
+  |**Tue**|Work on [Readability](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/readability/) | |
   |**Wed**|Readability | |
   |**Thu**|Readability | |
-  |**Fri**|Start on [Caesar](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/2/caesar/) | |
+  |**Fri**|Start on [Caesar](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/caesar/) | |
 
 
 <meta http-equiv="refresh" content="300"/>
