@@ -7,7 +7,7 @@
   |**Mon**|[Caesar](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/caesar/) |Work on Caesar at home some!! |
   |**Tue**|[Caesar](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/caesar/) |Work on Caesar at home some!! |
   |**Wed**|Work on Caesar<br>Hand out Study Guide | |
-  |**Thu**|Review for Unit 2 Test tomorrow | |
+  |**Thu**|Review for Unit 2, Test tomorrow | |
   |**Fri**|Test on Unit 2 | |
 
 
