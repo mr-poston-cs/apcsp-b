@@ -8,7 +8,7 @@
   |**Tue**|[Caesar](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/2/caesar/) |Work on Caesar at home some!! |
   |**Wed**|Work on Caesar<br>Hand out Study Guide | |
   |**Thu**|Review for Unit 2, Test tomorrow | |
-  |**Fri**|Test on Unit 2 | |
+  |**Fri**|Test on Unit 2 |Caesar is Due Monday night! |
 
 
 <meta http-equiv="refresh" content="300"/>
