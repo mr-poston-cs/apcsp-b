@@ -1,20 +1,26 @@
-# Chapter 3
+# Unit 3 - Algorithms
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gR6nycuZKlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yb0PY3LX2x8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Lecture  
-<ul>
-  <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/notes/3/">Notes</a></li>
-  <li><a href="https://docs.google.com/presentation/d/1pHf8lId1tvO5tSHs9NJYN2H_YhvGdoLakyOFq4XQq7s/edit?usp=sharing">Google Slides</a></li>
-  
-  <details><summary>Source Code</summary>
+<details>
+  <summary>Lecture</summary>
   <ul>
-    <li><a href="https://cdn.cs50.net/2020/fall/lectures/3/src3/">Index</a></li>
-    <li><a href="https://cdn.cs50.net/2020/fall/lectures/3/src3.pdf">PDF</a></li>
-    <li><a href="https://cdn.cs50.net/2020/fall/lectures/3/src3.zip">Zip</a></li>
-  </ul>
-  </details>
-</ul>   
+    <li><a href="https://cs50.harvard.edu/ap/2023/curriculum/x/notes/3/">Notes</a></li>
+    <details><summary>Slides</summary>
+    <ul>
+      <li><a href="https://docs.google.com/presentation/d/1yIBqjBlJMr_lS7NjADY8Fz0D9hIoy-EJG0dZB7pBPj0/edit?usp=sharing">Google Slides</a></li>
+      <li><a href="https://cdn.cs50.net/2021/fall/lectures/3/lecture3.pdf">PDF</a></li>
+    </ul>
+    </details>
+    <details><summary>Source Code</summary>
+    <ul>
+      <li><a href="https://cdn.cs50.net/2021/fall/lectures/3/src3/">Index</a></li>
+      <li><a href="https://cdn.cs50.net/2021/fall/lectures/3/src3.pdf">PDF</a></li>
+      <li><a href="https://cdn.cs50.net/2021/fall/lectures/3/src3.zip">Zip</a></li>
+    </ul>
+    </details>
+  </ul>   
+</details>    
 
 <details>  
   <summary>Shorts</summary>
@@ -41,23 +47,15 @@
   </ul>
 </details>
 
-### Labs
-1. [Lab 3](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/3/)
+### Practice, Labs & Problems
 
+- Practice Problems
+- Lab 3
+- Problem Sets:
 
-### Problems
-<ol>
-  <li>Submit <a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/3/plurality/">Plurality</a></li>
-  <li>Submit one of the following:
-    <ul>
-      <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/3/runoff/">Runoff</a>, for those less comfortable</li>
-      <li><a href="https://cs50.harvard.edu/ap/2022/curriculum/x/psets/3/tideman/">Tideman</a>, for those more comfortable</li>
-    </ul>
-  </li>
-</ol>
 
 #### Advice
-- Try out David's programs from class via [Chapter 3](https://cdn.cs50.net/2020/fall/lectures/3/src3.pdf)'s examples
+- Try out David's programs from class via [Unit 3](https://cdn.cs50.net/2021/fall/lectures/3/src3.pdf)'s examples
 - If you see any errors when compiling your code with `make`, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if trying to compile `plurality`, and
 
 ```
