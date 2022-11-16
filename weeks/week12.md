@@ -5,7 +5,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Go over Test on Unit 2 | |
-  |**Tue**|Start Unit 3 |Caesar due by 11:59pm |
+  |**Tue**|Start Unit 3<br>[Lecture video](https://youtu.be/yb0PY3LX2x8?t=73) through Linear Search (ending around 30 minutes) |Caesar due by 11:59pm |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
