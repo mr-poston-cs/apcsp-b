@@ -6,7 +6,7 @@
   |-------|---------              |---------  |
   |**Mon**|Go over Test on Unit 2 | |
   |**Tue**|Start Unit 3<br>[Lecture video](https://youtu.be/yb0PY3LX2x8?t=73) through Linear Search (ending around 30 minutes) |Caesar due by 11:59pm |
-  |**Wed**| | |
+  |**Wed**|Binary search pseudocode and searching examples; see [notes](https://cs50.harvard.edu/ap/2023/curriculum/x/notes/3/#searching-with-code) | |
   |**Thu**| | |
   |**Fri**| | |
 
