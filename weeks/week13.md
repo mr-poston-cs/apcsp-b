@@ -1,11 +1,11 @@
-## Week 13
+## Week 13 <br>Week of 11/21
 
-### Week of 11/22/21<br>[Chapter 3](/apcsp/curriculum/3)
+### [Unit 3](/apcsp/curriculum/3)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Recursion & Merge Sort | |
-  |**Tue**|Ms. White will be watching you :)<br>Work on [Lab 3](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/3/)<br>Go to the Lecture notes online or the Reference sheets (namely the Computational Complexity one) to look at the run times of each sorting algorithm |Have a wonderful break!! |
+  |**Mon**| | |
+  |**Tue**| | |
   |**Wed**|Thanksgiving Break | |
   |**Thu**|Happy Thanksgiving | |
   |**Fri**|Thanksgiving Break | |

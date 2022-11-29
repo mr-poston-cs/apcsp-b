@@ -1,14 +1,14 @@
-## Week 14
+## Week 14 <br>Week of 11/28
 
-### Week of 11/29/21<br>[Chapter 3](/apcsp/curriculum/3)<br>[Plurality](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/3/plurality/)
+### [Unit 3](/apcsp/curriculum/3)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Start on [Plurality](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/3/plurality/) |Finish [Lab 3](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/3/) if you did not finish it before now |
-  |**Tue**|Work on Plurality |Work on Plurality |
-  |**Wed**|Work on Plurality | |
-  |**Thu**|Work on Plurality | |
-  |**Fri**|Work on Plurality | |
+  |**Mon**|Recursion | |
+  |**Tue**|Merge Sort | |
+  |**Wed**|Start working on Exercises | |
+  |**Thu**| | |
+  |**Fri**| | |
 
 
 <meta http-equiv="refresh" content="300"/>
