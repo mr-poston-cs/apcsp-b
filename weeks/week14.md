@@ -6,7 +6,8 @@
   |-------|---------              |---------  |
   |**Mon**|Recursion | |
   |**Tue**|Merge Sort | |
-  |**Wed**|Start working on Exercises | |
+  |**Wed**|Start working on Exercises - See below<br>
+  If there is time left, we will work on other practice problems | |
   |**Thu**| | |
   |**Fri**| | |
 
@@ -16,12 +17,6 @@
 <img src="https://i.ytimg.com/vi/47GRtdHOKMg/maxresdefault.jpg" alt="computational complexity" height="250">
 
 
-<!-- ### Content for Exam:
-
-* [Understanding Technology](/apcsp/curriculum/understanding_technology)
-* [Chapter 0](/apcsp/curriculum/0)
-* [Chapter 1](/apcsp/curriculum/1)
-* [Chapter 2](/apcsp/curriculum/2) 
-* [Chapter 3](/apcsp/curriculum/3)
-* [Chapter 4](/apcsp/curriculum/4) 
-   -->
+#### Exercises:  
+- [Struct 0](https://lab.cs50.io/candib80/cs50labs/c/struct0/)
+- [Struct 1](https://lab.cs50.io/candib80/cs50labs/c/struct1/)
