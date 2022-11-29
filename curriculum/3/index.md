@@ -49,9 +49,13 @@
 
 ### Practice, Labs & Problems
 
-- Practice Problems
-- Lab 3
+- [Practice Problems](https://cs50.harvard.edu/ap/2023/problems/3/)
+- [Lab 3](https://cs50.harvard.edu/ap/2023/curriculum/x/labs/3/)
 - Problem Sets:
+  - Submit [Plurality](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/3/plurality/)
+  - Submit **one** of the following:
+    - [Runoff](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/3/runoff/), if feeling less comfortable
+    - [Tideman](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/3/tideman/), if feeling more comfortable
 
 
 #### Advice
