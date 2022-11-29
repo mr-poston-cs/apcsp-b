@@ -6,8 +6,7 @@
   |-------|---------              |---------  |
   |**Mon**|Recursion | |
   |**Tue**|Merge Sort | |
-  |**Wed**|Start working on Exercises - See below<br>
-  If there is time left, we will work on other practice problems | |
+  |**Wed**|Start working on Exercises - See below<br>If there is time left, we will work on other practice problems | |
   |**Thu**| | |
   |**Fri**| | |
 
