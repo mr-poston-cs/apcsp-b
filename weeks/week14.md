@@ -7,8 +7,8 @@
   |**Mon**|Recursion | |
   |**Tue**|Merge Sort | |
   |**Wed**|Start working on Exercises - See below<br>If there is time left, we will work on other practice problems | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Thu**|Finish up Struct practice problems below | |
+  |**Fri**|Work on other practice problems TBD... | |
 
 
 <meta http-equiv="refresh" content="300"/>
