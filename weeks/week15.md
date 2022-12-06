@@ -8,7 +8,7 @@
   |**Tue**|Quiz on Unit 3 | |
   |**Wed**|Exam Review | |
   |**Thu**|Exam Review | |
-  |**Fri**|Reading Day | |
+  |**Fri**|Exam Review | |
 
 #### Practice Problem
 - Fibonacci
