@@ -70,7 +70,7 @@ Before submitting your work as final, please:
 
 [Survival Guide](https://candib80.github.io/apcsp/assets/pdfs/digital_portfolio/create-survival-2021.pdf)<br>
 [Scoring Guidelines](https://apcentral.collegeboard.org/pdf/ap21-sg-computer-science-principles.pdf)<br>
-[College Board Create Student Handouts](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf)
+[College Board Create Student Handouts](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf)<br>
 [Sample Responses](https://apstudents.collegeboard.org/courses/ap-computer-science-principles/assessment/2021-create-performance-task-pilot-samples) - Sample A is always the best, and Sample I is worst
 
 ### PDF of Code:
