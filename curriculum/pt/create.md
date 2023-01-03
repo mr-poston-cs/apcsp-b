@@ -81,11 +81,8 @@ To use this follow this example, provided you have `cd`'d into the correct folde
   - You can then right click on the PDF that was generated, and click download to save it to your computer.
   - To read all the documentation on `render50`, you can [read the docs here](https://cs50.readthedocs.io/render50/)
 
-### Screen Recording of Program Running:  
-
-**With all of these, make sure to mute your mic, as you are not supposed to have your voice in the video!**
-  - [Screencast-o-matic](https://screencast-o-matic.com/) - may require download depending on browser/plugins; Use at your own risk... I have not been successful with downloading the file after recording.
-  - [Screencastify](https://www.screencastify.com/) - Chrome extension with 5 minute limit for free use  
+### Screen Recording of Program Running:
   - [Loom](https://www.loom.com/signup) - requires free account and download/browser extension
   - On Windows 10/11, you can use the built-in screen recording: [Quora Article](https://www.quora.com/How-can-I-Record-Screen-in-Windows-10)
   - [On a Mac](https://support.apple.com/en-us/HT208721)
+**With any of these, make sure to mute your mic, as you are not supposed to have your voice in the video!**
