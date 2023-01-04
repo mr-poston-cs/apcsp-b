@@ -74,12 +74,13 @@ Before submitting your work as final, please:
 
 
 ### PDF of Code:
-I suggest you use the IDE's built-in code rendering, `render50`  
+<!-- I suggest you use the IDE's built-in code rendering, `render50`  
 To use this follow this example, provided you have `cd`'d into the correct folder:  
   `render50 -o output.pdf input.c`
   - Where `output.pdf` is the name of the file you wish to output, and `input.c` is the name of the program's source file, either a C or Python file.
   - You can then right click on the PDF that was generated, and click download to save it to your computer.
-  - To read all the documentation on `render50`, you can [read the docs here](https://cs50.readthedocs.io/render50/)
+  - To read all the documentation on `render50`, you can [read the docs here](https://cs50.readthedocs.io/render50/) -->
+I am figuring out how to do this with the new Codespace and will have an answer for you by the time you need to produce the PDF of your code!
 
 ### Screen Recording of Program Running:
   - [Loom](https://www.loom.com/signup) - requires free account and download/browser extension
