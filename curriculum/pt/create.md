@@ -70,7 +70,8 @@ Before submitting your work as final, please:
 
 [Survival Guide](https://candib80.github.io/apcsp/assets/pdfs/digital_portfolio/create-survival-2021.pdf)<br>
 [Scoring Guidelines](https://apcentral.collegeboard.org/media/pdf/ap22-sg-computer-science-principles.pdf)<br>
-[College Board Exam Resources](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam)
+[College Board Exam Resources](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam)<br>
+[CB Student Handouts](https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf) - includes task directions
 
 
 ### PDF of Code:
