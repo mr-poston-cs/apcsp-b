@@ -84,6 +84,6 @@ I am figuring out how to do this with the new Codespace and will have an answer 
 
 ### Screen Recording of Program Running:
   - [Loom](https://www.loom.com/signup) - requires free account and download/browser extension
-  - On Windows 10/11, you can use the built-in screen recording: [Quora Article](https://www.quora.com/How-can-I-Record-Screen-in-Windows-10)
+  - On Windows 10/11, you can use the built-in screen recording: [MS Support Article](https://support.microsoft.com/en-us/windows/use-a-screen-reader-to-record-your-screen-with-xbox-game-bar-5328cd25-9046-4472-8a14-c485f138802c)
   - [On a Mac](https://support.apple.com/en-us/HT208721)  
 **With any of these, make sure to mute your mic, as you are not supposed to have your voice in the video!**
