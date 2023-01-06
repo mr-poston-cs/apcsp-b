@@ -8,7 +8,7 @@
   |**Tue**|Work on [Max practice problem](https://cs50.harvard.edu/ap/2023/problems/3/max/) |Work on `max.c` - due tomorrow by end of class |
   |**Wed**|Finish up `max.c`<br>Start Overview of Create | |
   |**Thu**| | |
-  |**Fri**| | |
+  |**Fri**| |Do the Narrow it Down pages (6 & 7) of the Survival Guide over the weekend |
 
 <!-- <img src="https://slideplayer.com/16079147/88/images/slide_1.jpg" alt="Pointer Fun with Binky" height="400"> -->
 
