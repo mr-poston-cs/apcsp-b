@@ -1,15 +1,14 @@
-## Week 18
+## Week 18 <br>Week of 1/16
 
-### Week of 1/17/22<br>[Chapter 4](/apcsp/curriculum/4)  
-[Filter, for those less comfortable](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/4/filter/less/)
+[Create](/apcsp/curriculum/pt/create)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Reading Day | |
-  |**Tue**|Finish up Filter | |
-  |**Wed**|Finish up Filter; Review |Filter due tonight |
-  |**Thu**|Review for Test on Ch 4 | |
-  |**Fri**|Test on Ch 4  | |
+  |**Mon**|Work on Create D6 |Work on Create |
+  |**Tue**|Work on Create D7 |Work on Create |
+  |**Wed**|Work on Create D8 |Work on Create |
+  |**Thu**|Work on Create D9 |Work on Create |
+  |**Fri**|Work on Create D10 |Work on Create |
 
 <img src="https://pbs.twimg.com/media/EatR2YNU4AIzJ8N.jpg" alt="filter pset blur" height="400">
 
