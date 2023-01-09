@@ -4,11 +4,11 @@
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Work on Create D6 |Work on Create |
-  |**Tue**|Work on Create D7 |Work on Create |
-  |**Wed**|Work on Create D8 |Work on Create |
-  |**Thu**|Work on Create D9 |Work on Create |
-  |**Fri**|Work on Create D10 |Work on Create |
+  |**Mon**|MLK Day |Work on Create |
+  |**Tue**|Work on Create D6 |Work on Create |
+  |**Wed**|Work on Create D7 |Work on Create |
+  |**Thu**|Work on Create D8 |Work on Create |
+  |**Fri**|Work on Create D9 |Work on Create |
 
 <img src="https://pbs.twimg.com/media/EatR2YNU4AIzJ8N.jpg" alt="filter pset blur" height="400">
 
