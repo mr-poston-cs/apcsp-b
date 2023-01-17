@@ -10,6 +10,6 @@
   |**Thu**|Work on Create D8 |Work on Create |
   |**Fri**|Work on Create D9 |Work on Create |
 
-<img src="https://pbs.twimg.com/media/EatR2YNU4AIzJ8N.jpg" alt="filter pset blur" height="400">
+<!-- <img src="https://pbs.twimg.com/media/EatR2YNU4AIzJ8N.jpg" alt="filter pset blur" height="400"> -->
 
 <meta http-equiv="refresh" content="300"/>
