@@ -8,7 +8,7 @@
   |**Tue**|Work on Create D11 |Work on Create |
   |**Wed**|Work on Create D12 |Work on Create |
   |**Thu**|Start on Unit 4 |Work on Create |
-  |**Fri**| |Create Progress Check 3 Due |
+  |**Fri**|Continue Unit 4 |Continue to work on Create |
 
 <!-- <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2019/12/Applications-of-python.jpg" alt="python applications" height="400"> -->
 
