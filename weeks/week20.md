@@ -1,17 +1,19 @@
-## Week 20
+## Week 20 <br>Week of 1/30
 
-### Week of 1/31/22<br>[Chapter 6](/apcsp/curriculum/6)  
+[Create](/apcsp/curriculum/pt/create) - Due to me, marked as FINAL in Digital Portfolio, March 3<br>[Unit 4](/apcsp/curriculum/4)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Continue with Python |Make sure to get your `hello.py` and `mario.py` turned in!! |
-  |**Tue**|Mrs. Beaman will not be in class. Work on [Cash](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/cash/)<br>If you have already turned in Cash, you can read over [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/readability/) or help others with questions on Cash | |
-  |**Wed**|Continue with `argv` and `exit` | |
-  |**Thu**|Working with files in Python<br>[hogwarts.csv](\apcsp\assets\pdfs\hogwarts.csv) | |
+  |**Mon**|Continue on Unit 4 - Pointer fun ;) |Work on Create |
+  |**Tue**| | |
+  |**Wed**| | |
+  |**Thu**| | |
   |**Fri**| | |
 
-<img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2019/12/Applications-of-python.jpg" alt="python applications" height="400">
+<img src="https://slideplayer.com/16079147/88/images/slide_1.jpg" alt="Pointer Fun with Binky" height="400">
 
-<img src="\apcsp\assets\img\hogwarts.png" alt="hogwarts form qr" height="400">
+<!-- <img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2019/12/Applications-of-python.jpg" alt="python applications" height="400">
+
+<img src="\apcsp\assets\img\hogwarts.png" alt="hogwarts form qr" height="400"> -->
 
 <meta http-equiv="refresh" content="300"/>
