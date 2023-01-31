@@ -6,7 +6,7 @@
   |-------|---------              |---------  |
   |**Mon**|Continue on Unit 4 - Pointer fun ;) |Work on Create |
   |**Tue**|Finish up Unit 4<br>Start on Lab 4 | |
-  |**Wed**| | |
+  |**Wed**|Work on Lab 4 | |
   |**Thu**| | |
   |**Fri**| | |
 
