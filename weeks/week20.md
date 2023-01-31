@@ -5,7 +5,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Continue on Unit 4 - Pointer fun ;) |Work on Create |
-  |**Tue**| | |
+  |**Tue**|Finish up Unit 4<br>Start on Lab 4 | |
   |**Wed**| | |
   |**Thu**| | |
   |**Fri**| | |
