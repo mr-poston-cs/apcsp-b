@@ -7,8 +7,8 @@
   |**Mon**|Continue on Unit 4 - Pointer fun ;) |Work on Create |
   |**Tue**|Finish up Unit 4<br>Start on Lab 4 | |
   |**Wed**|Work on Lab 4 | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Thu**|Finish up Lab 4<br>Start on Whodunit | |
+  |**Fri**|Lab 4 due at end of class | |
 
 <img src="https://slideplayer.com/16079147/88/images/slide_1.jpg" alt="Pointer Fun with Binky" height="400">
 
