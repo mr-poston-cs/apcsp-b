@@ -5,7 +5,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Whodunit |Work on Create |
-  |**Tue**|Finish up Whodunit<br>Start on Filter PSET |Work on Create |
+  |**Tue**|Finish up Whodunit<br>Start on Filter PSET |Read about Grayscale<br>Work on Create |
   |**Wed**|Work on Filter PSET |Work on Create |
   |**Thu**|Work on Filter PSET |Work on Create |
   |**Fri**|Work on Filter PSET |Work on Create |
