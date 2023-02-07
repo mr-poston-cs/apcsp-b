@@ -1,16 +1,16 @@
-## Week 21
+## Week 21 <br>Week of 2/6
 
-### Week of 2/7/22<br>[Chapter 6](/apcsp/curriculum/6)  
+[Create](/apcsp/curriculum/pt/create) - Due to me, marked as FINAL in Digital Portfolio, March 3<br>[Unit 4](/apcsp/curriculum/4)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Finish up [Readability](https://cs50.harvard.edu/ap/2022/curriculum/x/psets/6/readability/) |Finish up Readability and try to get it turned in<br>If you have not already turned in Cash, please get that in tonight! |
-  |**Tue**|Start working on [Lab 6](https://cs50.harvard.edu/ap/2022/curriculum/x/labs/6/) |Continue working on Lab 6 |
-  |**Wed**| | |
-  |**Thu**|Review for test | |
-  |**Fri**|Test on Chapter 6 | |
+  |**Mon**|Whodunit |Work on Create |
+  |**Tue**|Finish up Whodunit<br>Start on Filter PSET |Work on Create |
+  |**Wed**|Work on Filter PSET |Work on Create |
+  |**Thu**|Work on Filter PSET |Work on Create |
+  |**Fri**|Work on Filter PSET |Work on Create |
 
-<img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2019/12/Applications-of-python.jpg" alt="python applications" height="400">
+<img src="https://hips.hearstapps.com/seventeen/assets/15/52/1450814666-filters.jpg" alt="filter" height="400">
 
 <meta http-equiv="refresh" content="300"/>
 
