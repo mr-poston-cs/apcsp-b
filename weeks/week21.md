@@ -5,7 +5,7 @@
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
   |**Mon**|Whodunit |Work on Create |
-  |**Tue**|Finish up Whodunit<br>Start on Filter PSET |Read about [Grayscale](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/4/filter/less/#grayscale)<br>Work on Create |
+  |**Tue**|Finish up Whodunit<br>Start on Filter PSET |Read about [Grayscale](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/4/filter/less/#grayscale) & download [starter code](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/4/filter/less/#getting-started)<br>Work on Create |
   |**Wed**|Work on Filter PSET |Work on Create |
   |**Thu**|Work on Filter PSET |Work on Create |
   |**Fri**|Work on Filter PSET |Work on Create |
