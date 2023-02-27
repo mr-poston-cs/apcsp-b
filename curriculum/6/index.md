@@ -30,7 +30,7 @@
 - Problems
 
 #### Advice
-- Try out David's programs from class via [Chapter 6](https://cdn.cs50.net/2020/fall/lectures/6/src6.pdf)'s examples
+- Try out David's programs from class via [Chapter 6](https://cdn.cs50.net/2021/fall/lectures/6/src6.pdf)'s examples
 - If you see any errors when compiling your code with `make`, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if trying to compile `hello`, and
 
 ```
