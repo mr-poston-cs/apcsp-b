@@ -1,14 +1,14 @@
-## Week 24
+## Week 23 <br>Week of 2/20
 
-### Week of 2/28/22<br>[Create](\apcsp\curriculum\pt\create) 
+[Create](/apcsp/curriculum/pt/create) - Due to me, marked as FINAL in Digital Portfolio, March 3<br>[Unit 4](/apcsp/curriculum/4)<br>[Unit 6](/apcsp/curriculum/6)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Create day 5 | |
-  |**Tue**|Create day 6<br>Go over making video of code running | |
-  |**Wed**|Create day 7 | |
-  |**Thu**|Create day 8 | |
-  |**Fri**|Create day 9 | |
+  |**Mon**|Quiz Review | |
+  |**Tue**|Unit 4 Quiz | |
+  |**Wed**|Start Unit 6 | |
+  |**Thu**| | |
+  |**Fri**| | |
 
 <img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" alt="computer programming" height="300">
 
