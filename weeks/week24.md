@@ -6,9 +6,9 @@
   |-------|---------              |---------  |
   |**Mon**|Quiz Review | |
   |**Tue**|Unit 4 Quiz | |
-  |**Wed**|Start Unit 6 | |
-  |**Thu**| | |
-  |**Fri**| | |
+  |**Wed**|Start Unit 6 - Python syntax | |
+  |**Thu**|Continue lecture | |
+  |**Fri**|Continue lecture |Try and get create uploaded, but you still can use tardy/late |
 
 <img src="https://www.learncomputerscienceonline.com/wp-content/uploads/2019/10/Program-Coding.jpg" alt="computer programming" height="300">
 
