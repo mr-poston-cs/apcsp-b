@@ -35,16 +35,16 @@ Before you submit your work as final, please:
 Submit one video file that demonstrates the running of your program as described below. Collaboration is not allowed during the development of your video.
 
 Your video must demonstrate your program running, including:
-- Input to your program
-- At least one aspect of the functionality of your program
-- Output produced by your program
+  - Input to your program
+  - At least one aspect of the functionality of your program
+  - Output produced by your program
 Your video may NOT contain:  
-- Any distinguishing information about yourself
-- Voice narration (though text captions are encouraged)
+  - Any distinguishing information about yourself
+  - Voice narration (though text captions are encouraged)
 Your video must be:  
-- Either .webm, .mp4, .wmv, .avi, or .mov format
-- No more than 1 minute in length
-- No more than 30MB in file size
+  - Either .webm, .mp4, .wmv, .avi, or .mov format
+  - No more than 1 minute in length
+  - No more than 30MB in file size
 
 **Submission Reminders**  
 Before submitting your work as final, please:
