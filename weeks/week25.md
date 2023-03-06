@@ -1,14 +1,14 @@
-## Week 25
+## Week 25 <br>Week of 3/6
 
-### Week of 3/7/22<br>[Create](\apcsp\curriculum\pt\create)<br>[Ch 8](\apcsp\curriculum\8) - HTML, CSS, JavaScript
+[Create](/apcsp/curriculum/pt/create) - Due to me, marked as FINAL in Digital Portfolio, **Late date: March 10**<br>[Unit 6](/apcsp/curriculum/6)
 
   |       |In Class               |Homework   |
   |-------|---------              |---------  |
-  |**Mon**|Create day 10 |[Sample Responses](https://apstudents.collegeboard.org/courses/ap-computer-science-principles/assessment/2021-create-performance-task-pilot-samples) - Sample A is always the best, and Sample I is worst |
-  |**Tue**|Create day 11 | |
-  |**Wed**|Create day 12 |Please back up your files before the date for the IDE Maintenance!!! See link below |
-  |**Thu**|Start on [Ch 8](\apcsp\curriculum\8) HTML, CSS, JavaScript  |Continue to finish up Create |
-  |**Fri**|HTML<br>end of grading period |Continue to finish up Create |
+  |**Mon**|Continue Python examples |Make sure to get Create turned in by **Friday** |
+  |**Tue**|Continue Python examples | |
+  |**Wed**| |Python Quiz tomorrow or Friday |
+  |**Thu**|Python Quiz (.5 in Major assessments category) | |
+  |**Fri**| | |
 
 #### [CS50 IDE Maintenance](https://cs50.statuspage.io/incidents/zkpbpvnm46s5) 
   - [How to copy files from CS50 IDE to new CS50 Codespace](https://cs50.harvard.edu/x/2022/new/#how-to-copy-files-from-cs50-ide-to-your-cs50-codespace) - Can also be used to simply back up your files
