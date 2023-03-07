@@ -6,7 +6,7 @@
   |-------|---------              |---------  |
   |**Mon**|Continue Python examples |Make sure to get Create turned in by **Friday** |
   |**Tue**|Continue Python examples | |
-  |**Wed**| |Python Quiz tomorrow or Friday |
+  |**Wed**|Python file i/o |Python Quiz tomorrow or Friday |
   |**Thu**|Python Quiz (.5 in Major assessments category) | |
   |**Fri**| | |
 
