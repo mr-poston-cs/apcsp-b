@@ -8,7 +8,7 @@
   |**Tue**|Continue Python examples | |
   |**Wed**|Python file i/o |Python Quiz tomorrow or Friday |
   |**Thu**|Python Quiz (.5 in Major assessments category) | |
-  |**Fri**| | |
+  |**Fri**|Mrs. Beaman not here | |
 
 
 
