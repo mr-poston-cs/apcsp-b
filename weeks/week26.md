@@ -6,7 +6,7 @@
   |-------|---------              |---------  |
   |**Mon**|Python exercises | |
   |**Tue**|Continue Python exercises |Make sure to read the [Understanding for Lab 6](https://cs50.harvard.edu/ap/2023/curriculum/x/labs/6/#understanding) |
-  |**Wed**| | |
+  |**Wed**|Work on Lab 6 | |
   |**Thu**| | |
   |**Fri**| | |
 
