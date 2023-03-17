@@ -28,19 +28,7 @@
 ### Practice, Labs & Problems
 - [Lab 6](https://cs50.harvard.edu/ap/2023/curriculum/x/labs/6/)
 - Problems
+  - N/A
 
 #### Advice
 - Try out David's programs from class via [Chapter 6](https://cdn.cs50.net/2021/fall/lectures/6/src6.pdf)'s examples
-- If you see any errors when compiling your code with `make`, focus first on fixing the very first error you see, scrolling up as needed. If unsure what it means, try asking `help50` for help. For instance, if trying to compile `hello`, and
-
-```
-make hello 
-```
-
-is yielding errors, try running
-
-```
-help50 make hello
-```
-
-instead!
