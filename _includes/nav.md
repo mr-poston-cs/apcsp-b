@@ -8,6 +8,7 @@
 <!-- - [Summer Assignment 2022](\apcsp\curriculum\summer-assignment) -->
 
 - [Week 26](/apcsp/weeks/week26)
+- [Week 27](/apcsp/weeks/week27)
 
 
 
