@@ -16,7 +16,7 @@
   </details>  
 </ul>
 
-#### [Chapter 8 Reference Sheet](\apcsp\assets\pdfs\webRefSheeets.pdf)
+#### [Unit 8 Reference Sheet](\apcsp\assets\pdfs\webRefSheets.pdf)
 <details><summary>Individual Ref Sheets</summary>
   <ul>
     <li data-marker="*"><a href="\apcsp\assets\pdfs\internet_basics.pdf">Internet Basics</a></li>
