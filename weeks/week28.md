@@ -1,14 +1,14 @@
 ## Week 28 <br>Week of 3/27
 
-[Unit 8](/apcsp/curriculum/8) - HTML, CSS, JavaScript
+[Unit 8](/apcsp/curriculum/8) - HTML, CSS, JavaScript<br>[Lab 8](https://cs50.harvard.edu/ap/2023/curriculum/x/labs/8/)
 
 |         | Class | Homework |
 | ------- | ----- | -------- |
 | **Mon** |CSS & [Bootstrap](https://getbootstrap.com), start JS |  |
 | **Tue** |Continue with JS<br>Watch the video [starting here](https://youtu.be/2VauFS071pg?t=7547) |  |
-| **Wed** | |  |
-| **Thu** | |  |
-| **Fri** | |  |
+| **Wed** |Finish JS & start on Lab 8 |  |
+| **Thu** |Work on Lab 8<br>Go to the [JS notes](https://cs50.harvard.edu/ap/2023/curriculum/x/notes/8/#javascript) for some guidance or the [PDF of the source code](https://cdn.cs50.net/2021/fall/lectures/8/src8.pdf) in addition to W3Schools links below |  |
+| **Fri** |Finish up Lab 8 |  |
 
 
 <div style="text-align:center">
