@@ -6,8 +6,8 @@
 | ------- | ----- | -------- |
 | **Mon** |Start on [Unit 8 PSET - Homepage](https://cs50.harvard.edu/ap/2023/curriculum/x/psets/8/homepage/) |Lab 8 due tonight!! |
 | **Tue** |Work on Homepage PSET |Work on Homepage PSET |
-| **Wed** |Work on Homepage PSET |Work on Homepage PSET |
-| **Thu** |Assessment on HTML, CSS, & JS |Homepage PSET due tonight! |
+| **Wed** |Assessment on HTML, CSS, & JS |Work on Homepage PSET |
+| **Thu** |Work on Homepage |Homepage PSET due tonight! |
 | **Fri** |NO SCHOOL!! | |
 
 
